@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reddit Data Viewer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <style>
+        .post-content {
+            max-height: 100px;
+            overflow-y: auto;
+        }
+        .comment-section {
+            margin-top: 20px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="mb-4">Reddit Posts</h1>
+        <table id="postsTable" class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Subreddit</th>
+                    <th>Created</th>
+                    <th>Score</th>
+                    <th>Comments</th>
+                    <th>Keyword</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/dataTables.bootstrap5.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            const postsTable = $('#postsTable').DataTable({
+                ajax: {
+                    url: '/api/posts',
+                    dataSrc: function(json) {
+                        console.log('Received posts:', json);
+                        if (json.error) {
+                            console.error('API Error:', json.error);
+                            alert('Error loading posts: ' + json.error);
+                            return [];
+                        }
+                        if (!Array.isArray(json)) {
+                            console.error('Expected array but got:', typeof json);
+                            return [];
+                        }
+                        return json;
+                    },
+                    error: function(xhr, error, thrown) {
+                        console.error('AJAX Error:', error, thrown);
+                        console.error('Response:', xhr.responseText);
+                        alert('Error loading posts: ' + error);
+                    }
+                },
+                columns: [
+                    { 
+                        data: 'title',
+                        render: function(data, type, row) {
+                            if (!data) return 'No title';
+                            return `<a href="${row.url || '#'}" target="_blank">${data}</a>`;
+                        }
+                    },
+                    { 
+                        data: 'subreddit',
+                        render: function(data) {
+                            return data || 'Unknown';
+                        }
+                    },
+                    { 
+                        data: 'created_at',
+                        render: function(data) {
+                            return data || 'Unknown';
+                        }
+                    },
+                    { 
+                        data: 'score',
+                        render: function(data) {
+                            return parseInt(data) || 0;
+                        }
+                    },
+                    { 
+                        data: 'num_comments',
+                        render: function(data) {
+                            return parseInt(data) || 0;
+                        }
+                    },
+                    { 
+                        data: 'keyword_tag',
+                        render: function(data) {
+                            return data || 'Unknown';
+                        }
+                    },
+                    {
+                        data: 'id',
+                        render: function(data) {
+                            return `<button class="btn btn-primary btn-sm view-comments" data-post-id="${data}">View Comments</button>`;
+                        }
+                    }
+                ],
+                order: [[2, 'desc']],
+                processing: true,
+                serverSide: false
+            });
+
+            let commentsTable = null;
+
+            $(document).on('click', '.view-comments', function() {
+                const postId = $(this).data('post-id');
+                $('#commentsSection').show();
+
+                if (commentsTable) {
+                    commentsTable.destroy();
+                }
+
+                commentsTable = $('#commentsTable').DataTable({
+                    ajax: `/api/comments/${postId}`,
+                    columns: [
+                        { data: 'author' },
+                        { data: 'body' },
+                        { data: 'created_at' },
+                        { data: 'score' }
+                    ],
+                    order: [[2, 'desc']]
+                });
+            });
+        });
+    </script>
+</body>
+</html> 
