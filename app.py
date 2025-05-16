@@ -1,9 +1,11 @@
 from flask import Flask, render_template, jsonify
 import sqlite3
 from datetime import datetime
-import traceback
+import json
+from analysis_db import AnalysisDB
 
 app = Flask(__name__)
+analysis_db = AnalysisDB()
 
 def get_db_connection():
     try:
@@ -21,64 +23,115 @@ def index():
 @app.route('/api/posts')
 def get_posts():
     try:
+        # Connect to the reddit.db database
         conn = get_db_connection()
-        cursor = conn.execute('''
-            SELECT 
-                id,
-                subreddit,
-                datetime(created_utc, 'unixepoch') as created_at,
-                title,
-                selftext,
-                url,
-                score,
-                num_comments,
-                keyword_tag
-            FROM reddit_posts
+        print("Connected to reddit.db")
+        
+        # Get all posts from reddit.db
+        posts = conn.execute('''
+            SELECT * FROM reddit_posts
             ORDER BY created_utc DESC
-        ''')
+        ''').fetchall()
         
-        # Debug: Print raw results
-        posts = cursor.fetchall()
-        print(f"Raw SQL results: {len(posts)} posts found")
-        if len(posts) > 0:
-            print("First post raw data:", dict(posts[0]))
-        
-        # Convert to list of dicts
         posts_list = [dict(post) for post in posts]
-        print(f"Converted to list: {len(posts_list)} posts")
-        if len(posts_list) > 0:
-            print("First post converted:", posts_list[0])
+        print(f"Found {len(posts_list)} posts in reddit.db")
         
-        conn.close()
+        # If we have posts, try to enrich them with analysis data
+        if posts_list:
+            try:
+                # Create a connection to analysis.db
+                with sqlite3.connect('analysis.db') as analysis_conn:
+                    analysis_conn.row_factory = sqlite3.Row
+                    for post in posts_list:
+                        # Look up analysis for this post
+                        analysis = analysis_conn.execute('''
+                            SELECT * FROM thread_analyses 
+                            WHERE thread_id = ?
+                        ''', (post['id'],)).fetchone()
+                        
+                        if analysis:
+                            analysis_dict = dict(analysis)
+                            # Add analysis data to post
+                            post['summary'] = analysis_dict.get('summary')
+                            post['persona_fit'] = analysis_dict.get('persona_fit')
+                            post['confidence'] = analysis_dict.get('confidence')
+                            post['fit_explanation'] = analysis_dict.get('fit_explanation')
+                            post['denial_type'] = analysis_dict.get('denial_type')
+                            # Parse JSON fields
+                            if analysis_dict.get('themes'):
+                                post['themes'] = json.loads(analysis_dict.get('themes'))
+                            else:
+                                post['themes'] = []
+                            post['outcome'] = analysis_dict.get('outcome')
+                            if analysis_dict.get('options_suggested'):
+                                post['options_suggested'] = json.loads(analysis_dict.get('options_suggested'))
+                            else:
+                                post['options_suggested'] = []
+                        else:
+                            # Add empty analysis fields
+                            post['summary'] = None
+                            post['persona_fit'] = None
+                            post['confidence'] = None
+                            post['fit_explanation'] = None
+                            post['denial_type'] = None
+                            post['themes'] = []
+                            post['outcome'] = None
+                            post['options_suggested'] = []
+            except Exception as e:
+                print(f"Error enriching posts with analysis data: {str(e)}")
+                # Continue without analysis data
+                
         return jsonify(posts_list)
     except Exception as e:
         print(f"Error in get_posts: {str(e)}")
-        print("Traceback:", traceback.format_exc())
-        return jsonify({"error": str(e)}), 500
+        return jsonify({'error': str(e)}), 500
+    finally:
+        conn.close()
 
 @app.route('/api/comments/<post_id>')
 def get_comments(post_id):
     try:
         conn = get_db_connection()
         comments = conn.execute('''
-            SELECT 
-                id,
-                post_id,
-                parent_id,
-                author,
-                body,
-                datetime(created_utc, 'unixepoch') as created_at,
-                score
-            FROM reddit_comments
-            WHERE post_id = ?
-            ORDER BY created_utc DESC
+            SELECT * FROM reddit_comments 
+            WHERE post_id = ? 
+            ORDER BY created_utc ASC
         ''', (post_id,)).fetchall()
-        conn.close()
-        
         return jsonify([dict(comment) for comment in comments])
     except Exception as e:
         print(f"Error in get_comments: {str(e)}")
-        return jsonify({"error": str(e)}), 500
+        return jsonify({'error': str(e)}), 500
+    finally:
+        conn.close()
+
+@app.route('/api/stats')
+def get_stats():
+    try:
+        # Get analysis statistics
+        analysis_stats = analysis_db.get_analysis_stats()
+        
+        # Get post statistics
+        conn = get_db_connection()
+        post_stats = conn.execute('''
+            SELECT 
+                COUNT(*) as total_posts,
+                COUNT(DISTINCT subreddit) as total_subreddits,
+                AVG(score) as avg_score,
+                AVG(num_comments) as avg_comments
+            FROM reddit_posts
+        ''').fetchone()
+        
+        stats = {
+            'analysis': analysis_stats,
+            'posts': dict(post_stats)
+        }
+        
+        return jsonify(stats)
+    except Exception as e:
+        print(f"Error in get_stats: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+    finally:
+        conn.close()
 
 if __name__ == '__main__':
     app.run(debug=True, port=5001) 

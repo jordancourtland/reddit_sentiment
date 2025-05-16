@@ -1,136 +1,302 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reddit Data Viewer</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <title>Reddit Insurance Denial Analysis</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" rel="stylesheet">
     <style>
-        .post-content {
-            max-height: 100px;
-            overflow-y: auto;
+        .fit-score {
+            font-weight: bold;
         }
-        .comment-section {
-            margin-top: 20px;
-            display: none;
+        .fit-score.high { color: #28a745; }
+        .fit-score.medium { color: #ffc107; }
+        .fit-score.low { color: #dc3545; }
+        .themes-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .themes-list li {
+            display: inline-block;
+            background: #f8f9fa;
+            padding: 2px 8px;
+            margin: 2px;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+        .options-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .options-list li {
+            margin-bottom: 4px;
+            padding: 4px;
+            background: #f8f9fa;
+            border-radius: 4px;
+        }
+        .filter-container {
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .date-filter {
+            margin-right: 20px;
         }
     </style>
 </head>
 <body>
-    <div class="container mt-4">
-        <h1 class="mb-4">Reddit Posts</h1>
-        <table id="postsTable" class="table table-striped">
-            <thead>
-                <tr>
-                    <th>Title</th>
-                    <th>Subreddit</th>
-                    <th>Created</th>
-                    <th>Score</th>
-                    <th>Comments</th>
-                    <th>Keyword</th>
-                    <th>Actions</th>
-                </tr>
-            </thead>
-        </table>
+    <div class="container-fluid mt-4">
+        <h1>Reddit Insurance Denial Analysis</h1>
+        
+        <div id="stats-container" class="mb-4"></div>
+        
+        <!-- Filters -->
+        <div class="filter-container mb-3">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>Filters</h5>
+                    <div class="mb-3">
+                        <label for="daterange">Date Range:</label>
+                        <input type="text" id="daterange" class="form-control date-filter" style="display: inline-block; width: auto;" />
+                        <button id="clear-date-filter" class="btn btn-outline-secondary btn-sm">Clear</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Posts Table -->
+        <div class="row">
+            <div class="col-md-12">
+                <table id="posts-table" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Subreddit</th>
+                            <th>Created</th>
+                            <th>Score</th>
+                            <th>Comments</th>
+                            <th>Summary</th>
+                            <th>Fit Score</th>
+                            <th>Denial Type</th>
+                            <th>Themes</th>
+                            <th>Outcome</th>
+                            <th>Options</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+
+        <!-- Comments Modal -->
+        <div class="modal fade" id="commentsModal" tabindex="-1">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Comments</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body" id="comments-container">
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.7/js/dataTables.bootstrap5.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
     <script>
         $(document).ready(function() {
-            const postsTable = $('#postsTable').DataTable({
+            // Set default date range (last 30 days)
+            const defaultEndDate = moment();
+            const defaultStartDate = moment().subtract(30, 'days');
+            
+            // Initialize date range picker
+            $('#daterange').daterangepicker({
+                startDate: defaultStartDate,
+                endDate: defaultEndDate,
+                ranges: {
+                   'All Time': [moment.unix(0), moment()],
+                   'Today': [moment().startOf('day'), moment().endOf('day')],
+                   'Last 7 Days': [moment().subtract(6, 'days'), moment()],
+                   'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+                   'This Month': [moment().startOf('month'), moment().endOf('month')],
+                   'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+                }
+            });
+            
+            // Custom filtering function for date range
+            $.fn.dataTable.ext.search.push(
+                function(settings, data, dataIndex, rowData) {
+                    // Get selected date range
+                    const dateRangeStr = $('#daterange').val();
+                    
+                    // If no date range is selected, show all rows
+                    if (!dateRangeStr || dateRangeStr === '') return true;
+                    
+                    // Get post creation date (column 2)
+                    const postDate = moment(rowData.created_utc * 1000);
+                    
+                    // Get selected date range
+                    const [startStr, endStr] = dateRangeStr.split(' - ');
+                    const start = moment(startStr, 'MM/DD/YYYY').startOf('day');
+                    const end = moment(endStr, 'MM/DD/YYYY').endOf('day');
+                    
+                    // If post date is within the selected range, show the row
+                    return postDate.isBetween(start, end, null, '[]');
+                }
+            );
+            
+            // Clear date filter
+            $('#clear-date-filter').click(function() {
+                $('#daterange').val('');
+                table.draw();
+            });
+            
+            // Initialize DataTable
+            const table = $('#posts-table').DataTable({
                 ajax: {
                     url: '/api/posts',
                     dataSrc: function(json) {
                         console.log('Received posts:', json);
-                        if (json.error) {
-                            console.error('API Error:', json.error);
-                            alert('Error loading posts: ' + json.error);
-                            return [];
-                        }
-                        if (!Array.isArray(json)) {
-                            console.error('Expected array but got:', typeof json);
-                            return [];
-                        }
                         return json;
-                    },
-                    error: function(xhr, error, thrown) {
-                        console.error('AJAX Error:', error, thrown);
-                        console.error('Response:', xhr.responseText);
-                        alert('Error loading posts: ' + error);
                     }
                 },
                 columns: [
                     { 
                         data: 'title',
                         render: function(data, type, row) {
-                            if (!data) return 'No title';
-                            return `<a href="${row.url || '#'}" target="_blank">${data}</a>`;
+                            return `<a href="${row.url}" target="_blank">${data || 'No title'}</a>`;
                         }
                     },
+                    { data: 'subreddit' },
                     { 
-                        data: 'subreddit',
+                        data: 'created_utc',
                         render: function(data) {
-                            return data || 'Unknown';
+                            return new Date(data * 1000).toLocaleString();
                         }
                     },
-                    { 
-                        data: 'created_at',
-                        render: function(data) {
-                            return data || 'Unknown';
-                        }
-                    },
-                    { 
-                        data: 'score',
-                        render: function(data) {
-                            return parseInt(data) || 0;
-                        }
-                    },
+                    { data: 'score' },
                     { 
                         data: 'num_comments',
-                        render: function(data) {
-                            return parseInt(data) || 0;
+                        render: function(data, type, row) {
+                            return `<a href="#" class="view-comments" data-post-id="${row.id}">${data}</a>`;
                         }
                     },
                     { 
-                        data: 'keyword_tag',
+                        data: 'summary',
                         render: function(data) {
-                            return data || 'Unknown';
+                            return data || 'Not analyzed';
                         }
                     },
-                    {
-                        data: 'id',
+                    { 
+                        data: null,
+                        render: function(data, type, row) {
+                            if (!row.persona_fit) return 'Not analyzed';
+                            const score = row.persona_fit;
+                            let className = 'low';
+                            if (score >= 0.8) className = 'high';
+                            else if (score >= 0.5) className = 'medium';
+                            return `<span class="fit-score ${className}">${(score * 100).toFixed(0)}%</span>`;
+                        }
+                    },
+                    { 
+                        data: 'denial_type',
                         render: function(data) {
-                            return `<button class="btn btn-primary btn-sm view-comments" data-post-id="${data}">View Comments</button>`;
+                            return data || 'Not analyzed';
+                        }
+                    },
+                    { 
+                        data: 'themes',
+                        render: function(data) {
+                            if (!data) return 'Not analyzed';
+                            return `<ul class="themes-list">${data.map(theme => 
+                                `<li>${theme}</li>`).join('')}</ul>`;
+                        }
+                    },
+                    { 
+                        data: 'outcome',
+                        render: function(data) {
+                            return data || 'Not analyzed';
+                        }
+                    },
+                    { 
+                        data: 'options_suggested',
+                        render: function(data) {
+                            if (!data) return 'Not analyzed';
+                            return `<ul class="options-list">${data.map(option => 
+                                `<li>${option}</li>`).join('')}</ul>`;
                         }
                     }
                 ],
                 order: [[2, 'desc']],
-                processing: true,
-                serverSide: false
+                paging: false,
+                lengthChange: false,
+                info: false
+            });
+            
+            // Apply date filter when date range changes
+            $('#daterange').on('apply.daterangepicker', function(ev, picker) {
+                table.draw();
             });
 
-            let commentsTable = null;
+            // Load statistics
+            function loadStats() {
+                $.get('/api/stats', function(data) {
+                    const stats = `
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h6>Analysis Statistics</h6>
+                                <ul>
+                                    <li>Total Analyzed: ${data.analysis.total_analyzed || 0}</li>
+                                    <li>Average Persona Fit: ${((data.analysis.avg_persona_fit || 0) * 100).toFixed(1)}%</li>
+                                    <li>Average Confidence: ${((data.analysis.avg_confidence || 0) * 100).toFixed(1)}%</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <h6>Post Statistics</h6>
+                                <ul>
+                                    <li>Total Posts: ${data.posts.total_posts}</li>
+                                    <li>Total Subreddits: ${data.posts.total_subreddits}</li>
+                                    <li>Average Score: ${data.posts.avg_score.toFixed(1)}</li>
+                                    <li>Average Comments: ${data.posts.avg_comments.toFixed(1)}</li>
+                                </ul>
+                            </div>
+                        </div>
+                    `;
+                    $('#stats-container').html(stats);
+                });
+            }
 
-            $(document).on('click', '.view-comments', function() {
+            // Load initial stats
+            loadStats();
+            // Refresh stats every 5 minutes
+            setInterval(loadStats, 300000);
+
+            // Handle comments click
+            $('#posts-table').on('click', '.view-comments', function(e) {
+                e.preventDefault();
                 const postId = $(this).data('post-id');
-                $('#commentsSection').show();
-
-                if (commentsTable) {
-                    commentsTable.destroy();
-                }
-
-                commentsTable = $('#commentsTable').DataTable({
-                    ajax: `/api/comments/${postId}`,
-                    columns: [
-                        { data: 'author' },
-                        { data: 'body' },
-                        { data: 'created_at' },
-                        { data: 'score' }
-                    ],
-                    order: [[2, 'desc']]
+                const modal = new bootstrap.Modal(document.getElementById('commentsModal'));
+                
+                $.get(`/api/comments/${postId}`, function(comments) {
+                    const commentsHtml = comments.map(comment => `
+                        <div class="comment mb-3">
+                            <div class="d-flex justify-content-between">
+                                <strong>${comment.author || 'deleted'}</strong>
+                                <small>${new Date(comment.created_utc * 1000).toLocaleString()}</small>
+                            </div>
+                            <div class="comment-body">${comment.body}</div>
+                            <div class="comment-score">Score: ${comment.score}</div>
+                        </div>
+                    `).join('');
+                    
+                    $('#comments-container').html(commentsHtml);
+                    modal.show();
                 });
             });
         });
