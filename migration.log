@@ -1,0 +1,1841 @@
+2025-05-16 10:15:02,728 - INFO - Starting summary migration
+2025-05-16 10:15:02,730 - INFO - Adding new columns to the schema
+2025-05-16 10:15:02,733 - INFO - Found 261 analyses to migrate
+2025-05-16 10:15:02,733 - INFO - Splitting summary for thread 1fizwul
+2025-05-16 10:15:05,693 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a denial from their medical insurance for a bone graft related to a dental implant after a sports accident, and they are unsure about the next steps to take.",
+  "responses_summary": "Community members advised the poster to ensure proper documentation and claim submission, consider involving HR for assistance, and prepare for the appeals process by gathering evidence of inconsistent information from insurance representatives."
+}
+```
+2025-05-16 10:15:05,695 - WARNING - Used current summary as op_summary for 1fizwul
+2025-05-16 10:15:06,519 - INFO - Splitting summary for thread 1fl5f46
+2025-05-16 10:15:08,874 - INFO - Successfully migrated thread 1fl5f46
+2025-05-16 10:15:09,529 - INFO - Splitting summary for thread 1fvniop
+2025-05-16 10:15:11,918 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster was seeking guidance on how to choose the best health insurance plan for their needs, considering factors like financial costs, preferred doctors, medications, and plan types.",
+  "responses_summary": "Community responses emphasized the importance of calculating potential out-of-pocket costs, verifying in-network doctors, checking medication coverage, and understanding the differences between various plan types to make an informed decision."
+}
+```
+2025-05-16 10:15:11,921 - WARNING - Used current summary as op_summary for 1fvniop
+2025-05-16 10:15:12,753 - INFO - Splitting summary for thread 1g3s205
+2025-05-16 10:15:13,682 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to resolve a $409 medical bill resulting from a denied claim due to an unexpected change in their primary care physician by Anthem, which they were not notified about.",
+  "responses_summary": "Community members advised the poster to gather documentation of their communications with Anthem and the hospital, consider escalating the grievance if necessary, and explore state insurance regulations that may protect them in this situation."
+}
+```
+2025-05-16 10:15:13,683 - WARNING - Used current summary as op_summary for 1g3s205
+2025-05-16 10:15:14,339 - INFO - Splitting summary for thread 1g5v33a
+2025-05-16 10:15:16,291 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking help to obtain a pre-authorization for the Intracept procedure from UHC, which they believe is necessary for their health, but UHC is refusing to provide a denial letter needed to initiate an appeal.",
+  "responses_summary": "Community members advised the poster to document all communications with UHC, consider escalating the issue to state insurance regulators, and explore the possibility of filing a formal complaint or seeking legal advice regarding the denial process."
+}
+```
+2025-05-16 10:15:16,297 - WARNING - Used current summary as op_summary for 1g5v33a
+2025-05-16 10:15:16,925 - INFO - Splitting summary for thread 1g9lbjv
+2025-05-16 10:15:19,143 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to successfully appeal a denied insurance claim for a dermatology visit, as well as advice on navigating the healthcare system as an international student unfamiliar with the process.",
+  "responses_summary": "Community members advised the poster to gather documentation supporting the medical necessity of the visit, ensure proper communication with both the insurance company and the hospital, and follow the correct steps for future specialist visits, including obtaining a referral from a primary care physician."
+}
+```
+2025-05-16 10:15:19,145 - WARNING - Used current summary as op_summary for 1g9lbjv
+2025-05-16 10:15:19,832 - INFO - Splitting summary for thread 1gaxinz
+2025-05-16 10:15:23,093 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking assistance in resolving claim denials from UnitedHealthcare due to a supposed enrollment with Aetna, which they never initiated, and is requesting help in obtaining a letter to terminate the alleged Aetna coverage to avoid medical debt.",
+  "responses_summary": "Community members advised the poster to document all communications with the insurance companies, consider filing a formal complaint with state insurance regulators, and explore options for legal assistance to resolve the issue."
+}
+```
+2025-05-16 10:15:23,095 - WARNING - Used current summary as op_summary for 1gaxinz
+2025-05-16 10:15:24,084 - INFO - Splitting summary for thread 1gbfvs2
+2025-05-16 10:15:25,807 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is providing tips on how to ensure that medical services are covered by insurance, outlining the necessary criteria that must be met for claims to be approved.",
+  "responses_summary": "Community responses emphasize the importance of thoroughly understanding insurance policies, verifying provider networks, and ensuring prior authorizations are obtained to avoid unexpected medical bills."
+}
+```
+2025-05-16 10:15:25,808 - WARNING - Used current summary as op_summary for 1gbfvs2
+2025-05-16 10:15:26,330 - INFO - Splitting summary for thread 1gehtor
+2025-05-16 10:15:28,512 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to write an appeal letter regarding a $4,000 bill for a sterilization procedure that they believed was fully covered by insurance, due to incorrect diagnosis coding by their surgeon at a Catholic hospital.",
+  "responses_summary": "Community members advised the poster to gather all relevant medical records, clearly outline the discrepancies in diagnosis coding, and emphasize the ACA mandates regarding sterilization coverage in their appeal letter."
+}
+```
+2025-05-16 10:15:28,514 - WARNING - Used current summary as op_summary for 1gehtor
+2025-05-16 10:15:29,112 - INFO - Splitting summary for thread 1gh3cgz
+2025-05-16 10:15:31,613 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking options to appeal the denial of additional therapy visits for their daughter, who has Angelman Syndrome and Autism, due to a maximum limit set by their self-funded insurance plan.",
+  "responses_summary": "Community members advised exploring the possibility of filing a formal appeal, reviewing the insurance policy for any loopholes, and consulting with a healthcare advocate or attorney specializing in insurance disputes."
+}
+```
+2025-05-16 10:15:31,614 - WARNING - Used current summary as op_summary for 1gh3cgz
+2025-05-16 10:15:32,479 - INFO - Splitting summary for thread 1gi0z2i
+2025-05-16 10:15:35,106 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a denial from United Insurance for a hospital stay for their 6-month-old, which was deemed not medically necessary despite severe symptoms and treatment. They are looking for suggestions on how to strengthen their appeal, including whether to gather supporting documents or seek legal assistance.",
+  "responses_summary": "Community members advised the poster to gather comprehensive documentation, including medical records, photos of the child's condition, and letters from doctors to support their case. Many suggested that consulting with a healthcare advocate or lawyer could also be beneficial in navigating the appeal process."
+}
+```
+2025-05-16 10:15:35,108 - WARNING - Used current summary as op_summary for 1gi0z2i
+2025-05-16 10:15:35,947 - INFO - Splitting summary for thread 1gi69w1
+2025-05-16 10:15:44,100 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to navigate insurance denials for their child's medically necessary enteral feeding supplies, as they are receiving conflicting information from the insurance company and are unable to afford the costs out of pocket.",
+  "responses_summary": "Community members advised the poster to gather detailed medical documentation, consider contacting a patient advocate, and explore state assistance programs or legal options to challenge the insurance denials."
+}
+```
+2025-05-16 10:15:44,103 - WARNING - Used current summary as op_summary for 1gi69w1
+2025-05-16 10:15:44,653 - INFO - Splitting summary for thread 1gke5yq
+2025-05-16 10:15:46,478 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal the denial of their health insurance claims due to a retroactive termination of coverage by their former employer, and whether they should consult a lawyer about the situation.",
+  "responses_summary": "Community members advised the poster to gather all documentation related to their coverage and claims, and suggested contacting the insurance company and possibly a lawyer specializing in health insurance disputes for further assistance."
+}
+```
+2025-05-16 10:15:46,480 - WARNING - Used current summary as op_summary for 1gke5yq
+2025-05-16 10:15:47,088 - INFO - Splitting summary for thread 1gluqom
+2025-05-16 10:15:49,013 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to navigate the denial of their mental health evaluation claim due to lack of prior authorization, including whether to push back on their provider, the possibility of the provider refusing to appeal further, and the process for seeking reimbursement from their insurance after paying out of pocket.",
+  "responses_summary": "Community members advised the poster to thoroughly review their insurance policy, communicate clearly with their provider about the appeals process, and consider submitting their own appeal to the insurance company while documenting all communications for potential reimbursement."
+}
+```
+2025-05-16 10:15:49,016 - WARNING - Used current summary as op_summary for 1gluqom
+2025-05-16 10:15:49,630 - INFO - Splitting summary for thread 1gozvsd
+2025-05-16 10:15:51,472 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to address an incorrect insurance claim that resulted in a higher copay than expected after visiting a CVS Minute clinic, which they believe was misclassified as a specialist visit.",
+  "responses_summary": "Community members advised the poster to gather documentation, including the SBC and any communication with the insurance company, and to consider escalating the issue through a formal appeal process or contacting the state insurance commissioner if necessary."
+}
+```
+2025-05-16 10:15:51,475 - WARNING - Used current summary as op_summary for 1gozvsd
+2025-05-16 10:15:52,019 - INFO - Splitting summary for thread 1gqrhod
+2025-05-16 10:15:53,966 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle a $60,000 air ambulance bill for her daughter, which Anthem Blue Cross has denied as 'not medically necessary,' despite the emergency nature of the situation.",
+  "responses_summary": "Community members advised the poster to continue pursuing appeals, consider legal assistance, and explore media involvement to highlight the issue, which ultimately led to a successful resolution with Anthem agreeing to pay the claim."
+}
+```
+2025-05-16 10:15:53,969 - WARNING - Used current summary as op_summary for 1gqrhod
+2025-05-16 10:15:54,686 - INFO - Splitting summary for thread 1gtji3j
+2025-05-16 10:15:56,381 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to properly submit an appeal letter to their insurance company after a denial of claims for their daughter's emergency treatment, which they believe was medically necessary.",
+  "responses_summary": "Community members advised the poster to include detailed medical documentation, emphasize the emergency nature of the situation, and clearly articulate the financial burden of the denial in their appeal letter."
+}
+```
+2025-05-16 10:15:56,384 - WARNING - Used current summary as op_summary for 1gtji3j
+2025-05-16 10:15:57,001 - INFO - Splitting summary for thread 1gu2lso
+2025-05-16 10:15:57,959 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster was seeking advice on how to appeal their insurance's denial of coverage for their husband's medically necessary septorhinoplasty, which was deemed cosmetic despite clear medical necessity.",
+  "responses_summary": "Community members advised on the importance of persistence in communication with the insurance company, sharing personal experiences of successful appeals, and suggesting documentation of medical necessity to strengthen the case."
+}
+```
+2025-05-16 10:15:57,961 - WARNING - Used current summary as op_summary for 1gu2lso
+2025-05-16 10:15:58,928 - INFO - Splitting summary for thread 1gw4omn
+2025-05-16 10:16:01,182 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a denial from Ambetter for medically necessary genetic tests that were performed without prior authorization, which they were unaware was required. They are also confused about the billing status with the lab and how the delayed EOB notification affects their options.",
+  "responses_summary": "Community members advised the poster to gather all documentation related to the tests and denial, contact their doctor's office for assistance with the retroactive prior authorization, and consider filing an appeal with Ambetter while keeping track of timelines. Additionally, they suggested reaching out to the lab for clarification on their billing process."
+}
+```
+2025-05-16 10:16:01,185 - WARNING - Used current summary as op_summary for 1gw4omn
+2025-05-16 10:16:01,880 - INFO - Splitting summary for thread 1h0gwl0
+2025-05-16 10:16:03,280 - INFO - Successfully migrated thread 1h0gwl0
+2025-05-16 10:16:03,967 - INFO - Splitting summary for thread 1h1hx3k
+2025-05-16 10:16:06,381 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on resolving a dispute between their and their wife's insurance providers regarding coverage for their newborn's medical bills, which has been complicated by a clerical error and conflicting interpretations of the newborn mandate.",
+  "responses_summary": "Community members advised the poster to carefully document all communications with both insurers, consider consulting a healthcare advocate or legal expert, and to escalate the issue by filing formal complaints if necessary to ensure the claims are processed correctly."
+}
+```
+2025-05-16 10:16:06,383 - WARNING - Used current summary as op_summary for 1h1hx3k
+2025-05-16 10:16:07,138 - INFO - Splitting summary for thread 1h1j9hc
+2025-05-16 10:16:08,933 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster was seeking clarification on why they received a surprise $3000 ambulance bill over a year after their husband's accident, despite previous claims indicating a $0 patient responsibility, and whether they are obligated to pay it.",
+  "responses_summary": "Community members advised the poster to appeal the claim through their insurance, as it may lead to a resolution, and shared similar experiences with insurance denials and surprise bills."
+}
+```
+2025-05-16 10:16:08,936 - WARNING - Used current summary as op_summary for 1h1j9hc
+2025-05-16 10:16:09,657 - INFO - Splitting summary for thread 1h7omjw
+2025-05-16 10:16:11,416 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle the denial of their wife's inpatient claim by United Healthcare, which they believe was unjustified, and they are concerned about being responsible for the $16,000 bill.",
+  "responses_summary": "Community members advised the poster to gather all medical records and documentation, consider appealing the denial again, and potentially consult with a healthcare advocate or attorney to navigate the insurance dispute."
+}
+```
+2025-05-16 10:16:11,418 - WARNING - Used current summary as op_summary for 1h7omjw
+2025-05-16 10:16:12,405 - INFO - Splitting summary for thread 1h9lkxr
+2025-05-16 10:16:13,897 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking help and advice regarding multiple denials from UHC dental for necessary crown replacements, despite having medical documentation to support their case. They express frustration with the insurance process and its negative impact on their health.",
+  "responses_summary": "Community members are likely sharing their own experiences with insurance denials and offering suggestions on how to navigate the appeals process more effectively. Some may also recommend alternative insurance options or resources for further assistance."
+}
+```
+2025-05-16 10:16:13,899 - WARNING - Used current summary as op_summary for 1h9lkxr
+2025-05-16 10:16:14,538 - INFO - Splitting summary for thread 1hbkdzr
+2025-05-16 10:16:16,705 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address a claim denial issue where their newborn's hospital care is being billed under a separate deductible instead of their mother's account, despite the mother's coverage exceeding the Out of Pocket Maximum.",
+  "responses_summary": "Community members suggest reviewing the insurance policy details, contacting the insurance company for clarification, and potentially seeking assistance from a healthcare advocate or legal expert to navigate the appeals process."
+}
+```
+2025-05-16 10:16:16,707 - WARNING - Used current summary as op_summary for 1hbkdzr
+2025-05-16 10:16:17,398 - INFO - Splitting summary for thread 1hcpu3s
+2025-05-16 10:16:19,425 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to obtain a $5k refund from their surgeon's office after facing prolonged insurance processing issues and conflicting information from multiple parties.",
+  "responses_summary": "Community members suggested various actions, including filing a complaint with the Texas Attorney General, considering legal action, and emphasizing the importance of documenting all communications with the insurance and surgeon's office."
+}
+```
+2025-05-16 10:16:19,431 - WARNING - Used current summary as op_summary for 1hcpu3s
+2025-05-16 10:16:20,345 - INFO - Splitting summary for thread 1hdlgxz
+2025-05-16 10:16:21,937 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a claim denial from Anthem for a Zio heart monitor, which is being classified as out of network despite previous assurances of no financial responsibility.",
+  "responses_summary": "Community members suggest gathering all documentation, including the initial assurances from iRhythm and Anthem, and contacting Anthem's customer service for clarification, as well as considering filing a formal appeal with a detailed explanation of the situation."
+}
+```
+2025-05-16 10:16:21,940 - WARNING - Used current summary as op_summary for 1hdlgxz
+2025-05-16 10:16:22,696 - INFO - Splitting summary for thread 1hh4c5q
+2025-05-16 10:16:24,735 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on the legality of their employer's partnership with Payer Matrix, which revokes coverage for specialty medications unless obtained through them, and whether the employer is required to provide documentation regarding this process.",
+  "responses_summary": "Community members advised that employers are generally required to provide clear documentation of health plan changes and that the laws regarding appeals for denied claims should still apply, suggesting the OP may need to escalate the issue or seek legal advice."
+}
+```
+2025-05-16 10:16:24,736 - WARNING - Used current summary as op_summary for 1hh4c5q
+2025-05-16 10:16:25,305 - INFO - Splitting summary for thread 1hl81jl
+2025-05-16 10:16:26,929 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking help to understand why their therapy claims were denied and whether they did something wrong, as well as how to appeal the denials given the coordination of benefits between their UCSHIP and Covered California plans.",
+  "responses_summary": "Community members advised the poster to contact both insurance providers for clarification on the coordination of benefits and to appeal the denials, emphasizing the importance of keeping detailed records and following up persistently."
+}
+```
+2025-05-16 10:16:26,931 - WARNING - Used current summary as op_summary for 1hl81jl
+2025-05-16 10:16:27,508 - INFO - Splitting summary for thread 1hm95yh
+2025-05-16 10:16:31,432 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to navigate the insurance claim process for sperm banking prior to HRT, anticipating denial due to policy exclusions related to gender dysphoria, and is unsure of the steps to take for proper procedure and potential appeals.",
+  "responses_summary": "Community members advised the OP to document all communications with the insurance company, consider obtaining a letter from a healthcare provider to support the claim, and explore advocacy resources that could assist in navigating the appeals process."
+}
+```
+2025-05-16 10:16:31,436 - WARNING - Used current summary as op_summary for 1hm95yh
+2025-05-16 10:16:32,052 - INFO - Splitting summary for thread 1hmmaat
+2025-05-16 10:16:33,749 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a denial for a necessary surgery from their insurance, which claims the procedure falls outside of plan benefits despite prior approvals.",
+  "responses_summary": "Community members suggest gathering all relevant medical documentation, considering a second opinion from another surgeon, and using specific language in the appeal to emphasize medical necessity and the history of prior approvals."
+}
+```
+2025-05-16 10:16:33,752 - WARNING - Used current summary as op_summary for 1hmmaat
+2025-05-16 10:16:34,633 - INFO - Splitting summary for thread 1ho8s6f
+2025-05-16 10:16:37,234 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why they are being billed for previously covered occupational therapy appointments due to a billing code issue and is looking for advice on how to address the situation with their insurance and clinic.",
+  "responses_summary": "Community members advised the poster to gather all documentation and communication regarding the coverage, consider escalating the issue within the insurance company, and explore the possibility of having the clinic submit different billing codes to resolve the situation."
+}
+```
+2025-05-16 10:16:37,236 - WARNING - Used current summary as op_summary for 1ho8s6f
+2025-05-16 10:16:38,219 - INFO - Splitting summary for thread 1hq0hdc
+2025-05-16 10:16:40,236 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether to appeal their insurance claim denial for an MRI, which was denied due to a lack of reported accident despite prior authorization being granted.",
+  "responses_summary": "Community members advised the poster to appeal the denial, emphasizing that prior authorization does not guarantee payment and suggesting they gather supporting documentation to strengthen their case."
+}
+```
+2025-05-16 10:16:40,237 - WARNING - Used current summary as op_summary for 1hq0hdc
+2025-05-16 10:16:40,766 - INFO - Splitting summary for thread 1hqn8o6
+2025-05-16 10:16:42,876 - INFO - Successfully migrated thread 1hqn8o6
+2025-05-16 10:16:43,593 - INFO - Splitting summary for thread 1hs8wzx
+2025-05-16 10:16:45,675 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is questioning why insurers win court cases regarding claim denials despite seemingly weak medical opinions against stronger specialist opinions, and is seeking insights into the legal and contractual dynamics at play.",
+  "responses_summary": "Community responses highlight the complexities of contract law, the influence of ERISA regulations, and the potential biases in the judicial system that may favor insurers, suggesting that these factors contribute to the insurers' success in court."
+}
+```
+2025-05-16 10:16:45,676 - WARNING - Used current summary as op_summary for 1hs8wzx
+2025-05-16 10:16:46,557 - INFO - Splitting summary for thread 1hsqq15
+2025-05-16 10:16:48,197 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification and support regarding a retroactive denial from Anthem for Rituxan infusions, which they believe are medically necessary based on their medical history and previous approvals.",
+  "responses_summary": "Community members advised the poster to gather all relevant medical documentation and to ensure their doctor provides a strong appeal, emphasizing the necessity of the treatment based on their past experiences and responses to other medications."
+}
+```
+2025-05-16 10:16:48,200 - WARNING - Used current summary as op_summary for 1hsqq15
+2025-05-16 10:16:48,828 - INFO - Splitting summary for thread 1hssgh8
+2025-05-16 10:16:51,280 - INFO - Successfully migrated thread 1hssgh8
+2025-05-16 10:16:52,117 - INFO - Splitting summary for thread 1hsw9k5
+2025-05-16 10:16:53,943 - INFO - Successfully migrated thread 1hsw9k5
+2025-05-16 10:16:54,535 - INFO - Splitting summary for thread 1htmtrf
+2025-05-16 10:16:56,514 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice and support after being misled by Innovative Partners about their health insurance plan, which led to significant medical debt and denied claims. They are looking for ways to address their situation and manage the financial consequences.",
+  "responses_summary": "Community members advised the poster to document all communications with the insurance company, consider seeking legal assistance, and explore options for financial aid or debt relief. Some suggested reaching out to consumer protection agencies and sharing their experience to raise awareness."
+}
+```
+2025-05-16 10:16:56,516 - WARNING - Used current summary as op_summary for 1htmtrf
+2025-05-16 10:16:57,508 - INFO - Splitting summary for thread 1hvbhi0
+2025-05-16 10:16:58,515 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster shared their personal experience with health insurance customer service and provided a detailed guide on how to effectively navigate the process of resolving issues, particularly regarding claim denials and prior authorizations.",
+  "responses_summary": "Community responses emphasized the importance of persistence, maintaining a polite demeanor, and documenting interactions with customer service representatives to ensure effective communication and resolution of issues."
+}
+```
+2025-05-16 10:16:58,517 - WARNING - Used current summary as op_summary for 1hvbhi0
+2025-05-16 10:16:59,208 - INFO - Splitting summary for thread 1hwwncl
+2025-05-16 10:17:01,097 - INFO - Successfully migrated thread 1hwwncl
+2025-05-16 10:17:01,710 - INFO - Splitting summary for thread 1hx21o3
+2025-05-16 10:17:03,944 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to effectively appeal their insurance claims that have been processed incorrectly for over a year and how to obtain the correct plan information from their insurance provider.",
+  "responses_summary": "Community members advised the poster to clearly outline their case in the appeal letter, request a detailed explanation of the claims processing, and consider escalating the issue to a state insurance commissioner or ombudsman if necessary."
+}
+```
+2025-05-16 10:17:03,946 - WARNING - Used current summary as op_summary for 1hx21o3
+2025-05-16 10:17:04,800 - INFO - Splitting summary for thread 1hx4231
+2025-05-16 10:17:07,012 - INFO - Successfully migrated thread 1hx4231
+2025-05-16 10:17:07,559 - INFO - Splitting summary for thread 1hz91iq
+2025-05-16 10:17:09,998 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal an $800 bill for labwork that was previously covered by their insurance, which was denied based on medical necessity criteria. They are also looking to clarify the billing situation, especially given the discrepancy in locations for the labwork.",
+  "responses_summary": "Community members advised the poster to contact their insurance company for clarification on the denial and to gather documentation supporting the medical necessity of the labwork. They also suggested reviewing the plan materials thoroughly and considering filing an appeal if the denial seems unjustified."
+}
+```
+2025-05-16 10:17:10,001 - WARNING - Used current summary as op_summary for 1hz91iq
+2025-05-16 10:17:10,713 - INFO - Splitting summary for thread 1i0rd73
+2025-05-16 10:17:12,954 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking assistance and advice on how to handle the denial of their insurance claim for their daughter's dislocated shoulder, which they believe should be covered as an accident.",
+  "responses_summary": "Community members advised the poster to gather more documentation, including detailed statements from medical professionals and the coach, and suggested exploring legal options or contacting a consumer advocacy group for further assistance."
+}
+```
+2025-05-16 10:17:12,957 - WARNING - Used current summary as op_summary for 1i0rd73
+2025-05-16 10:17:13,560 - INFO - Splitting summary for thread 1i1laxq
+2025-05-16 10:17:15,196 - INFO - Successfully migrated thread 1i1laxq
+2025-05-16 10:17:16,001 - INFO - Splitting summary for thread 1i40515
+2025-05-16 10:17:17,446 - INFO - Successfully migrated thread 1i40515
+2025-05-16 10:17:18,210 - INFO - Splitting summary for thread 1i46gd7
+2025-05-16 10:17:20,080 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a denied health insurance claim for ER services, which was rejected due to a missed deadline that the insurance company did not communicate.",
+  "responses_summary": "Community members advised the poster to gather all documentation, including communication with the insurance company, and suggested escalating the issue to a state insurance commissioner or seeking legal assistance if necessary."
+}
+```
+2025-05-16 10:17:20,082 - WARNING - Used current summary as op_summary for 1i46gd7
+2025-05-16 10:17:21,040 - INFO - Splitting summary for thread 1i5iu7w
+2025-05-16 10:17:23,139 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle a $10k medical bill after being assured by Cigna that their insurance was active and would cover 90% of ER costs, despite the claim being denied due to the plan expiring.",
+  "responses_summary": "Community members advised the OP to gather all documentation, including the call records from Cigna, and to file an appeal against the denial, as well as consider seeking legal assistance if necessary."
+}
+```
+2025-05-16 10:17:23,142 - WARNING - Used current summary as op_summary for 1i5iu7w
+2025-05-16 10:17:23,749 - INFO - Splitting summary for thread 1i7nsg3
+2025-05-16 10:17:26,923 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether they have any chance of getting a $1000 lab bill covered after being misinformed about their in-network provider status, or if they should just pay the bill.",
+  "responses_summary": "Community members advised the poster to persist with appeals to BCBS, consider contacting a state insurance commissioner, and explore options for negotiating with Quest Lab for a reduced payment or financial assistance."
+}
+```
+2025-05-16 10:17:26,926 - WARNING - Used current summary as op_summary for 1i7nsg3
+2025-05-16 10:17:27,621 - INFO - Splitting summary for thread 1i8h444
+2025-05-16 10:17:29,575 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is questioning the assumption that group health insurance policies are superior to individual policies, particularly in terms of claims approval rates and the quality of care received, and is seeking thoughts on this perspective.",
+  "responses_summary": "Community responses highlight various experiences with both group and individual policies, emphasizing the importance of local provider networks, personal experiences with claims, and the varying quality of care based on specific insurance plans rather than the type of policy."
+}
+```
+2025-05-16 10:17:29,577 - WARNING - Used current summary as op_summary for 1i8h444
+2025-05-16 10:17:30,485 - INFO - Splitting summary for thread 1i8pqsw
+2025-05-16 10:17:32,190 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on filing an external review for denied insurance claims, specifically due to a lack of information regarding their external review rights and the basis for the 'experimental' designation of their procedures.",
+  "responses_summary": "Community members advised the poster to file a complaint with their state’s commerce department regarding the lack of information and suggested gathering comprehensive documentation and research to support their case during the external review process."
+}
+```
+2025-05-16 10:17:32,193 - WARNING - Used current summary as op_summary for 1i8pqsw
+2025-05-16 10:17:32,950 - INFO - Splitting summary for thread 1i8zr46
+2025-05-16 10:17:35,434 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to effectively argue for an external review of their health insurance claim denial for their child's video EEG, which they believe was medically necessary due to the child stopping seizure medication prior to the test.",
+  "responses_summary": "Community members suggest gathering comprehensive medical documentation, including the nurse's letter and doctor's notes, and clearly articulating the medical necessity in the appeal letter to strengthen the case."
+}
+```
+2025-05-16 10:17:35,435 - WARNING - Used current summary as op_summary for 1i8zr46
+2025-05-16 10:17:35,996 - INFO - Splitting summary for thread 1idll76
+2025-05-16 10:17:37,463 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on the CMS.gov complaint process regarding a denial from Excellus BCBS for genetic testing, and is looking for ways to escalate the issue within Excellus due to frustrations with customer service.",
+  "responses_summary": "Community members suggested documenting all communications and considering legal advice, while others shared their experiences with the CMS complaint process, indicating it can take time but may lead to a resolution."
+}
+```
+2025-05-16 10:17:37,466 - WARNING - Used current summary as op_summary for 1idll76
+2025-05-16 10:17:38,260 - INFO - Splitting summary for thread 1idv9rk
+2025-05-16 10:17:40,113 - INFO - Successfully migrated thread 1idv9rk
+2025-05-16 10:17:40,976 - INFO - Splitting summary for thread 1ieqis8
+2025-05-16 10:17:42,673 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a claim denial for an out-of-network charge after specifically requesting an in-network doctor for their appointment. They are frustrated with their doctor's office for not honoring their request and are concerned about the appeal process.",
+  "responses_summary": "Community members suggest gathering all relevant documentation, including proof of the in-network request, and contacting both the insurance company and the healthcare provider to clarify the situation. Some also recommend seeking assistance from a patient advocate or filing a formal complaint if necessary."
+}
+```
+2025-05-16 10:17:42,677 - WARNING - Used current summary as op_summary for 1ieqis8
+2025-05-16 10:17:43,437 - INFO - Splitting summary for thread 1ifi5af
+2025-05-16 10:17:45,357 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is questioning the significant difference in allowed amounts for CPT codes between in-network and out-of-network providers and is seeking guidance on how to proceed with an appeal regarding these discrepancies.",
+  "responses_summary": "Community members are likely discussing the complexities of insurance contracts, the potential for successful appeals, and sharing personal experiences with similar situations to provide insight and support."
+}
+```
+2025-05-16 10:17:45,358 - WARNING - Used current summary as op_summary for 1ifi5af
+2025-05-16 10:17:45,976 - INFO - Splitting summary for thread 1ifi9qm
+2025-05-16 10:17:47,834 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is questioning whether Aetna's downcoding of their medical claims compared to their husband's indicates bias, especially given their complex medical needs and the errors in claim processing they have experienced.",
+  "responses_summary": "Community members are likely to discuss the potential for bias in insurance claim processing and may offer advice on how to further appeal the downcoding or seek assistance from regulatory bodies."
+}
+```
+2025-05-16 10:17:47,838 - WARNING - Used current summary as op_summary for 1ifi9qm
+2025-05-16 10:17:48,656 - INFO - Splitting summary for thread 1iikb98
+2025-05-16 10:17:50,340 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to proceed after their Medica insurance denied coverage for a CT scan for kidney stones, suggesting an ultrasound instead, which they believe is less effective.",
+  "responses_summary": "Community members advised gathering medical documentation to support the necessity of the CT scan, considering contacting a patient advocate, and exploring the possibility of filing a complaint with state insurance regulators."
+}
+```
+2025-05-16 10:17:50,341 - WARNING - Used current summary as op_summary for 1iikb98
+2025-05-16 10:17:51,027 - INFO - Splitting summary for thread 1ikdeqo
+2025-05-16 10:17:53,265 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether to intervene in the appeals process for their daughter's denied prior authorization for hospital admission or to let the hospital handle it, given the severity of her condition and the insurance company's reasoning for the denial.",
+  "responses_summary": "Community responses generally advise the original poster to proactively communicate with the hospital to ensure they accurately represent the daughter's medical condition in appeals, while also considering contacting the insurance company for clarification on the denial."
+}
+```
+2025-05-16 10:17:53,268 - WARNING - Used current summary as op_summary for 1ikdeqo
+2025-05-16 10:17:54,047 - INFO - Splitting summary for thread 1im9hof
+2025-05-16 10:17:56,233 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to handle an $85,000 life flight bill that was denied by their insurance due to claims of non-medical necessity, despite medical advice supporting the transfer. They feel overwhelmed by the lengthy appeals process and are unsure of their next steps.",
+  "responses_summary": "Community members advise the original poster to consider hiring a lawyer who specializes in healthcare disputes to navigate the complex appeals process and potentially challenge the insurance company's denial. Others suggest gathering all medical documentation and communication with the insurance company to strengthen their case."
+}
+```
+2025-05-16 10:17:56,235 - WARNING - Used current summary as op_summary for 1im9hof
+2025-05-16 10:17:56,969 - INFO - Splitting summary for thread 1inrszx
+2025-05-16 10:17:58,762 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster was seeking clarification on why their health insurance decided to cover lab work after initially denying the claim as not medically necessary, despite the confusion surrounding the appeal process.",
+  "responses_summary": "Community members suggested that the insurer may have recognized a potential oversight or the low cost of the claim made it easier to approve, while others shared similar experiences with insurance denials and the complexities of navigating appeals."
+}
+```
+2025-05-16 10:17:58,764 - WARNING - Used current summary as op_summary for 1inrszx
+2025-05-16 10:17:59,497 - INFO - Splitting summary for thread 1io7v59
+2025-05-16 10:18:02,393 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on which healthcare insurance company to choose for their son's treatment for pediatric Growth Hormone Deficiency, specifically regarding coverage requirements and the likelihood of approval for treatment and appeals.",
+  "responses_summary": "Community responses generally emphasize the importance of reviewing specific policy details and past experiences with each insurer, with some users recommending Anthem for better coverage and appeal success rates based on their experiences."
+}
+```
+2025-05-16 10:18:02,397 - WARNING - Used current summary as op_summary for 1io7v59
+2025-05-16 10:18:03,281 - INFO - Splitting summary for thread 1ipbq45
+2025-05-16 10:18:05,093 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to proceed after Aetna denied their claim for medically necessary hip surgery, including advice on appeals, legal action, and whether to switch providers.",
+  "responses_summary": "Community members advised the poster to continue pursuing the Level 2 Appeal, consider hiring an ERISA attorney, and emphasized the importance of documenting all communications with Aetna while exploring external review options."
+}
+```
+2025-05-16 10:18:05,095 - WARNING - Used current summary as op_summary for 1ipbq45
+2025-05-16 10:18:05,965 - INFO - Splitting summary for thread 1iqleco
+2025-05-16 10:18:07,391 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to successfully appeal a denied $3,000 medical claim, expressing uncertainty about the appeal process and what steps to take.",
+  "responses_summary": "Community members provided various strategies for appealing insurance denials, including gathering supporting documentation, contacting the insurance company for clarification, and utilizing templates for appeal letters."
+}
+```
+2025-05-16 10:18:07,394 - WARNING - Used current summary as op_summary for 1iqleco
+2025-05-16 10:18:08,088 - INFO - Splitting summary for thread 1ishta7
+2025-05-16 10:18:09,875 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on whether their primary Caremark plan can refuse to engage in coordination of benefits (COB) with a secondary plan, and if they have grounds to appeal this decision.",
+  "responses_summary": "Community members advised the poster to review the specific COB provisions in their plan documents and suggested contacting both plans for clarification, as well as exploring the possibility of filing an appeal based on the unusual nature of the primary plan's refusal."
+}
+```
+2025-05-16 10:18:09,877 - WARNING - Used current summary as op_summary for 1ishta7
+2025-05-16 10:18:10,631 - INFO - Splitting summary for thread 1ivlawm
+2025-05-16 10:18:13,324 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether they have a strong case to appeal a claim denial for a D&C procedure under the No Surprises Act, given that the hospital is in-network with their insurer, Providence, but the claim was processed by Unified Life, which denied it due to out-of-network status.",
+  "responses_summary": "Community members advised the poster to gather documentation showing the hospital's in-network status with Providence and to review the No Surprises Act provisions, suggesting that they may have a solid case for appeal based on the circumstances."
+}
+```
+2025-05-16 10:18:13,327 - WARNING - Used current summary as op_summary for 1ivlawm
+2025-05-16 10:18:13,913 - INFO - Splitting summary for thread 1ix5plf
+2025-05-16 10:18:15,827 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is asking if they will be able to appeal or resolve a denied claim from their previous insurance after their coverage ends on March 1.",
+  "responses_summary": "Community members advised that the ability to appeal may depend on the insurance company's policies and suggested contacting both the insurance provider and the healthcare provider to expedite the process before the coverage ends."
+}
+```
+2025-05-16 10:18:15,830 - WARNING - Used current summary as op_summary for 1ix5plf
+2025-05-16 10:18:16,802 - INFO - Splitting summary for thread 1iy0bei
+2025-05-16 10:18:18,681 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether to obtain health and/or vision insurance to cover cataract surgery after being referred by an optometrist, despite currently having no insurance and missing open enrollment.",
+  "responses_summary": "Community members advised the poster to explore options for obtaining insurance outside of open enrollment, such as Medicaid or short-term plans, and to consult with local clinics that may offer services on a sliding scale."
+}
+```
+2025-05-16 10:18:18,683 - WARNING - Used current summary as op_summary for 1iy0bei
+2025-05-16 10:18:19,498 - INFO - Splitting summary for thread 1iyg6bw
+2025-05-16 10:18:20,798 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a claim denial from United for a necessary surgery at Stanford, which was previously approved, and is considering legal action due to the abrupt denial before the scheduled surgery.",
+  "responses_summary": "Community members advised the poster to gather all documentation related to the case, consider filing a formal grievance with the insurance company, and explore legal options if the appeal is denied, emphasizing the importance of continuity of care."
+}
+```
+2025-05-16 10:18:20,801 - WARNING - Used current summary as op_summary for 1iyg6bw
+2025-05-16 10:18:21,670 - INFO - Splitting summary for thread 1izfppg
+2025-05-16 10:18:23,904 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is questioning the fairness of Blue Cross Blue Shield's policy that denies coverage for ambulance calls without transport to the hospital, despite their ER visit being covered. They are seeking clarification on where this policy is stated in their coverage.",
+  "responses_summary": "Community members advised the OP to review their insurance policy documents for specific coverage details and suggested contacting BCBS for clarification on the denial. Some shared similar experiences and emphasized the importance of understanding insurance terms."
+}
+```
+2025-05-16 10:18:23,906 - WARNING - Used current summary as op_summary for 1izfppg
+2025-05-16 10:18:24,760 - INFO - Splitting summary for thread 1izqo29
+2025-05-16 10:18:26,552 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on whether they can add their daughter to their husband's insurance plan effective from the date they are added, given that they are appealing the denial of her coverage due to missing verification documents.",
+  "responses_summary": "Community members advised that if the appeal is denied, the ability to add the daughter may depend on the insurance policy's rules regarding qualifying life events, and they suggested contacting the insurance provider for specific guidance."
+}
+```
+2025-05-16 10:18:26,554 - WARNING - Used current summary as op_summary for 1izqo29
+2025-05-16 10:18:27,254 - INFO - Splitting summary for thread 1j0dux0
+2025-05-16 10:18:28,847 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their insurance denied coverage for an ultrasound during their ER visit, which they believed should be covered under their plan, and whether they should appeal the decision.",
+  "responses_summary": "Community members advised the poster to review their insurance policy for coverage details, consider contacting their insurance company for clarification, and suggested filing an appeal if the service is indeed covered under their plan."
+}
+```
+2025-05-16 10:18:28,850 - WARNING - Used current summary as op_summary for 1j0dux0
+2025-05-16 10:18:29,447 - INFO - Splitting summary for thread 1j0h9dh
+2025-05-16 10:18:31,358 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking insight on their chances of winning an appeal against their insurance denial for an MRI that was performed, as well as information on potential legal recourse against their orthopedist if the insurance can prove he was notified to cancel the appointment.",
+  "responses_summary": "Community members advised that appeals can be successful, especially with supporting documentation from the orthopedist, and suggested consulting with a healthcare advocate or legal professional for further guidance on potential liability issues."
+}
+```
+2025-05-16 10:18:31,361 - WARNING - Used current summary as op_summary for 1j0h9dh
+2025-05-16 10:18:32,117 - INFO - Splitting summary for thread 1j11rma
+2025-05-16 10:18:34,173 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why Voya is denying some claims based on the effective date of their coverage, despite approving others under similar circumstances, and is looking for advice on how to proceed with the appeals process.",
+  "responses_summary": "Community members advised the poster to gather all documentation related to the coverage dates and claims, and suggested consulting with a legal expert or insurance advocate to navigate the complexities of the situation."
+}
+```
+2025-05-16 10:18:34,175 - WARNING - Used current summary as op_summary for 1j11rma
+2025-05-16 10:18:35,038 - INFO - Splitting summary for thread 1j17a70
+2025-05-16 10:18:37,555 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster, Marilia Coutinho, is seeking accountability from AMBETTER Health for denying coverage of a diagnostic screening mammogram, requesting reimbursement for the procedure, and demanding improved communication methods due to her disability.",
+  "responses_summary": "Community responses emphasized the importance of documenting all interactions with the insurance company and suggested reaching out to advocacy groups for additional support in navigating the appeals process."
+}
+```
+2025-05-16 10:18:37,559 - WARNING - Used current summary as op_summary for 1j17a70
+2025-05-16 10:18:38,402 - INFO - Splitting summary for thread 1j1iot2
+2025-05-16 10:18:41,958 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is questioning why Kaiser denied their health insurance coverage based on a claim of voluntary quitting their previous plan, despite their job loss qualifying as a qualifying life event (QLE). They are seeking clarification on Kaiser's policies regarding coverage denials in such situations.",
+  "responses_summary": "Community members provided insights on Kaiser’s policies and shared personal experiences with similar situations, suggesting that the denial may stem from specific interpretations of QLEs by Kaiser. Some advised the OP to appeal the decision or seek assistance from a health insurance advocate."
+}
+```
+2025-05-16 10:18:41,961 - WARNING - Used current summary as op_summary for 1j1iot2
+2025-05-16 10:18:42,807 - INFO - Splitting summary for thread 1j2s1wk
+2025-05-16 10:18:45,369 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to properly utilize their dual insurance coverage with Kaiser and Oklahoma Medicaid, particularly after mistakenly using Medicaid as their primary insurance. They want to understand COB rules and how to ensure they receive benefits without incurring additional costs.",
+  "responses_summary": "Community members advised the poster to clarify their insurance status with both Aetna and Medicaid, emphasizing the importance of using Medicaid as secondary insurance for non-urgent care. They also suggested documenting all communications and being proactive in managing claims to avoid unexpected bills."
+}
+```
+2025-05-16 10:18:45,371 - WARNING - Used current summary as op_summary for 1j2s1wk
+2025-05-16 10:18:45,938 - INFO - Splitting summary for thread 1j2wwjp
+2025-05-16 10:18:48,616 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on whether their primary insurance's erroneous approval of infertility coverage will lead to retroactive denials of their IVF claims, and if there is a possibility that their coverage has actually changed despite outdated documentation.",
+  "responses_summary": "Community members advised the poster to review their insurance policy details carefully and suggested contacting a healthcare advocate or legal expert if retroactive denials occur, as well as to keep records of all communications with the insurance company."
+}
+```
+2025-05-16 10:18:48,618 - WARNING - Used current summary as op_summary for 1j2wwjp
+2025-05-16 10:18:49,275 - INFO - Splitting summary for thread 1j30jvo
+2025-05-16 10:18:51,104 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on what to do after losing health insurance coverage due to dropping to part-time status in graduate school, leaving them with medical bills and no coverage until starting a new job next month.",
+  "responses_summary": "Community members advised exploring options for short-term insurance, checking if they qualify for Medicaid or other assistance programs, and negotiating with healthcare providers regarding the medical bills."
+}
+```
+2025-05-16 10:18:51,107 - WARNING - Used current summary as op_summary for 1j30jvo
+2025-05-16 10:18:51,647 - INFO - Splitting summary for thread 1j31ita
+2025-05-16 10:18:53,615 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to write to the Commissioner of the OK Insurance Department for an expedited external review of their denied claim for nerve block injections for migraines.",
+  "responses_summary": "Community members are likely to suggest including detailed medical documentation and previous approvals in the letter, as well as emphasizing the impact of the denial on the OP's wife's health."
+}
+```
+2025-05-16 10:18:53,618 - WARNING - Used current summary as op_summary for 1j31ita
+2025-05-16 10:18:54,226 - INFO - Splitting summary for thread 1j3js6h
+2025-05-16 10:18:55,708 - INFO - Successfully migrated thread 1j3js6h
+2025-05-16 10:18:56,347 - INFO - Splitting summary for thread 1j3q0wl
+2025-05-16 10:19:29,055 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their insurance denied coverage for a podiatrist visit despite the diagnoses being related to their chronic foot issues, and they are confused about the necessity of the visit.",
+  "responses_summary": "Community members advised the poster to carefully review their insurance policy for covered services, consider gathering additional documentation from their doctors to support the appeal, and suggested reaching out to a patient advocate for assistance with the claims process."
+}
+```
+2025-05-16 10:19:29,058 - WARNING - Used current summary as op_summary for 1j3q0wl
+2025-05-16 10:19:29,846 - INFO - Splitting summary for thread 1j4m53e
+2025-05-16 10:19:31,220 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether to appeal their insurance denial for an incomplete IUD insertion procedure, which they believe should be covered under family planning but was denied due to incorrect coding.",
+  "responses_summary": "Community members advised the poster to gather all relevant documentation, consider filing an appeal, and possibly seek assistance from a patient advocate or a billing specialist to help navigate the coding issues."
+}
+```
+2025-05-16 10:19:31,223 - WARNING - Used current summary as op_summary for 1j4m53e
+2025-05-16 10:19:31,858 - INFO - Splitting summary for thread 1j578gg
+2025-05-16 10:19:34,041 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to proceed after their health insurance, BCBS, denied their claim for emergency back surgery due to a lack of pre-authorization, despite the urgent nature of the situation.",
+  "responses_summary": "Community members advised the poster to gather all medical documentation, consider contacting a patient advocate, and explore the possibility of filing a complaint with state insurance regulators or seeking legal assistance."
+}
+```
+2025-05-16 10:19:34,045 - WARNING - Used current summary as op_summary for 1j578gg
+2025-05-16 10:19:34,981 - INFO - Splitting summary for thread 1j5gfne
+2025-05-16 10:19:36,605 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster was seeking advice on how to handle a significant bill for a colonoscopy that was performed without prior authorization, and they were confused about the responsibilities of the medical facility and their insurance coverage.",
+  "responses_summary": "Community members advised the poster to ensure that prior authorizations are confirmed before procedures in the future and shared experiences of similar situations, emphasizing the importance of clear communication with both the medical facility and the insurance provider."
+}
+```
+2025-05-16 10:19:36,607 - WARNING - Used current summary as op_summary for 1j5gfne
+2025-05-16 10:19:37,520 - INFO - Splitting summary for thread 1j5zg5l
+2025-05-16 10:19:41,076 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on whether the reprocessing of their prescription claims by the new pharmacy benefits manager could be a system error or fraud, as it has affected their out-of-pocket maximum without any additional billing.",
+  "responses_summary": "Community members advised that while such situations can occur during transitions between PBMs, it is important to keep documentation and monitor future bills, and suggested contacting the insurance company for further clarification if concerns persist."
+}
+```
+2025-05-16 10:19:41,080 - WARNING - Used current summary as op_summary for 1j5zg5l
+2025-05-16 10:19:41,893 - INFO - Splitting summary for thread 1j6nkzs
+2025-05-16 10:19:43,301 - INFO - Successfully migrated thread 1j6nkzs
+2025-05-16 10:19:44,208 - INFO - Splitting summary for thread 1j6usa4
+2025-05-16 10:19:45,954 - INFO - Successfully migrated thread 1j6usa4
+2025-05-16 10:19:46,784 - INFO - Splitting summary for thread 1j73onn
+2025-05-16 10:19:48,647 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking health insurance options after being removed from their parents' plan, specifically looking for coverage that includes surgery, physical therapy, and other recovery-related needs.",
+  "responses_summary": "Community members suggested researching various insurers, comparing plans, and considering state health exchanges, while also warning about the potential for denials from certain companies like AmBetter."
+}
+```
+2025-05-16 10:19:48,649 - WARNING - Used current summary as op_summary for 1j73onn
+2025-05-16 10:19:49,478 - INFO - Splitting summary for thread 1j891mk
+2025-05-16 10:19:51,111 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to negotiate a hospital bill of approximately $2,450, as they are struggling with their high deductible insurance plan and have been denied discounts by the hospital's billing department.",
+  "responses_summary": "Community responses suggest exploring financial assistance programs, contacting a patient advocate, and considering negotiating with the hospital's billing department again, emphasizing the financial hardship and the potential for payment plans."
+}
+```
+2025-05-16 10:19:51,114 - WARNING - Used current summary as op_summary for 1j891mk
+2025-05-16 10:19:51,818 - INFO - Splitting summary for thread 1j8vxgd
+2025-05-16 10:19:53,580 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle their health insurance denying claims for HRT by categorizing it as mental health treatment, resulting in significant medical bills and potential loss of their PCP.",
+  "responses_summary": "Community members suggested exploring legal options, contacting advocacy groups for support, and reviewing the specifics of HB 2002 to challenge the insurance company's decision."
+}
+```
+2025-05-16 10:19:53,583 - WARNING - Used current summary as op_summary for 1j8vxgd
+2025-05-16 10:19:54,146 - INFO - Splitting summary for thread 1j90rkn
+2025-05-16 10:19:55,748 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice after their insurance denied coverage for a dentist they confirmed was in-network prior to treatment. They want to know if others have experienced similar issues with insurance denials.",
+  "responses_summary": "Community members advised the poster to appeal the denial by providing evidence of the prior confirmation from the insurance company. Others shared similar experiences and suggested contacting the dentist's office for assistance in resolving the issue."
+}
+```
+2025-05-16 10:19:55,751 - WARNING - Used current summary as op_summary for 1j90rkn
+2025-05-16 10:19:56,475 - INFO - Splitting summary for thread 1j9v64h
+2025-05-16 10:19:57,839 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking insights into why Aetna denied coverage for one acupuncture visit, labeling it as experimental despite previous approvals for the same service, and is currently in the process of appealing the decision.",
+  "responses_summary": "Community members suggested checking the specific reasons for the denial, reviewing the provider's documentation, and considering contacting Aetna for clarification on their policies regarding experimental treatments."
+}
+```
+2025-05-16 10:19:57,842 - WARNING - Used current summary as op_summary for 1j9v64h
+2025-05-16 10:19:58,773 - INFO - Splitting summary for thread 1jahhig
+2025-05-16 10:20:00,369 - INFO - Successfully migrated thread 1jahhig
+2025-05-16 10:20:01,201 - INFO - Splitting summary for thread 1jaii3v
+2025-05-16 10:20:03,562 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking confirmation on whether their bloodwork will be covered by insurance, as the insurance company could not verify the provided codes and indicated that coverage depends on proof of medical necessity.",
+  "responses_summary": "Community members advised the poster to obtain a pre-authorization from their insurance and to ensure their PCP documents the medical necessity clearly to avoid potential denials."
+}
+```
+2025-05-16 10:20:03,564 - WARNING - Used current summary as op_summary for 1jaii3v
+2025-05-16 10:20:04,176 - INFO - Splitting summary for thread 1jannoo
+2025-05-16 10:20:05,690 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle a denial of coverage for their child's surgery under COBRA, despite having paid for the coverage, and is concerned about the financial implications of prepaying for the surgery.",
+  "responses_summary": "Community members suggest contacting the COBRA administrator for clarification, appealing the denial, and exploring options for expedited authorization or financial assistance to avoid delaying the surgery."
+}
+```
+2025-05-16 10:20:05,691 - WARNING - Used current summary as op_summary for 1jannoo
+2025-05-16 10:20:06,678 - INFO - Splitting summary for thread 1jber36
+2025-05-16 10:20:08,605 - INFO - Successfully migrated thread 1jber36
+2025-05-16 10:20:09,336 - INFO - Splitting summary for thread 1jcl48j
+2025-05-16 10:20:11,027 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to navigate the insurance process after their mother's inpatient therapy was denied due to a lack of a stroke diagnosis code, and they are considering bringing her home for therapy.",
+  "responses_summary": "Community members advised exploring options for a formal appeal, seeking assistance from a patient advocate, and considering alternative therapy options or facilities that may provide better care."
+}
+```
+2025-05-16 10:20:11,031 - WARNING - Used current summary as op_summary for 1jcl48j
+2025-05-16 10:20:11,824 - INFO - Splitting summary for thread 1jdn54i
+2025-05-16 10:20:13,151 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address the denial of coverage for the follow-up visit of their TB skin test, which they believe should be covered under their insurance plan.",
+  "responses_summary": "Community members advised the poster to appeal the insurance decision, check their policy details for coverage specifics, and consider contacting a patient advocate for assistance with the billing issue."
+}
+```
+2025-05-16 10:20:13,152 - WARNING - Used current summary as op_summary for 1jdn54i
+2025-05-16 10:20:13,763 - INFO - Splitting summary for thread 1jdsbuy
+2025-05-16 10:20:14,816 - INFO - Successfully migrated thread 1jdsbuy
+2025-05-16 10:20:15,439 - INFO - Splitting summary for thread 1jed5az
+2025-05-16 10:20:17,350 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their boyfriend's insurance claim was denied due to an obesity diagnosis during a standard intake appointment, questioning the legality of such a denial under the ACA.",
+  "responses_summary": "Community members provided insights on the ACA's protections against discrimination based on weight and suggested steps for disputing the claim, including reviewing the Explanation of Benefits (EOB) and contacting the insurance company for further clarification."
+}
+```
+2025-05-16 10:20:17,352 - WARNING - Used current summary as op_summary for 1jed5az
+2025-05-16 10:20:18,134 - INFO - Splitting summary for thread 1jen8c1
+2025-05-16 10:20:20,051 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking tips on how to verify procedure costs and insurance coverage while at the doctor's office to avoid unexpected bills for non-covered services.",
+  "responses_summary": "Community members suggest asking for a detailed breakdown of services before they are performed, requesting a pre-authorization from the insurance company, and utilizing patient advocacy resources to navigate billing issues."
+}
+```
+2025-05-16 10:20:20,053 - WARNING - Used current summary as op_summary for 1jen8c1
+2025-05-16 10:20:20,569 - INFO - Splitting summary for thread 1jfjye7
+2025-05-16 10:20:22,500 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to get their insurance to cover a medically necessary surgery that has been repeatedly denied, despite having extensive documentation and appeals. They are also inquiring about alternative insurance options that might cover such procedures.",
+  "responses_summary": "Community members suggest exploring options such as seeking a second opinion from another specialist, contacting a patient advocate, or considering legal action to challenge the insurance denial. Additionally, they recommend researching other insurance plans that may have better coverage for similar surgeries."
+}
+```
+2025-05-16 10:20:22,504 - WARNING - Used current summary as op_summary for 1jfjye7
+2025-05-16 10:20:23,330 - INFO - Splitting summary for thread 1jg030c
+2025-05-16 10:20:25,596 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to cancel an unwanted medical insurance plan they accidentally signed up for through their employer, which is causing issues with claims from their spouse's insurance.",
+  "responses_summary": "Community members advised the poster to contact their HR department or insurance provider immediately to discuss options for canceling the coverage, and some suggested checking if there are any special enrollment periods or exceptions that might apply."
+}
+```
+2025-05-16 10:20:25,599 - WARNING - Used current summary as op_summary for 1jg030c
+2025-05-16 10:20:26,168 - INFO - Splitting summary for thread 1jg0q6h
+2025-05-16 10:20:27,987 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to pursue reimbursement from their insurance company after receiving incorrect information about coverage for a procedure, which led to a denied self-claim.",
+  "responses_summary": "Community members suggested documenting all communications with the insurance company, appealing the denial, and potentially filing a complaint with state insurance regulators or seeking legal advice if necessary."
+}
+```
+2025-05-16 10:20:27,989 - WARNING - Used current summary as op_summary for 1jg0q6h
+2025-05-16 10:20:28,524 - INFO - Splitting summary for thread 1jgi2j5
+2025-05-16 10:20:29,999 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether it is worth appealing the denial of medication coverage for their wife's Trintellix by their new post-employment insurance, given the high out-of-pocket cost of $500 per month.",
+  "responses_summary": "Community members generally advise appealing the denial, suggesting that providing documentation of the medication's necessity and previous coverage may strengthen the case. Some also recommend exploring alternative assistance programs or generic options."
+}
+```
+2025-05-16 10:20:30,003 - WARNING - Used current summary as op_summary for 1jgi2j5
+2025-05-16 10:20:30,771 - INFO - Splitting summary for thread 1jizekv
+2025-05-16 10:20:32,767 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification and assistance regarding a denial of Medicaid coverage for themselves and their daughter, which they believe is due to a misunderstanding about a renewal package they did not return.",
+  "responses_summary": "Community members likely provided advice on how to appeal the denial, the importance of submitting all required documentation, and shared personal experiences with similar issues to offer support."
+}
+```
+2025-05-16 10:20:32,770 - WARNING - Used current summary as op_summary for 1jizekv
+2025-05-16 10:20:33,477 - INFO - Splitting summary for thread 1jj42x8
+2025-05-16 10:20:35,436 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarity and resolution regarding a $410 bill they received due to their doctor billing the wrong insurance, expressing frustration over the lack of communication and support from the doctor's office and insurance companies.",
+  "responses_summary": "Community members advised the poster to gather all documentation related to the insurance claims, contact consumer protection agencies, and consider filing a complaint against the doctor's office for their billing practices."
+}
+```
+2025-05-16 10:20:35,439 - WARNING - Used current summary as op_summary for 1jj42x8
+2025-05-16 10:20:36,012 - INFO - Splitting summary for thread 1jj8fkf
+2025-05-16 10:20:38,252 - INFO - Successfully migrated thread 1jj8fkf
+2025-05-16 10:20:39,232 - INFO - Splitting summary for thread 1jjkyvk
+2025-05-16 10:20:43,703 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on what recourse they have after their school insurance denied a claim for an emergency room visit, and whether they have a case against the school for not being aware of the emergency care protocols.",
+  "responses_summary": "Community members advised the OP to review their insurance policy thoroughly, consider contacting a healthcare advocate, and explore the possibility of filing a complaint with state insurance regulators."
+}
+```
+2025-05-16 10:20:43,706 - WARNING - Used current summary as op_summary for 1jjkyvk
+2025-05-16 10:20:44,649 - INFO - Splitting summary for thread 1jjt9en
+2025-05-16 10:20:45,748 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to obtain short-term health insurance coverage while transitioning to a new career, as they will have no income for 16 weeks and are unsure about their Medicaid eligibility.",
+  "responses_summary": "Community members suggested exploring short-term health insurance plans, checking the health insurance marketplace for estimates without applying, and considering options like catastrophic plans or local health clinics for temporary coverage."
+}
+```
+2025-05-16 10:20:45,750 - WARNING - Used current summary as op_summary for 1jjt9en
+2025-05-16 10:20:46,500 - INFO - Splitting summary for thread 1jjxd2g
+2025-05-16 10:20:48,431 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on the relationship between rendering and billing providers in the context of insurance claim denials, and is inquiring about potential exceptions for processing claims when they were not given a choice of providers.",
+  "responses_summary": "Community members advised that rendering and billing providers are often linked through contracts, and some suggested that exceptions may exist for claims processing if the patient was not informed about provider options."
+}
+```
+2025-05-16 10:20:48,434 - WARNING - Used current summary as op_summary for 1jjxd2g
+2025-05-16 10:20:49,369 - INFO - Splitting summary for thread 1jk20ks
+2025-05-16 10:20:50,871 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why BCBS has suddenly stopped covering certain medical expenses and is frustrated with the increasing costs and unexpected bills despite having insurance coverage.",
+  "responses_summary": "Community members advised the poster to review their insurance policy details carefully, contact BCBS for clarification on the changes, and consider filing a formal complaint or appeal regarding the denied claims."
+}
+```
+2025-05-16 10:20:50,874 - WARNING - Used current summary as op_summary for 1jk20ks
+2025-05-16 10:20:51,855 - INFO - Splitting summary for thread 1jkdovk
+2025-05-16 10:20:53,729 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a surprise bill of $1,041.85 for a hearing test that was coded as diagnostic rather than routine, and they are concerned about the financial implications of the overdue payment.",
+  "responses_summary": "Community members advised the poster to gather all documentation related to the billing and insurance communications, consider filing a formal appeal with detailed explanations, and explore the protections offered by the No Surprises Act to potentially mitigate the costs."
+}
+```
+2025-05-16 10:20:53,732 - WARNING - Used current summary as op_summary for 1jkdovk
+2025-05-16 10:20:54,576 - INFO - Splitting summary for thread 1jkp8jl
+2025-05-16 10:20:56,779 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to resolve ongoing issues with United Healthcare regarding their insurance coverage start date, which has resulted in denied claims and significant financial stress due to out-of-pocket medical expenses.",
+  "responses_summary": "Community members advised the poster to document all communications, consider filing a formal complaint with state insurance regulators, and explore options for financial assistance or alternative coverage while navigating the situation."
+}
+```
+2025-05-16 10:20:56,782 - WARNING - Used current summary as op_summary for 1jkp8jl
+2025-05-16 10:20:57,477 - INFO - Splitting summary for thread 1jl529b
+2025-05-16 10:20:59,213 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is asking for guidance on how to appeal a medication denial from Express Scripts, which only covers the medication for specific diagnoses that they do not have, despite its proven effectiveness for their condition.",
+  "responses_summary": "Community members advised the original poster to gather supporting documentation from their doctor, including studies on the medication's effectiveness for their condition, and to formally submit an appeal to Express Scripts with this information."
+}
+```
+2025-05-16 10:20:59,216 - WARNING - Used current summary as op_summary for 1jl529b
+2025-05-16 10:20:59,855 - INFO - Splitting summary for thread 1jlblpq
+2025-05-16 10:21:02,255 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to resolve billing issues caused by a Medicaid backdate that overlaps with their ACA plan, and whether they will need to pay back their subsidy.",
+  "responses_summary": "Community members advised the poster to contact both Medicaid and the ACA marketplace to clarify the overlap and explore options for resolving the rebilling issues, while also suggesting they document all communications for future reference."
+}
+```
+2025-05-16 10:21:02,257 - WARNING - Used current summary as op_summary for 1jlblpq
+2025-05-16 10:21:02,815 - INFO - Splitting summary for thread 1jo660e
+2025-05-16 10:21:04,480 - INFO - Successfully migrated thread 1jo660e
+2025-05-16 10:21:05,227 - INFO - Splitting summary for thread 1jpyumm
+2025-05-16 10:21:07,384 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their insurer is no longer disclosing billing and procedure codes on claim forms, making it difficult to appeal claim denials. They are frustrated with the vague descriptions provided and are wondering if this is due to a new policy or regulation.",
+  "responses_summary": "Community members suggest checking state regulations regarding insurance transparency, as well as contacting the insurance commissioner for assistance. Some also recommend documenting all communications with the insurer and considering legal advice if necessary."
+}
+```
+2025-05-16 10:21:07,387 - WARNING - Used current summary as op_summary for 1jpyumm
+2025-05-16 10:21:08,284 - INFO - Splitting summary for thread 1jqo6wt
+2025-05-16 10:21:10,223 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on contesting their employer's denial to change their health insurance plan tier after their spouse lost coverage, despite being allowed to add her to the plan.",
+  "responses_summary": "Community members provided insights on IRS guidelines regarding qualifying life events and suggested reviewing the company's specific policies, as well as considering escalation to HR or seeking legal advice if necessary."
+}
+```
+2025-05-16 10:21:10,224 - WARNING - Used current summary as op_summary for 1jqo6wt
+2025-05-16 10:21:10,892 - INFO - Splitting summary for thread 1jqwzmb
+2025-05-16 10:21:12,722 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to advocate for themselves after being denied coverage for surgery due to the hospital being out-of-network, despite prior appointments being billed to their insurance.",
+  "responses_summary": "Community members suggest filing an out-of-network gap exception, contacting the insurance company for clarification, and potentially escalating the issue to a supervisor or seeking legal advice if necessary."
+}
+```
+2025-05-16 10:21:12,723 - WARNING - Used current summary as op_summary for 1jqwzmb
+2025-05-16 10:21:13,697 - INFO - Splitting summary for thread 1jqxk3a
+2025-05-16 10:21:15,058 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking insights into the most confusing aspects of managing health insurance on their own, specifically regarding claims, prior authorizations, and denied coverage.",
+  "responses_summary": "Community members shared their experiences with the complexities of insurance processes, highlighting the lack of transparency, the difficulty in understanding policy language, and the challenges of appealing denied claims."
+}
+```
+2025-05-16 10:21:15,059 - WARNING - Used current summary as op_summary for 1jqxk3a
+2025-05-16 10:21:15,888 - INFO - Splitting summary for thread 1jrdcg9
+2025-05-16 10:21:17,463 - INFO - Successfully migrated thread 1jrdcg9
+2025-05-16 10:21:17,989 - INFO - Splitting summary for thread 1jrxcac
+2025-05-16 10:21:20,044 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to obtain health insurance after losing Medicaid eligibility and facing denials from other plans, while also dealing with ongoing health issues.",
+  "responses_summary": "Community members advised exploring options such as applying for a short-term health plan, checking for state-specific programs for young adults, and considering the possibility of qualifying for a special enrollment period due to health circumstances."
+}
+```
+2025-05-16 10:21:20,048 - WARNING - Used current summary as op_summary for 1jrxcac
+2025-05-16 10:21:20,571 - INFO - Splitting summary for thread 1jsexvo
+2025-05-16 10:21:22,578 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle the denial of claims from United Healthcare for necessary wound care supplies, which has resulted in a significant financial burden and halted their treatment for a foot ulcer.",
+  "responses_summary": "Community members suggested exploring further appeals with the insurance company, contacting a patient advocate, and considering alternative funding options or assistance programs to cover medical expenses."
+}
+```
+2025-05-16 10:21:22,582 - WARNING - Used current summary as op_summary for 1jsexvo
+2025-05-16 10:21:23,548 - INFO - Splitting summary for thread 1jsh2oo
+2025-05-16 10:21:25,842 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address denied medical claims due to a backdated insurance termination after being furloughed and later terminated by their employer, who filed for bankruptcy without notice.",
+  "responses_summary": "Community members advised the poster to gather documentation of their employment and insurance coverage, contact the insurance company for clarification, and consider legal action or filing a complaint with state insurance regulators if necessary."
+}
+```
+2025-05-16 10:21:25,845 - WARNING - Used current summary as op_summary for 1jsh2oo
+2025-05-16 10:21:26,402 - INFO - Splitting summary for thread 1jty27l
+2025-05-16 10:21:28,540 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to get denied medication management services covered by their insurance after being informed that the claims were denied due to the provider type. They are facing a significant bill and are frustrated with the lack of resolution between the insurance companies.",
+  "responses_summary": "Community members advised the original poster to appeal the insurance denial, gather documentation from the PCP supporting the necessity of the medication management, and consider contacting a patient advocate or legal assistance for further help."
+}
+```
+2025-05-16 10:21:28,542 - WARNING - Used current summary as op_summary for 1jty27l
+2025-05-16 10:21:29,490 - INFO - Splitting summary for thread 1jty41s
+2025-05-16 10:21:31,293 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to manage multiple medical bills resulting from a work-related injury, particularly after complications with workers' compensation and insurance coverage issues.",
+  "responses_summary": "Community members suggested exploring options for financial assistance, contacting legal aid for potential workers' compensation claims, and reaching out to the hospital billing department to negotiate payment plans or discounts."
+}
+```
+2025-05-16 10:21:31,296 - WARNING - Used current summary as op_summary for 1jty41s
+2025-05-16 10:21:31,986 - INFO - Splitting summary for thread 1jtzsp7
+2025-05-16 10:21:34,100 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking help and advice regarding their insurance company's failure to notify them about the approval of their appeal for denied blood work, and they are frustrated with the lack of communication and potential collections from the provider.",
+  "responses_summary": "Community members suggest exploring legal options, contacting state insurance regulators again, and possibly seeking further assistance from a health advocate or attorney to address the insurance company's negligence."
+}
+```
+2025-05-16 10:21:34,102 - WARNING - Used current summary as op_summary for 1jtzsp7
+2025-05-16 10:21:34,875 - INFO - Splitting summary for thread 1ju0564
+2025-05-16 10:21:36,499 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to resolve multiple claim denials from BCBSNC for routine bloodwork and urgent care visits, expressing frustration over the lack of clear answers and support.",
+  "responses_summary": "Community members advised the poster to document all communications, consider escalating the issue to HR or the Department of Insurance, and suggested reaching out to a patient advocate for assistance in navigating the claims process."
+}
+```
+2025-05-16 10:21:36,501 - WARNING - Used current summary as op_summary for 1ju0564
+2025-05-16 10:21:37,049 - INFO - Splitting summary for thread 1ju2iv8
+2025-05-16 10:21:38,436 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal their mother's insurance denial for an MRI, as well as what specific questions to ask the doctor and insurance company to help get the procedure approved.",
+  "responses_summary": "Community members suggested gathering detailed medical documentation from the PCP to support the necessity of the MRI, exploring the appeals process with the insurance company, and considering alternative funding options or payment plans for the MRI."
+}
+```
+2025-05-16 10:21:38,438 - WARNING - Used current summary as op_summary for 1ju2iv8
+2025-05-16 10:21:39,127 - INFO - Splitting summary for thread 1ju3ifz
+2025-05-16 10:21:41,450 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is asking if they can elect COBRA after having a short-term health plan if something happens that isn't covered, and whether having other insurance would affect their eligibility for COBRA.",
+  "responses_summary": "Community responses generally clarify that you can elect COBRA within the 60-day window regardless of having other insurance, but it's important to check specific plan details and state regulations."
+}
+```
+2025-05-16 10:21:41,452 - WARNING - Used current summary as op_summary for 1ju3ifz
+2025-05-16 10:21:42,431 - INFO - Splitting summary for thread 1jus8ka
+2025-05-16 10:21:44,759 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their hospital visit claim was denied despite being told the facility is in-network, and they are overwhelmed by the conflicting information from their insurance and the hospital's billing office.",
+  "responses_summary": "Community members advised the poster to gather all documentation, including the EOB and any communication with the insurance company, and to contact the hospital's billing department again once they receive a bill to resolve the issue."
+}
+```
+2025-05-16 10:21:44,762 - WARNING - Used current summary as op_summary for 1jus8ka
+2025-05-16 10:21:45,613 - INFO - Splitting summary for thread 1juswdc
+2025-05-16 10:21:47,526 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is asking if their insurance can deny a claim for an MRI after they received pre-authorization, especially since the claim is now marked as 'Pending Examiner Review'.",
+  "responses_summary": "Community members advised that while pre-authorization is a good sign, it does not guarantee payment, and claims can still be denied based on various factors. They suggested contacting the insurance company for clarification and to understand the reasons behind the pending status."
+}
+```
+2025-05-16 10:21:47,528 - WARNING - Used current summary as op_summary for 1juswdc
+2025-05-16 10:21:48,452 - INFO - Splitting summary for thread 1jv6xma
+2025-05-16 10:21:51,067 - INFO - Successfully migrated thread 1jv6xma
+2025-05-16 10:21:51,772 - INFO - Splitting summary for thread 1jv7wug
+2025-05-16 10:21:53,104 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking legal assistance in Texas after facing a denial of coverage for a necessary surgery due to alleged nonpayment of COBRA premiums, which has resulted in a potential financial burden of over $300,000.",
+  "responses_summary": "Community members are likely providing advice on how to navigate the appeals process, suggesting potential legal resources, and sharing similar experiences with COBRA coverage issues."
+}
+```
+2025-05-16 10:21:53,107 - WARNING - Used current summary as op_summary for 1jv7wug
+2025-05-16 10:21:54,026 - INFO - Splitting summary for thread 1jv99vu
+2025-05-16 10:21:55,838 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking options to recover financial losses incurred due to a retroactive change in coordination of benefits by their health insurance carrier, which resulted in denied claims and demands for repayment from healthcare providers.",
+  "responses_summary": "Community members advised the poster to gather documentation, contact the insurance company's customer service for clarification, and consider filing a formal complaint with state insurance regulators or seeking legal assistance if necessary."
+}
+```
+2025-05-16 10:21:55,839 - WARNING - Used current summary as op_summary for 1jv99vu
+2025-05-16 10:21:56,433 - INFO - Splitting summary for thread 1jvgddd
+2025-05-16 10:21:58,246 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their insurance denied the claim for their child's ER visit and whether the pending status is related to the doctor's notes required by the insurance company.",
+  "responses_summary": "Community members advised the poster to contact their insurance company for specific details on the required information and suggested following up with both the ER and pediatrician to ensure all necessary documentation is submitted."
+}
+```
+2025-05-16 10:21:58,249 - WARNING - Used current summary as op_summary for 1jvgddd
+2025-05-16 10:21:58,864 - INFO - Splitting summary for thread 1jvjy2k
+2025-05-16 10:22:00,457 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why they are receiving hospital bills despite their insurance processing the claim and indicating they owe nothing, particularly in light of the contiguous county rule denial.",
+  "responses_summary": "Community members advised the poster to contact their insurance company for a detailed explanation of the denial and billing process, and suggested reaching out to the hospital's billing department to resolve any discrepancies."
+}
+```
+2025-05-16 10:22:00,460 - WARNING - Used current summary as op_summary for 1jvjy2k
+2025-05-16 10:22:01,015 - INFO - Splitting summary for thread 1jw2wn9
+2025-05-16 10:22:02,968 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address a denial from Anthem for a BRCA genetic test, which they believe is incorrect since they have never had the test before.",
+  "responses_summary": "Community members suggest contacting Anthem for clarification, reviewing the insurance policy for specific language regarding testing limits, and potentially appealing the denial with supporting documentation."
+}
+```
+2025-05-16 10:22:02,970 - WARNING - Used current summary as op_summary for 1jw2wn9
+2025-05-16 10:22:03,867 - INFO - Splitting summary for thread 1jw74ij
+2025-05-16 10:22:06,067 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to resolve the retroactive denial of their MRI claim after switching insurance from UHC to BCBS, particularly since the provider could not have known to obtain prior authorization for the new insurance.",
+  "responses_summary": "Community members suggested contacting both insurance companies to clarify the situation, appealing the denials, and potentially seeking assistance from a patient advocate or ombudsman to navigate the complexities of insurance claims."
+}
+```
+2025-05-16 10:22:06,070 - WARNING - Used current summary as op_summary for 1jw74ij
+2025-05-16 10:22:06,857 - INFO - Splitting summary for thread 1jwbli0
+2025-05-16 10:22:08,649 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarity on the implications of signing an authorization letter for their provider to share health information with their insurance, particularly regarding a test marked as 'not covered' and the potential for claim denial.",
+  "responses_summary": "Community responses generally advised that signing the authorization is necessary for the appeal process, but emphasized that it does not guarantee coverage and that the user should follow up with both the provider and insurance for clarity on the situation."
+}
+```
+2025-05-16 10:22:08,651 - WARNING - Used current summary as op_summary for 1jwbli0
+2025-05-16 10:22:09,336 - INFO - Splitting summary for thread 1jwfns6
+2025-05-16 10:22:11,039 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why Aetna denied coverage for an IVF Fresh Cycle that was approved by Progyny, and they are wondering if it was due to a coding error or miscommunication between the insurance partners.",
+  "responses_summary": "Community members advised the poster to gather all documentation from Progyny and Aetna, and suggested contacting both companies to resolve the issue, emphasizing the importance of understanding the specific coverage details and coding used."
+}
+```
+2025-05-16 10:22:11,042 - WARNING - Used current summary as op_summary for 1jwfns6
+2025-05-16 10:22:11,926 - INFO - Splitting summary for thread 1jwhv8o
+2025-05-16 10:22:13,896 - INFO - Successfully migrated thread 1jwhv8o
+2025-05-16 10:22:14,594 - INFO - Splitting summary for thread 1jww6d1
+2025-05-16 10:22:16,667 - INFO - Successfully migrated thread 1jww6d1
+2025-05-16 10:22:17,506 - INFO - Splitting summary for thread 1jycit1
+2025-05-16 10:22:20,018 - INFO - Successfully migrated thread 1jycit1
+2025-05-16 10:22:20,784 - INFO - Splitting summary for thread 1jygoql
+2025-05-16 10:22:23,046 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to resolve claim denials from UHC, which they believe are due to a glitch indicating they have other health insurance that they do not possess.",
+  "responses_summary": "Community members advised the poster to persistently follow up with UHC, consider escalating the issue to a supervisor, and suggested involving their husband's HR department for additional support."
+}
+```
+2025-05-16 10:22:23,048 - WARNING - Used current summary as op_summary for 1jygoql
+2025-05-16 10:22:23,612 - INFO - Splitting summary for thread 1jz0w8n
+2025-05-16 10:22:26,602 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to resolve the ongoing issue of their husband's health insurance claims being denied due to 'ineligibility', despite confirmation of his eligibility by insurance representatives.",
+  "responses_summary": "Community members advised the poster to escalate the issue to a supervisor or manager at the insurance company, consider contacting their HR department for assistance, and keep detailed records of all communications with the insurance representatives."
+}
+```
+2025-05-16 10:22:26,605 - WARNING - Used current summary as op_summary for 1jz0w8n
+2025-05-16 10:22:27,518 - INFO - Splitting summary for thread 1jzfnsa
+2025-05-16 10:22:29,113 - INFO - Successfully migrated thread 1jzfnsa
+2025-05-16 10:22:29,713 - INFO - Splitting summary for thread 1jzx9v6
+2025-05-16 10:22:31,335 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster shares their challenging experience with Guardian Life regarding a Short Term Disability claim denial and seeks to provide guidance to others facing similar issues.",
+  "responses_summary": "Key advice from the community emphasizes the importance of thorough documentation, regular communication with insurance representatives, and the necessity of challenging any incorrect information provided by the insurer."
+}
+```
+2025-05-16 10:22:31,338 - WARNING - Used current summary as op_summary for 1jzx9v6
+2025-05-16 10:22:31,929 - INFO - Splitting summary for thread 1k04ub5
+2025-05-16 10:22:33,790 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a hospital indemnity insurance claim denial that occurred due to an error in their admission status by the hospital.",
+  "responses_summary": "Community members advised the poster to gather all relevant documentation, including corrected admission records, and to clearly outline the hospital's error in their appeal letter to strengthen their case."
+}
+```
+2025-05-16 10:22:33,794 - WARNING - Used current summary as op_summary for 1k04ub5
+2025-05-16 10:22:34,299 - INFO - Splitting summary for thread 1k096gd
+2025-05-16 10:22:35,535 - INFO - Successfully migrated thread 1k096gd
+2025-05-16 10:22:36,223 - INFO - Splitting summary for thread 1k0jjjb
+2025-05-16 10:22:37,489 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking assistance in resolving a claim denial for a cardiac MRI, which was denied due to a lack of prior authorization despite having obtained it.",
+  "responses_summary": "Community members advised the poster to gather all documentation, including the authorization number, and to persistently follow up with Aetna's customer service to appeal the denial."
+}
+```
+2025-05-16 10:22:37,492 - WARNING - Used current summary as op_summary for 1k0jjjb
+2025-05-16 10:22:38,489 - INFO - Splitting summary for thread 1k0yo7v
+2025-05-16 10:22:41,063 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to secure health and dental insurance for her 3-year-old child after being denied CHIP due to missing documents, while facing financial instability as a single mother.",
+  "responses_summary": "Community members advised exploring alternative insurance options, such as Medicaid, and suggested reaching out to local health departments or non-profits for assistance with the application process and necessary documentation."
+}
+```
+2025-05-16 10:22:41,065 - WARNING - Used current summary as op_summary for 1k0yo7v
+2025-05-16 10:22:41,995 - INFO - Splitting summary for thread 1k1fmi2
+2025-05-16 10:22:43,976 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a denied insurance claim for a hospital bill that was submitted late due to a hacking incident, and they want to know if they can avoid payment since it was the hospital's fault.",
+  "responses_summary": "Community members suggest gathering documentation of the hospital's hack and late billing, contacting the insurance company to explain the situation, and potentially seeking legal advice if the appeal is unsuccessful."
+}
+```
+2025-05-16 10:22:43,979 - WARNING - Used current summary as op_summary for 1k1fmi2
+2025-05-16 10:22:44,880 - INFO - Splitting summary for thread 1k1ivlh
+2025-05-16 10:22:46,577 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking insight into multiple claim denials from Cigna for outpatient visits coded as facility charges, which has resulted in unexpected bills from providers. They suspect a coding error that needs to be addressed by the providers.",
+  "responses_summary": "Community members suggest contacting Cigna for clarification on the denials and recommend that the original poster work with their providers to ensure proper coding. Some also share similar experiences and emphasize the importance of reviewing insurance policies and billing practices."
+}
+```
+2025-05-16 10:22:46,581 - WARNING - Used current summary as op_summary for 1k1ivlh
+2025-05-16 10:22:47,366 - INFO - Splitting summary for thread 1k1wb6c
+2025-05-16 10:22:50,709 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal a denial of $75k in claims for air ambulance services, which they believe should be covered under their BCBS Anthem plan due to their high-risk pregnancy. They are also concerned about the potential financial burden and whether the air ambulance service will offer a payment plan.",
+  "responses_summary": "Community members advised the original poster to gather all relevant documentation, including confirmation of coverage from member services, and to consider contacting the admitting hospital for additional support. They also suggested exploring options for negotiating the bill with the air ambulance service in case of continued denials."
+}
+```
+2025-05-16 10:22:50,711 - WARNING - Used current summary as op_summary for 1k1wb6c
+2025-05-16 10:22:51,590 - INFO - Splitting summary for thread 1k2c417
+2025-05-16 10:22:54,268 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to proceed after their baby's hypoallergenic formula claim was denied, despite being told by a representative that it would be reprocessed without an appeal. They are looking for insights from others who may have faced a similar situation.",
+  "responses_summary": "Community members advised the original poster to follow up with Aetna for updates on the reprocessing status and suggested documenting all communications. Some shared their own experiences with similar claims and emphasized the importance of persistence in dealing with insurance denials."
+}
+```
+2025-05-16 10:22:54,271 - WARNING - Used current summary as op_summary for 1k2c417
+2025-05-16 10:22:55,248 - INFO - Splitting summary for thread 1k2cc7z
+2025-05-16 10:22:56,836 - INFO - Successfully migrated thread 1k2cc7z
+2025-05-16 10:22:57,747 - INFO - Splitting summary for thread 1k2e7fh
+2025-05-16 10:22:59,973 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether to use their insurance or negotiate a $6.6K self-pay bill after a shoulder dislocation in NYC, and they are looking for negotiation tactics and strategies for handling the ambulance bill and insurance issues.",
+  "responses_summary": "Community members advised considering self-pay options to avoid high out-of-network deductibles, negotiating aggressively with the hospital for further discounts, and exploring charity care options due to the poster's income level."
+}
+```
+2025-05-16 10:22:59,975 - WARNING - Used current summary as op_summary for 1k2e7fh
+2025-05-16 10:23:00,857 - INFO - Splitting summary for thread 1k2kd2s
+2025-05-16 10:23:02,549 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to resolve a claim denial for lab work that was not submitted to their current insurance, BCBS, after a previous insurance was canceled.",
+  "responses_summary": "Community members advised the poster to contact BCBS directly to clarify the claim submission issue and suggested following up with the lab to ensure proper billing to the correct insurance."
+}
+```
+2025-05-16 10:23:02,550 - WARNING - Used current summary as op_summary for 1k2kd2s
+2025-05-16 10:23:03,265 - INFO - Splitting summary for thread 1k2musj
+2025-05-16 10:23:05,529 - INFO - Successfully migrated thread 1k2musj
+2025-05-16 10:23:06,450 - INFO - Splitting summary for thread 1k2ztco
+2025-05-16 10:23:09,228 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their doctor assured them that an out-of-network ultrasound would be fully covered by insurance, and why Anthem sent them a check instead of paying the provider directly.",
+  "responses_summary": "Community members advised that the doctor may have been mistaken about the provider's network status and suggested contacting both the doctor and Anthem for clarification. They also noted that receiving a check can happen when the insurance company processes claims differently, especially for out-of-network services."
+}
+```
+2025-05-16 10:23:09,231 - WARNING - Used current summary as op_summary for 1k2ztco
+2025-05-16 10:23:09,946 - INFO - Splitting summary for thread 1k33ab5
+2025-05-16 10:23:11,272 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to effectively manage Aetna claims after experiencing repeated denials for an out-of-network provider, despite having received prior approval for in-network coverage.",
+  "responses_summary": "Community members suggest various strategies, including mailing in claims instead of submitting them online to avoid auto-denials, and sharing personal experiences with navigating similar issues with Aetna."
+}
+```
+2025-05-16 10:23:11,277 - WARNING - Used current summary as op_summary for 1k33ab5
+2025-05-16 10:23:12,062 - INFO - Splitting summary for thread 1k38tia
+2025-05-16 10:23:13,950 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle a billing issue with a hospital that charged for services not rendered during their daughter's asthma attack, specifically regarding insurance claims and potential denials.",
+  "responses_summary": "Community members advised the poster to contact their insurance company for clarification on billing procedures and to dispute the charges with the hospital, emphasizing the importance of documenting all communications."
+}
+```
+2025-05-16 10:23:13,952 - WARNING - Used current summary as op_summary for 1k38tia
+2025-05-16 10:23:14,779 - INFO - Splitting summary for thread 1k3ak7c
+2025-05-16 10:23:16,519 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on how their new employer insurance handles prescription coverage, particularly regarding the prior authorization process for the medication Mounjaro, which is costly and may be affected by their deductible.",
+  "responses_summary": "Community members advised that prior authorization means the insurance company needs to approve the medication before coverage kicks in, and they suggested contacting Caremark or the insurance provider for detailed information on how to use the prescription card and what costs may apply."
+}
+```
+2025-05-16 10:23:16,521 - WARNING - Used current summary as op_summary for 1k3ak7c
+2025-05-16 10:23:17,036 - INFO - Splitting summary for thread 1k3srpp
+2025-05-16 10:23:19,340 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is asking about the average time it takes for a large healthcare claim to be reviewed and approved or denied, expressing concern over the impact of this delay on their out-of-pocket maximum payment. They also regret prepaying before the claim was processed.",
+  "responses_summary": "Community members advised that claim reviews can take anywhere from a few weeks to several months, depending on the insurer and complexity of the claim. They suggested contacting the insurance company for updates and possibly discussing the situation with the hospital's billing department."
+}
+```
+2025-05-16 10:23:19,343 - WARNING - Used current summary as op_summary for 1k3srpp
+2025-05-16 10:23:20,204 - INFO - Splitting summary for thread 1k3x5b2
+2025-05-16 10:23:22,474 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to lower a $1500 bill from an OBGYN visit and lab tests that were denied coverage by UHC, as she believed they should be considered preventative care.",
+  "responses_summary": "Community members suggested contacting the doctor's office to clarify the nature of the visit and potentially reclassify it as preventative, as well as reviewing UHC's guidelines for preventative services to challenge the denial."
+}
+```
+2025-05-16 10:23:22,477 - WARNING - Used current summary as op_summary for 1k3x5b2
+2025-05-16 10:23:23,204 - INFO - Splitting summary for thread 1k48cuk
+2025-05-16 10:23:24,783 - INFO - Successfully migrated thread 1k48cuk
+2025-05-16 10:23:25,362 - INFO - Splitting summary for thread 1k4hs53
+2025-05-16 10:23:26,999 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address insurance denials related to their breast reconstruction surgery, specifically concerning the claims of co-surgeons and an out-of-network doctor's excessive billing.",
+  "responses_summary": "Community members advised the poster to gather all documentation, contact their insurance for clarification on the claims, and consider appealing the denials while also reporting the out-of-network doctor's billing practices to relevant authorities."
+}
+```
+2025-05-16 10:23:27,002 - WARNING - Used current summary as op_summary for 1k4hs53
+2025-05-16 10:23:27,897 - INFO - Splitting summary for thread 1k4m201
+2025-05-16 10:23:30,181 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification and assistance regarding Aetna's unexpected limit on physical therapy visits, which was not disclosed to them or their provider, leading to potential out-of-pocket expenses.",
+  "responses_summary": "Community members advised the OP to review their insurance policy in detail, contact Aetna for a formal appeal regarding the denied visits, and consider reaching out to a local consumer protection agency for assistance with the situation."
+}
+```
+2025-05-16 10:23:30,183 - WARNING - Used current summary as op_summary for 1k4m201
+2025-05-16 10:23:31,092 - INFO - Splitting summary for thread 1k4o0b5
+2025-05-16 10:23:33,415 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking assistance in navigating health insurance options after losing coverage at 26, particularly for expensive medications, while facing financial constraints due to a trust fund.",
+  "responses_summary": "Community members advised exploring state health insurance programs, researching marketplace options, and considering contacting local health clinics for potential assistance with medication costs."
+}
+```
+2025-05-16 10:23:33,418 - WARNING - Used current summary as op_summary for 1k4o0b5
+2025-05-16 10:23:34,210 - INFO - Splitting summary for thread 1k4qp6e
+2025-05-16 10:23:36,483 - INFO - Successfully migrated thread 1k4qp6e
+2025-05-16 10:23:37,472 - INFO - Splitting summary for thread 1k4sufs
+2025-05-16 10:23:39,260 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to contest an insurance denial for an MRI that was deemed unnecessary after their surgery was postponed due to ongoing seizures, which has resulted in a significant bill they cannot afford.",
+  "responses_summary": "Community members suggested reviewing the insurance policy for coverage details, contacting the insurance company for clarification, and potentially appealing the denial with additional documentation from the surgeon regarding the necessity of the MRI."
+}
+```
+2025-05-16 10:23:39,262 - WARNING - Used current summary as op_summary for 1k4sufs
+2025-05-16 10:23:40,218 - INFO - Splitting summary for thread 1k4udaq
+2025-05-16 10:23:41,747 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether they are liable for their son's medical visits after United Healthcare denied claims due to the son having dual coverage under another plan.",
+  "responses_summary": "Community members advised that the original poster should contact United Healthcare to clarify the situation and potentially appeal the denials, while also suggesting reviewing the terms of both insurance policies to understand liability."
+}
+```
+2025-05-16 10:23:41,750 - WARNING - Used current summary as op_summary for 1k4udaq
+2025-05-16 10:23:42,579 - INFO - Splitting summary for thread 1k5bw9j
+2025-05-16 10:23:44,101 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle their employer's abrupt change to a health plan that offers less coverage at a significantly higher cost, with only five days to make a decision.",
+  "responses_summary": "Community members suggested reviewing the new plan details, considering alternative insurance options, and discussing the situation with HR or a legal advisor to explore potential recourse."
+}
+```
+2025-05-16 10:23:44,104 - WARNING - Used current summary as op_summary for 1k5bw9j
+2025-05-16 10:23:44,858 - INFO - Splitting summary for thread 1k5dvoi
+2025-05-16 10:23:48,693 - INFO - Successfully migrated thread 1k5dvoi
+2025-05-16 10:23:49,658 - INFO - Splitting summary for thread 1k5nt4l
+2025-05-16 10:23:51,863 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to report the unethical and potentially illegal actions of Evicore, who misrepresented their affiliation to obtain personal health information and subsequently denied an MRI request.",
+  "responses_summary": "Community members advised the poster to file a complaint with the Department of Health and Human Services regarding the HIPAA violation, as well as to appeal the denial through their insurance provider and consider seeking legal counsel."
+}
+```
+2025-05-16 10:23:51,865 - WARNING - Used current summary as op_summary for 1k5nt4l
+2025-05-16 10:23:52,529 - INFO - Splitting summary for thread 1k5ouqc
+2025-05-16 10:23:54,399 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their son's dental insurance denied charges for multiple wisdom tooth extractions, resulting in a significant difference between the provider's billed amount and what the insurance covered, especially since they have an HSA and haven't met their deductible.",
+  "responses_summary": "Community members advised the poster to review the Explanation of Benefits (EOB) in detail, check for billing errors, and consider appealing the insurance decision, as well as contacting the provider for clarification on the charges."
+}
+```
+2025-05-16 10:23:54,402 - WARNING - Used current summary as op_summary for 1k5ouqc
+2025-05-16 10:23:54,929 - INFO - Splitting summary for thread 1k5vd06
+2025-05-16 10:23:55,985 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is frustrated after submitting a claim for travel reimbursement related to an in-network surgery, only to receive a bill for the full cost of the trip instead of the reimbursement they expected.",
+  "responses_summary": "Community members advised the poster to contact Anthem BCBS for clarification on the billing issue and suggested documenting all communications, as well as exploring appeals for the denied reimbursement."
+}
+```
+2025-05-16 10:23:55,988 - WARNING - Used current summary as op_summary for 1k5vd06
+2025-05-16 10:23:56,679 - INFO - Splitting summary for thread 1k6d79d
+2025-05-16 10:23:59,433 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to navigate the denial of their hospitalization claim by their insurance, specifically questioning the denial of emergency room services and whether an ERISA lawyer would take on a small bill.",
+  "responses_summary": "Community members advised the poster to gather all medical documentation to support their case, consider contacting a lawyer specializing in insurance claims, and explore state-specific consumer protection resources for additional support."
+}
+```
+2025-05-16 10:23:59,437 - WARNING - Used current summary as op_summary for 1k6d79d
+2025-05-16 10:24:00,320 - INFO - Splitting summary for thread 1k6e8gt
+2025-05-16 10:24:02,955 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle a claim denial for their son's sleep study by Allied Benefit, which they believe is unjustified, and is looking for ways to escalate the issue or file a complaint.",
+  "responses_summary": "Community members suggested documenting all communications, contacting Cigna directly for assistance, and exploring state insurance commission resources for filing complaints against the TPA."
+}
+```
+2025-05-16 10:24:02,958 - WARNING - Used current summary as op_summary for 1k6e8gt
+2025-05-16 10:24:03,487 - INFO - Splitting summary for thread 1k6t9nt
+2025-05-16 10:24:04,975 - INFO - Successfully migrated thread 1k6t9nt
+2025-05-16 10:24:05,644 - INFO - Splitting summary for thread 1k6xbg5
+2025-05-16 10:24:09,034 - INFO - Successfully migrated thread 1k6xbg5
+2025-05-16 10:24:09,834 - INFO - Splitting summary for thread 1k72gwo
+2025-05-16 10:24:11,544 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on unexpected charges for diagnostic testing that they believed would be covered by their First Health network insurance, expressing confusion and concern about potential scams.",
+  "responses_summary": "Community members advised the poster to carefully review their insurance policy details, contact customer service for clarification, and consider filing a formal complaint if they feel misled about coverage."
+}
+```
+2025-05-16 10:24:11,546 - WARNING - Used current summary as op_summary for 1k72gwo
+2025-05-16 10:24:12,263 - INFO - Splitting summary for thread 1k72ui8
+2025-05-16 10:24:14,001 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on the next steps to take after their health insurance claim was denied due to outdated coordination of benefits information, which has now been updated.",
+  "responses_summary": "Community members advised the poster to contact their previous employer and BCBS to confirm the plan's status, have their PCP refile the claim through UHC, and also to reach out to Labcorp to ensure the claim is submitted correctly."
+}
+```
+2025-05-16 10:24:14,002 - WARNING - Used current summary as op_summary for 1k72ui8
+2025-05-16 10:24:14,522 - INFO - Splitting summary for thread 1k75dcq
+2025-05-16 10:24:15,991 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether they can successfully appeal a dental insurance denial for orthodontic treatment that was previously approved, due to a change in coverage eligibility based on age.",
+  "responses_summary": "Community members suggest reviewing the insurance policy details, contacting the insurance company for clarification, and considering legal advice or assistance from a consumer advocacy group to strengthen the appeal."
+}
+```
+2025-05-16 10:24:15,993 - WARNING - Used current summary as op_summary for 1k75dcq
+2025-05-16 10:24:16,942 - INFO - Splitting summary for thread 1k78tgo
+2025-05-16 10:24:18,792 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to negotiate a $13,000 bill for a follow-up procedure that their insurance denied, despite being told it would be covered.",
+  "responses_summary": "Community members suggested reviewing the insurance policy for coverage details, contacting the insurance company to appeal the denial, and negotiating directly with the hospital or provider for a reduced bill."
+}
+```
+2025-05-16 10:24:18,795 - WARNING - Used current summary as op_summary for 1k78tgo
+2025-05-16 10:24:19,607 - INFO - Splitting summary for thread 1k7lwzf
+2025-05-16 10:24:22,001 - INFO - Successfully migrated thread 1k7lwzf
+2025-05-16 10:24:22,967 - INFO - Splitting summary for thread 1k7rtb8
+2025-05-16 10:24:25,297 - INFO - Successfully migrated thread 1k7rtb8
+2025-05-16 10:24:26,116 - INFO - Splitting summary for thread 1k7ta2k
+2025-05-16 10:24:28,265 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on the legality of their insurance claim denial for a $4k test that was out of network, and they are frustrated that the hospital won't provide a discount since they have insurance.",
+  "responses_summary": "Community members advised the poster to review their insurance policy details and consider contacting the insurance company for clarification, as well as exploring options for negotiating with the hospital or seeking financial assistance."
+}
+```
+2025-05-16 10:24:28,269 - WARNING - Used current summary as op_summary for 1k7ta2k
+2025-05-16 10:24:28,813 - INFO - Splitting summary for thread 1k80ri9
+2025-05-16 10:24:30,519 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking assistance with their insurance's denial of a specialty drug prescription, which is critical for their health, especially as they prepare for an overseas trip without their medications.",
+  "responses_summary": "Community members advised the poster to advocate strongly with their healthcare providers and insurance company, suggesting they explore alternative options for obtaining their medication and emphasizing the importance of timely communication with their new cardiologist."
+}
+```
+2025-05-16 10:24:30,521 - WARNING - Used current summary as op_summary for 1k80ri9
+2025-05-16 10:24:31,504 - INFO - Splitting summary for thread 1k8iyvf
+2025-05-16 10:24:33,402 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking reassurance and advice on whether she can visit the ER without insurance due to sudden onset numbness, while also worrying about the potential financial impact on her family after being denied Medicaid.",
+  "responses_summary": "Community members generally advised that it is better to seek medical attention for her symptoms, emphasizing that non-profit ERs are required to provide care regardless of insurance status, and suggested exploring financial assistance options available for uninsured patients."
+}
+```
+2025-05-16 10:24:33,404 - WARNING - Used current summary as op_summary for 1k8iyvf
+2025-05-16 10:24:34,315 - INFO - Splitting summary for thread 1k8riq0
+2025-05-16 10:24:36,293 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on their dual health insurance coverage and is worried about potential denials for their upcoming delivery at Kaiser, especially after receiving a denial from United for a recent office visit.",
+  "responses_summary": "Community members advised the poster to ensure that Kaiser is recognized as the primary insurer before delivery and suggested contacting both insurance companies for clarification, as well as considering the timing of the delivery in relation to the insurance changes."
+}
+```
+2025-05-16 10:24:36,296 - WARNING - Used current summary as op_summary for 1k8riq0
+2025-05-16 10:24:37,212 - INFO - Splitting summary for thread 1k8urhy
+2025-05-16 10:24:39,051 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to avoid insurance denials for medical tests in the future, how to negotiate medical charges, and expressing frustration with the lack of transparency in the US healthcare system.",
+  "responses_summary": "Community members advised the poster to communicate with their healthcare provider about test costs beforehand, consider appealing the insurance denial, and explore options for negotiating bills with the lab or provider."
+}
+```
+2025-05-16 10:24:39,054 - WARNING - Used current summary as op_summary for 1k8urhy
+2025-05-16 10:24:39,892 - INFO - Splitting summary for thread 1ka1zh2
+2025-05-16 10:24:41,252 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on whether they need to contact each provider for refunds after hitting their out-of-pocket maximum, if refunds are processed automatically, and whether they should continue paying invoices to avoid collections.",
+  "responses_summary": "Community members advised the poster to keep detailed records of payments and communications with both providers and the insurance company, and suggested that they should not pay additional invoices until the situation is resolved, as refunds may be processed automatically once the insurance claim is finalized."
+}
+```
+2025-05-16 10:24:41,254 - WARNING - Used current summary as op_summary for 1ka1zh2
+2025-05-16 10:24:42,062 - INFO - Splitting summary for thread 1ka6fuu
+2025-05-16 10:24:43,675 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to navigate the appeals process with Cigna after their prescription medication coverage was denied despite prior authorization and justification from their doctor.",
+  "responses_summary": "Community members suggested keeping detailed records of all communications, considering legal advice, and exploring alternative avenues for appeal, such as contacting state insurance regulators."
+}
+```
+2025-05-16 10:24:43,678 - WARNING - Used current summary as op_summary for 1ka6fuu
+2025-05-16 10:24:44,233 - INFO - Splitting summary for thread 1ka6oto
+2025-05-16 10:24:45,982 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to handle insurance coverage for multiple surgical opinions without incurring unexpected costs, particularly regarding whether to cancel follow-up appointments with two surgeons.",
+  "responses_summary": "Community members advised the poster to attend the follow-up appointments to gather necessary information, while also recommending that they clarify their insurer's policies on second and third opinions to ensure coverage for a closer surgeon."
+}
+```
+2025-05-16 10:24:45,983 - WARNING - Used current summary as op_summary for 1ka6oto
+2025-05-16 10:24:46,778 - INFO - Splitting summary for thread 1ka7d9d
+2025-05-16 10:24:48,245 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on whether they can fill their prescriptions out of pocket after losing Medicaid coverage and if the refill requests submitted by their psychiatrist will still be valid.",
+  "responses_summary": "Community members advised that prescriptions typically remain valid for a certain period after coverage ends, and suggested contacting the pharmacy for specific policies. They also recommended exploring short-term insurance options or assistance programs to help cover costs."
+}
+```
+2025-05-16 10:24:48,248 - WARNING - Used current summary as op_summary for 1ka7d9d
+2025-05-16 10:24:49,046 - INFO - Splitting summary for thread 1kaafsu
+2025-05-16 10:24:51,099 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to effectively appeal their insurance company's denial of a medically necessary EEG, which is critical for managing their epilepsy treatment.",
+  "responses_summary": "Community members suggest gathering comprehensive medical documentation, including a letter from the neurologist emphasizing the necessity of the EEG, and exploring the appeals process outlined by the insurance company, as well as considering contacting patient advocacy groups for additional support."
+}
+```
+2025-05-16 10:24:51,102 - WARNING - Used current summary as op_summary for 1kaafsu
+2025-05-16 10:24:52,042 - INFO - Splitting summary for thread 1kaeled
+2025-05-16 10:24:53,699 - INFO - Successfully migrated thread 1kaeled
+2025-05-16 10:24:54,380 - INFO - Splitting summary for thread 1kaewm0
+2025-05-16 10:24:56,109 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to proceed after their insurance company failed to respond to a request for additional physical therapy authorizations, which were previously denied as not medically necessary.",
+  "responses_summary": "Community members suggested following up persistently with the insurance company, considering filing a formal complaint with the state insurance department, and exploring options for legal assistance or advocacy groups that specialize in insurance issues."
+}
+```
+2025-05-16 10:24:56,111 - WARNING - Used current summary as op_summary for 1kaewm0
+2025-05-16 10:24:57,016 - INFO - Splitting summary for thread 1kasu4z
+2025-05-16 10:24:59,230 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to address the denial of two claims by Aetna for their son's surgery, despite confirming that the surgeon was in-network.",
+  "responses_summary": "Community members advised the poster to gather all documentation, including verification from the surgeon's office, and to appeal the claims denial with Aetna, emphasizing the importance of persistence in dealing with insurance issues."
+}
+```
+2025-05-16 10:24:59,233 - WARNING - Used current summary as op_summary for 1kasu4z
+2025-05-16 10:24:59,975 - INFO - Splitting summary for thread 1kat6u9
+2025-05-16 10:25:01,459 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to resolve ongoing issues with their insurance denying payment for a hospital bill due to billing errors, and is considering legal representation despite financial constraints.",
+  "responses_summary": "Community members suggested that the poster's husband work with his HR department to advocate on their behalf with the insurance company, and emphasized the importance of keeping detailed records of all communications."
+}
+```
+2025-05-16 10:25:01,462 - WARNING - Used current summary as op_summary for 1kat6u9
+2025-05-16 10:25:02,221 - INFO - Splitting summary for thread 1kazmek
+2025-05-16 10:25:03,599 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking assistance with GEHA claim denials that require a Medicare EOB, despite not having Medicare and having made multiple appeals without resolution.",
+  "responses_summary": "Community members suggested escalating the issue by contacting higher-level customer service representatives, filing a complaint with the insurance commissioner, or seeking help from a federal employee benefits office."
+}
+```
+2025-05-16 10:25:03,601 - WARNING - Used current summary as op_summary for 1kazmek
+2025-05-16 10:25:04,383 - INFO - Splitting summary for thread 1kbitce
+2025-05-16 10:25:06,230 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle unexpected denials from their insurance for ER doctor and nurse services, despite the hospital being in-network, and is concerned about potential bills they might receive.",
+  "responses_summary": "Community members advised the poster to appeal the insurance denials, contact the hospital for assistance, and consider negotiating with the out-of-network providers for a reduced rate or payment plan."
+}
+```
+2025-05-16 10:25:06,233 - WARNING - Used current summary as op_summary for 1kbitce
+2025-05-16 10:25:06,826 - INFO - Splitting summary for thread 1kbm0g3
+2025-05-16 10:25:08,881 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to resolve a dental insurance denial caused by a prior authorization mistake made by their dentist two years ago, and whether their dentist would absorb the costs if the insurance does not pay.",
+  "responses_summary": "Community members advised the poster to ensure their dentist voids the incorrect prior authorization and resubmits for the correct tooth, while also suggesting they check their insurance policy for any time limits on claims. Many emphasized the importance of clear communication with both the dentist's office and the insurance company to resolve the issue."
+}
+```
+2025-05-16 10:25:08,884 - WARNING - Used current summary as op_summary for 1kbm0g3
+2025-05-16 10:25:09,474 - INFO - Splitting summary for thread 1kbn30a
+2025-05-16 10:25:11,482 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to contact a competent representative at GEHA to resolve issues with their website login and inconsistent information regarding their claims.",
+  "responses_summary": "Community members suggested various methods to reach GEHA, including using social media for quicker responses and recommending persistence in calling until a knowledgeable representative is reached."
+}
+```
+2025-05-16 10:25:11,485 - WARNING - Used current summary as op_summary for 1kbn30a
+2025-05-16 10:25:12,445 - INFO - Splitting summary for thread 1kbqmd0
+2025-05-16 10:25:14,628 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on the implications of FSA claim denials for their deceased father-in-law, specifically whether the healthcare provider will pursue payment or if the claims will be written off due to the time elapsed since the services were rendered.",
+  "responses_summary": "Community members advised the poster to contact the FSA provider for detailed information and suggested that, given the circumstances, it is possible the claims may be written off, but confirmation from the provider is essential."
+}
+```
+2025-05-16 10:25:14,632 - WARNING - Used current summary as op_summary for 1kbqmd0
+2025-05-16 10:25:15,287 - INFO - Splitting summary for thread 1kc1rbe
+2025-05-16 10:25:16,797 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle a claim denial for a physical exam after being assured by their doctor's office that they accepted their new insurance, which has resulted in a bill of over $2000.",
+  "responses_summary": "Community members advised the poster to contact their insurance company for clarification, appeal the denial, and potentially negotiate with the doctor's office for a reduced payment or payment plan."
+}
+```
+2025-05-16 10:25:16,800 - WARNING - Used current summary as op_summary for 1kc1rbe
+2025-05-16 10:25:17,377 - INFO - Splitting summary for thread 1kcbv89
+2025-05-16 10:25:18,823 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on their rights regarding a denied claim for a CT scan due to lack of pre-authorization, and they are unsure about the appeal process and whether they need to pay the bill while appealing.",
+  "responses_summary": "Community members advised the OP to thoroughly document all communications, consider seeking assistance from a patient advocate, and emphasized the importance of following the appeal process as outlined by their insurance provider."
+}
+```
+2025-05-16 10:25:18,826 - WARNING - Used current summary as op_summary for 1kcbv89
+2025-05-16 10:25:19,479 - INFO - Splitting summary for thread 1kckf0e
+2025-05-16 10:25:22,235 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address an $18,000 bill for Humira caused by a pharmacy billing error and subsequent denial of reimbursement by UnitedHealthcare, despite having active insurance at the time.",
+  "responses_summary": "Community members suggested exploring options such as filing a complaint with the state insurance department, seeking a refund from NALC, and considering legal assistance to address the billing issues."
+}
+```
+2025-05-16 10:25:22,237 - WARNING - Used current summary as op_summary for 1kckf0e
+2025-05-16 10:25:23,096 - INFO - Splitting summary for thread 1kcp6r2
+2025-05-16 10:25:24,558 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is questioning the legitimacy of claims filed for nursing facility care after their father-in-law's death and is considering contacting the insurance company to report potential fraud.",
+  "responses_summary": "Community members advised the original poster to contact the insurance company for clarification on the claims and suggested that billing for services after death is generally not appropriate, indicating potential issues with the claims."
+}
+```
+2025-05-16 10:25:24,559 - WARNING - Used current summary as op_summary for 1kcp6r2
+2025-05-16 10:25:25,278 - INFO - Splitting summary for thread 1kcpzq3
+2025-05-16 10:25:26,386 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to appeal a denial from Meridian Health for their family member's inpatient behavioral treatment, specifically asking about necessary documentation and steps to take.",
+  "responses_summary": "Community members advised gathering supporting documentation from the hospital staff, including letters from the ER physician and social worker, and suggested contacting the hospital's financial advocacy team for assistance with the appeal process."
+}
+```
+2025-05-16 10:25:26,389 - WARNING - Used current summary as op_summary for 1kcpzq3
+2025-05-16 10:25:27,219 - INFO - Splitting summary for thread 1kd1ncs
+2025-05-16 10:25:29,134 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to proceed with over 100 blood tests that their insurance claims are covered, but they are worried about potential denials from a third-party company that could leave them financially responsible.",
+  "responses_summary": "Community members advised the poster to get everything in writing from their insurance, consider asking for a pre-authorization despite being told it's not available, and explore alternative labs or payment plans to mitigate financial risk."
+}
+```
+2025-05-16 10:25:29,138 - WARNING - Used current summary as op_summary for 1kd1ncs
+2025-05-16 10:25:29,908 - INFO - Splitting summary for thread 1kd7trd
+2025-05-16 10:25:32,048 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to ensure their external review is taken seriously after a claim denial for an IUD insertion due to incorrect coding, and they are also looking for ways to compel the provider to correct the diagnosis code.",
+  "responses_summary": "Community members advised the poster to gather all relevant documentation, including the appeal letter and any communication with the provider, and to consider contacting a patient advocate or legal assistance to help navigate the external review process."
+}
+```
+2025-05-16 10:25:32,050 - WARNING - Used current summary as op_summary for 1kd7trd
+2025-05-16 10:25:32,702 - INFO - Splitting summary for thread 1kdbrkw
+2025-05-16 10:25:34,886 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle their insurance denying coverage for a previously approved procedure, which has now led to a debt collection issue, despite assurances of coverage from their health plan.",
+  "responses_summary": "Community members advised the poster to gather all documentation related to the insurance approval and denial, consider appealing the denial, and explore options for negotiating with the clinic or seeking legal assistance to resolve the debt collection issue."
+}
+```
+2025-05-16 10:25:34,889 - WARNING - Used current summary as op_summary for 1kdbrkw
+2025-05-16 10:25:35,812 - INFO - Splitting summary for thread 1kdffq6
+2025-05-16 10:25:37,395 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is inquiring if others have experienced a similar situation with UHC, where a claim was denied and then approved, leading to an excessive number of approval letters being received.",
+  "responses_summary": "Community members shared their own experiences with insurance claim denials and approvals, suggesting that the multiple letters could be a clerical error and advising the OP to contact UHC for clarification."
+}
+```
+2025-05-16 10:25:37,401 - WARNING - Used current summary as op_summary for 1kdffq6
+2025-05-16 10:25:37,993 - INFO - Splitting summary for thread 1kdg70c
+2025-05-16 10:25:39,510 - INFO - Successfully migrated thread 1kdg70c
+2025-05-16 10:25:40,305 - INFO - Splitting summary for thread 1kdgzmq
+2025-05-16 10:25:42,597 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on recourse options after facing repeated denials from their Medicare Advantage plan for necessary surgeries, which have severely impacted their health and quality of life.",
+  "responses_summary": "Community members advised exploring further appeals, contacting Medicare directly for assistance, and considering legal options or advocacy groups that specialize in healthcare insurance issues."
+}
+```
+2025-05-16 10:25:42,600 - WARNING - Used current summary as op_summary for 1kdgzmq
+2025-05-16 10:25:43,363 - INFO - Splitting summary for thread 1kdu2p6
+2025-05-16 10:25:46,560 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address a $2,319 bill for a routine urine drug test that was denied by insurance due to being out of network, and they are questioning the necessity of the extensive testing ordered.",
+  "responses_summary": "Community members advised the poster to contact their insurance company for clarification on the denial, appeal the decision, and consider discussing the situation with their doctor to verify the tests ordered and explore options for reducing the bill."
+}
+```
+2025-05-16 10:25:46,562 - WARNING - Used current summary as op_summary for 1kdu2p6
+2025-05-16 10:25:47,132 - INFO - Splitting summary for thread 1ke5eox
+2025-05-16 10:25:49,477 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their insurance claim for an ER visit was denied due to the hospital being out of network, despite their EOB stating they owe $0. They are concerned whether this situation will change with the final billing.",
+  "responses_summary": "Community members advised the OP to contact their insurance company for clarification on the denial and to confirm the final billing details. Some suggested that the $0 owed might indicate that the insurance company has negotiated the charges, but final confirmation is necessary."
+}
+```
+2025-05-16 10:25:49,481 - WARNING - Used current summary as op_summary for 1ke5eox
+2025-05-16 10:25:50,135 - INFO - Splitting summary for thread 1kes85f
+2025-05-16 10:25:52,052 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address claim denials for out-of-network telehealth behavioral therapy services, despite their insurance plan offering reimbursement for out-of-network mental health services.",
+  "responses_summary": "Community members suggest reviewing the insurance policy for specific telehealth coverage details, contacting the insurance company for clarification, and potentially appealing the denial with additional documentation from the therapist."
+}
+```
+2025-05-16 10:25:52,053 - WARNING - Used current summary as op_summary for 1kes85f
+2025-05-16 10:25:52,720 - INFO - Splitting summary for thread 1keu7zm
+2025-05-16 10:25:54,168 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on who is responsible for resubmitting a denied healthcare claim due to a mismatch with a Diagnostic Related Grouping.",
+  "responses_summary": "Community members generally advised that the hospital or healthcare provider is typically responsible for resubmitting the claim, but the patient should follow up to ensure it is done."
+}
+```
+2025-05-16 10:25:54,170 - WARNING - Used current summary as op_summary for 1keu7zm
+2025-05-16 10:25:54,780 - INFO - Splitting summary for thread 1kezzjc
+2025-05-16 10:25:56,858 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to navigate multiple healthcare insurance denials for necessary treatments, including physical therapy and medications, after their employer switched to a new self-funded plan.",
+  "responses_summary": "Community members advised the poster to gather all documentation, including previous approvals, and to escalate the issues to higher management within the insurance company or HR, while also considering filing formal appeals and seeking assistance from patient advocacy groups."
+}
+```
+2025-05-16 10:25:56,860 - WARNING - Used current summary as op_summary for 1kezzjc
+2025-05-16 10:25:57,582 - INFO - Splitting summary for thread 1kfeg0q
+2025-05-16 10:25:59,096 - INFO - Successfully migrated thread 1kfeg0q
+2025-05-16 10:26:00,053 - INFO - Splitting summary for thread 1kfi72y
+2025-05-16 10:26:01,971 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to resolve a denied insurance claim for a NICU bill, as both the hospital and insurance company are blaming each other and refusing to communicate.",
+  "responses_summary": "Community members advised the poster to gather all documentation, consider filing a formal appeal with the insurance company, and potentially seek assistance from a patient advocate or legal aid to navigate the situation."
+}
+```
+2025-05-16 10:26:01,974 - WARNING - Used current summary as op_summary for 1kfi72y
+2025-05-16 10:26:02,806 - INFO - Splitting summary for thread 1kflcba
+2025-05-16 10:26:05,017 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle the denial of dental coverage for her husband due to his immigration status, which has resulted in a nearly $3,000 bill for necessary dental procedures that were initiated under the assumption of coverage.",
+  "responses_summary": "Community members advised the poster to appeal the insurance denials, emphasizing the importance of reviewing the dentist's participation in the network and the implications of the denial reasons, while also suggesting contacting legal aid or advocacy groups for assistance with the situation."
+}
+```
+2025-05-16 10:26:05,019 - WARNING - Used current summary as op_summary for 1kflcba
+2025-05-16 10:26:05,786 - INFO - Splitting summary for thread 1kfp9zb
+2025-05-16 10:26:07,962 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking insights on why their ambulance claim was denied by United Healthcare as out of network and is looking for advice on how to engage with UHC to dispute the denial.",
+  "responses_summary": "Community members advised the poster to review their insurance policy for coverage details, contact UHC for clarification on the denial, and consider filing an appeal, emphasizing the importance of documenting all communications."
+}
+```
+2025-05-16 10:26:07,968 - WARNING - Used current summary as op_summary for 1kfp9zb
+2025-05-16 10:26:08,761 - INFO - Splitting summary for thread 1kfpl85
+2025-05-16 10:26:10,092 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to appeal an insurance denial for critical care coverage, which was classified as a recurrence of cancer within 180 days despite having two separate occurrences in different breasts.",
+  "responses_summary": "Community members suggested gathering medical documentation to support the claim of separate occurrences and recommended contacting the insurance company for clarification on their policies regarding cancer diagnoses."
+}
+```
+2025-05-16 10:26:10,095 - WARNING - Used current summary as op_summary for 1kfpl85
+2025-05-16 10:26:10,816 - INFO - Splitting summary for thread 1kfpvmj
+2025-05-16 10:26:13,227 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address a surprise $9k medical bill for genetic testing that was denied by insurance, despite being told the self-pay cost would be much lower. They are feeling panicked about the financial implications of this situation.",
+  "responses_summary": "Community members advised the poster to contact their insurance company for clarification on the denial, appeal the decision, and gather documentation to support their case. They also suggested reaching out to the healthcare provider for assistance and exploring financial assistance options."
+}
+```
+2025-05-16 10:26:13,230 - WARNING - Used current summary as op_summary for 1kfpvmj
+2025-05-16 10:26:13,804 - INFO - Splitting summary for thread 1kfrlod
+2025-05-16 10:26:15,650 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether they can appeal a denial for a preventive lab test due to a mid-year coverage change by Cigna, which they were not notified about.",
+  "responses_summary": "Community members advised the poster to review their policy documents for any notification requirements and suggested contacting Cigna's customer service for clarification, as well as considering filing a formal appeal based on the lack of notification."
+}
+```
+2025-05-16 10:26:15,653 - WARNING - Used current summary as op_summary for 1kfrlod
+2025-05-16 10:26:16,210 - INFO - Splitting summary for thread 1kg0l8x
+2025-05-16 10:26:18,094 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on the process and likelihood of obtaining a non-formulary exception for Zepbound after Caremark removed it from coverage, particularly regarding the necessary documentation and criteria for approval.",
+  "responses_summary": "Community members provided insights on the appeal process, emphasizing the importance of detailed medical documentation and the potential need for evidence of severe side effects from alternative medications to increase the chances of approval."
+}
+```
+2025-05-16 10:26:18,099 - WARNING - Used current summary as op_summary for 1kg0l8x
+2025-05-16 10:26:19,073 - INFO - Splitting summary for thread 1kgdncj
+2025-05-16 10:26:21,270 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to obtain insurance coverage for a medically necessary breast reduction surgery, which is currently excluded under their husband's employer's insurance plan, and is unsure about the financial implications of self-paying versus obtaining a new policy.",
+  "responses_summary": "Community members advised exploring marketplace options for individual insurance plans, checking for specific coverage for breast reduction, and suggested consulting with the surgeon's office for guidance on insurance appeals and potential coverage options."
+}
+```
+2025-05-16 10:26:21,272 - WARNING - Used current summary as op_summary for 1kgdncj
+2025-05-16 10:26:22,049 - INFO - Splitting summary for thread 1kglhbw
+2025-05-16 10:26:23,949 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to address a $1500 bill for an MRI that was denied by their insurance due to not obtaining a referral from their PCP, which they were unaware of.",
+  "responses_summary": "Community members suggested contacting the insurance company to appeal the denial, reaching out to the urgent care provider for assistance, and exploring options for financial aid or payment plans."
+}
+```
+2025-05-16 10:26:23,950 - WARNING - Used current summary as op_summary for 1kglhbw
+2025-05-16 10:26:24,734 - INFO - Splitting summary for thread 1kgmllm
+2025-05-16 10:26:27,377 - INFO - Successfully migrated thread 1kgmllm
+2025-05-16 10:26:27,975 - INFO - Splitting summary for thread 1kgnjqu
+2025-05-16 10:26:29,703 - INFO - Successfully migrated thread 1kgnjqu
+2025-05-16 10:26:30,440 - INFO - Splitting summary for thread 1kgosbd
+2025-05-16 10:26:31,552 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on which insurance, Meritain or Excellus, is responsible for paying their hospital bill incurred before their child's birth, as they are facing a claim denial from Meritain.",
+  "responses_summary": "Community members advised the poster to gather documentation from both insurance companies, confirm the effective dates of coverage, and consider appealing the denial with detailed information about their situation."
+}
+```
+2025-05-16 10:26:31,555 - WARNING - Used current summary as op_summary for 1kgosbd
+2025-05-16 10:26:32,544 - INFO - Splitting summary for thread 1kgpnfl
+2025-05-16 10:26:34,759 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether they should inform Medicaid about their new job and health insurance, as they are concerned about potential issues with dual coverage after experiencing a claim denial in the past.",
+  "responses_summary": "Community members advised the poster to report their new income to Medicaid to avoid any issues with eligibility, and suggested keeping documentation of both insurances to prevent future claim denials."
+}
+```
+2025-05-16 10:26:34,762 - WARNING - Used current summary as op_summary for 1kgpnfl
+2025-05-16 10:26:35,729 - INFO - Splitting summary for thread 1khemm5
+2025-05-16 10:26:37,599 - INFO - Successfully migrated thread 1khemm5
+2025-05-16 10:26:38,303 - INFO - Splitting summary for thread 1khgzio
+2025-05-16 10:26:41,274 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on why their claims for specialist visits were denied despite the specialist accepting Aetna insurance and having a referral from their primary care doctor. They are concerned about potential financial responsibility for the denied claims.",
+  "responses_summary": "Community members advised the poster to contact their insurance company for clarification on the denial reasons and to verify if the specialist is indeed in-network. They also suggested checking if the referral was processed correctly and recommended discussing the situation with the specialist's office."
+}
+```
+2025-05-16 10:26:41,276 - WARNING - Used current summary as op_summary for 1khgzio
+2025-05-16 10:26:42,148 - INFO - Splitting summary for thread 1khvvpy
+2025-05-16 10:26:43,692 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to successfully appeal UMR's denial of coverage for their son's corrective surgery for severe pectus excavatum, despite a strong recommendation from his surgeon.",
+  "responses_summary": "Community members are offering suggestions on how to strengthen the appeal, including gathering additional medical documentation, seeking support from advocacy groups, and emphasizing the long-term health implications of the condition."
+}
+```
+2025-05-16 10:26:43,696 - WARNING - Used current summary as op_summary for 1khvvpy
+2025-05-16 10:26:44,378 - INFO - Splitting summary for thread 1khyfib
+2025-05-16 10:26:45,928 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on whether to contest the denial of their cancer gene blood test claim by Cigna, despite being informed it would be covered by insurance, and is confused about the financial implications of the denial.",
+  "responses_summary": "Community members advised the poster to contact their healthcare provider for clarification and assistance in appealing the denial, as well as to review their insurance policy for coverage details."
+}
+```
+2025-05-16 10:26:45,930 - WARNING - Used current summary as op_summary for 1khyfib
+2025-05-16 10:26:46,623 - INFO - Splitting summary for thread 1ki6rdm
+2025-05-16 10:26:48,172 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster expresses frustration over being denied an MRI three times, despite its necessity for their condition, and seeks to hear others' experiences with insurance claim denials.",
+  "responses_summary": "Community members share their own stories of insurance denials, often highlighting similar frustrations and providing advice on how to appeal decisions or navigate the insurance process."
+}
+```
+2025-05-16 10:26:48,176 - WARNING - Used current summary as op_summary for 1ki6rdm
+2025-05-16 10:26:48,854 - INFO - Splitting summary for thread 1kiltv2
+2025-05-16 10:26:50,477 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is questioning the ethics of being billed $390 for an annual wellness exam due to two separate billing codes and is seeking advice on whether they have grounds to appeal the claim.",
+  "responses_summary": "Community members advised the OP to review their insurance policy for coverage details, consider contacting their insurance company for clarification, and potentially appeal the charges if they believe the billing was inappropriate."
+}
+```
+2025-05-16 10:26:50,478 - WARNING - Used current summary as op_summary for 1kiltv2
+2025-05-16 10:26:51,430 - INFO - Splitting summary for thread 1kitdgx
+2025-05-16 10:26:53,348 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice and support regarding Aetna's incorrect classification of their PrEP prescription as HIV treatment, which has led to improper charges and denials despite their efforts to appeal the decision.",
+  "responses_summary": "Community members offered suggestions such as contacting advocacy groups for assistance, sharing personal experiences with similar insurance issues, and emphasizing the importance of documenting all communications with the insurance company."
+}
+```
+2025-05-16 10:26:53,352 - WARNING - Used current summary as op_summary for 1kitdgx
+2025-05-16 10:26:54,021 - INFO - Splitting summary for thread 1kjgvx4
+2025-05-16 10:26:56,007 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking help and advice regarding their uncle's situation with Humana, which has denied coverage for necessary therapy after a hospital stay, leaving him with significant out-of-pocket costs and complications with nursing home care.",
+  "responses_summary": "Community members are likely to suggest exploring options for appealing the denial with Humana, contacting Medicare for clarification on coverage, and seeking legal advice regarding the nursing home situation and potential rights under the insurance policy."
+}
+```
+2025-05-16 10:26:56,011 - WARNING - Used current summary as op_summary for 1kjgvx4
+2025-05-16 10:26:56,626 - INFO - Splitting summary for thread 1kjhx53
+2025-05-16 10:26:59,690 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether to file an appeal for their medication coverage after it is denied by their insurance company, as it will no longer be covered starting July 1. They are concerned about the costs involved and the likelihood of a successful appeal.",
+  "responses_summary": "Community members suggest documenting the medication's impact and gathering support from the healthcare provider to strengthen the appeal. They also recommend reviewing the insurance policy for any potential loopholes or exceptions that could apply."
+}
+```
+2025-05-16 10:26:59,693 - WARNING - Used current summary as op_summary for 1kjhx53
+2025-05-16 10:27:00,344 - INFO - Splitting summary for thread 1kjjdw2
+2025-05-16 10:27:02,720 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on whether their insurance will cover a $35,000 bill for their newborn once the baby is officially added as a dependent, and they are confused about a NICU charge for services that were not provided.",
+  "responses_summary": "Community members advised the poster to confirm the status of the baby's insurance enrollment and suggested contacting the insurance company for clarification on the NICU charge, as well as exploring options for appealing the denial."
+}
+```
+2025-05-16 10:27:02,726 - WARNING - Used current summary as op_summary for 1kjjdw2
+2025-05-16 10:27:03,557 - INFO - Splitting summary for thread 1kjply3
+2025-05-16 10:27:05,454 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking clarification on whether they will be responsible for the full payment of a bone stimulator device if their insurance appeal is denied, especially since they were initially informed that it was approved.",
+  "responses_summary": "Community members advised the poster to keep detailed records of all communications with the insurance and the bone stimulator company, and suggested exploring options for financial assistance or negotiating payment plans if the appeal fails."
+}
+```
+2025-05-16 10:27:05,455 - WARNING - Used current summary as op_summary for 1kjply3
+2025-05-16 10:27:06,433 - INFO - Splitting summary for thread 1kkhjvf
+2025-05-16 10:27:08,131 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to get hospital charges dismissed after their insurance stated that the hospital did not file the claim within the required 90-day period, leaving them worried about potential collections.",
+  "responses_summary": "Community members advised the poster to document all communications with the hospital and insurance, consider filing a formal complaint with the state insurance commissioner, and explore options for legal assistance or patient advocacy groups to help resolve the issue."
+}
+```
+2025-05-16 10:27:08,134 - WARNING - Used current summary as op_summary for 1kkhjvf
+2025-05-16 10:27:08,918 - INFO - Splitting summary for thread 1kkozsw
+2025-05-16 10:27:10,483 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to effectively appeal denied claims for emergency childbirth care from GeoBlue, which they believe are covered by their policy, and are feeling demoralized by the insurance company's lack of acknowledgment.",
+  "responses_summary": "Community members suggest gathering all relevant medical records, consulting with a healthcare advocate or attorney specializing in insurance claims, and documenting all communications with GeoBlue to strengthen the appeal process."
+}
+```
+2025-05-16 10:27:10,484 - WARNING - Used current summary as op_summary for 1kkozsw
+2025-05-16 10:27:10,994 - INFO - Splitting summary for thread 1kl8r6d
+2025-05-16 10:27:12,778 - INFO - Successfully migrated thread 1kl8r6d
+2025-05-16 10:27:13,307 - INFO - Splitting summary for thread 1klltkt
+2025-05-16 10:27:15,227 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking health insurance after being denied by United Health Care due to pre-existing conditions and is unable to enroll in Obamacare outside of open enrollment. They are exploring options for temporary coverage until they can secure a more permanent solution.",
+  "responses_summary": "Community members advised the poster to consider alternative insurance providers like Cigna and to thoroughly research the terms of the gap insurance policy from Aetna to ensure it meets their needs without hidden exclusions."
+}
+```
+2025-05-16 10:27:15,230 - WARNING - Used current summary as op_summary for 1klltkt
+2025-05-16 10:27:16,092 - INFO - Splitting summary for thread 1klute9
+2025-05-16 10:27:17,943 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on whether to add their newborn to their insurance plan or their wife's, considering potential complications with claims and costs.",
+  "responses_summary": "Community members generally advised adding the baby to the wife's plan to avoid potential issues with retroactive denials, emphasizing the importance of consistency with the hospital's registration."
+}
+```
+2025-05-16 10:27:17,946 - WARNING - Used current summary as op_summary for 1klute9
+2025-05-16 10:27:18,770 - INFO - Splitting summary for thread 1km3xcx
+2025-05-16 10:27:20,787 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking guidance on how to navigate the situation of having paid their daughter's deductible twice due to a denied claim and is frustrated with the lack of progress on the appeal process.",
+  "responses_summary": "Community members advised the poster to document all communications with Cigna and the provider, consider escalating the issue to a supervisor, and explore filing a complaint with state insurance regulators if the situation does not improve."
+}
+```
+2025-05-16 10:27:20,790 - WARNING - Used current summary as op_summary for 1km3xcx
+2025-05-16 10:27:21,671 - INFO - Splitting summary for thread 1km6fyr
+2025-05-16 10:27:23,443 - INFO - Successfully migrated thread 1km6fyr
+2025-05-16 10:27:23,961 - INFO - Splitting summary for thread 1kmphzt
+2025-05-16 10:27:25,905 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to negotiate a high bill for a blood test that was denied by insurance as not medically necessary, and they want to avoid damaging their credit while paying a fair price.",
+  "responses_summary": "Community members suggest contacting the billing department to negotiate based on the network rate, exploring financial assistance programs, and considering filing a complaint with the insurance company or state regulators if necessary."
+}
+```
+2025-05-16 10:27:25,906 - WARNING - Used current summary as op_summary for 1kmphzt
+2025-05-16 10:27:26,471 - INFO - Splitting summary for thread 1kn00im
+2025-05-16 10:27:28,213 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking advice on how to handle a denied claim for oxygen supplies from UHC, which they were unaware was out of network, and is also inquiring about the possibility of obtaining recorded evidence of UHC's previous assurances of coverage.",
+  "responses_summary": "Community members suggested contacting UHC again to request a detailed explanation of the denial, exploring the possibility of an appeal, and checking if the new in-network provider can assist with the transition and billing issues."
+}
+```
+2025-05-16 10:27:28,216 - WARNING - Used current summary as op_summary for 1kn00im
+2025-05-16 10:27:28,781 - INFO - Splitting summary for thread 1knb76e
+2025-05-16 10:27:30,149 - WARNING - Response is not properly formatted JSON: ```json
+{
+  "op_summary": "The original poster is seeking tips or tricks to save money and get necessary treatment for their health issues, particularly in light of high out-of-pocket costs and frustrations with their health insurance plan.",
+  "responses_summary": "Community members suggest exploring alternative payment options, negotiating with healthcare providers, and looking into financial assistance programs or sliding scale clinics to reduce costs."
+}
+```
+2025-05-16 10:27:30,153 - WARNING - Used current summary as op_summary for 1knb76e
+2025-05-16 10:27:30,681 - INFO - Migration complete. Migrated 261 out of 261 analyses
+2025-05-16 10:27:30,681 - INFO - Migration completed successfully

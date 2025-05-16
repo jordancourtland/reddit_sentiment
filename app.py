@@ -3,6 +3,7 @@ import sqlite3
 from datetime import datetime
 import json
 from analysis_db import AnalysisDB
+import os
 
 app = Flask(__name__)
 analysis_db = AnalysisDB()
@@ -52,7 +53,8 @@ def get_posts():
                         if analysis:
                             analysis_dict = dict(analysis)
                             # Add analysis data to post
-                            post['summary'] = analysis_dict.get('summary')
+                            post['op_summary'] = analysis_dict.get('op_summary')
+                            post['responses_summary'] = analysis_dict.get('responses_summary')
                             post['persona_fit'] = analysis_dict.get('persona_fit')
                             post['confidence'] = analysis_dict.get('confidence')
                             post['fit_explanation'] = analysis_dict.get('fit_explanation')
@@ -69,7 +71,8 @@ def get_posts():
                                 post['options_suggested'] = []
                         else:
                             # Add empty analysis fields
-                            post['summary'] = None
+                            post['op_summary'] = None
+                            post['responses_summary'] = None
                             post['persona_fit'] = None
                             post['confidence'] = None
                             post['fit_explanation'] = None
@@ -134,4 +137,6 @@ def get_stats():
         conn.close()
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5001) 
+    # For local development
+    port = int(os.environ.get('PORT', 5001))
+    app.run(host='0.0.0.0', port=port, debug=True) 

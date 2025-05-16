@@ -236,9 +236,80 @@ def crawl_once():
                     print(f"Error processing post {p['data'].get('id', 'unknown')}: {str(e)}")
                     continue
 
+def update_post_metadata(post_id, post_data):
+    """Update the metadata for a post with the latest data from Reddit."""
+    try:
+        con.execute("""
+            UPDATE reddit_posts SET
+                score = ?,
+                num_comments = ?
+            WHERE id = ?
+        """, (
+            post_data["score"],
+            post_data["num_comments"],
+            post_id
+        ))
+        con.commit()
+        return True
+    except Exception as e:
+        print(f"Error updating metadata for post {post_id}: {str(e)}")
+        return False
+
+def update_all_threads_with_new_comments():
+    """Update any thread with new comments by checking Reddit first."""
+    
+    # Get ALL threads from database
+    posts = con.execute("""
+        SELECT p.id, COUNT(c.id) as stored_comments 
+        FROM reddit_posts p
+        LEFT JOIN reddit_comments c ON p.id = c.post_id
+        GROUP BY p.id
+    """).fetchall()
+    
+    updated_count = 0
+    
+    for post_id, stored_comments in posts:
+        # Make API call to get current thread info
+        url = f"https://oauth.reddit.com/comments/{post_id}/.json"
+        result = api_get(url, {"limit": 1})
+        
+        if result is None:
+            continue
+            
+        json_data, _ = result
+        
+        # Get current comment count from API response
+        try:
+            current_num_comments = json_data[0]["data"]["children"][0]["data"]["num_comments"]
+            
+            # If there are more comments on Reddit than in our DB
+            if current_num_comments > stored_comments:
+                print(f"Thread {post_id} has {current_num_comments} comments but we only have {stored_comments}. Updating...")
+                
+                # Update the post metadata first
+                update_post_metadata(post_id, json_data[0]["data"]["children"][0]["data"])
+                
+                # Then fetch all comments
+                comments = fetch_comments_tree(post_id)
+                for c in comments:
+                    store_comment(c, post_id)
+                
+                updated_count += 1
+                
+                # Add a small delay to avoid rate limiting
+                time.sleep(0.5)
+        except (IndexError, KeyError) as e:
+            print(f"Error processing thread metadata for {post_id}: {str(e)}")
+            continue
+            
+    print(f"Updated {updated_count} threads with new comments")
+    return updated_count
+
 if __name__ == "__main__":
     try:
         crawl_once()
+        print("Checking for new comments in existing threads...")
+        update_all_threads_with_new_comments()
         print("done – db updated:", datetime.now(timezone.utc))
     except Exception as e:
         print(f"Fatal error: {str(e)}")

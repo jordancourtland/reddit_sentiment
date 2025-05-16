@@ -76,7 +76,8 @@
                             <th>Created</th>
                             <th>Score</th>
                             <th>Comments</th>
-                            <th>Summary</th>
+                            <th>OP's Question</th>
+                            <th>Community Responses</th>
                             <th>Fit Score</th>
                             <th>Denial Type</th>
                             <th>Themes</th>
@@ -188,10 +189,18 @@
                         }
                     },
                     { 
-                        data: 'summary',
+                        data: 'op_summary',
                         render: function(data) {
                             return data || 'Not analyzed';
-                        }
+                        },
+                        title: "OP's Question"
+                    },
+                    { 
+                        data: 'responses_summary',
+                        render: function(data) {
+                            return data || 'Not analyzed';
+                        },
+                        title: "Community Responses"
                     },
                     { 
                         data: null,

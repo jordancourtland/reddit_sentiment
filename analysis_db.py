@@ -18,7 +18,8 @@ class AnalysisDB:
                     CREATE TABLE IF NOT EXISTS thread_analyses (
                         thread_id TEXT PRIMARY KEY,
                         analysis_timestamp DATETIME,
-                        summary TEXT,
+                        op_summary TEXT,
+                        responses_summary TEXT,
                         persona_fit FLOAT,
                         confidence FLOAT,
                         fit_explanation TEXT,
@@ -134,7 +135,8 @@ class AnalysisDB:
                     INSERT OR REPLACE INTO thread_analyses (
                         thread_id,
                         analysis_timestamp,
-                        summary,
+                        op_summary,
+                        responses_summary,
                         persona_fit,
                         confidence,
                         fit_explanation,
@@ -142,11 +144,12 @@ class AnalysisDB:
                         themes,
                         outcome,
                         options_suggested
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ''', (
                     thread_id,
                     datetime.now().isoformat(),
-                    analysis_result['summary'],
+                    analysis_result['op_summary'],
+                    analysis_result['responses_summary'],
                     analysis_result['persona_fit'],
                     analysis_result['confidence'],
                     analysis_result['fit_explanation'],

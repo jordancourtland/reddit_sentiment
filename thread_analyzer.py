@@ -26,7 +26,8 @@ Follow these MANDATORY requirements:
 3. If information is not clearly stated, mark it as unknown
 
 FORMAT REQUIREMENTS (CRITICAL):
-- Summary must be EXACTLY 1-2 sentences maximum - this is strictly enforced
+- op_summary must be EXACTLY 1-2 sentences focused on what the original poster asked/needed
+- responses_summary must be EXACTLY 1-2 sentences summarizing key advice from commenters
 - Persona_fit and confidence must be numbers between 0.0 and 1.0
 - You MUST include EXACTLY 3 or more themes
 - All fields in the output structure are required
@@ -47,7 +48,8 @@ For scoring:
 
 Your response MUST match this exact JSON structure:
 {
-  "summary": "Brief 1-2 sentence summary of the issue",
+  "op_summary": "Brief 1-2 sentence summary of what OP was asking/needed",
+  "responses_summary": "Brief 1-2 sentence summary of key advice/responses from commenters",
   "persona_fit": 0.8,
   "confidence": 0.7,
   "fit_explanation": "Explanation of the persona fit score",
@@ -68,11 +70,11 @@ Your output must be valid JSON only - no additional text, explanations, or comme
         formatted += f"Score: {thread['score']}\n"
         formatted += f"Number of Comments: {thread['num_comments']}\n\n"
         
-        formatted += "Original Post:\n"
+        formatted += "===== ORIGINAL POST =====\n"
         formatted += f"{thread['selftext']}\n\n"
         
         if thread.get('comments'):
-            formatted += "Comments:\n"
+            formatted += "===== RESPONSES FROM COMMENTERS =====\n"
             formatted += thread['comments']
         
         return formatted
@@ -112,7 +114,7 @@ Your output must be valid JSON only - no additional text, explanations, or comme
             
             # Validate the analysis structure
             required_fields = [
-                'summary', 'persona_fit', 'confidence', 'fit_explanation',
+                'op_summary', 'responses_summary', 'persona_fit', 'confidence', 'fit_explanation',
                 'denial_type', 'themes', 'outcome', 'options_suggested'
             ]
             
@@ -143,7 +145,7 @@ Your output must be valid JSON only - no additional text, explanations, or comme
         try:
             # Check required fields
             required_fields = [
-                'summary', 'persona_fit', 'confidence', 'fit_explanation',
+                'op_summary', 'responses_summary', 'persona_fit', 'confidence', 'fit_explanation',
                 'denial_type', 'themes', 'outcome', 'options_suggested'
             ]
             
@@ -170,13 +172,14 @@ Your output must be valid JSON only - no additional text, explanations, or comme
                 return False
             
             # Validate summary length with detailed logging but be more lenient
-            sentences = analysis['summary'].split('.')
-            # Filter out empty strings that may come from splitting
-            sentences = [s for s in sentences if s.strip()]
-            
-            if len(sentences) > 4:  # Changed from 2 to 4
-                logging.warning(f"Summary contains {len(sentences)} sentences: '{analysis['summary']}', but allowing it")
-                # Note that we no longer return False here - we're just logging a warning
+            for summary_field in ['op_summary', 'responses_summary']:
+                sentences = analysis[summary_field].split('.')
+                # Filter out empty strings that may come from splitting
+                sentences = [s for s in sentences if s.strip()]
+                
+                if len(sentences) > 4:  # Changed from 2 to 4
+                    logging.warning(f"{summary_field} contains {len(sentences)} sentences: '{analysis[summary_field]}', but allowing it")
+                    # Note that we no longer return False here - we're just logging a warning
             
             # Validate themes
             if not isinstance(analysis['themes'], list):
