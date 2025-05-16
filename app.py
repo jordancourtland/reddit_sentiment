@@ -95,12 +95,27 @@ def get_posts():
 def get_comments(post_id):
     try:
         conn = get_db_connection()
+        
+        # Fetch the original post first
+        post = conn.execute('''
+            SELECT * FROM reddit_posts 
+            WHERE id = ?
+        ''', (post_id,)).fetchone()
+        
+        # Fetch all comments for this post
         comments = conn.execute('''
             SELECT * FROM reddit_comments 
             WHERE post_id = ? 
             ORDER BY created_utc ASC
         ''', (post_id,)).fetchall()
-        return jsonify([dict(comment) for comment in comments])
+        
+        # Return both the post and comments
+        response = {
+            'post': dict(post) if post else None,
+            'comments': [dict(comment) for comment in comments]
+        }
+        
+        return jsonify(response)
     except Exception as e:
         print(f"Error in get_comments: {str(e)}")
         return jsonify({'error': str(e)}), 500

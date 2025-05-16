@@ -35,31 +35,352 @@
             border-radius: 4px;
         }
         .filter-container {
-            padding: 10px;
+            padding: 10px 15px;
             background-color: #f8f9fa;
             border-radius: 5px;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
         .date-filter {
-            margin-right: 20px;
+            margin-right: 10px;
+        }
+        
+        /* Compact table styles */
+        .table-container {
+            margin-top: 0;
+        }
+        #posts-table thead th {
+            padding: 8px 6px;
+            font-size: 0.9rem;
+        }
+        #posts-table tbody td {
+            padding: 6px;
+            font-size: 0.85rem;
+        }
+        
+        /* More compact button group */
+        .btn-group-sm .btn-sm {
+            padding: 0.25rem 0.5rem;
+            font-size: 0.75rem;
+        }
+        
+        /* Table styling for DataTables */
+        .table-container {
+            overflow-x: auto;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        
+        table.dataTable {
+            width: 100% !important;
+            margin-bottom: 0 !important;
+            clear: both;
+            table-layout: fixed;
+        }
+        
+        /* Fix header alignment */
+        .dataTables_scrollHead,
+        .dataTables_scrollHeadInner,
+        .dataTables_scrollHeadInner table {
+            width: 100% !important;
+        }
+        
+        /* Ensure consistent widths between header and body */
+        .dataTables_scrollHead table.dataTable,
+        .dataTables_scrollBody table.dataTable {
+            margin-top: 0 !important;
+            margin-bottom: 0 !important;
+            border-collapse: separate;
+            border-spacing: 0;
+        }
+        
+        /* Ensure headers and cells maintain their defined width */
+        table.dataTable thead th,
+        table.dataTable tbody td {
+            white-space: normal;
+            word-wrap: break-word;
+            box-sizing: border-box;
+        }
+        
+        table.dataTable thead th {
+            position: sticky;
+            top: 0;
+            background-color: #f8f9fa;
+            border-bottom: 2px solid #dee2e6 !important;
+            font-weight: 600;
+            padding: 6px 4px;
+            text-align: left;
+            z-index: 10;
+            color: #212529;
+            font-size: 0.8rem;
+            line-height: 1.2;
+        }
+        
+        table.dataTable thead th.sorting:after,
+        table.dataTable thead th.sorting_asc:after,
+        table.dataTable thead th.sorting_desc:after {
+            position: absolute;
+            right: 2px;
+            top: 50%;
+            transform: translateY(-50%);
+            opacity: 0.3;
+            font-size: 0.7rem;
+        }
+        
+        /* Ensure headers have room for sorting icons */
+        table.dataTable thead th.sorting, 
+        table.dataTable thead th.sorting_asc, 
+        table.dataTable thead th.sorting_desc {
+            padding-right: 15px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        
+        table.dataTable tbody td {
+            padding: 8px;
+            vertical-align: top;
+            border-top: 1px solid #dee2e6;
+        }
+        
+        /* Post styling */
+        .post-title {
+            font-weight: 600;
+            margin-bottom: 3px;
+            display: block;
+            color: #0d6efd;
+            text-decoration: none;
+        }
+        .post-title:hover {
+            text-decoration: underline;
+        }
+        .post-meta {
+            font-size: 0.8rem;
+            color: #666;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .post-meta > div {
+            display: inline-flex;
+            align-items: center;
+        }
+        .post-meta .meta-icon {
+            margin-right: 3px;
+            opacity: 0.7;
+        }
+        .meta-subreddit {
+            font-weight: 500;
+            color: #1a1a1a;
+        }
+        .meta-comments {
+            cursor: pointer;
+            color: #007bff;
+        }
+        .meta-comments:hover {
+            text-decoration: underline;
+        }
+        
+        /* Sort buttons */
+        .sort-btn.active {
+            background-color: #0d6efd;
+            color: white;
+        }
+        .btn-group {
+            flex-wrap: wrap;
+        }
+        .btn-group .btn {
+            margin-right: 2px;
+            margin-bottom: 2px;
+        }
+        
+        /* Other elements */
+        .themes-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .themes-list li {
+            display: inline-block;
+            background: #f8f9fa;
+            padding: 2px 8px;
+            margin: 2px;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+        .options-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .options-list li {
+            margin-bottom: 4px;
+            padding: 4px;
+            background: #f8f9fa;
+            border-radius: 4px;
+        }
+        
+        /* Modal styles */
+        .original-post {
+            border-left: 4px solid #007bff;
+            background-color: #f8f9fa;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .post-content {
+            white-space: pre-line;
+            max-height: 300px;
+            overflow-y: auto;
+            margin-top: 10px;
+        }
+        .comment {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        .comment-body {
+            margin: 8px 0;
+            white-space: pre-line;
+        }
+        
+        /* Fix search box */
+        .dataTables_filter {
+            margin: 1rem 0;
+            text-align: right;
+        }
+        .dataTables_filter label {
+            font-weight: 500;
+        }
+        .dataTables_filter input {
+            margin-left: 5px;
+            padding: 5px;
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+        }
+        
+        /* Fix tooltip styles */
+        [data-bs-toggle="tooltip"] {
+            cursor: help;
+            text-decoration: underline dotted;
+        }
+        
+        /* Remove conflicting column width CSS */
+        
+        /* Responsive adjustments */
+        @media (max-width: 991px) {
+            .filter-container .row > div {
+                margin-bottom: 8px;
+            }
+            .filter-container .d-flex {
+                width: 100%;
+                justify-content: space-between;
+            }
+            #search-input {
+                width: 140px !important;
+            }
+        }
+        
+        @media (max-width: 767px) {
+            .btn-group-sm .btn-sm {
+                padding: 0.2rem 0.4rem;
+                font-size: 0.7rem;
+            }
+        }
+        
+        /* Make the container more compact */
+        .container-fluid {
+            padding: 0 15px;
+        }
+        
+        /* Reduce space between elements */
+        .table-container {
+            margin-bottom: 15px;
+        }
+        
+        /* Smaller heading */
+        h1 {
+            font-size: 1.75rem;
+            margin-bottom: 15px;
+        }
+        
+        /* Improved table styling */
+        .table-container {
+            border: 1px solid rgba(0,0,0,0.1);
+            border-radius: 4px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        
+        /* Slightly reduce cell padding to save space */
+        table.dataTable tbody td {
+            padding: 5px 4px;
+            font-size: 0.85rem;
+            line-height: 1.3;
+        }
+        
+        /* Make post title more prominent */
+        .post-title {
+            font-weight: 500;
+            font-size: 0.9rem;
+            line-height: 1.3;
+            margin-bottom: 2px;
+        }
+        
+        /* Make metadata more compact */
+        .post-meta {
+            font-size: 0.75rem;
+            line-height: 1.2;
+            margin-top: 2px;
+        }
+        
+        /* Alternating row colors */
+        table.dataTable tbody tr:nth-of-type(odd) {
+            background-color: rgba(0,0,0,0.02);
+        }
+        
+        table.dataTable tbody tr:hover {
+            background-color: rgba(0,0,0,0.05);
         }
     </style>
 </head>
 <body>
-    <div class="container-fluid mt-4">
-        <h1>Reddit Insurance Denial Analysis</h1>
+    <div class="container-fluid mt-3">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <h1 class="mb-0">Reddit Insurance Denial Analysis</h1>
+            <div class="d-flex align-items-center">
+                <div id="stats-summary" class="text-end me-2">
+                    <!-- Stats summary will be inserted here -->
+                </div>
+                <button id="toggle-stats" class="btn btn-outline-secondary btn-sm" title="Toggle detailed stats">
+                    <span class="toggle-icon">⯆</span>
+                </button>
+            </div>
+        </div>
         
-        <div id="stats-container" class="mb-4"></div>
+        <div id="stats-container" class="mb-3" style="display: none;"></div>
         
         <!-- Filters -->
-        <div class="filter-container mb-3">
-            <div class="row">
-                <div class="col-md-6">
-                    <h5>Filters</h5>
-                    <div class="mb-3">
-                        <label for="daterange">Date Range:</label>
-                        <input type="text" id="daterange" class="form-control date-filter" style="display: inline-block; width: auto;" />
+        <div class="filter-container">
+            <div class="row align-items-center g-2">
+                <div class="col-lg-5 col-md-12">
+                    <div class="d-flex align-items-center flex-wrap">
+                        <label for="daterange" class="me-2 mb-0 text-nowrap">Date:</label>
+                        <input type="text" id="daterange" class="form-control form-control-sm me-2" style="width: 160px;" />
                         <button id="clear-date-filter" class="btn btn-outline-secondary btn-sm">Clear</button>
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-12">
+                    <div class="d-flex align-items-center flex-wrap justify-content-between">
+                        <div class="d-flex align-items-center me-3">
+                            <label class="me-2 mb-0 text-nowrap">Sort:</label>
+                            <div class="btn-group btn-group-sm" role="group" aria-label="Sort options">
+                                <button type="button" class="btn btn-outline-primary btn-sm sort-btn active" data-sort="date" data-order="desc">Newest</button>
+                                <button type="button" class="btn btn-outline-primary btn-sm sort-btn" data-sort="date" data-order="asc">Oldest</button>
+                                <button type="button" class="btn btn-outline-primary btn-sm sort-btn" data-sort="score" data-order="desc">Upvotes</button>
+                                <button type="button" class="btn btn-outline-primary btn-sm sort-btn" data-sort="comments" data-order="desc">Comments</button>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <label for="search-input" class="me-2 mb-0 text-nowrap">Search:</label>
+                            <input type="text" id="search-input" class="form-control form-control-sm" style="width: 170px;" placeholder="Search all columns..." />
+                        </div>
                     </div>
                 </div>
             </div>
@@ -68,24 +389,11 @@
         <!-- Posts Table -->
         <div class="row">
             <div class="col-md-12">
+                <div class="table-container">
                 <table id="posts-table" class="table table-striped">
-                    <thead>
-                        <tr>
-                            <th>Title</th>
-                            <th>Subreddit</th>
-                            <th>Created</th>
-                            <th>Score</th>
-                            <th>Comments</th>
-                            <th>OP's Question</th>
-                            <th>Community Responses</th>
-                            <th>Fit Score</th>
-                            <th>Denial Type</th>
-                            <th>Themes</th>
-                            <th>Outcome</th>
-                            <th>Options</th>
-                        </tr>
-                    </thead>
+                        <!-- Headers and content will be generated by DataTables -->
                 </table>
+                </div>
             </div>
         </div>
 
@@ -94,10 +402,17 @@
             <div class="modal-dialog modal-lg">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title">Comments</h5>
+                        <h5 class="modal-title">Thread Details</h5>
                         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                     </div>
-                    <div class="modal-body" id="comments-container">
+                    <div class="modal-body">
+                        <div id="original-post-container" class="mb-4">
+                            <!-- Original post will be inserted here -->
+                        </div>
+                        <h6 class="border-bottom pb-2 mb-3">Comments</h6>
+                        <div id="comments-container">
+                            <!-- Comments will be inserted here -->
+                        </div>
                     </div>
                 </div>
             </div>
@@ -112,14 +427,15 @@
     <script src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
     <script>
         $(document).ready(function() {
-            // Set default date range (last 30 days)
-            const defaultEndDate = moment();
-            const defaultStartDate = moment().subtract(30, 'days');
+            // Initialize tooltips
+            var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+            var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+                return new bootstrap.Tooltip(tooltipTriggerEl)
+            });
             
-            // Initialize date range picker
+            // Initialize date range picker without default selection
             $('#daterange').daterangepicker({
-                startDate: defaultStartDate,
-                endDate: defaultEndDate,
+                autoUpdateInput: false, // Don't auto-update the input
                 ranges: {
                    'All Time': [moment.unix(0), moment()],
                    'Today': [moment().startOf('day'), moment().endOf('day')],
@@ -152,132 +468,304 @@
                 }
             );
             
+            // Apply date filter when date range changes
+            $('#daterange').on('apply.daterangepicker', function(ev, picker) {
+                // Set the input value
+                $(this).val(picker.startDate.format('MM/DD/YYYY') + ' - ' + picker.endDate.format('MM/DD/YYYY'));
+                table.draw();
+            });
+            
+            // When date range picker is cancelled, clear the input
+            $('#daterange').on('cancel.daterangepicker', function(ev, picker) {
+                $(this).val('');
+                table.draw();
+            });
+            
             // Clear date filter
             $('#clear-date-filter').click(function() {
                 $('#daterange').val('');
                 table.draw();
             });
             
-            // Initialize DataTable
-            const table = $('#posts-table').DataTable({
-                ajax: {
-                    url: '/api/posts',
-                    dataSrc: function(json) {
-                        console.log('Received posts:', json);
-                        return json;
+            // Test API directly
+            fetch('/api/posts')
+                .then(response => {
+                    console.log('API status:', response.status);
+                    return response.json();
+                })
+                .then(data => {
+                    console.log('Direct API call result:', data);
+                    if (data && data.length > 0) {
+                        // Since we have the data directly, initialize the table with it
+                        initializeTable(data);
                     }
-                },
-                columns: [
-                    { 
-                        data: 'title',
-                        render: function(data, type, row) {
-                            return `<a href="${row.url}" target="_blank">${data || 'No title'}</a>`;
-                        }
-                    },
-                    { data: 'subreddit' },
-                    { 
-                        data: 'created_utc',
-                        render: function(data) {
-                            return new Date(data * 1000).toLocaleString();
-                        }
-                    },
-                    { data: 'score' },
-                    { 
-                        data: 'num_comments',
-                        render: function(data, type, row) {
-                            return `<a href="#" class="view-comments" data-post-id="${row.id}">${data}</a>`;
-                        }
-                    },
-                    { 
-                        data: 'op_summary',
-                        render: function(data) {
-                            return data || 'Not analyzed';
-                        },
-                        title: "OP's Question"
-                    },
-                    { 
-                        data: 'responses_summary',
-                        render: function(data) {
-                            return data || 'Not analyzed';
-                        },
-                        title: "Community Responses"
-                    },
-                    { 
-                        data: null,
-                        render: function(data, type, row) {
-                            if (!row.persona_fit) return 'Not analyzed';
-                            const score = row.persona_fit;
-                            let className = 'low';
-                            if (score >= 0.8) className = 'high';
-                            else if (score >= 0.5) className = 'medium';
-                            return `<span class="fit-score ${className}">${(score * 100).toFixed(0)}%</span>`;
-                        }
-                    },
-                    { 
-                        data: 'denial_type',
-                        render: function(data) {
-                            return data || 'Not analyzed';
-                        }
-                    },
-                    { 
-                        data: 'themes',
-                        render: function(data) {
-                            if (!data) return 'Not analyzed';
-                            return `<ul class="themes-list">${data.map(theme => 
-                                `<li>${theme}</li>`).join('')}</ul>`;
-                        }
-                    },
-                    { 
-                        data: 'outcome',
-                        render: function(data) {
-                            return data || 'Not analyzed';
-                        }
-                    },
-                    { 
-                        data: 'options_suggested',
-                        render: function(data) {
-                            if (!data) return 'Not analyzed';
-                            return `<ul class="options-list">${data.map(option => 
-                                `<li>${option}</li>`).join('')}</ul>`;
-                        }
-                    }
-                ],
-                order: [[2, 'desc']],
-                paging: false,
-                lengthChange: false,
-                info: false
-            });
-            
-            // Apply date filter when date range changes
-            $('#daterange').on('apply.daterangepicker', function(ev, picker) {
-                table.draw();
-            });
+                })
+                .catch(error => {
+                    console.error('Direct API call error:', error);
+                });
 
+            // Function to initialize the table with data
+            function initializeTable(data) {
+                // Add hidden fields for sorting
+                data.forEach(post => {
+                    // Create formatted fields for all sortable columns
+                    post._date = post.created_utc || 0;
+                    post._score = post.score || 0;
+                    post._comments = post.num_comments || 0;
+                    post._subreddit = post.subreddit || '';
+                });
+                
+                // Initialize DataTable with data
+                const table = $('#posts-table').DataTable({
+                    data: data,
+                    columns: [
+                        // Post column with combined metadata
+                        { 
+                            data: null,
+                            title: "Post",
+                            width: "30%",
+                            render: function(data, type, row) {
+                                if (type === 'sort') {
+                                    return row.title || '';
+                                }
+                                
+                                // Format the date
+                                const date = new Date(row.created_utc * 1000);
+                                const formattedDate = date.toLocaleDateString();
+                                
+                                return `
+                                    <a href="${row.url}" target="_blank">${row.title || 'No title'}</a>
+                                    <div>
+                                        <small>r/${row.subreddit} • ${formattedDate} • ⬆️ ${row.score} • 💬 ${row.num_comments}</small>
+                                    </div>`;
+                            }
+                        },
+                        // Date column for sorting (hidden)
+                        { 
+                            data: '_date',
+                            title: "Date",
+                            visible: false
+                        },
+                        // Score column for sorting (hidden)
+                        { 
+                            data: '_score',
+                            title: "Score",
+                            visible: false
+                        },
+                        // Comments column for sorting (hidden)
+                        { 
+                            data: '_comments',
+                            title: "Comments",
+                            visible: false
+                        },
+                        // Subreddit column for sorting (hidden)
+                        { 
+                            data: '_subreddit',
+                            title: "Subreddit",
+                            visible: false
+                        },
+                        // Visible columns
+                        { data: 'op_summary', title: "OP Question", width: "15%" },
+                        { data: 'responses_summary', title: "Responses", width: "15%" },
+                        { 
+                            data: 'persona_fit',
+                            title: "Fit %",
+                            width: "5%",
+                            render: function(data) {
+                                if (!data) return 'Not analyzed';
+                                let className = 'low';
+                                if (data >= 0.8) className = 'high';
+                                else if (data >= 0.5) className = 'medium';
+                                return `<span class="fit-score ${className}">${(data * 100).toFixed(0)}%</span>`;
+                            }
+                        },
+                        { data: 'denial_type', title: "Denial", width: "10%" },
+                        { 
+                            data: 'themes',
+                            title: "Themes",
+                            width: "12%",
+                            render: function(data) {
+                                if (!data) return 'Not analyzed';
+                                return data.join(', ');
+                            }
+                        },
+                        { data: 'outcome', title: "Outcome", width: "5%" },
+                        { 
+                            data: 'options_suggested',
+                            title: "Options",
+                            width: "8%",
+                            render: function(data) {
+                                if (!data) return 'Not analyzed';
+                                return data.join(', ');
+                            }
+                        }
+                    ],
+                    order: [[1, 'desc']], // Default order by date (newest first)
+                    paging: false,
+                    info: false,
+                    scrollX: true,
+                    autoWidth: false,
+                    columnDefs: [
+                        { className: "align-top", targets: "_all" }
+                    ],
+                    drawCallback: function() {
+                        // Force width recalculation to ensure header/body alignment
+                        $(window).trigger('resize');
+                        
+                        // Fix header width
+                        const headerTable = $(this).closest('.dataTables_wrapper').find('.dataTables_scrollHeadInner table');
+                        const bodyTable = $(this).closest('.dataTables_wrapper').find('.dataTables_scrollBody table');
+                        
+                        // Ensure header has same width as body
+                        headerTable.css('width', bodyTable.outerWidth());
+                        
+                        // Synchronize column widths
+                        bodyTable.find('thead th').each(function(index) {
+                            const width = $(this).outerWidth();
+                            headerTable.find('thead th').eq(index).css('width', width);
+                        });
+                    }
+                });
+
+                // Handle sort button clicks - use column indices from the table configuration
+                $('.sort-btn').click(function() {
+                    const sortType = $(this).data('sort');
+                    const order = $(this).data('order');
+                    
+                    // Update active button state
+                    $('.sort-btn').removeClass('active');
+                    $(this).addClass('active');
+                    
+                    // Map sort type to column index
+                    let columnIndex = 0; // Default to title
+                    switch(sortType) {
+                        case 'date':
+                            columnIndex = 1; // Date column
+                            break;
+                        case 'score':
+                            columnIndex = 2; // Score column
+                            break;
+                        case 'comments':
+                            columnIndex = 3; // Comments column
+                            break;
+                        default:
+                            columnIndex = 0; // Title column
+                    }
+                    
+                    console.log(`Sorting by column ${columnIndex} in ${order} order`);
+                    table.order([columnIndex, order]).draw();
+                });
+                
+                // Set initial sort (newest first)
+                $('.sort-btn[data-sort="date"][data-order="desc"]').addClass('active');
+                
+                // Connect search box to DataTable
+                $('#search-input').on('keyup', function() {
+                    table.search(this.value).draw();
+                });
+                
+                // Hide the default DataTable search box
+                $('.dataTables_filter').hide();
+                
+                // Add window resize handler to fix alignments
+                $(window).on('resize', function() {
+                    // Allow time for resize to complete
+                    setTimeout(function() {
+                        table.columns.adjust().draw();
+                    }, 200);
+                });
+            }
+            
+            // Fallback manual table population function
+            function populateTableManually(data) {
+                // This is a fallback if DataTables initialization fails
+                if (!$.fn.DataTable.isDataTable('#posts-table')) {
+                    let tableHtml = '<thead><tr>';
+                    tableHtml += '<th>Post</th>';
+                    tableHtml += '<th>OP\'s Question</th>';
+                    tableHtml += '<th>Community Responses</th>';
+                    tableHtml += '<th>Fit Score</th>';
+                    tableHtml += '<th>Denial Type</th>';
+                    tableHtml += '<th>Themes</th>';
+                    tableHtml += '<th>Outcome</th>';
+                    tableHtml += '<th>Options</th>';
+                    tableHtml += '</tr></thead><tbody>';
+                    
+                    data.forEach(post => {
+                        const date = new Date(post.created_utc * 1000);
+                        const formattedDate = date.toLocaleDateString();
+                        
+                        tableHtml += '<tr>';
+                        
+                        // Post column
+                        tableHtml += '<td>';
+                        tableHtml += `<a href="${post.url}" target="_blank">${post.title || 'No title'}</a>`;
+                        tableHtml += `<div><small>r/${post.subreddit} • ${formattedDate} • ⬆️ ${post.score} • 💬 ${post.num_comments}</small></div>`;
+                        tableHtml += '</td>';
+                        
+                        // Other columns
+                        tableHtml += `<td>${post.op_summary || 'Not analyzed'}</td>`;
+                        tableHtml += `<td>${post.responses_summary || 'Not analyzed'}</td>`;
+                        tableHtml += `<td>${post.persona_fit ? (post.persona_fit * 100).toFixed(0) + '%' : 'Not analyzed'}</td>`;
+                        tableHtml += `<td>${post.denial_type || 'Not analyzed'}</td>`;
+                        tableHtml += `<td>${post.themes ? post.themes.join(', ') : 'Not analyzed'}</td>`;
+                        tableHtml += `<td>${post.outcome || 'Not analyzed'}</td>`;
+                        tableHtml += `<td>${post.options_suggested ? post.options_suggested.join(', ') : 'Not analyzed'}</td>`;
+                        
+                        tableHtml += '</tr>';
+                    });
+                    
+                    tableHtml += '</tbody>';
+                    $('#posts-table').html(tableHtml);
+                }
+            }
+            
             // Load statistics
             function loadStats() {
                 $.get('/api/stats', function(data) {
-                    const stats = `
-                        <div class="row">
+                    // Update the summary stats in the header
+                    const summaryStats = `
+                        <small class="text-muted">
+                            Total Posts: ${data.posts.total_posts} | 
+                            Average Fit: ${((data.analysis.avg_persona_fit || 0) * 100).toFixed(1)}%
+                        </small>
+                    `;
+                    $('#stats-summary').html(summaryStats);
+                    
+                    // Update detailed stats in the container
+                    const detailedStats = `
+                        <div class="row g-3 small">
                             <div class="col-md-6">
-                                <h6>Analysis Statistics</h6>
-                                <ul>
-                                    <li>Total Analyzed: ${data.analysis.total_analyzed || 0}</li>
-                                    <li>Average Persona Fit: ${((data.analysis.avg_persona_fit || 0) * 100).toFixed(1)}%</li>
-                                    <li>Average Confidence: ${((data.analysis.avg_confidence || 0) * 100).toFixed(1)}%</li>
-                                </ul>
+                                <div class="d-flex justify-content-between">
+                                    <span>Total Analyzed:</span>
+                                    <span>${data.analysis.total_analyzed || 0}</span>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <span>Average Persona Fit:</span>
+                                    <span>${((data.analysis.avg_persona_fit || 0) * 100).toFixed(1)}%</span>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <span>Average Confidence:</span>
+                                    <span>${((data.analysis.avg_confidence || 0) * 100).toFixed(1)}%</span>
+                                </div>
                             </div>
                             <div class="col-md-6">
-                                <h6>Post Statistics</h6>
-                                <ul>
-                                    <li>Total Posts: ${data.posts.total_posts}</li>
-                                    <li>Total Subreddits: ${data.posts.total_subreddits}</li>
-                                    <li>Average Score: ${data.posts.avg_score.toFixed(1)}</li>
-                                    <li>Average Comments: ${data.posts.avg_comments.toFixed(1)}</li>
-                                </ul>
+                                <div class="d-flex justify-content-between">
+                                    <span>Total Posts:</span>
+                                    <span>${data.posts.total_posts}</span>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <span>Total Subreddits:</span>
+                                    <span>${data.posts.total_subreddits}</span>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <span>Avg Score/Comments:</span>
+                                    <span>${data.posts.avg_score.toFixed(1)} / ${data.posts.avg_comments.toFixed(1)}</span>
+                                </div>
                             </div>
                         </div>
                     `;
-                    $('#stats-container').html(stats);
+                    $('#stats-container').html(detailedStats);
                 });
             }
 
@@ -286,27 +774,61 @@
             // Refresh stats every 5 minutes
             setInterval(loadStats, 300000);
 
-            // Handle comments click
-            $('#posts-table').on('click', '.view-comments', function(e) {
+            // Handle comments click from the combined post cell
+            $('#posts-table').on('click', '.meta-comments', function(e) {
                 e.preventDefault();
+                e.stopPropagation();
                 const postId = $(this).data('post-id');
                 const modal = new bootstrap.Modal(document.getElementById('commentsModal'));
                 
-                $.get(`/api/comments/${postId}`, function(comments) {
-                    const commentsHtml = comments.map(comment => `
+                $.get(`/api/comments/${postId}`, function(data) {
+                    // Display original post
+                    if (data.post) {
+                        const post = data.post;
+                        const postCreatedDate = new Date(post.created_utc * 1000).toLocaleString();
+                        const postHtml = `
+                            <div class="original-post bg-light p-3 rounded">
+                                <div class="d-flex justify-content-between">
+                                    <h5 class="mb-1">${post.title}</h5>
+                                    <small>${postCreatedDate}</small>
+                                </div>
+                                <div class="d-flex justify-content-between mb-2">
+                                    <span class="text-muted">Posted by u/${post.author} in r/${post.subreddit}</span>
+                                    <span>Score: ${post.score}</span>
+                                </div>
+                                <div class="post-content border-top pt-2">
+                                    ${post.selftext ? post.selftext.replace(/\n/g, '<br>') : '(No content)'}
+                                </div>
+                            </div>
+                        `;
+                        $('#original-post-container').html(postHtml);
+                    } else {
+                        $('#original-post-container').html('<div class="alert alert-warning">Original post not found</div>');
+                    }
+                    
+                    // Display comments
+                    const commentsHtml = data.comments.map(comment => `
                         <div class="comment mb-3">
                             <div class="d-flex justify-content-between">
                                 <strong>${comment.author || 'deleted'}</strong>
                                 <small>${new Date(comment.created_utc * 1000).toLocaleString()}</small>
                             </div>
-                            <div class="comment-body">${comment.body}</div>
+                            <div class="comment-body">${comment.body.replace(/\n/g, '<br>')}</div>
                             <div class="comment-score">Score: ${comment.score}</div>
                         </div>
                     `).join('');
                     
-                    $('#comments-container').html(commentsHtml);
+                    $('#comments-container').html(commentsHtml || '<div class="text-muted">No comments found</div>');
                     modal.show();
                 });
+            });
+
+            // Toggle detailed stats
+            $('#toggle-stats').click(function() {
+                $('#stats-container').toggle();
+                $('.toggle-icon', this).text(
+                    $('#stats-container').is(':visible') ? '⯅' : '⯆'
+                );
             });
         });
     </script>
