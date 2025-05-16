@@ -533,10 +533,11 @@
                                 const date = new Date(row.created_utc * 1000);
                                 const formattedDate = date.toLocaleDateString();
                                 
+                                // Use data attributes for URLs instead of direct href to avoid potential issues
                                 return `
-                                    <a href="${row.url}" target="_blank">${row.title || 'No title'}</a>
+                                    <a class="post-link" data-url="${row.url}" target="_blank" rel="noopener noreferrer">${row.title || 'No title'}</a>
                                     <div>
-                                        <small>r/${row.subreddit} • ${formattedDate} • ⬆️ ${row.score} • 💬 ${row.num_comments}</small>
+                                        <small>r/${row.subreddit} • ${formattedDate} • ⬆️ ${row.score} • 💬 <span class="meta-comments" data-post-id="${row.id}">${row.num_comments}</span></small>
                                     </div>`;
                             }
                         },
@@ -664,6 +665,72 @@
                     table.search(this.value).draw();
                 });
                 
+                // Add explicit click handler for post links
+                $('#posts-table').on('click', '.post-link', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const url = $(this).data('url');
+                    if (url) {
+                        window.open(url, '_blank', 'noopener,noreferrer');
+                    }
+                    return false;
+                });
+                
+                // Add explicit click handler for comments links
+                $('#posts-table').on('click', '.meta-comments', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const postId = $(this).data('post-id');
+                    showComments(postId);
+                    return false;
+                });
+                
+                // Function to show comments
+                function showComments(postId) {
+                    const modal = new bootstrap.Modal(document.getElementById('commentsModal'));
+                    
+                    $.get(`/api/comments/${postId}`, function(data) {
+                        // Display original post
+                        if (data.post) {
+                            const post = data.post;
+                            const postCreatedDate = new Date(post.created_utc * 1000).toLocaleString();
+                            const postHtml = `
+                                <div class="original-post bg-light p-3 rounded">
+                                    <div class="d-flex justify-content-between">
+                                        <h5 class="mb-1">${post.title}</h5>
+                                        <small>${postCreatedDate}</small>
+                                    </div>
+                                    <div class="d-flex justify-content-between mb-2">
+                                        <span class="text-muted">Posted by u/${post.author} in r/${post.subreddit}</span>
+                                        <span>Score: ${post.score}</span>
+                                    </div>
+                                    <div class="post-content border-top pt-2">
+                                        ${post.selftext ? post.selftext.replace(/\n/g, '<br>') : '(No content)'}
+                                    </div>
+                                </div>
+                            `;
+                            $('#original-post-container').html(postHtml);
+                        } else {
+                            $('#original-post-container').html('<div class="alert alert-warning">Original post not found</div>');
+                        }
+                        
+                        // Display comments
+                        const commentsHtml = data.comments.map(comment => `
+                            <div class="comment mb-3">
+                                <div class="d-flex justify-content-between">
+                                    <strong>${comment.author || 'deleted'}</strong>
+                                    <small>${new Date(comment.created_utc * 1000).toLocaleString()}</small>
+                                </div>
+                                <div class="comment-body">${comment.body.replace(/\n/g, '<br>')}</div>
+                                <div class="comment-score">Score: ${comment.score}</div>
+                            </div>
+                        `).join('');
+                        
+                        $('#comments-container').html(commentsHtml || '<div class="text-muted">No comments found</div>');
+                        modal.show();
+                    });
+                }
+                
                 // Hide the default DataTable search box
                 $('.dataTables_filter').hide();
                 
@@ -773,55 +840,6 @@
             loadStats();
             // Refresh stats every 5 minutes
             setInterval(loadStats, 300000);
-
-            // Handle comments click from the combined post cell
-            $('#posts-table').on('click', '.meta-comments', function(e) {
-                e.preventDefault();
-                e.stopPropagation();
-                const postId = $(this).data('post-id');
-                const modal = new bootstrap.Modal(document.getElementById('commentsModal'));
-                
-                $.get(`/api/comments/${postId}`, function(data) {
-                    // Display original post
-                    if (data.post) {
-                        const post = data.post;
-                        const postCreatedDate = new Date(post.created_utc * 1000).toLocaleString();
-                        const postHtml = `
-                            <div class="original-post bg-light p-3 rounded">
-                                <div class="d-flex justify-content-between">
-                                    <h5 class="mb-1">${post.title}</h5>
-                                    <small>${postCreatedDate}</small>
-                                </div>
-                                <div class="d-flex justify-content-between mb-2">
-                                    <span class="text-muted">Posted by u/${post.author} in r/${post.subreddit}</span>
-                                    <span>Score: ${post.score}</span>
-                                </div>
-                                <div class="post-content border-top pt-2">
-                                    ${post.selftext ? post.selftext.replace(/\n/g, '<br>') : '(No content)'}
-                                </div>
-                            </div>
-                        `;
-                        $('#original-post-container').html(postHtml);
-                    } else {
-                        $('#original-post-container').html('<div class="alert alert-warning">Original post not found</div>');
-                    }
-                    
-                    // Display comments
-                    const commentsHtml = data.comments.map(comment => `
-                        <div class="comment mb-3">
-                            <div class="d-flex justify-content-between">
-                                <strong>${comment.author || 'deleted'}</strong>
-                                <small>${new Date(comment.created_utc * 1000).toLocaleString()}</small>
-                            </div>
-                            <div class="comment-body">${comment.body.replace(/\n/g, '<br>')}</div>
-                            <div class="comment-score">Score: ${comment.score}</div>
-                        </div>
-                    `).join('');
-                    
-                    $('#comments-container').html(commentsHtml || '<div class="text-muted">No comments found</div>');
-                    modal.show();
-                });
-            });
 
             // Toggle detailed stats
             $('#toggle-stats').click(function() {
