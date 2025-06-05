@@ -5,6 +5,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" rel="stylesheet">
     <style>
         .fit-score {
             font-weight: bold;
@@ -259,7 +260,31 @@
         /* Fix tooltip styles */
         [data-bs-toggle="tooltip"] {
             cursor: help;
-            text-decoration: underline dotted;
+            position: relative;
+        }
+        
+        /* Style info icon */
+        .bi-info-circle {
+            color: #0d6efd;
+            font-size: 0.9em;
+            margin-left: 4px;
+            vertical-align: middle;
+        }
+        
+        /* Tooltip styling */
+        .tooltip {
+            opacity: 1 !important;
+        }
+        
+        .tooltip-inner {
+            max-width: 350px;
+            padding: 10px;
+            text-align: left;
+            background-color: #fff;
+            color: #000;
+            border: 1px solid #ddd;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            line-height: 1.4;
         }
         
         /* Remove conflicting column width CSS */
@@ -427,11 +452,41 @@
     <script src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
     <script>
         $(document).ready(function() {
-            // Initialize tooltips
-            var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-            var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-                return new bootstrap.Tooltip(tooltipTriggerEl)
-            });
+            // Initialize tooltips function that will be reused
+            function initTooltips() {
+                // First, dispose any existing tooltips to prevent duplicates
+                var existingTooltips = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+                existingTooltips.forEach(function(el) {
+                    var tooltip = bootstrap.Tooltip.getInstance(el);
+                    if (tooltip) {
+                        tooltip.dispose();
+                    }
+                });
+                
+                // Then initialize new tooltips with proper configuration
+                var tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+                tooltipTriggerList.forEach(function(tooltipTriggerEl) {
+                    new bootstrap.Tooltip(tooltipTriggerEl, {
+                        trigger: 'hover focus',
+                        delay: {show: 100, hide: 300},
+                        container: 'body',
+                        template: '<div class="tooltip" role="tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div>'
+                    });
+                });
+                
+                // Add mouse leave event to properly hide tooltips
+                document.querySelectorAll('[data-bs-toggle="tooltip"]').forEach(function(el) {
+                    el.addEventListener('mouseleave', function() {
+                        var tooltip = bootstrap.Tooltip.getInstance(this);
+                        if (tooltip) {
+                            tooltip.hide();
+                        }
+                    });
+                });
+            }
+            
+            // Initial tooltips
+            initTooltips();
             
             // Initialize date range picker without default selection
             $('#daterange').daterangepicker({
@@ -570,7 +625,7 @@
                         { data: 'responses_summary', title: "Responses", width: "15%" },
                         { 
                             data: 'persona_fit',
-                            title: "Fit %",
+                            title: 'Fit % <i class="bi bi-info-circle" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="right" title="<b>Fit score</b> (0.0-1.0) measures how well a post matches our insurance denial analysis criteria:<br><br><b>1.0</b> = Perfect fit (actively seeking appeal help now)<br><b>0.8</b> = Very good fit (has denial, might need help soon)<br><b>0.5</b> = Moderate fit (has denial, already has solution)<br><b>0.2</b> = Poor fit (historical case, resolved)<br><b>0.0</b> = No fit (not about denials)"></i>',
                             width: "5%",
                             render: function(data) {
                                 if (!data) return 'Not analyzed';
@@ -625,6 +680,9 @@
                             const width = $(this).outerWidth();
                             headerTable.find('thead th').eq(index).css('width', width);
                         });
+                        
+                        // Reinitialize tooltips after table is drawn
+                        initTooltips();
                     }
                 });
 
