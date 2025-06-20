@@ -43,6 +43,42 @@ OPENAI_API_KEY=your_openai_api_key
 PORT=10000
 ```
 
+## Getting API Keys
+
+### Reddit API Credentials
+These allow the app to access Reddit's API to search and fetch posts.
+
+**How to obtain:**
+1. Go to https://www.reddit.com/prefs/apps
+2. Click "Create App" or "Create Another App"
+3. Fill in the form:
+   - **Name**: Your app name (e.g., "RedditScraper")
+   - **App type**: Select "script"
+   - **Description**: Brief description of your app
+   - **About URL**: Can leave blank
+   - **Redirect URI**: http://localhost:8080 (required but not used for script apps)
+4. Click "Create app"
+5. You'll see your credentials:
+   - **client_id**: The short string under "personal use script"
+   - **client_secret**: The longer string labeled "secret"
+   - **user_agent**: Format as "YourAppName/1.0 by /u/YourRedditUsername"
+
+### OpenAI API Key
+This allows the app to use GPT-4 for analyzing Reddit threads.
+
+**How to obtain:**
+1. Go to https://platform.openai.com/
+2. Sign up or log in to your OpenAI account
+3. Navigate to "API keys" in your account settings
+4. Click "Create new secret key"
+5. Copy the key immediately (you won't be able to see it again)
+6. **Important**: OpenAI API usage is paid - you'll need to add billing information
+
+**Cost considerations:**
+- GPT-4 API calls cost money (check current pricing at https://openai.com/pricing)
+- The app uses the GPT-4o-mini model which is more cost-effective
+- Monitor your usage in the OpenAI dashboard
+
 5. **Initialize databases**
 ```bash
 python -c "from analysis_db import init_db; init_db()"
