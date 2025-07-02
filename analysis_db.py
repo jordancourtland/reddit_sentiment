@@ -214,4 +214,65 @@ class AnalysisDB:
                 'avg_persona_fit': 0,
                 'avg_confidence': 0,
                 'error': str(e)
-            } 
+            }
+
+    def get_analyzed_threads(self, limit=50):
+        """Get threads that have been analyzed, with their analysis results."""
+        try:
+            # Check if both databases exist
+            if not os.path.exists(self.reddit_db_path):
+                logging.error(f"Reddit database not found at {self.reddit_db_path}")
+                return []
+                
+            if not os.path.exists(self.analysis_db_path):
+                logging.error(f"Analysis database not found at {self.analysis_db_path}")
+                return []
+            
+            # Connect to both databases
+            with sqlite3.connect(self.reddit_db_path) as reddit_conn, \
+                 sqlite3.connect(self.analysis_db_path) as analysis_conn:
+                
+                reddit_conn.row_factory = sqlite3.Row
+                analysis_conn.row_factory = sqlite3.Row
+                
+                # Get analyzed threads with their analysis results
+                query = '''
+                    SELECT 
+                        a.thread_id,
+                        a.analysis_timestamp,
+                        a.op_summary,
+                        a.responses_summary,
+                        a.persona_fit,
+                        a.confidence,
+                        a.fit_explanation,
+                        a.denial_type,
+                        a.themes,
+                        a.outcome,
+                        a.options_suggested,
+                        p.title,
+                        p.subreddit,
+                        p.created_utc,
+                        p.score,
+                        p.num_comments,
+                        p.selftext
+                    FROM thread_analyses a
+                    LEFT JOIN reddit_posts p ON a.thread_id = p.id
+                    ORDER BY a.analysis_timestamp DESC
+                    LIMIT ?
+                '''
+                
+                cursor = analysis_conn.execute(query, (limit,))
+                results = []
+                for row in cursor.fetchall():
+                    thread = dict(row)
+                    # Parse JSON fields
+                    thread['themes'] = json.loads(thread['themes'])
+                    thread['options_suggested'] = json.loads(thread['options_suggested'])
+                    results.append(thread)
+                
+                logging.info(f"Retrieved {len(results)} analyzed threads")
+                return results
+                
+        except Exception as e:
+            logging.error(f"Error getting analyzed threads: {str(e)}")
+            return [] 

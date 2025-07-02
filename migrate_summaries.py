@@ -7,7 +7,7 @@ import sqlite3
 import logging
 import os
 from datetime import datetime
-import openai
+from openai import OpenAI
 import json
 import time
 import random
@@ -30,8 +30,6 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 if not OPENAI_API_KEY:
     logging.error("OPENAI_API_KEY not found in environment variables")
     exit(1)
-
-openai.api_key = OPENAI_API_KEY
 
 def migrate_summaries():
     """Migrate existing single summary to dual summaries"""
@@ -175,7 +173,8 @@ Format your response as a valid JSON object with these two fields:
 """
 
         # Call OpenAI API
-        response = openai.ChatCompletion.create(
+        client = OpenAI(api_key=OPENAI_API_KEY)
+        response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that analyzes Reddit threads."},
@@ -184,8 +183,13 @@ Format your response as a valid JSON object with these two fields:
             temperature=0.1
         )
         
-        # Parse the response
-        content = response.choices[0].message['content'].strip()
+        # Parse the response - add null check
+        content = response.choices[0].message.content
+        if content is None:
+            logging.warning(f"Received empty response from OpenAI for thread {thread_id}")
+            return None
+            
+        content = content.strip()
         
         # Ensure it's valid JSON
         if not (content.startswith('{') and content.endswith('}')):

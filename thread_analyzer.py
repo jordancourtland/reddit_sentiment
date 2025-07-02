@@ -1,4 +1,4 @@
-import openai
+from openai import OpenAI
 import json
 from typing import Dict, List, Optional
 import os
@@ -10,13 +10,12 @@ import logging
 # This fixed version uses openai v0.28.0
 class ThreadAnalyzer:
     def __init__(self, api_key: str):
-        # Set API key directly
-        openai.api_key = api_key
+        # Initialize OpenAI client with the new API
+        self.client = OpenAI(api_key=api_key)
         
-        # Disable proxies and any other configurations that might cause conflicts
-        if hasattr(openai, 'proxy'):
-            openai.proxy = None
-            
+        # Remove the problematic proxy setting - it's not needed with the new client
+        # The new OpenAI client handles proxies automatically if needed
+        
         self.system_prompt = """You are a healthcare insurance denial analysis expert. Your task is to analyze Reddit threads about healthcare insurance denials and provide structured insights that MUST match the exact format specified.
 
 Follow these MANDATORY requirements:
@@ -79,7 +78,7 @@ Your output must be valid JSON only - no additional text, explanations, or comme
         
         return formatted
 
-    def analyze_thread(self, thread: Dict) -> Dict:
+    def analyze_thread(self, thread: Dict) -> Optional[Dict]:
         """Analyze a Reddit thread using GPT-4."""
         try:
             formatted_thread = self._format_thread_for_analysis(thread)
@@ -88,7 +87,7 @@ Your output must be valid JSON only - no additional text, explanations, or comme
             time.sleep(random.uniform(0.5, 1.5))
             
             # Make the API call with no extra configurations
-            response = openai.ChatCompletion.create(
+            response = self.client.chat.completions.create(
                 model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": self.system_prompt},
@@ -98,8 +97,13 @@ Your output must be valid JSON only - no additional text, explanations, or comme
             )
             
             # Parse the response into our structured format
-            content = response.choices[0].message['content']
+            content = response.choices[0].message.content
             logging.debug(f"Raw GPT response for thread {thread.get('id', 'unknown')}: {content}")
+            
+            # Add null check before calling strip()
+            if content is None:
+                logging.error(f"Received empty response from OpenAI for thread {thread.get('id', 'unknown')}")
+                return None
             
             # Check for common errors in response format
             if not content.strip().startswith('{') or not content.strip().endswith('}'):
