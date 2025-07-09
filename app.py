@@ -1252,14 +1252,14 @@ def get_touchpoint_journey_mapping():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
+# Download database files on startup
+try:
+    from download_data import download_database_files
+    download_database_files()
+except ImportError:
+    print("download_data.py not found, skipping database download")
+
 if __name__ == '__main__':
-    # Download database files on startup if needed
-    try:
-        from download_data import download_database_files
-        download_database_files()
-    except ImportError:
-        print("download_data.py not found, skipping database download")
-    
     # For local development
     port = int(os.environ.get('PORT', 5001))
     app.run(host='0.0.0.0', port=port, debug=True) 
