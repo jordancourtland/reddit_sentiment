@@ -1,73 +1,60 @@
-# Deployment Guide: Upload Local Data to Render
+# Deployment Guide: Upload analysis.db to Render (Free Tier)
 
-## Option 1: Render File Upload (Recommended)
+## Option 1: Cloud Storage + Environment Variables (Recommended)
+
+### Step 1: Upload analysis.db to Google Drive
+
+1. **Go to [Google Drive](https://drive.google.com)**
+2. **Upload `analysis.db`** from your local machine
+3. **Right-click the file** → "Get link"
+4. **Copy the link** (format: `https://drive.google.com/file/d/FILE_ID/view?usp=sharing`)
+
+### Step 2: Convert to Direct Download URL
+
+Replace the Google Drive URL format:
+- **From:** `https://drive.google.com/file/d/FILE_ID/view?usp=sharing`
+- **To:** `https://drive.google.com/uc?export=download&id=FILE_ID`
+
+### Step 3: Set Environment Variable in Render
+
+In your Render dashboard, add this environment variable:
+
+```
+ANALYSIS_DB_URL=https://drive.google.com/uc?export=download&id=YOUR_FILE_ID
+```
+
+### Step 4: Deploy
+
+The app will automatically download `analysis.db` on startup.
+
+## Option 2: Render File Upload (Alternative)
 
 1. **Go to your Render dashboard**
 2. **Click on your web service**
 3. **Go to "Files" tab** (if available)
-4. **Upload your database files:**
-   - `analysis.db` (11MB)
-   - `reddit.db` (116MB)
-
-## Option 2: Cloud Storage + Environment Variables
-
-### Step 1: Upload to Cloud Storage
-
-**Google Drive:**
-1. Upload `analysis.db` and `reddit.db` to Google Drive
-2. Right-click each file → "Get link"
-3. Replace the URL format: `https://drive.google.com/file/d/FILE_ID/view?usp=sharing`
-4. Convert to direct download: `https://drive.google.com/uc?export=download&id=FILE_ID`
-
-**Dropbox:**
-1. Upload files to Dropbox
-2. Right-click → "Copy link"
-3. Replace `www.dropbox.com` with `dl.dropboxusercontent.com`
-4. Remove `?dl=0` and add `?dl=1`
-
-### Step 2: Set Environment Variables in Render
-
-In your Render dashboard, add these environment variables:
-
-```
-REDDIT_DB_URL=https://your-direct-download-url-for-reddit.db
-ANALYSIS_DB_URL=https://your-direct-download-url-for-analysis.db
-```
-
-### Step 3: Deploy
-
-The app will automatically download the database files on startup.
-
-## Option 3: Git Repository (Small files only)
-
-For `analysis.db` only (11MB is manageable):
-
-1. **Add to git:**
-   ```bash
-   git add analysis.db
-   git commit -m "Add analysis database"
-   git push
-   ```
-
-2. **Update .gitignore to exclude reddit.db:**
-   ```
-   reddit.db
-   ```
+4. **Upload `analysis.db`** (11MB)
 
 ## Verification
 
 After deployment, check your app logs to see:
-- ✅ Database files downloaded successfully
-- ✅ Database files are valid
+- ✅ analysis.db downloaded successfully
+- ✅ analysis.db is valid
 
 ## Troubleshooting
 
-**If databases don't download:**
-- Check environment variable URLs
-- Verify cloud storage links are public
+**If database doesn't download:**
+- Check the ANALYSIS_DB_URL environment variable
+- Verify Google Drive link is public
 - Check Render logs for download errors
 
 **If app crashes:**
-- Ensure database files are valid SQLite files
+- Ensure analysis.db is a valid SQLite file
 - Check file permissions on Render
-- Verify database schema matches your app expectations 
+- Verify database schema matches your app expectations
+
+## Notes
+
+- This approach keeps you on Render's free tier
+- Only downloads analysis.db (11MB) - much more manageable
+- Database will be re-downloaded after each container restart
+- Perfect for testing and development 
