@@ -1,0 +1,22 @@
+Thread ID: 1jjt9en
+Title: Insurance dilemma
+Subreddit: healthinsurance
+Created: 1742934110
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The user is seeking advice on obtaining short-term health insurance coverage while transitioning to a new career, facing potential income loss and concerns about Medicaid eligibility.
+Responses Summary: No response summary available
+Themes: short-term coverage, Medicaid eligibility, insurance marketplace
+Options Suggested: explore marketplace insurance, check Medicaid eligibility, consider alternative short-term plans
+Fit Explanation: The user is currently dealing with a potential insurance gap and is actively seeking solutions, indicating a very good fit.
+Original Post: 27 in OH currently making ~$69k annually. Working to figure a solution out as someone who is not insurance savvy. I am currently employed full time with health benefits but will be leaving my job soon to attend fire academy for 16 weeks (career change). You have to show proof of health insurance as part of academy requirements. 
+
+Trying to bridge the gap for 16 weeks (potentially a bit longer if it takes me a while to find a job, but I don’t expect it will in my area)
+
+My job’s benefits are good and COBRA is exorbitantly expensive, so trying to avoid that. My income for these 4 months will go down to $0, but I don’t think I qualify for Medicaid because my 2025 income will end up being higher than the threshold. 
+
+For marketplace insurance, is there a way to see approximately what you would pay per month without submitting an official application? I think I’d be denied if I applied so I don’t want officially apply since I haven’t left my job yet… 
+
+If anyone has any other advice for getting short-term coverage, please let me know! Thank you 

@@ -1,0 +1,14 @@
+Thread ID: 1jdn54i
+Title: Claim denied?
+Subreddit: healthinsurance
+Created: 1742243921
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Billing issue for follow-up visit
+Outcome: Ongoing
+OP Summary: The user experienced a denial of coverage for the follow-up visit of a TB skin test, despite the initial injection being covered by insurance. They are seeking advice on how to address the billing issue with their insurance and the clinic.
+Responses Summary: No response summary available
+Themes: Insurance coverage confusion, Billing discrepancies, Preventative care coverage
+Options Suggested: Contact CVS billing department, Request a review of the claim, Wait for EOB from insurance
+Fit Explanation: The user is actively seeking help regarding a denial and is confused about the billing process, indicating a very good fit for assistance.
+Original Post: I recently got my TB skin test which is 2 parts, going in and getting the shot and then coming back 48-72 hours later to get a positive/negative result depending on what happens at the site of injection. Anyways I get the shot and do the follow up, I don’t have to pay anything because they said it’s all covered by insurance. Today I see on my card that I have a $70 charge from them so I am looking at my insurance online and see they covered the injection, but I was denied the coverage of the second visit, which was a $70 physician fee for the “follow up” / second half of the test where I had to come back for it to be determined positive or negative. I reached out to my insurance (Cigna) and they say it’s due to billing and they can’t do anything to cover it because the billing of the appointment isn’t covered with my plan. I guess I understand but I’m just confused how it isn’t covered, but I understand it’s just the billing. Anyways, I then call the CVS MinuteClinic billing number, which is where I got it done. I speak to a representative and she said that she submitted a claim for them to review it but she can’t say if they’ll actually do anything to change the billing and that it can take up to 30-45 days for complete processing. I’m just so confused, why is this not covered? Why is the billing separate for the same test, but only the first one was covered? Why am I paying for the second half of this test appointment when I’m supposedly “fully” covered on preventative care? This was charged on my card from CVS since one was required on file for the appointment. I guess it’s just a waiting game now, but any advice or insight on what else I can do would help! These are required for my clincals at school and I’m already a broke student, just need some help as someone who’s not well versed in insurance. Thank you! Sorry for the long post. 

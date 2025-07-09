@@ -1,0 +1,17 @@
+Thread ID: 1hmw5nn
+Title: Hospital submitted name backwards
+Subreddit: medicalbill
+Created: 1735242067
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Patient cannot be identified as insured
+Outcome: Unclear
+OP Summary: The original poster is asking if they are liable to pay a medical bill that was denied due to their name being incorrectly listed.
+Responses Summary: Commenters advised that the provider should correct the billing error and refile the claim, emphasizing that the poster is not responsible for the mistake.
+Themes: billing errors, insurance claims, responsibility for payment
+Options Suggested: contact billing office, wait for provider to correct, inform provider of non-payment
+Fit Explanation: The original poster is dealing with a denial and seeking clarity on liability, indicating a good fit for appeal assistance.
+Original Post: I received a medical bill from a recent birth. I noticed that medical bill did not go through insurance (verified with my insurance company that they had not received any claims from this company yet and they have not.)
+After looking more closely at the medical bill statement, I noticed that they put my first and last name backwards and there’s a code at the bottom (PR-31) that says this has been denied because patient cannot be identified as insured
+
+Question: if they have the wrong information on this bill, am I still liable to pay?

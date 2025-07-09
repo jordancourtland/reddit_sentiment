@@ -1,0 +1,16 @@
+Thread ID: 1ka7d9d
+Title: I am about to lose my health insurance and need to get prescriptions filled
+Subreddit: healthinsurance
+Created: 1745876307
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Medicaid renewal denial
+Outcome: Unclear
+OP Summary: The user is facing a denial of Medicaid renewal, which leads to uncertainty about obtaining necessary prescriptions before losing coverage. They are exploring options to fill their medications out of pocket and considering applying for ACA coverage.
+Responses Summary: No response summary available
+Themes: Prescription refills, Medicaid issues, ACA options
+Options Suggested: Pay out of pocket for prescriptions, Request a new prescription, Apply for ACA coverage
+Fit Explanation: The user is actively seeking help regarding their prescription refills and insurance denial, indicating a perfect fit for assistance.
+Original Post: I was denied coverage when applying for Medicaid renewal, and my coverage ends in 2 days. 
+My psychiatrist has sent in multiple refill requests with my pharmacy to help bridge until I can find another plan, and she had sent in a 90 day refill earlier this month, but the pharmacist tells me I do Not have any more refills and can’t process any refill requests early. 
+I am ok with paying out of pocket for these refills, but will the prescription still stand in a month? Will I be able to fill these medications if she sent in refills prior to me losing health coverage, or will these refill requests disappear effectively making it so I can’t pick up my meds without getting another psych appointment (which is quite expensive out of pocket)?

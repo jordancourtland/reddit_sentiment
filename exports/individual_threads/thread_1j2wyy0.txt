@@ -1,0 +1,14 @@
+Thread ID: 1j2wyy0
+Title: Help! I (student) paid the initial dental bill, over a year later and insurance company is refusing to reimburse over minor details.
+Subreddit: medicalbill
+Created: 1741045164
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Ongoing
+OP Summary: The original poster is seeking help after their insurance company, MetLife PDP Plus, has repeatedly denied reimbursement for a wisdom teeth surgery they paid for out-of-pocket over a year ago.
+Responses Summary: Commenters advise the OP to file an official grievance with the insurance company and persistently follow up, as well as to be cautious of providers who do not submit claims to insurance.
+Themes: Insurance claim denial, Provider billing practices, Appeal process advice
+Options Suggested: File an official grievance, Contact insurance for a supervisor, Request a retro authorization
+Fit Explanation: The OP is currently facing a denial and is actively seeking advice on how to appeal, indicating a very good fit for the persona.
+Original Post: I had wisdom teeth surgery last March, which was done quite hastily when the dentist found that my teeth were dangerously close to the nerves. In what was admittedly shady practice, we were made to foot the bill for the day-of procedure. My family and I immediately filed a claim with my provider, which is MetLife PDP Plus, and have yet to be reimbursed. They keep denying the claim and forcing us to refile for basically no reason. What can I do?

@@ -1,0 +1,18 @@
+Thread ID: 1j31ita
+Title: UHC Denied Claim
+Subreddit: healthinsurance
+Created: 1741058901
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The OP's claim for nerve block injections for migraines was denied by UHC, citing lack of medical necessity based on their policy guidelines, despite previous approvals under a different insurer. They are considering an expedited external review and seeking advice on how to proceed.
+Responses Summary: No response summary available
+Themes: Insurance policy exclusions, Appeal process, Chronic migraine treatment options
+Options Suggested: Request expedited external review, Consult with an independent neurologist, Gather detailed medical records and treatment history
+Fit Explanation: The OP is actively seeking help with their appeal process and has already initiated an appeal with UHC.
+Original Post: My wife has had migraines since childhood. She has regularly received nerve block injections (every 13-14 weeks) for the past two years without issue. Last May we switched to UHC. Didn't have a problem until Jan 2025. They denied the claim. We appealed. UHC reviewed the appeal and is claiming they had a UHC Medical director, specializing in Neurology reviewed the appeal and have yet again denied it (surprise). They stated: "Your appeal was reviewed by a board certified  neurologist. You had an injection of local anesthetic and steroid medicine into the nerve at the base of your skull. The nerve is called the "Greater Occipital" nerve. This was done in Jan 2025. We understand that you had head pain. We looked at your doctor's notes. We looked at your plan medical policy. Your plan medical policy guidelines have not shown this procedure to be effective for your condition. The treatment is not supported by high quality medical studies. Services that are not proven effective are not medically necessary. Treatments that are not medically necessary are not covered benefits under your plan."  
+
+Of course their board certified neurologist is going to deny the claim. UHC is scum and I don't believe they are acting in good faith. We have the option to request an expedited external review with the Commissioner of the OK Insurance Department orally or in writing, which we are going to pursue. Does anyone have any advice for writing to the Commissioner?
+
+Thanks in advance. 

@@ -1,0 +1,14 @@
+Thread ID: 1km6fyr
+Title: Asiflex Keeps Rejecting Legitimate Claim
+Subreddit: healthinsurance
+Created: 1747196638
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Vague documentation and IRS compliance issues
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to get their FSA claim for orthopedic shoes related to plantar fasciitis approved after facing multiple denials despite providing necessary documentation.
+Responses Summary: Community members suggest reviewing IRS guidelines for medical expenses, ensuring all documentation is clear and specific, and possibly contacting the FSA company for clarification on their requirements.
+Themes: Claim denial, Documentation requirements, IRS regulations
+Options Suggested: Submit additional documentation, Consult with a healthcare advocate, Review IRS guidelines
+Fit Explanation: The user is actively seeking help to appeal the denial of their claim.
+Original Post: I really don't get why our health system is so broken. These FSA companies are supposedly regulated by the IRS, and it seems, they like to reject claims just like insurance companies with no recourse for the client. I recently got a painful Plantar fasciitis  of my foot and saw a foot specialist to diagnose. I bought some orthopedic shoes from Roadrunner Sports to alleviate the pain.  The FSA website says for some items you need a doctor's note stating I had plantar fasciitis and would benefit from orthopedic shoes.  I got a doctors note and submitted the claim. They denied it with there codes DIFF,DRL,996. They said that the word needed orthopedic shoes was too vague. They also said I'd have to submit an online picture of a normal shoes cost, and due to IRS regulations, one can only get reimbursed for the difference between the cost of the ortho shoes and the normal similar shoes. This is crazy. So, I had the doctor do another letter of medical necessity stating I'd benefit from the brand Hoka shoes and needed it for plantar fasciitis. They want me to read all this legalize IRS form 502 and submit another claim. How can I get them to accept the claim since this is a legitimate medical expense for a legitimate medical problem? Thanks for any insight.

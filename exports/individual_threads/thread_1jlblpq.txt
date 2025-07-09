@@ -1,0 +1,20 @@
+Thread ID: 1jlblpq
+Title: [MO] Medicaid backdated causing ACA plan overlap and billing issues
+Subreddit: healthinsurance
+Created: 1743101915
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Coverage overlap
+Outcome: Ongoing
+OP Summary: The user is facing billing issues due to a Medicaid backdate causing an overlap with their ACA plan, leading to denied rebilling for medical costs. They seek advice on how to resolve the situation and whether they will need to pay back their subsidy.
+Responses Summary: No response summary available
+Themes: Medicaid backdating, ACA plan issues, Billing confusion
+Options Suggested: Contact Medicaid for clarification, Rebill charges to the correct payer, Visit DSS office for assistance
+Fit Explanation: The user is actively seeking help to resolve their healthcare insurance denial and is preparing to advocate for themselves at the DSS office.
+Original Post: I am in Missouri, 27 years old,  and it's very hard to get anything medicaid related done here, so I need to be able to be my own advocate when I go into the dss office in the morning. So if anyone can help me figure out what needs to be done here I would greatly appreciate it!!!
+
+I was laid off Oct 3, 2024. I earned 23,367 gross that year according to my W2. I decided to go back to school instead of getting a new job immediately. My understanding was this made me ineligible for MO medicaid until Jan 1 since my income for 2024 was over the limit. I was deemed eligible for a marketplace plan with subsidy from Dec 1- 31 and I did use that. They recently finally approved my medicaid application after months two days ago, and backdated it to Nov 1. I began the process of having my 2025 medical costs I paid on a credit card rebilled to medicaid after I was approved. But because it is backdated to November 1, I now have a coverage overlap in December with my marketplace plan that is causing the rebilling to be denied due to coverage overlap. How does this get resolved? Will I have to pay back my subsidy? 
+
+Mini rant: It's all very confusing and the hold times for dss in missouri usually pass 4 hours before this time of afternoon. (I've been kicked off the phone on hold because it went past closing time before, over 4 hours hold) so my plan is to go to the office tomorrow or Monday before they open so I can get a spot to be seen within 2 hours by the people that know what they're doing. But I'd like to know what needs to happen so I can make sure this gets resolved because I'm about tired of all this to say the least.  
+
+I appreciate any advice from the bottom of my heart, this is very stressful for me. 

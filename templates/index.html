@@ -1,912 +1,786 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>Reddit Insurance Denial Analysis</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" rel="stylesheet">
     <style>
-        .fit-score {
-            font-weight: bold;
+        body { 
+            background: #f7f7f7; 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
         }
-        .fit-score.high { color: #28a745; }
-        .fit-score.medium { color: #ffc107; }
-        .fit-score.low { color: #dc3545; }
-        .themes-list {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        .themes-list li {
-            display: inline-block;
-            background: #f8f9fa;
-            padding: 2px 8px;
-            margin: 2px;
-            border-radius: 4px;
-            font-size: 0.9em;
-        }
-        .options-list {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        .options-list li {
-            margin-bottom: 4px;
-            padding: 4px;
-            background: #f8f9fa;
-            border-radius: 4px;
-        }
-        .filter-container {
-            padding: 10px 15px;
-            background-color: #f8f9fa;
-            border-radius: 5px;
-            margin-bottom: 15px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-        }
-        .date-filter {
-            margin-right: 10px;
-        }
-        
-        /* Compact table styles */
-        .table-container {
-            margin-top: 0;
-        }
-        #posts-table thead th {
-            padding: 8px 6px;
-            font-size: 0.9rem;
-        }
-        #posts-table tbody td {
-            padding: 6px;
-            font-size: 0.85rem;
-        }
-        
-        /* More compact button group */
-        .btn-group-sm .btn-sm {
-            padding: 0.25rem 0.5rem;
-            font-size: 0.75rem;
-        }
-        
-        /* Table styling for DataTables */
-        .table-container {
-            overflow-x: auto;
-            width: 100%;
-            margin-bottom: 20px;
-        }
-        
-        table.dataTable {
-            width: 100% !important;
-            margin-bottom: 0 !important;
-            clear: both;
-            table-layout: fixed;
-        }
-        
-        /* Fix header alignment */
-        .dataTables_scrollHead,
-        .dataTables_scrollHeadInner,
-        .dataTables_scrollHeadInner table {
-            width: 100% !important;
-        }
-        
-        /* Ensure consistent widths between header and body */
-        .dataTables_scrollHead table.dataTable,
-        .dataTables_scrollBody table.dataTable {
-            margin-top: 0 !important;
-            margin-bottom: 0 !important;
-            border-collapse: separate;
-            border-spacing: 0;
-        }
-        
-        /* Ensure headers and cells maintain their defined width */
-        table.dataTable thead th,
-        table.dataTable tbody td {
-            white-space: normal;
-            word-wrap: break-word;
-            box-sizing: border-box;
-        }
-        
-        table.dataTable thead th {
+        nav { 
+            background: #222; 
+            color: #fff; 
+            padding: 1rem; 
             position: sticky;
             top: 0;
-            background-color: #f8f9fa;
-            border-bottom: 2px solid #dee2e6 !important;
-            font-weight: 600;
-            padding: 6px 4px;
-            text-align: left;
-            z-index: 10;
-            color: #212529;
-            font-size: 0.8rem;
-            line-height: 1.2;
+            z-index: 100;
         }
-        
-        table.dataTable thead th.sorting:after,
-        table.dataTable thead th.sorting_asc:after,
-        table.dataTable thead th.sorting_desc:after {
-            position: absolute;
-            right: 2px;
-            top: 50%;
-            transform: translateY(-50%);
-            opacity: 0.3;
-            font-size: 0.7rem;
+        nav a { 
+            color: #fff; 
+            text-decoration: none; 
+            margin-right: 1rem; 
+            font-weight: bold;
         }
-        
-        /* Ensure headers have room for sorting icons */
-        table.dataTable thead th.sorting, 
-        table.dataTable thead th.sorting_asc, 
-        table.dataTable thead th.sorting_desc {
-            padding-right: 15px;
-            white-space: nowrap;
+        .container { 
+            max-width: 1400px; 
+            margin: 2rem auto; 
+            background: #fff; 
+            padding: 2rem; 
+            border-radius: 8px; 
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        .search-filter-container {
+            margin-bottom: 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
             overflow: hidden;
-            text-overflow: ellipsis;
         }
-        
-        table.dataTable tbody td {
-            padding: 8px;
+        .filter-header {
+            background: #f8f9fa;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: bold;
+            color: #333;
+        }
+        .filter-header:hover {
+            background: #e9ecef;
+        }
+        .filter-header .toggle-icon {
+            transition: transform 0.2s;
+        }
+        .filter-header.collapsed .toggle-icon {
+            transform: rotate(-90deg);
+        }
+        .filter-content {
+            background: #fff;
+            padding: 1rem;
+            max-height: 500px;
+            overflow-y: auto;
+            transition: max-height 0.3s ease;
+        }
+        .filter-content.collapsed {
+            max-height: 0;
+            padding: 0 1rem;
+            overflow: hidden;
+        }
+        .search-row {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+        .search-input {
+            flex: 1;
+            min-width: 200px;
+            padding: 0.5rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 0.9rem;
+        }
+        .filter-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+        .filter-label {
+            font-size: 0.8rem;
+            font-weight: bold;
+            color: #666;
+        }
+        .filter-select {
+            padding: 0.5rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            min-width: 120px;
+        }
+        .filter-actions {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            justify-content: flex-end;
+            padding-top: 0.5rem;
+            border-top: 1px solid #eee;
+        }
+        .clear-filters-btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            background: #222;
+            color: #fff;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.9rem;
+        }
+        .clear-filters-btn:hover {
+            background: #444;
+        }
+        .apply-filters-btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            background: #007bff;
+            color: #fff;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.9rem;
+        }
+        .apply-filters-btn:hover {
+            background: #0056b3;
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin-bottom: 1rem; 
+            font-size: 0.9rem;
+            table-layout: fixed;
+        }
+        th, td { 
+            border: 1px solid #ddd; 
+            padding: 0.5rem; 
+            text-align: left; 
             vertical-align: top;
-            border-top: 1px solid #dee2e6;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
         }
-        
-        /* Post styling */
+        th { 
+            background: #f0f0f0; 
+            font-weight: bold;
+            position: sticky;
+            top: 0;
+            cursor: pointer;
+            user-select: none;
+            white-space: nowrap;
+        }
+        th:hover {
+            background: #e0e0e0;
+        }
+        th.sortable::after {
+            content: ' ↕';
+            color: #666;
+        }
+        th.sort-asc::after {
+            content: ' ↑';
+            color: #007bff;
+        }
+        th.sort-desc::after {
+            content: ' ↓';
+            color: #007bff;
+        }
+        .pagination { 
+            display: flex; 
+            gap: 0.5rem; 
+            justify-content: center; 
+            margin: 1rem 0; 
+            flex-wrap: wrap;
+        }
+        .pagination button { 
+            padding: 0.5rem 1rem; 
+            border: none; 
+            background: #222; 
+            color: #fff; 
+            border-radius: 4px; 
+            cursor: pointer; 
+        }
+        .pagination button:disabled { 
+            background: #aaa; 
+            cursor: not-allowed; 
+        }
+        .pagination span {
+            padding: 0.5rem;
+            color: #666;
+        }
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+        }
+        .analysis-badge {
+            display: inline-block;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+        .analysis-badge.analyzed {
+            background: #d4edda;
+            color: #155724;
+        }
+        .analysis-badge.pending {
+            background: #fff3cd;
+            color: #856404;
+        }
         .post-title {
-            font-weight: 600;
-            margin-bottom: 3px;
-            display: block;
-            color: #0d6efd;
+            font-weight: bold;
+            color: #007bff;
             text-decoration: none;
+            word-break: break-word;
         }
         .post-title:hover {
             text-decoration: underline;
         }
-        .post-meta {
-            font-size: 0.8rem;
-            color: #666;
+        .summary-text {
+            max-width: 200px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            line-height: 1.3;
+        }
+        .sentiment-positive { color: #28a745; }
+        .sentiment-neutral { color: #ffc107; }
+        .sentiment-negative { color: #dc3545; }
+        .scroll-container {
+            overflow-x: auto;
+            max-width: 100%;
+        }
+        .sort-controls {
+            margin-bottom: 1rem;
             display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        .post-meta > div {
-            display: inline-flex;
+            gap: 1rem;
             align-items: center;
-        }
-        .post-meta .meta-icon {
-            margin-right: 3px;
-            opacity: 0.7;
-        }
-        .meta-subreddit {
-            font-weight: 500;
-            color: #1a1a1a;
-        }
-        .meta-comments {
-            cursor: pointer;
-            color: #007bff;
-        }
-        .meta-comments:hover {
-            text-decoration: underline;
-        }
-        
-        /* Sort buttons */
-        .sort-btn.active {
-            background-color: #0d6efd;
-            color: white;
-        }
-        .btn-group {
             flex-wrap: wrap;
         }
-        .btn-group .btn {
-            margin-right: 2px;
-            margin-bottom: 2px;
-        }
-        
-        /* Other elements */
-        .themes-list {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        .themes-list li {
-            display: inline-block;
-            background: #f8f9fa;
-            padding: 2px 8px;
-            margin: 2px;
-            border-radius: 4px;
-            font-size: 0.9em;
-        }
-        .options-list {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        .options-list li {
-            margin-bottom: 4px;
-            padding: 4px;
-            background: #f8f9fa;
-            border-radius: 4px;
-        }
-        
-        /* Modal styles */
-        .original-post {
-            border-left: 4px solid #007bff;
-            background-color: #f8f9fa;
-            padding: 15px;
-            margin-bottom: 20px;
-        }
-        .post-content {
-            white-space: pre-line;
-            max-height: 300px;
-            overflow-y: auto;
-            margin-top: 10px;
-        }
-        .comment {
-            border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
-            margin-bottom: 10px;
-        }
-        .comment-body {
-            margin: 8px 0;
-            white-space: pre-line;
-        }
-        
-        /* Fix search box */
-        .dataTables_filter {
-            margin: 1rem 0;
-            text-align: right;
-        }
-        .dataTables_filter label {
-            font-weight: 500;
-        }
-        .dataTables_filter input {
-            margin-left: 5px;
-            padding: 5px;
-            border: 1px solid #ced4da;
-            border-radius: 4px;
-        }
-        
-        /* Fix tooltip styles */
-        [data-bs-toggle="tooltip"] {
-            cursor: help;
-            position: relative;
-        }
-        
-        /* Style info icon */
-        .bi-info-circle {
-            color: #0d6efd;
-            font-size: 0.9em;
-            margin-left: 4px;
-            vertical-align: middle;
-        }
-        
-        /* Tooltip styling */
-        .tooltip {
-            opacity: 1 !important;
-        }
-        
-        .tooltip-inner {
-            max-width: 350px;
-            padding: 10px;
-            text-align: left;
-            background-color: #fff;
-            color: #000;
+        .sort-controls select {
+            padding: 0.5rem;
             border: 1px solid #ddd;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-            line-height: 1.4;
-        }
-        
-        /* Remove conflicting column width CSS */
-        
-        /* Responsive adjustments */
-        @media (max-width: 991px) {
-            .filter-container .row > div {
-                margin-bottom: 8px;
-            }
-            .filter-container .d-flex {
-                width: 100%;
-                justify-content: space-between;
-            }
-            #search-input {
-                width: 140px !important;
-            }
-        }
-        
-        @media (max-width: 767px) {
-            .btn-group-sm .btn-sm {
-                padding: 0.2rem 0.4rem;
-                font-size: 0.7rem;
-            }
-        }
-        
-        /* Make the container more compact */
-        .container-fluid {
-            padding: 0 15px;
-        }
-        
-        /* Reduce space between elements */
-        .table-container {
-            margin-bottom: 15px;
-        }
-        
-        /* Smaller heading */
-        h1 {
-            font-size: 1.75rem;
-            margin-bottom: 15px;
-        }
-        
-        /* Improved table styling */
-        .table-container {
-            border: 1px solid rgba(0,0,0,0.1);
             border-radius: 4px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
         }
-        
-        /* Slightly reduce cell padding to save space */
-        table.dataTable tbody td {
-            padding: 5px 4px;
-            font-size: 0.85rem;
+        .sort-controls button {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            background: #fff;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .sort-controls button:hover {
+            background: #f0f0f0;
+        }
+        /* Column width specifications */
+        .col-id { width: 80px; }
+        .col-subreddit { width: 120px; }
+        .col-keyword { width: 100px; }
+        .col-title { width: 200px; }
+        .col-score { width: 60px; }
+        .col-comments { width: 80px; }
+        .col-analysis { width: 100px; }
+        .col-persona { width: 80px; }
+        .col-confidence { width: 80px; }
+        .col-denial-type { width: 100px; }
+        .col-denial-category { width: 120px; }
+        .col-patient-phase { width: 120px; }
+        .col-touchpoints { width: 120px; }
+        .col-sentiment { width: 80px; }
+        .col-experience { width: 100px; }
+        .col-themes { width: 150px; }
+        .col-outcome { width: 100px; }
+        .col-op-summary { width: 200px; }
+        .col-responses-summary { width: 200px; }
+        .col-date { width: 120px; }
+        /* Ensure text wraps properly in all cells */
+        td {
+            word-break: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
             line-height: 1.3;
+            max-height: 100px;
+            overflow-y: auto;
         }
-        
-        /* Make post title more prominent */
-        .post-title {
-            font-weight: 500;
-            font-size: 0.9rem;
-            line-height: 1.3;
-            margin-bottom: 2px;
-        }
-        
-        /* Make metadata more compact */
-        .post-meta {
-            font-size: 0.75rem;
-            line-height: 1.2;
-            margin-top: 2px;
-        }
-        
-        /* Alternating row colors */
-        table.dataTable tbody tr:nth-of-type(odd) {
-            background-color: rgba(0,0,0,0.02);
-        }
-        
-        table.dataTable tbody tr:hover {
-            background-color: rgba(0,0,0,0.05);
+        /* Make long text scrollable in cells */
+        .cell-content {
+            max-height: 80px;
+            overflow-y: auto;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
     </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-    <div class="container-fluid mt-3">
-        <div class="d-flex justify-content-between align-items-center mb-3">
-            <h1 class="mb-0">Reddit Insurance Denial Analysis</h1>
-            <div class="d-flex align-items-center">
-                <div id="stats-summary" class="text-end me-2">
-                    <!-- Stats summary will be inserted here -->
+    <!-- Navigation Bar -->
+    <nav>
+        <a href="/">Posts</a>
+        <a href="/dashboard">Dashboard</a>
+        <a href="#" onclick="exportData()">Export Data</a>
+    </nav>
+    <div class="container">
+        <h2>Reddit Posts Analysis</h2>
+        
+        <!-- Search and Filter Controls -->
+        <div class="search-filter-container">
+            <div class="filter-header" id="filterHeader">
+                <span>🔍 Search & Filters</span>
+                <span class="toggle-icon">▼</span>
+            </div>
+            <div class="filter-content" id="filterContent">
+                <div class="search-row">
+                    <input type="text" class="search-input" id="searchInput" placeholder="Search title, text, or themes...">
                 </div>
-                <button id="toggle-stats" class="btn btn-outline-secondary btn-sm" title="Toggle detailed stats">
-                    <span class="toggle-icon">⯆</span>
-                </button>
+                <div class="filter-grid">
+                    <div class="filter-group">
+                        <label class="filter-label">Subreddit</label>
+                        <select class="filter-select" id="subredditFilter">
+                            <option value="">All Subreddits</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label class="filter-label">Patient Phase</label>
+                        <select class="filter-select" id="phaseFilter">
+                            <option value="">All Phases</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Denial Type</label>
+                        <select class="filter-select" id="denialTypeFilter">
+                            <option value="">All Types</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Denial Category</label>
+                        <select class="filter-select" id="denialFilter">
+                            <option value="">All Categories</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Outcome</label>
+                        <select class="filter-select" id="outcomeFilter">
+                            <option value="">All Outcomes</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Persona Fit</label>
+                        <select class="filter-select" id="personaFilter">
+                            <option value="">All Personas</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Confidence Level</label>
+                        <select class="filter-select" id="confidenceFilter">
+                            <option value="">All Levels</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Experience Rating</label>
+                        <select class="filter-select" id="experienceFilter">
+                            <option value="">All Ratings</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Analysis Status</label>
+                        <select class="filter-select" id="analysisFilter">
+                            <option value="">All Statuses</option>
+                            <option value="analyzed">Analyzed</option>
+                            <option value="pending">Pending</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Score Range</label>
+                        <select class="filter-select" id="scoreFilter">
+                            <option value="">All Scores</option>
+                            <option value="high">High (100+)</option>
+                            <option value="medium">Medium (50-99)</option>
+                            <option value="low">Low (0-49)</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Comments Range</label>
+                        <select class="filter-select" id="commentsFilter">
+                            <option value="">All Comments</option>
+                            <option value="high">High (50+)</option>
+                            <option value="medium">Medium (10-49)</option>
+                            <option value="low">Low (0-9)</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="filter-actions">
+                    <button type="button" class="clear-filters-btn" id="clearFiltersBtn">Clear All Filters</button>
+                    <button type="button" class="apply-filters-btn" id="applyFiltersBtn">Apply Filters</button>
+                </div>
             </div>
         </div>
         
-        <div id="stats-container" class="mb-3" style="display: none;"></div>
-        
-        <!-- Filters -->
-        <div class="filter-container">
-            <div class="row align-items-center g-2">
-                <div class="col-lg-5 col-md-12">
-                    <div class="d-flex align-items-center flex-wrap">
-                        <label for="daterange" class="me-2 mb-0 text-nowrap">Date:</label>
-                        <input type="text" id="daterange" class="form-control form-control-sm me-2" style="width: 160px;" />
-                        <button id="clear-date-filter" class="btn btn-outline-secondary btn-sm">Clear</button>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-12">
-                    <div class="d-flex align-items-center flex-wrap justify-content-between">
-                        <div class="d-flex align-items-center me-3">
-                            <label class="me-2 mb-0 text-nowrap">Sort:</label>
-                            <div class="btn-group btn-group-sm" role="group" aria-label="Sort options">
-                                <button type="button" class="btn btn-outline-primary btn-sm sort-btn active" data-sort="date" data-order="desc">Newest</button>
-                                <button type="button" class="btn btn-outline-primary btn-sm sort-btn" data-sort="date" data-order="asc">Oldest</button>
-                                <button type="button" class="btn btn-outline-primary btn-sm sort-btn" data-sort="score" data-order="desc">Upvotes</button>
-                                <button type="button" class="btn btn-outline-primary btn-sm sort-btn" data-sort="comments" data-order="desc">Comments</button>
-                            </div>
-                        </div>
-                        <div class="d-flex align-items-center">
-                            <label for="search-input" class="me-2 mb-0 text-nowrap">Search:</label>
-                            <input type="text" id="search-input" class="form-control form-control-sm" style="width: 170px;" placeholder="Search all columns..." />
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="pagination" id="pagination-controls"></div>
+        <div class="scroll-container">
+            <table id="posts-table">
+                <thead>
+                    <tr>
+                        <th class="sortable col-id" data-field="id">ID</th>
+                        <th class="col-title">Title</th>
+                        <th class="sortable col-subreddit" data-field="subreddit">Subreddit</th>
+                        <th class="col-analysis">Analysis</th>
+                        <th class="sortable col-outcome" data-field="outcome">Outcome</th>
+                        <th class="col-op-summary">OP Summary</th>
+                        <th class="col-responses-summary">Responses Summary</th>
+                        <th class="col-themes">Themes</th>
+                        <th class="sortable col-sentiment" data-field="sentiment_score">Sentiment</th>
+                        <th class="sortable col-patient-phase" data-field="patient_phase">Patient Phase</th>
+                        <th class="col-touchpoints">Touchpoints</th>
+                        <th class="sortable col-denial-category" data-field="denial_category">Denial Category</th>
+                        <th class="sortable col-denial-type" data-field="denial_type">Denial Type</th>
+                        <th class="sortable col-confidence" data-field="confidence">Confidence</th>
+                        <th class="sortable col-persona" data-field="persona_fit">Persona Fit</th>
+                        <th class="sortable col-score" data-field="score">Score</th>
+                        <th class="sortable col-comments" data-field="num_comments">Comments</th>
+                        <th class="sortable col-date" data-field="created_utc">Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td colspan="20" class="loading">Loading posts...</td></tr>
+                </tbody>
+            </table>
         </div>
-
-        <!-- Posts Table -->
-        <div class="row">
-            <div class="col-md-12">
-                <div class="table-container">
-                <table id="posts-table" class="table table-striped">
-                        <!-- Headers and content will be generated by DataTables -->
-                </table>
-                </div>
-            </div>
-        </div>
-
-        <!-- Comments Modal -->
-        <div class="modal fade" id="commentsModal" tabindex="-1">
-            <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title">Thread Details</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-                    </div>
-                    <div class="modal-body">
-                        <div id="original-post-container" class="mb-4">
-                            <!-- Original post will be inserted here -->
-                        </div>
-                        <h6 class="border-bottom pb-2 mb-3">Comments</h6>
-                        <div id="comments-container">
-                            <!-- Comments will be inserted here -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <div class="pagination" id="pagination-controls-bottom"></div>
     </div>
-
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
     <script>
+        let currentPage = 1;
+        let currentSort = { field: 'created_utc', direction: 'desc' };
+        let currentFilters = {};
+        let filterOptions = {};
+
+        // Initialize the page
         $(document).ready(function() {
-            // Initialize tooltips function that will be reused
-            function initTooltips() {
-                // First, dispose any existing tooltips to prevent duplicates
-                var existingTooltips = document.querySelectorAll('[data-bs-toggle="tooltip"]');
-                existingTooltips.forEach(function(el) {
-                    var tooltip = bootstrap.Tooltip.getInstance(el);
-                    if (tooltip) {
-                        tooltip.dispose();
-                    }
-                });
-                
-                // Then initialize new tooltips with proper configuration
-                var tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
-                tooltipTriggerList.forEach(function(tooltipTriggerEl) {
-                    new bootstrap.Tooltip(tooltipTriggerEl, {
-                        trigger: 'hover focus',
-                        delay: {show: 100, hide: 300},
-                        container: 'body',
-                        template: '<div class="tooltip" role="tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div>'
-                    });
-                });
-                
-                // Add mouse leave event to properly hide tooltips
-                document.querySelectorAll('[data-bs-toggle="tooltip"]').forEach(function(el) {
-                    el.addEventListener('mouseleave', function() {
-                        var tooltip = bootstrap.Tooltip.getInstance(this);
-                        if (tooltip) {
-                            tooltip.hide();
-                        }
-                    });
-                });
-            }
-            
-            // Initial tooltips
-            initTooltips();
-            
-            // Initialize date range picker without default selection
-            $('#daterange').daterangepicker({
-                autoUpdateInput: false, // Don't auto-update the input
-                ranges: {
-                   'All Time': [moment.unix(0), moment()],
-                   'Today': [moment().startOf('day'), moment().endOf('day')],
-                   'Last 7 Days': [moment().subtract(6, 'days'), moment()],
-                   'Last 30 Days': [moment().subtract(29, 'days'), moment()],
-                   'This Month': [moment().startOf('month'), moment().endOf('month')],
-                   'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
-                }
-            });
-            
-            // Custom filtering function for date range
-            $.fn.dataTable.ext.search.push(
-                function(settings, data, dataIndex, rowData) {
-                    // Get selected date range
-                    const dateRangeStr = $('#daterange').val();
-                    
-                    // If no date range is selected, show all rows
-                    if (!dateRangeStr || dateRangeStr === '') return true;
-                    
-                    // Get post creation date (column 2)
-                    const postDate = moment(rowData.created_utc * 1000);
-                    
-                    // Get selected date range
-                    const [startStr, endStr] = dateRangeStr.split(' - ');
-                    const start = moment(startStr, 'MM/DD/YYYY').startOf('day');
-                    const end = moment(endStr, 'MM/DD/YYYY').endOf('day');
-                    
-                    // If post date is within the selected range, show the row
-                    return postDate.isBetween(start, end, null, '[]');
-                }
-            );
-            
-            // Apply date filter when date range changes
-            $('#daterange').on('apply.daterangepicker', function(ev, picker) {
-                // Set the input value
-                $(this).val(picker.startDate.format('MM/DD/YYYY') + ' - ' + picker.endDate.format('MM/DD/YYYY'));
-                table.draw();
-            });
-            
-            // When date range picker is cancelled, clear the input
-            $('#daterange').on('cancel.daterangepicker', function(ev, picker) {
-                $(this).val('');
-                table.draw();
-            });
-            
-            // Clear date filter
-            $('#clear-date-filter').click(function() {
-                $('#daterange').val('');
-                table.draw();
-            });
-            
-            // Test API directly
-            fetch('/api/posts')
-                .then(response => {
-                    console.log('API status:', response.status);
-                    return response.json();
-                })
-                .then(data => {
-                    console.log('Direct API call result:', data);
-                    if (data && data.length > 0) {
-                        // Since we have the data directly, initialize the table with it
-                        initializeTable(data);
-                    }
-                })
-                .catch(error => {
-                    console.error('Direct API call error:', error);
-                });
-
-            // Function to initialize the table with data
-            function initializeTable(data) {
-                // Add hidden fields for sorting
-                data.forEach(post => {
-                    // Create formatted fields for all sortable columns
-                    post._date = post.created_utc || 0;
-                    post._score = post.score || 0;
-                    post._comments = post.num_comments || 0;
-                    post._subreddit = post.subreddit || '';
-                });
-                
-                // Initialize DataTable with data
-                const table = $('#posts-table').DataTable({
-                    data: data,
-                    columns: [
-                        // Post column with combined metadata
-                        { 
-                            data: null,
-                            title: "Post",
-                            width: "30%",
-                            render: function(data, type, row) {
-                                if (type === 'sort') {
-                                    return row.title || '';
-                                }
-                                
-                                // Format the date
-                                const date = new Date(row.created_utc * 1000);
-                                const formattedDate = date.toLocaleDateString();
-                                
-                                // Use data attributes for URLs instead of direct href to avoid potential issues
-                                return `
-                                    <a class="post-link" data-url="${row.url}" target="_blank" rel="noopener noreferrer">${row.title || 'No title'}</a>
-                                    <div>
-                                        <small>r/${row.subreddit} • ${formattedDate} • ⬆️ ${row.score} • 💬 <span class="meta-comments" data-post-id="${row.id}">${row.num_comments}</span></small>
-                                    </div>`;
-                            }
-                        },
-                        // Date column for sorting (hidden)
-                        { 
-                            data: '_date',
-                            title: "Date",
-                            visible: false
-                        },
-                        // Score column for sorting (hidden)
-                        { 
-                            data: '_score',
-                            title: "Score",
-                            visible: false
-                        },
-                        // Comments column for sorting (hidden)
-                        { 
-                            data: '_comments',
-                            title: "Comments",
-                            visible: false
-                        },
-                        // Subreddit column for sorting (hidden)
-                        { 
-                            data: '_subreddit',
-                            title: "Subreddit",
-                            visible: false
-                        },
-                        // Visible columns
-                        { data: 'op_summary', title: "OP Question", width: "15%" },
-                        { data: 'responses_summary', title: "Responses", width: "15%" },
-                        { 
-                            data: 'persona_fit',
-                            title: 'Fit % <i class="bi bi-info-circle" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="right" title="<b>Fit score</b> (0.0-1.0) measures how well a post matches our insurance denial analysis criteria:<br><br><b>1.0</b> = Perfect fit (actively seeking appeal help now)<br><b>0.8</b> = Very good fit (has denial, might need help soon)<br><b>0.5</b> = Moderate fit (has denial, already has solution)<br><b>0.2</b> = Poor fit (historical case, resolved)<br><b>0.0</b> = No fit (not about denials)"></i>',
-                            width: "5%",
-                            render: function(data) {
-                                if (!data) return 'Not analyzed';
-                                let className = 'low';
-                                if (data >= 0.8) className = 'high';
-                                else if (data >= 0.5) className = 'medium';
-                                return `<span class="fit-score ${className}">${(data * 100).toFixed(0)}%</span>`;
-                            }
-                        },
-                        { data: 'denial_type', title: "Denial", width: "10%" },
-                        { 
-                            data: 'themes',
-                            title: "Themes",
-                            width: "12%",
-                            render: function(data) {
-                                if (!data) return 'Not analyzed';
-                                return data.join(', ');
-                            }
-                        },
-                        { data: 'outcome', title: "Outcome", width: "5%" },
-                        { 
-                            data: 'options_suggested',
-                            title: "Options",
-                            width: "8%",
-                            render: function(data) {
-                                if (!data) return 'Not analyzed';
-                                return data.join(', ');
-                            }
-                        }
-                    ],
-                    order: [[1, 'desc']], // Default order by date (newest first)
-                    paging: false,
-                    info: false,
-                    scrollX: true,
-                    autoWidth: false,
-                    columnDefs: [
-                        { className: "align-top", targets: "_all" }
-                    ],
-                    drawCallback: function() {
-                        // Force width recalculation to ensure header/body alignment
-                        $(window).trigger('resize');
-                        
-                        // Fix header width
-                        const headerTable = $(this).closest('.dataTables_wrapper').find('.dataTables_scrollHeadInner table');
-                        const bodyTable = $(this).closest('.dataTables_wrapper').find('.dataTables_scrollBody table');
-                        
-                        // Ensure header has same width as body
-                        headerTable.css('width', bodyTable.outerWidth());
-                        
-                        // Synchronize column widths
-                        bodyTable.find('thead th').each(function(index) {
-                            const width = $(this).outerWidth();
-                            headerTable.find('thead th').eq(index).css('width', width);
-                        });
-                        
-                        // Reinitialize tooltips after table is drawn
-                        initTooltips();
-                    }
-                });
-
-                // Handle sort button clicks - use column indices from the table configuration
-                $('.sort-btn').click(function() {
-                    const sortType = $(this).data('sort');
-                    const order = $(this).data('order');
-                    
-                    // Update active button state
-                    $('.sort-btn').removeClass('active');
-                    $(this).addClass('active');
-                    
-                    // Map sort type to column index
-                    let columnIndex = 0; // Default to title
-                    switch(sortType) {
-                        case 'date':
-                            columnIndex = 1; // Date column
-                            break;
-                        case 'score':
-                            columnIndex = 2; // Score column
-                            break;
-                        case 'comments':
-                            columnIndex = 3; // Comments column
-                            break;
-                        default:
-                            columnIndex = 0; // Title column
-                    }
-                    
-                    console.log(`Sorting by column ${columnIndex} in ${order} order`);
-                    table.order([columnIndex, order]).draw();
-                });
-                
-                // Set initial sort (newest first)
-                $('.sort-btn[data-sort="date"][data-order="desc"]').addClass('active');
-                
-                // Connect search box to DataTable
-                $('#search-input').on('keyup', function() {
-                    table.search(this.value).draw();
-                });
-                
-                // Add explicit click handler for post links
-                $('#posts-table').on('click', '.post-link', function(e) {
-                    e.preventDefault();
-                    e.stopPropagation();
-                    const url = $(this).data('url');
-                    if (url) {
-                        window.open(url, '_blank', 'noopener,noreferrer');
-                    }
-                    return false;
-                });
-                
-                // Add explicit click handler for comments links
-                $('#posts-table').on('click', '.meta-comments', function(e) {
-                    e.preventDefault();
-                    e.stopPropagation();
-                    const postId = $(this).data('post-id');
-                    showComments(postId);
-                    return false;
-                });
-                
-                // Function to show comments
-                function showComments(postId) {
-                    const modal = new bootstrap.Modal(document.getElementById('commentsModal'));
-                    
-                    $.get(`/api/comments/${postId}`, function(data) {
-                        // Display original post
-                        if (data.post) {
-                            const post = data.post;
-                            const postCreatedDate = new Date(post.created_utc * 1000).toLocaleString();
-                            const postHtml = `
-                                <div class="original-post bg-light p-3 rounded">
-                                    <div class="d-flex justify-content-between">
-                                        <h5 class="mb-1">${post.title}</h5>
-                                        <small>${postCreatedDate}</small>
-                                    </div>
-                                    <div class="d-flex justify-content-between mb-2">
-                                        <span class="text-muted">Posted by u/${post.author} in r/${post.subreddit}</span>
-                                        <span>Score: ${post.score}</span>
-                                    </div>
-                                    <div class="post-content border-top pt-2">
-                                        ${post.selftext ? post.selftext.replace(/\n/g, '<br>') : '(No content)'}
-                                    </div>
-                                </div>
-                            `;
-                            $('#original-post-container').html(postHtml);
-                        } else {
-                            $('#original-post-container').html('<div class="alert alert-warning">Original post not found</div>');
-                        }
-                        
-                        // Display comments
-                        const commentsHtml = data.comments.map(comment => `
-                            <div class="comment mb-3">
-                                <div class="d-flex justify-content-between">
-                                    <strong>${comment.author || 'deleted'}</strong>
-                                    <small>${new Date(comment.created_utc * 1000).toLocaleString()}</small>
-                                </div>
-                                <div class="comment-body">${comment.body.replace(/\n/g, '<br>')}</div>
-                                <div class="comment-score">Score: ${comment.score}</div>
-                            </div>
-                        `).join('');
-                        
-                        $('#comments-container').html(commentsHtml || '<div class="text-muted">No comments found</div>');
-                        modal.show();
-                    });
-                }
-                
-                // Hide the default DataTable search box
-                $('.dataTables_filter').hide();
-                
-                // Add window resize handler to fix alignments
-                $(window).on('resize', function() {
-                    // Allow time for resize to complete
-                    setTimeout(function() {
-                        table.columns.adjust().draw();
-                    }, 200);
-                });
-            }
-            
-            // Fallback manual table population function
-            function populateTableManually(data) {
-                // This is a fallback if DataTables initialization fails
-                if (!$.fn.DataTable.isDataTable('#posts-table')) {
-                    let tableHtml = '<thead><tr>';
-                    tableHtml += '<th>Post</th>';
-                    tableHtml += '<th>OP\'s Question</th>';
-                    tableHtml += '<th>Community Responses</th>';
-                    tableHtml += '<th>Fit Score</th>';
-                    tableHtml += '<th>Denial Type</th>';
-                    tableHtml += '<th>Themes</th>';
-                    tableHtml += '<th>Outcome</th>';
-                    tableHtml += '<th>Options</th>';
-                    tableHtml += '</tr></thead><tbody>';
-                    
-                    data.forEach(post => {
-                        const date = new Date(post.created_utc * 1000);
-                        const formattedDate = date.toLocaleDateString();
-                        
-                        tableHtml += '<tr>';
-                        
-                        // Post column
-                        tableHtml += '<td>';
-                        tableHtml += `<a href="${post.url}" target="_blank">${post.title || 'No title'}</a>`;
-                        tableHtml += `<div><small>r/${post.subreddit} • ${formattedDate} • ⬆️ ${post.score} • 💬 ${post.num_comments}</small></div>`;
-                        tableHtml += '</td>';
-                        
-                        // Other columns
-                        tableHtml += `<td>${post.op_summary || 'Not analyzed'}</td>`;
-                        tableHtml += `<td>${post.responses_summary || 'Not analyzed'}</td>`;
-                        tableHtml += `<td>${post.persona_fit ? (post.persona_fit * 100).toFixed(0) + '%' : 'Not analyzed'}</td>`;
-                        tableHtml += `<td>${post.denial_type || 'Not analyzed'}</td>`;
-                        tableHtml += `<td>${post.themes ? post.themes.join(', ') : 'Not analyzed'}</td>`;
-                        tableHtml += `<td>${post.outcome || 'Not analyzed'}</td>`;
-                        tableHtml += `<td>${post.options_suggested ? post.options_suggested.join(', ') : 'Not analyzed'}</td>`;
-                        
-                        tableHtml += '</tr>';
-                    });
-                    
-                    tableHtml += '</tbody>';
-                    $('#posts-table').html(tableHtml);
-                }
-            }
-            
-            // Load statistics
-            function loadStats() {
-                $.get('/api/stats', function(data) {
-                    // Update the summary stats in the header
-                    const summaryStats = `
-                        <small class="text-muted">
-                            Total Posts: ${data.posts.total_posts} | 
-                            Average Fit: ${((data.analysis.avg_persona_fit || 0) * 100).toFixed(1)}%
-                        </small>
-                    `;
-                    $('#stats-summary').html(summaryStats);
-                    
-                    // Update detailed stats in the container
-                    const detailedStats = `
-                        <div class="row g-3 small">
-                            <div class="col-md-6">
-                                <div class="d-flex justify-content-between">
-                                    <span>Total Analyzed:</span>
-                                    <span>${data.analysis.total_analyzed || 0}</span>
-                                </div>
-                                <div class="d-flex justify-content-between">
-                                    <span>Average Persona Fit:</span>
-                                    <span>${((data.analysis.avg_persona_fit || 0) * 100).toFixed(1)}%</span>
-                                </div>
-                                <div class="d-flex justify-content-between">
-                                    <span>Average Confidence:</span>
-                                    <span>${((data.analysis.avg_confidence || 0) * 100).toFixed(1)}%</span>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="d-flex justify-content-between">
-                                    <span>Total Posts:</span>
-                                    <span>${data.posts.total_posts}</span>
-                                </div>
-                                <div class="d-flex justify-content-between">
-                                    <span>Total Subreddits:</span>
-                                    <span>${data.posts.total_subreddits}</span>
-                                </div>
-                                <div class="d-flex justify-content-between">
-                                    <span>Avg Score/Comments:</span>
-                                    <span>${data.posts.avg_score.toFixed(1)} / ${data.posts.avg_comments.toFixed(1)}</span>
-                                </div>
-                            </div>
-                        </div>
-                    `;
-                    $('#stats-container').html(detailedStats);
-                });
-            }
-
-            // Load initial stats
-            loadStats();
-            // Refresh stats every 5 minutes
-            setInterval(loadStats, 300000);
-
-            // Toggle detailed stats
-            $('#toggle-stats').click(function() {
-                $('#stats-container').toggle();
-                $('.toggle-icon', this).text(
-                    $('#stats-container').is(':visible') ? '⯅' : '⯆'
-                );
-            });
+            loadPosts();
+            loadFilterOptions();
+            setupEventListeners();
         });
+
+        function setupEventListeners() {
+            // Collapsible filter header
+            $('#filterHeader').on('click', function() {
+                const content = $('#filterContent');
+                const header = $(this);
+                content.toggleClass('collapsed');
+                header.toggleClass('collapsed');
+            });
+
+            // Search input
+            $('#searchInput').on('input', debounce(function() {
+                currentPage = 1;
+                currentFilters.search = $(this).val();
+                loadPosts();
+            }, 300));
+
+            // Filter dropdowns
+            $('#subredditFilter, #phaseFilter, #denialTypeFilter, #denialFilter, #outcomeFilter, #personaFilter, #confidenceFilter, #experienceFilter, #analysisFilter, #scoreFilter, #commentsFilter').on('change', function() {
+                updateFilters();
+            });
+
+            // Apply filters button
+            $('#applyFiltersBtn').on('click', function() {
+                currentPage = 1;
+                loadPosts();
+            });
+
+            // Clear filters button
+            $('#clearFiltersBtn').on('click', function() {
+                clearFilters();
+                loadPosts();
+            });
+
+            // Sortable headers
+            $('th.sortable').on('click', function() {
+                const field = $(this).data('field');
+                if (currentSort.field === field) {
+                    currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+                } else {
+                    currentSort.field = field;
+                    currentSort.direction = 'asc';
+                }
+                updateSortIndicators();
+                loadPosts();
+            });
+        }
+
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+
+        function updateFilters() {
+            currentFilters = {
+                search: $('#searchInput').val(),
+                subreddit: $('#subredditFilter').val(),
+                patient_phase: $('#phaseFilter').val(),
+                denial_type: $('#denialTypeFilter').val(),
+                denial_category: $('#denialFilter').val(),
+                outcome: $('#outcomeFilter').val(),
+                persona_fit: $('#personaFilter').val(),
+                confidence: $('#confidenceFilter').val(),
+                experience_rating: $('#experienceFilter').val(),
+                analysis_status: $('#analysisFilter').val(),
+                score_range: $('#scoreFilter').val(),
+                comments_range: $('#commentsFilter').val()
+            };
+        }
+
+        function clearFilters() {
+            $('#searchInput').val('');
+            $('#subredditFilter').val('');
+            $('#phaseFilter').val('');
+            $('#denialTypeFilter').val('');
+            $('#denialFilter').val('');
+            $('#outcomeFilter').val('');
+            $('#personaFilter').val('');
+            $('#confidenceFilter').val('');
+            $('#experienceFilter').val('');
+            $('#analysisFilter').val('');
+            $('#scoreFilter').val('');
+            $('#commentsFilter').val('');
+            currentFilters = {};
+        }
+
+        function loadFilterOptions() {
+            // Load all filter options from existing data
+            $.get('/api/threads', { per_page: 1000 }, function(data) {
+                const threads = data.threads;
+                
+                // Subreddits
+                const subreddits = [...new Set(threads.map(t => t.subreddit).filter(s => s))];
+                subreddits.sort();
+                subreddits.forEach(sub => {
+                    $('#subredditFilter').append(`<option value="${sub}">${sub}</option>`);
+                });
+
+
+
+                // Patient phases
+                const phases = [...new Set(threads.map(t => t.patient_phase).filter(p => p))];
+                phases.sort();
+                phases.forEach(phase => {
+                    $('#phaseFilter').append(`<option value="${phase}">${phase}</option>`);
+                });
+
+                // Denial types
+                const denialTypes = [...new Set(threads.map(t => t.denial_type).filter(d => d))];
+                denialTypes.sort();
+                denialTypes.forEach(type => {
+                    $('#denialTypeFilter').append(`<option value="${type}">${type}</option>`);
+                });
+
+                // Denial categories
+                const categories = [...new Set(threads.map(t => t.denial_category).filter(c => c))];
+                categories.sort();
+                categories.forEach(category => {
+                    $('#denialFilter').append(`<option value="${category}">${category}</option>`);
+                });
+
+                // Outcomes
+                const outcomes = [...new Set(threads.map(t => t.outcome).filter(o => o))];
+                outcomes.sort();
+                outcomes.forEach(outcome => {
+                    $('#outcomeFilter').append(`<option value="${outcome}">${outcome}</option>`);
+                });
+
+                // Persona fits (numeric ranges)
+                const personaFits = [...new Set(threads.map(t => t.persona_fit).filter(p => p !== null))];
+                if (personaFits.length > 0) {
+                    const ranges = ['0.0-0.2', '0.2-0.4', '0.4-0.6', '0.6-0.8', '0.8-1.0'];
+                    ranges.forEach(range => {
+                        $('#personaFilter').append(`<option value="${range}">${range}</option>`);
+                    });
+                }
+
+                // Confidence levels (numeric ranges)
+                const confidences = [...new Set(threads.map(t => t.confidence).filter(c => c !== null))];
+                if (confidences.length > 0) {
+                    const ranges = ['0.0-0.2', '0.2-0.4', '0.4-0.6', '0.6-0.8', '0.8-1.0'];
+                    ranges.forEach(range => {
+                        $('#confidenceFilter').append(`<option value="${range}">${range}</option>`);
+                    });
+                }
+
+                // Experience ratings (numeric ranges)
+                const experiences = [...new Set(threads.map(t => t.experience_rating).filter(e => e !== null))];
+                if (experiences.length > 0) {
+                    const ranges = ['1-2', '2-3', '3-4', '4-5'];
+                    ranges.forEach(range => {
+                        $('#experienceFilter').append(`<option value="${range}">${range}</option>`);
+                    });
+                }
+            });
+        }
+
+        function updateSortIndicators() {
+            $('th.sortable').removeClass('sort-asc sort-desc');
+            $(`th[data-field="${currentSort.field}"]`).addClass(`sort-${currentSort.direction}`);
+        }
+
+        function loadPosts() {
+            const tbody = $('#posts-table tbody');
+            tbody.html('<tr><td colspan="19" class="loading">Loading posts...</td></tr>');
+
+            const params = {
+                page: currentPage,
+                per_page: 50,
+                sort_field: currentSort.field,
+                sort_direction: currentSort.direction,
+                ...currentFilters
+            };
+
+            $.get('/api/threads', params, function(data) {
+                if (data.error) {
+                    tbody.html(`<tr><td colspan="19" class="loading">Error: ${data.error}</td></tr>`);
+                    return;
+                }
+
+                renderPosts(data.threads);
+                renderPagination(data.total_posts, data.page, data.per_page);
+            }).fail(function(xhr, status, error) {
+                tbody.html(`<tr><td colspan="19" class="loading">Error loading posts: ${error}</td></tr>`);
+            });
+        }
+
+        function renderPosts(posts) {
+            const tbody = $('#posts-table tbody');
+            tbody.empty();
+
+            if (posts.length === 0) {
+                tbody.html('<tr><td colspan="19" class="loading">No posts found matching your criteria.</td></tr>');
+                return;
+            }
+
+            posts.forEach(post => {
+                const row = $('<tr>');
+                
+                // Format date
+                const date = new Date(post.created_utc * 1000);
+                const formattedDate = date.toLocaleDateString();
+                
+                // Analysis status
+                const analysisStatus = post.persona_fit ? 
+                    '<span class="analysis-badge analyzed">Analyzed</span>' : 
+                    '<span class="analysis-badge pending">Pending</span>';
+                
+                // Sentiment color
+                let sentimentClass = 'sentiment-neutral';
+                if (post.sentiment_score !== null) {
+                    if (post.sentiment_score > 0.1) sentimentClass = 'sentiment-positive';
+                    else if (post.sentiment_score < -0.1) sentimentClass = 'sentiment-negative';
+                }
+                
+                // Touchpoints display
+                const touchpoints = post.touchpoints ? 
+                    post.touchpoints.split(',').map(t => t.trim()).join(', ') : '';
+                
+                // Themes display
+                const themes = post.themes ? 
+                    post.themes.split(',').map(t => t.trim()).join(', ') : '';
+                
+                row.html(`
+                    <td>${post.id}</td>
+                    <td><a href="${post.url}" target="_blank" class="post-title">${post.title}</a></td>
+                    <td>${post.subreddit || ''}</td>
+                    <td>${analysisStatus}</td>
+                    <td>${post.outcome || ''}</td>
+                    <td class="cell-content summary-text">${post.op_summary || ''}</td>
+                    <td class="cell-content summary-text">${post.responses_summary || ''}</td>
+                    <td class="cell-content">${themes}</td>
+                    <td class="${sentimentClass}">${post.sentiment_score ? post.sentiment_score.toFixed(2) : ''}</td>
+                    <td>${post.patient_phase || ''}</td>
+                    <td class="cell-content">${touchpoints}</td>
+                    <td>${post.denial_category || ''}</td>
+                    <td>${post.denial_type || ''}</td>
+                    <td>${post.confidence || ''}</td>
+                    <td>${post.persona_fit || ''}</td>
+                    <td>${post.score || 0}</td>
+                    <td>${post.num_comments || 0}</td>
+                    <td>${formattedDate}</td>
+                `);
+                
+                tbody.append(row);
+            });
+        }
+
+        function renderPagination(total, page, perPage) {
+            const totalPages = Math.ceil(total / perPage);
+            const controls = $('#pagination-controls, #pagination-controls-bottom');
+            
+            controls.empty();
+            
+            if (totalPages <= 1) return;
+            
+            // Previous button
+            const prevBtn = $('<button>').text('← Prev').prop('disabled', page <= 1);
+            if (page > 1) {
+                prevBtn.click(() => { 
+                    currentPage = page - 1; 
+                    loadPosts(); 
+                });
+            }
+            controls.append(prevBtn);
+            
+            // Page numbers
+            const startPage = Math.max(1, page - 2);
+            const endPage = Math.min(totalPages, page + 2);
+            
+            if (startPage > 1) {
+                controls.append($('<span>').text('...'));
+            }
+            
+            for (let i = startPage; i <= endPage; i++) {
+                const pageBtn = $('<button>').text(i);
+                if (i === page) {
+                    pageBtn.css('background', '#007bff');
+                } else {
+                    pageBtn.click(() => { 
+                        currentPage = i; 
+                        loadPosts(); 
+                    });
+                }
+                controls.append(pageBtn);
+            }
+            
+            if (endPage < totalPages) {
+                controls.append($('<span>').text('...'));
+            }
+            
+            // Next button
+            const nextBtn = $('<button>').text('Next →').prop('disabled', page >= totalPages);
+            if (page < totalPages) {
+                nextBtn.click(() => { 
+                    currentPage = page + 1; 
+                    loadPosts(); 
+                });
+            }
+            controls.append(nextBtn);
+            
+            // Page info
+            controls.append($('<span>').text(`Page ${page} of ${totalPages} (${total} total posts)`));
+        }
+
+        function exportData() {
+            const params = {
+                ...currentFilters,
+                sort_field: currentSort.field,
+                sort_direction: currentSort.direction
+            };
+            
+            const queryString = Object.keys(params)
+                .filter(key => params[key])
+                .map(key => `${key}=${encodeURIComponent(params[key])}`)
+                .join('&');
+            
+            window.open(`/api/export/all?${queryString}`, '_blank');
+        }
     </script>
 </body>
 </html> 

@@ -1,0 +1,30 @@
+Thread ID: 1ifi9qm
+Title: Aetna downcoding - Is this bias?
+Subreddit: healthinsurance
+Created: 1738449078
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Downcoding of CPT codes
+Outcome: Ongoing
+OP Summary: The user discusses Aetna's downcoding of their medical claims compared to their husband's, raising concerns about potential bias and errors in processing claims, especially as they approach their deductible limits.
+Responses Summary: No response summary available
+Themes: Claim processing errors, Bias in insurance claims, Appeal process
+Options Suggested: Contact claims advocate, File another appeal, Request detailed explanation from Aetna
+Fit Explanation: The user is actively seeking help regarding their claim denials and has experience with appeals.
+Original Post: I posted before about downcoding CPT 99214 to CPT 99213 by Aetna - and winning the appeal but having to repeatedly contact them to ensure the reprocessing was corrected.   
+  
+I contacted the Insurance Board who has contacted Aetna.  I'm waiting for a response.
+
+**Important notes:** I am medically complex and very costly to Aetna.  They have regularly made errors processing my claims - that seem to increase when I'm hitting deductibles and max out of pocket.  
+
+My husband is less complex - more acute concerns and medical issues.
+
+**That in mind...** Something told me to check for differences in how they processed CPT 99214 (same type service same type provider) for my husband vs. for me...
+
+*Wait for it...*
+
+They did not downcode for him.  Not only didn't they downcode, they did not "disallow" any of the money associated with the code.
+
+**Both providers are out of network.  Both providers are in the same specialty.**
+
+Thoughts?

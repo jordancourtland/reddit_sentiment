@@ -1,0 +1,58 @@
+Thread ID: 1km0mi1
+Title: Please help
+Subreddit: medicalbill
+Created: 1747178640
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Financial aid application denied
+Outcome: Ongoing
+OP Summary: The original poster is seeking help to confirm if their $1,100 payment to the Collections Agency fully settled their debt and whether the separate bill from Emergency Room Doctors is legitimate.
+Responses Summary: Commenters advised that it is common for ER doctors to bill separately and suggested negotiating directly with the billing group. They also emphasized the importance of ensuring bills match insurance EOBs and warned against paying collections without confirmation.
+Themes: separate billing practices, negotiation strategies, financial aid process
+Options Suggested: contact the Collections Agency for confirmation, negotiate with Emergency Room Doctors, verify bills against insurance EOBs
+Fit Explanation: The original poster is currently dealing with a denial and has questions about their situation, indicating they might need help soon.
+Original Post: # Parties Involved (generic pseudonyms):
+
+* **Saint Hospital**: The facility where I received treatment  
+* **Emergency Room Doctors**: A separate company Saint Hospital claims is responsible for paying the emergency room physicians  
+* **The Collections Agency**: The third-party agency Saint Hospital sent my bill to  
+* **Myself**  
+
+
+
+
+
+# Timeline of Events:
+
+* **June 30, 2024**
+   * I went to the Saint Hospital emergency room for severe food poisoning. I had been violently ill for over 15 hours and unable to keep even water down. Since all urgent care centers were closed, I had no choice but to go to the ER. The treatment consisted of one IV bag and an anti-nausea pill.  
+* **Mid-October 2024**
+   * I received a $1,500 bill from Saint Hospital. The original amount before insurance was $3,700.  
+* **January 16, 2025**
+   * I submitted an application for financial aid to Saint Hospital. It took a few weeks to gather the required documentation, including income information from my parents. Although they’re not financially dependent on me, they are physically dependent—my dad is disabled and my mom works. They recently finished paying off their home but have very limited assets or savings. If anything happened to my mom, my dad would become both physically and financially dependent on me.  
+* **January 25, 2025**
+   * I received a separate $74 bill from a company called “Emergency Room Doctors.” I called Saint Hospital to verify it and was told that the ER physicians bill separately. I paid the $74 bill that same day through an online portal.  
+* **January 27, 2025**
+   * I received a letter from The Collections Agency stating that I now owe them the $1,500 instead of Saint Hospital. This was surprising because I had not yet heard back about my financial aid application. I had been in contact with Saint Hospital's financial aid department, and they had told me the bill wouldn’t be sent to collections until the application had been reviewed.  
+* **February 4, 2025**
+   * The Collections Agency called and offered to settle the $1,500 debt for $1,100 if I paid immediately over the phone. If I didn’t, they said I would owe the full amount. I explained that I was waiting to hear about the financial aid and that I had been told the bill wouldn’t go to collections. They replied that they now “owned” the debt and the bill couldn’t go back to Saint Hospital. I asked if the $1,100 payment would fully resolve the debt and was told yes. I paid the $1,100 over the phone and received a confirmation number. I also asked for a receipt, and they said it would be mailed one month after payment. As of now, I have not received any written confirmation.  
+* **Later that same week**
+   * I received a letter from Saint Hospital stating that my financial aid application was denied. This letter was dated February 4 (same day I paid The Collection Agency) and arrived by mail a few days later.
+   * ADDITIONALLY, I received a new bill in the mail from Emergency Room Doctors for $1,727. The letter is ALSO dated February 4, and was received it a few days later. I haven’t contacted them or responded to this bill yet.  
+* **Since February 4, 2025**
+   * I haven’t heard anything further from Saint Hospital, Emergency Room Doctors, or The Collections Agency.  
+
+
+
+# Current Situation &amp; Concerns:
+
+* I want written confirmation that the $1,100 payment I made to The Collections Agency fully settled my original debt.  
+* I’m reluctant to initiate further contact because this entire process has been confusing and frustrating.  
+* I’m unsure if the $1,727 bill from Emergency Room Doctors is legitimate—it seems suspicious that ER doctors would bill separately from the hospital.  The Emergency Room Doctors payment portal also does not support HTTPS, which is a huge red flag.   
+
+
+
+# Questions:
+
+1. Who should I contact to get written confirmation that my $1,100 payment settled the debt in full?  
+2. Is it common or legitimate for ER doctors to bill separately from the hospital, or does Emergency Room Doctors seem like a scam?

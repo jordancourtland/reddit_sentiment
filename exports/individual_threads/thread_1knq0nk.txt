@@ -1,0 +1,23 @@
+Thread ID: 1knq0nk
+Title: Texas: hospital messed up insurance claim and now I have a bill for something that happened 3 years ago.
+Subreddit: medicalbill
+Created: 1747362372
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Timely filing
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to handle a medical bill for a birth that occurred three years ago, which was incorrectly billed by the hospital and subsequently denied by the insurance due to timely filing issues.
+Responses Summary: Commenters advised that the original poster should not owe anything since the EOB states $0, and suggested contacting the insurance to ensure they hold the hospital accountable for their errors.
+Themes: billing errors, insurance accountability, timely filing issues
+Options Suggested: contact insurance for assistance, follow up with the hospital, pay the bill to resolve the issue
+Fit Explanation: The original poster is currently dealing with a denial and is seeking guidance on whether to fight the bill or pay it, indicating a very good fit for needing appeal help soon.
+Original Post: 3 years ago (summer 2022) I gave birth to a child in a traditional hospital setting in metropolitan area in Texas. At time of birth I was asked to pay my full annual out of pocket up to my catastrophic cap($3k). I denied as I had already contributed significantly to my out of pocket up to that point and knew I wouldn’t be obligated by my insurance to pay the full amount. (This was advised by my insurance company). I don’t remember what all I signed with the hospital but likely signed that dreaded document that says I’ll pay whatever. 
+
+About a year after the event I received a medical bill for my child’s portion of the birth at the hospital (~$930). The hospital billed incorrectly to my insurance (used the wrong member ID number and something else simple like that). The insurance company would not accept the bills into their system because of the nature of the errors the hospital had made. I have undoubtably done my due diligence over the past few years by playing phone tag between the hospital and the insurance company trying to rectify this. The hospital continually billed incorrectly and would not change what they were advised to change.  
+
+Well about a 8 months to year ago I had myself,  the hospital and my insurance on a group call and made them communicate to fix all the errors. The hospital filed a fresh claim and when it came through the insurance company received it but denied it due to timely considering it was received 2 years past the date of service. Well I haven’t heard anything up until this month when I received the bill again and it’s had a past due warning to and threat of collections. I feel like this isn’t right that I’m being billed for something 3 years ago that the hospital continually messed up on and I met my catastrophic cap that year even without this bill being accepted by my insurance. 
+
+I don’t know if this is something I should/could fight. 
+Or if it’s best to just suck it up and pay the amount to be done and over with. 
+
+Edit to say I received the EOB which said I owed nothing. 

@@ -1,0 +1,24 @@
+Thread ID: 1kuv1lb
+Title: Major Insurer Denying 6-figure hospital claim
+Subreddit: healthinsurance
+Created: 1748150926
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to proceed after their insurer denied a six-figure hospital claim due to the procedure being performed out of state, and they are concerned about overdue bills and the appeals process.
+Responses Summary: Commenters advised the OP to verify the denial reason with their insurance, not to rely solely on the provider for the appeal, and to involve their employer's benefits manager for additional support.
+Themes: Insurance appeal process, Communication with billing departments, Involvement of employer's benefits manager
+Options Suggested: Verify denial reason with insurance, Contact employer's benefits manager, Follow up with the provider about the appeal status
+Fit Explanation: The OP is currently dealing with a claim denial and is looking for guidance, indicating a very good fit for needing appeal assistance soon.
+Original Post: Good morning. February 2024 I had a cancerous tumor removed at MGH in Boston. I was an NH resident at the time, my providers facility partners with MGH for thoracic surgery. 
+
+Three months ago I received notice from MGH that my insurer has denied the claim due to the procedure being completed out of state. They sent documentation asking me to allow them to appeal on my behalf. 
+
+I am now receiving calls from their billing department stating that my bill is overdue. I asked if they have completed the appeals process: the billing department states that they do not know. 
+
+I’m wondering how best to proceed. I’m concerned about interrupting the appeal, acknowledging a need to pay, etc.
+
+Insurance is employer based and has historically been fantastic in the 10+ years I’ve had it. 
+
+I’d appreciate any advice, thanks in advance. 

@@ -1,0 +1,30 @@
+Thread ID: 1kxxrxl
+Title: Anthem Automatically Denying All Claims Bc "This type of service not covered"
+Subreddit: healthinsurance
+Created: 1748480187
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: This type of care not covered
+Outcome: Ongoing
+OP Summary: The original poster is experiencing automatic denials for all claims under their Anthem health plan, despite the services being covered according to their Explanation of Benefits (EoB). They are seeking advice on how to resolve this issue and escalate it effectively.
+Responses Summary: Commenters suggest contacting the employer's benefits broker for assistance, filing a complaint with the state insurance department, and ensuring all provider information is correct in Anthem's system. They also recommend keeping detailed records of communications with Anthem and HR.
+Themes: Claim Denial Issues, Communication with Insurance, Escalation Strategies
+Options Suggested: Contact employer's benefits broker, File a complaint with state insurance department, Request HR to escalate the issue
+Fit Explanation: The original poster is actively seeking help with ongoing claim denials, indicating a very good fit for the persona seeking assistance with insurance denials.
+Original Post: Hey all,
+
+I live in Indiana, and I started a new job at the beginning of the year, and so started a new health plan with Anthem at the beginning of February. Since then, every single appointment that my wife or I have had has been automatically denied - according to one provider we spoke with, denied instantly, before a human being could possibly have looked at it. Every single denial says "this type of care is not covered", even though our EoB clearly states that the care in question is covered.
+
+We've called the service number on the back of our insurance card, as well as another we found online, but we only ever get overseas call centers - they are able to approve the claims on the back end, but it's growing increasingly frustrating that we have to call to get every single claim fixed. We've asked for them to escalate or give us another contact that could fix it, but they either do not have or refuse to give us this information (latter is speculation on my part; they always say they do not have any info).
+
+We've also submitted multiple grievances explaining the situation, only to get response letters that the grievances have been closed with no explanation as to why, written in such a way as to suggest that they had solved the problem. However, they clearly haven't.
+
+Has anyone dealt with this issue with Anthem specifically? Does anyone have any recommendations, other numbers we could call, etc.? It's getting to the point where we've had to avoid certain providers who charge upfront, because we know the claim will be denied and won't be fixed in time to avoid paying.
+
+I could really use some advice. Thanks!
+
+EDIT: Many people keep commenting asking me questions I have already answered in the text of this post or other comments. If you’re not going to read the post, don’t comment.
+
+YES, the providers are all in network. YES, they submitted the claims correctly. YES, we have called many times - we have to to get the claims actually appealed and approved - submitting an appeal through the website never gets us an answer.
+
+UPDATE: HR confirmed that they have “escalated” the case (whatever that means), so I’m hopeful for some progress. Claims are still being denied, however.

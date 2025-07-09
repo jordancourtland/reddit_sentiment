@@ -1,0 +1,18 @@
+Thread ID: 1kxnnzk
+Title: Will my health insurance cover things from a car accident that happened years ago?
+Subreddit: healthinsurance
+Created: 1748454735
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is inquiring whether their new health insurance will cover medical treatments for chronic pain resulting from a car accident that occurred seven years ago.
+Responses Summary: Commenters advised that ACA-compliant plans cannot deny coverage based on pre-existing conditions, and that the insurance may seek recoupment from the at-fault party but the OP should not have to pay out of pocket.
+Themes: chronic pain management, insurance coverage for pre-existing conditions, subrogation and recoupment
+Options Suggested: check insurance policy for covered services, consult with a healthcare provider, contact insurance for clarification on coverage
+Fit Explanation: The OP is currently facing a potential denial situation with their new insurance, indicating a need for assistance with understanding coverage.
+Original Post: So long story short, got in a car wreck 7 years ago. I messed up my back and hip, and have been dealing with chronic pain since then off and on. Only just settled last year with their insurance. Got a payout, that wasn’t much after all the medical bills, attorney fees, etc. 
+
+I’m with a new job, new location, and new health insurance. If I go to my doctor and say I need injections due to chronic pain from a car accident that happened 7 years ago, is my insurance going to deny my claim and make me pay out of pocket? I know during my original car accident claim there was some sub rogation for certain things but my health insurance still covered a fair amount. 
+
+

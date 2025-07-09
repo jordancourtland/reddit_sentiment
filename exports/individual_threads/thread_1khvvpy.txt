@@ -1,0 +1,41 @@
+Thread ID: 1khvvpy
+Title: UMR Denied Surgery for Our Son’s Severe Chest Deformity—Despite Surgeon Recommendation
+Subreddit: healthinsurance
+Created: 1746725284
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: A family is appealing a denial from UMR for their son's corrective surgery for severe pectus excavatum, despite a strong recommendation from his surgeon and clear medical evidence of the condition's impact on his health.
+Responses Summary: No response summary available
+Themes: insurance denial, medical necessity, appeal process
+Options Suggested: appeal the decision, consult with HR, request a peer review
+Fit Explanation: The family is actively seeking help with their appeal process after a denial, indicating a perfect fit for assistance.
+Original Post: Another denial from United Healthcare/UMR.
+
+Our teenage son was diagnosed with **pectus excavatum**, a structural deformity where the sternum sinks inward, compressing the chest cavity and reducing room for the heart and lungs. The severity is measured using something called the **Haller Index (HI)**, which compares the width of the chest to the depth of the indentation.
+
+Here’s how it breaks down:
+
+* **Normal chest:** HI &lt; 2.0
+* **Mild deformity:** HI 2.0–3.2
+* **Moderate deformity:** HI 3.2–3.5
+* **Severe deformity:** HI &gt; 3.5
+
+Our son’s **Haller Index is 5.8**.
+
+That’s not borderline—it’s deep into the *severe* category. An **MRI confirmed** the deformity is compressing his heart and lungs. His **heart is displaced and rotated**, and **lung function is reduced**.
+
+Despite that, **UMR denied coverage** for the corrective surgery, stating that his lung volume isn’t low enough to meet their criteria.
+
+But here's the critical nuance: our son is a **competitive athlete**—despite his condition he swims indoor/outdoor and runs track and cross country. He works extremely hard to **compensate** for the condition, but rarely wins his events. Instead of having a high cardio-respiratory performance (which would be expected at his training level), his metrics are simply average. That should raise red flags, not eliminate them.
+
+He also **faints easily**, another concern the surgeon connected to the compressed chest cavity.
+
+The **cardiothoracic surgeon strongly recommends surgery now**, while he’s young, to prevent long-term damage and reduced heart/lung capacity as he grows. And yet, our insurance provider doesn’t see that as “medically necessary.”
+
+We’re appealing the decision, but we’re incredibly frustrated. We pay our premiums. We followed protocol. We trusted that clear medical evidence and a specialist’s recommendation would be enough.
+
+If you’ve appealed a case like this before—or if you work inside the industry and know how to get someone at UMR to look deeper—we would truly appreciate your help.
+
+And if anyone from **UMR** is reading this: please reconsider. A child’s long-term health shouldn’t be decided by narrow policy language that fails to account for medical nuance.

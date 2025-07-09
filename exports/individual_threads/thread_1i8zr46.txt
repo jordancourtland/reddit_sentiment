@@ -1,0 +1,46 @@
+Thread ID: 1i8zr46
+Title: Health Insurance Claim Help
+Subreddit: healthinsurance
+Created: 1737737068
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: A parent is seeking help after their health insurance denied a claim for their child's video EEG, citing it as not medically necessary despite the child having stopped seizure medication prior to the test.
+Responses Summary: No response summary available
+Themes: claim denial, appeal process, medical necessity
+Options Suggested: include a nurse's letter, provide doctor's notes, write a personal explanation
+Fit Explanation: The user is actively seeking advice to appeal the denial, indicating a perfect fit for assistance.
+Original Post: I have an issue with my health insurance provider denying a claim for my child's video EEG.
+ 
+April, 2024: My child, has a video EEG due to frequent headaches.
+ 
+August, 2024: Claim was denied by my health insurance provider.
+ 
+November, 2024: Insurance denied the appeal filed by the doctor's office.
+ 
+I'd like to request an external review but I want to make sure I put forth the best argument I can.
+ 
+This is what I see on the denial letter from the insurance company:
+ 
+"The member had a test for brain waves (an EEG).  This test was done with video recording.  A video test is needed for seizures when:
+ 
+1. A routine test for brain waves has an unclear result. OR
+2. The treatment plan may include surgery. OR
+3. A seizure medication has been stopped, and changes in medication may be needed.
+ 
+The records sent do not state that one of these requirements has been met.  We did not receive the report for a recent routine test.  Therefore, this test was not medically necessary"
+ 
+My child stopped gabapentin and lyrica just prior to the EEG which should satisfy requirement number 3 above.
+ 
+I have a letter from a nurse explaining why it was medically necessary.
+ 
+I also plan to include a letter I write explaining the entire situation in normal terms from my perspective.
+ 
+I will also include the doctors notes indicating the stopping of gabapentin and lyrica.
+ 
+Does anyone have any advice or suggestions that would help maximize my chances of getting this approved?
+ 
+The amount billed to insurance is just under $10,000 so this is a big issue for us.
+ 
+Thank you for any and all advice!

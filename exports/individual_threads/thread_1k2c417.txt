@@ -1,0 +1,14 @@
+Thread ID: 1k2c417
+Title: Aetna claim reprocess
+Subreddit: healthinsurance
+Created: 1745001214
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claim denied
+Outcome: Ongoing
+OP Summary: The user's claim for a hypoallergenic formula was denied, but a representative indicated that the claim would be reprocessed without the need for an appeal. The user is still waiting for an update after 10 days.
+Responses Summary: No response summary available
+Themes: Claim reprocessing, Waiting for updates, Seeking advice
+Options Suggested: Call for an update, Request real-time rework, Wait for the reprocessing outcome
+Fit Explanation: The user has a current denial and is seeking advice on how to proceed, indicating a very good fit for assistance.
+Original Post: My baby’s hypoallergenic formula claim got denied. When I tried to contact them, the representative I spoke with said I had all the documents needed from the doctor’s office and an appeal was not needed. She sent it to reprocess the claim. I’m still waiting on it. My phone app still says the claim is denied. Anton faced a similar situation like this? Need advise and inputs on how to go ahead on this 

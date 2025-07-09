@@ -1,0 +1,40 @@
+Thread ID: 1idll76
+Title: Surprise Bill Insurance mess
+Subreddit: healthinsurance
+Created: 1738239125
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network lab services
+Outcome: Ongoing
+OP Summary: The user is facing a denial from Excellus BCBS for genetic testing related to their wife's cancer treatment, claiming it was not covered due to the lab being out of network despite the testing being done at an in-network facility.
+Responses Summary: No response summary available
+Themes: genetic testing, insurance denial, self-funded plans
+Options Suggested: submit a complaint to CMS, contact employer HR, escalate the issue with Excellus
+Fit Explanation: The user is actively seeking help with an ongoing appeal regarding a denial from their insurance provider.
+Original Post: My wife has stage 4 cancer and she has been treated at the cancer center at a local hospital (RGH).  It is literally inside the hospital and it is obviously in-network for our insurance (Excellus BCBS).  Her oncology team is at the same location attached to the hospital.
+
+At the end of 2023, the oncology team suggested that she have genetic testing done in order to see if she could get more personalized treatments or if there was anything to watch out for in the future.  The team said it would be covered by insurance.  Based on discussions with the insurance, it appears that they approved the testing as "medically necessary."
+
+The blood draw for the test occurred at the hospital the week between Christmas and New Years in 2023.  The specimens were sent to the lab (Caris Life Sciences) .  
+
+Fast forward to December 2024.  I was reviewing my health statements from Excellus for the year and noticed that  would only partially cover the testing and the lab could bill us for up to $28000 of the $44000 total cost.  It also said the lab was in network.  The claim was handled in October so I could still appeal the decision.
+
+I submitted the Surprise Bill form and they denied it because Excellus says the care wasn't at a qualified facility in NY State.  Huh?
+
+So, I called up Excellus earlier this month and asked exactly why it wasn't covered under the either the State or Federal No Surprise Bill laws, as she had her blood drawn at an in network hospital and the hospital made the decision to send it to an out of network and out of state lab without our knowledge or consent and we were advised since my wife had cancer that genetic testing would be covered by insurance.  Excellus said that since my employers health insurance was self funded NY law didn't apply but Federal law did.  They also said they could submit a grievance to their advocacy department to review the case.  Excellus also said that the in network notation on the health statement was "an error" because the lab is only in network for Medicare patients. 
+
+We got a letter yesterday saying the determination upheld.  The letter doubled down on the explanation that the lab was out of network, even though I told them the blood was drawn at an in network facility and set there without our knowledge.
+
+During business hours yesterday, I called Excellus and had them on speaker phone with my wife.  We asked them, again, why this wasn't considered a surprise bill under state or federal law as it met the basic definition: a specimen was obtained at an in network hospital but they made the decision to use a lab that ended up being out of network.  The agent re-iterated the fact that since our insurance was self funded by my employer state law didn't apply.  I told them that Federal law still applied.  We waited for about 40 minutes on hold while the agent and his supervisor looked up federal law.
+
+When the agent came back, he stated it still wouldn't be covered because the claim was submitted as a "code 81" which meant it was an independent lab, which isn't covered under any state or federal law.  I told him that it didn't matter, because the way federal law is stated, the only thing that matters is where the patient is physically seen, which was at a hospital, which is considered valid under the laws.  We kept going around in this circular logic that the lab was independent, but my wife was seen at an in network hospital.  I ended the call, nicely of course, because it seemed that was going no where.
+
+I then called the No Surprise Help Desk at [CMS.gov](https://www.cms.gov).  I talked to one of their agents, told her that my wife had a blood draw at an in network hospital then the sample was sent to an independent, out of network lab.  We did not know it was independent or out of network or else we would have probably declined this procedure.  The agent basically said all that matters is where my wife was seen - if it was at a qualifying facility and specimens were sent elsewhere, it should all be treated as in-network regardless.  She suggested I submit a complaint on their website, which I did and I provided all documentation that I have.
+
+We have also called the lab multiple times to check with them as to whether we will get a bill or not, what possible options are but their customer service has been lacking.
+
+So, two questions:
+
+*  Has anyone had experience with the CMS.gov complaint process?  How does it go?  How long does it take?
+
+*  Is there any way to escalate this at Excellus?  It seems like all I've dealt with are over worked/under paid/under trained/under appreciated first line workers who may not know much about this sort of thing.  Nothing against them, they are doing their jobs, but it seems a bit frustrating as a customer.

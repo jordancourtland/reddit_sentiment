@@ -1,0 +1,30 @@
+Thread ID: 1gluqom
+Title: Claim denied for no prior authorization. Need advice on appeals
+Subreddit: healthinsurance
+Created: 1730997567
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Complete
+Outcome: Ongoing
+OP Summary: The user is facing a denial of their mental health evaluation claim due to lack of prior authorization, despite believing the service was medically necessary and having received encouraging feedback from their insurance provider.
+Responses Summary: No response summary available
+Themes: Prior Authorization Issues, Financial Stress, Provider Communication
+Options Suggested: Push back on provider, Request retroactive authorization, Seek reimbursement after payment
+Fit Explanation: The user is actively seeking advice on how to appeal the denial and navigate the situation with their provider and insurance.
+Original Post: Hello all. I'm 30 years old in Colorado. I got a mental health diagnosis a few months ago because I've been worried about my job performance and general wellbeing. The provider I was referred to is relatively new to being in-network with my insurance provider UHC (only a handful of patients so far). They said they've had mixed experiences with approvals, with some being easy and others having more issues.
+
+The provider has been submitting the claims for me but they keep getting denied. The provider has submitted the appeals several time. The main reason cited is because prior authorization was not obtained and this evaluation was deemed "not medically necessary." 
+
+The provider contacted me to say they believe they have exhausted all efforts to get an appeal and are now asking me to pay the full amount for the evaluation (almost $2k). I was advised about this when I started, and at that time several months ago, I was more in a position to do that. They also offered to split up the payments. But things have changed for me financially and in principle, I believe my insurance should cover the service. So I have some questions to help me navigate this situation before I respond to my provider. I'll share the timeline and then my questions. 
+
+- I've never proactively pursued a diagnosis like this before. I did not obtain prior authorization because I didn't know what that was. Here is what I did do though. I asked my PCP at my annual physical in April about mental health and focus issues. They said they don't manage medication for that and that I should work with a specialist, so they gave me a referral to the psych office. They did not mention anything about prior authorization. 
+- After the referral was sent, I contacted UHC to ask about what kind of coverage options I had for mental health diagnosis before proceeding. I spoke with the mental health branch and gave them the name of the provider. I got very encouraging feedback and was told my coverage was very good. Since my provider was in-network, I should only owe the $25 copay. I asked a bunch of questions, but I don't recall being told anything about prior authorization during that call. It's possible, but I'm positive if I were told I needed to do some pre-requisite, I guarantee I would have written it down. This to me, was me doing my due diligence before moving forward.
+- Upon engaging with the provider, we discussed their experience with UHC and I agreed to proceed, knowing the risks. But I didn't see any reason why I would be denied and he said others had gotten approvals with no issues. The provider did not mention anything about prior authorization before proceeding.
+
+My questions:
+
+1. According to my plan document, "We require prior authorization for certain Covered Health Care Services. Network providers are responsible for obtaining prior authorization before they provide these services to you." and later it says "Network facilities and Network providers cannot bill you for services they do not prior authorize as required." I suppose I blame myself for not looking into this, but as outlined above, there were several touch points where I feel I should have been informed about this but wasn't. But conversely, it says "We recommend that you confirm with us that all Covered Health Services have been prior authorized as required. Before receiving these services from a Network Provider, you may want to call us to verify that the Hospital, Physician, and other providers are Network providers and that they have obtained the required prior authorization." All that to say, the verbiage seems to indicate my role in the prior authorization is "recommended" while the provider's is "required." Should I push back on this point with the provider? I was scheduled with them 3 months in advance so there was plenty of time to confirm this (I suppose from my end as well).
+2. Is it possible my provider will no longer wish to submit appeals on my behalf? I'm going to ask them to do it again, but I'm worried they are going to say "we don't want to do it anymore, please pay the full amount."
+3. If I pay the provider the full amount and pursue appeals on my own, would I be able to get reimbursed directly by the insurance provider? How does that work? I'm worried they will send the approved appeal to the provider instead of me.
+
+I'm prepared to fight this on my own and advocate for myself. I believe this evaluation was medically necessary and I have no problems defending that. Would definitely prefer not to though due to time spend, if the provider can address this internally with UHC. Any advice from anyone out there who has successfully won an appeal for a similar situation would be greatly appreciated. I'm very stressed! Thank you. 

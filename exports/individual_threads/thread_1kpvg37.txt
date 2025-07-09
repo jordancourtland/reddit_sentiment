@@ -1,0 +1,53 @@
+Thread ID: 1kpvg37
+Title: Claim denied saying "pre-existing" - IMG Insurance (United Healthcare)
+Subreddit: healthinsurance
+Created: 1747604981
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Pre-existing Condition
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to appeal a claim denial from IMG Insurance, which cited pre-existing conditions for their mother's recent medical issues.
+Responses Summary: Commenters advised reviewing the policy's definition of pre-existing conditions and suggested obtaining medical records to support the appeal, as well as contacting the state's insurance oversight board.
+Themes: Appeal Process, Pre-existing Condition Definitions, Medical Documentation
+Options Suggested: Review policy definitions, Obtain medical records, Contact state insurance oversight board
+Fit Explanation: The original poster is actively seeking help with an ongoing denial, indicating a very good fit for the persona.
+Original Post: Hi all,  
+I’m hoping for advice on appealing a claim denial — this is my first time dealing with something like this.
+
+I purchased **Patriot America Plus** from **IMG** in **February 2025** for my parents, who are visiting the U.S. for 6 months. In **April 2025**, I had to take my mom to an urgent primary care visit due to **sudden stomach and abdominal pain**.
+
+During the visit, the doctor took vitals and noticed elevated blood pressure (which was a **first-time occurrence**). He ordered **blood work**, and due to some irregularities, later requested an **abdominal ultrasound**, which revealed **gallstones** — also never previously known.
+
+The doctor’s visit summary lists the **primary diagnosis as “Upper Abdominal Pain (R10.10)”**, not hypertension. The provider, the lab for blood work, and the imaging center were all **in-network**.
+
+We paid:
+
+* A **$30 copay** for the blood work
+* **$740 upfront** for the ultrasound, which we were told counted toward the **$1000 deductible**
+
+All providers told us the remaining charges should be covered by the insurance.
+
+However, I recently began receiving **statements from all the providers** showing that nearly **nothing was covered** by insurance. I checked my IMG account and saw the following **denials**:
+
+* $550 for the doctor’s visit
+* $470 for the blood work
+* $1500 for the ultrasound
+
+**Denial Reasons:**
+
+* **T04**: The following is considered a Pre-existing Condition which is not covered under your policy: *ESSENTIAL PRIMARY HYPERTENSION*
+* **PX2**: The following is considered a Pre-existing Condition which is not covered under your policy: *UPPER ABDOMINAL PAIN, UNSPECIFIED*
+
+These reasons don't make sense, since:
+
+* **She had never been diagnosed or treated for hypertension** before this visit — it was discovered incidentally during the checkup.
+* The **visit summary** from the doctor includes the following:
+   * *“Her blood pressure was slightly elevated upon arrival, although she reports no history of hypertension.”*
+   * *“History reviewed. No pertinent past medical history. No pertinent surgical history.”*
+   * *“Hypertension: New onset”*
+   * *“No history of similar pain, and no recent medication.”*
+
+Has anyone successfully appealed a situation like this with **IMG** or a similar visitor insurance plan?  
+Any tips or experience would really help — I’m completely lost and don’t want this to end up costing thousands out of pocket.
+
+Thanks in advance!

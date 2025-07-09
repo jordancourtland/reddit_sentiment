@@ -1,0 +1,22 @@
+Thread ID: 1jpyumm
+Title: Insurer denying access to codes
+Subreddit: healthinsurance
+Created: 1743625503
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Lack of transparency in EOBs
+Outcome: Ongoing
+OP Summary: The insurer is denying access to billing and procedure codes, making it difficult for the user to appeal a claim denial. The user expresses frustration over vague EOBs and seeks clarity on whether this is a new policy or regulation.
+Responses Summary: No response summary available
+Themes: Insurer transparency, EOB standards, Patient rights
+Options Suggested: Contact AG's office, Request codes from provider, File an appeal
+Fit Explanation: The user is actively seeking help regarding their insurance denial and is frustrated with the lack of information provided by the insurer.
+Original Post: This is new for me. My insurer refuses to disclose the codes - billing, or procedure or any at all. 
+
+They used to be in my claim forms (EOB)  but now they don't include them. When we call they say they aren't allowed to disclose them, and even the descriptions on the claim forms are vague. The one in front of me just says "medical services" next to the date of service plus the dollar amount  
+
+This makes it very hard indeed to appeal a denial 
+
+Is this a new law? A policy? What is going on? 
+
+EDIT:This sub is a pro-insurance industry site. Be aware  

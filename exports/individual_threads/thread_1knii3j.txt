@@ -1,0 +1,26 @@
+Thread ID: 1knii3j
+Title: Need recommendations
+Subreddit: healthinsurance
+Created: 1747340964
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not eligible for coverage due to lapse in insurance
+Outcome: Ongoing
+OP Summary: The original poster is seeking recommendations for affordable health insurance after their claim was denied due to a lapse in coverage from TRICARE.
+Responses Summary: Commenters advised that without a qualifying life event, the OP cannot enroll in a marketplace plan until the fall and should check their employer's open enrollment options.
+Themes: Qualifying Life Events, Marketplace Enrollment, Employer Insurance Options
+Options Suggested: Check healthcare.gov, Explore employer's plans, Prepare for open enrollment
+Fit Explanation: The OP is currently facing a denial and is actively seeking insurance options, indicating a very good fit for assistance.
+Original Post: Hello all,
+
+I recently separated from the National Guard where I had TRICARE. About a year ago I had gotten a new debit card that caused a lapse in payment on my account. Without warning/ informing me, TRICARE dropped my policy.
+
+I have a full time civilian job that has now denied my claim for a health insurance appeal, due to the fact that I have not had insurance for longer than 30 days.
+
+This appeal was a full page explaining my military service and coverage, mixup with payment that caused my loss of coverage, and my surprise to find out I had been dropped.
+
+I have never had to use my insurance, I am 25, active, and healthy. Yet, they denied me coverage.
+
+Does anyone have recommendations for good, affordable coverage for a single, 25yo, male, not a smoker, exercise daily?
+
+Thank you.

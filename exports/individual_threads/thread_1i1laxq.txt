@@ -1,0 +1,41 @@
+Thread ID: 1i1laxq
+Title: At what price point does healthcare company vs cost not matter? Plan help needed!
+Subreddit: healthinsurance
+Created: 1736901889
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claim denials due to company reputation
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on whether to choose their new company's healthcare plan (UHC) or their wife's plan (BCBS), weighing the costs and potential for claim denials, especially in light of their plans to have a child.
+Responses Summary: Community responses generally emphasize the importance of considering potential medical expenses and claim denial rates, with many suggesting that the higher deductible and out-of-pocket maximum of BCBS may be worth the stability and coverage it offers, especially for family planning.
+Themes: Cost comparison, Claim denial concerns, Family planning medical expenses
+Options Suggested: Evaluate total possible costs, Consider network coverage, Assess HSA eligibility
+Fit Explanation: The user is actively seeking advice on which healthcare plan to choose, indicating a current need for assistance with healthcare decisions.
+Original Post: I'm struggling to decide whether to use my new company's healthcare (UHC) or join my wife's (BCBS). 
+
+The option would be either we both continue separately or I join hers. She wouldn't join mine as her company subsidizes a good portion of hers and premiums are low for individuals. 
+
+For UHC:  Annual Deductible is either $450 or $850 (depends on chosen plan) and the Out-of-Pocket Maximum is either $2,950 or $4,250. 
+
+Premiums would be either $141 or $161 per month. 
+
+For BCBS Family: Annual Deductible is $4,900 and Out-of-Pocket Maximum is $7,800. 
+
+Premium is $160/month for the combined cost, so definitely cheaper. 
+
+My struggle is that there is a pretty wide gap with those numbers (definitely understand that one is individual and the other is family) and on paper the UHC numbers are more appealing, but I have also read/heard that UHC is one of the worst healthcare companies in terms of denying claims, so is the lower cost worth it?
+
+The other factor is that we are actively trying to have a child, so there's a chance for a big medical expense this calendar year, and if I joined hers the deductible and OOP maximum would of course be higher. 
+
+Other plan factors: 
+
+BCBS office visits are 75% covered after deductible is met, UHC is flat flat copay for primary and specialist.
+
+BCBS has prescription costs at 25% while UHC is tiered flat fees. 
+
+BCBS emergency room is 75% after deductible is met, UHC is $150 copay, waived if admitted. 
+
+BCBS hospital stay is 'not applicable', UHC is 20% after deductible but prior authorization required. 
+
+
+Any advice or insight into what plan you would go for? Thank you so much for any help!

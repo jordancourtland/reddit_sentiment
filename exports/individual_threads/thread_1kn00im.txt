@@ -1,0 +1,23 @@
+Thread ID: 1kn00im
+Title: UHC Keeps Denying Claim
+Subreddit: healthinsurance
+Created: 1747285130
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The user's claim for oxygen supplies was denied by UHC due to the provider being out of network, despite attempts to negotiate coverage. They are now facing a significant bill and have switched to an in-network provider.
+Responses Summary: No response summary available
+Themes: Insurance provider issues, Out of network coverage, Negotiation challenges
+Options Suggested: Appeal the denial, Seek a Single Case Agreement, Switch to an in-network provider
+Fit Explanation: The user is actively seeking advice on how to handle the denial and is currently dealing with the consequences of the situation.
+Original Post: I have a young daughter with sleep apnea that uses oxygen at night.  We live in a rural area, but there is an oxygen supply company in town.  We’ve used them since we moved here in 2021.
+
+At the beginning of this year, our plan switched from Cigna to UHC.  We weren’t aware they were out of network.  The company tried talking with them several times.  At least TWICE, UHC gave them some paperwork to fill out and then they would cover some.  After filling it out, each time it was stilled denied due to being out of network . (So why have them fill out paperwork!?!).  
+
+We have Medicaid as a secondary, but they won’t cover it since it was denied by the primary.  
+
+I have switched to an in network provider a half hour away, but I’m not sure how that will go.  They haven’t contacted me to deliver a new tank, and the old company is picking theirs up.  I am also left with a $1300 bill I wasn’t planning on. Talking with UHC didn’t do anything.  Do they have voice recordings where there would be a record of them saying they would cover some?
+
+Any advice?
+

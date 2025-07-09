@@ -1,0 +1,14 @@
+Thread ID: 1g9o9ap
+Title: Help: what questions to ask insurer/provider for bill 15 months after date of service?
+Subreddit: medicalbill
+Created: 1729619219
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Exceeded lifetime benefit limit
+Outcome: Unclear
+OP Summary: The original poster is seeking guidance on what questions to ask their insurance and provider regarding a $1200 bill received 15 months after the service, particularly concerning the denial related to exceeding the IVF lifetime benefit limit.
+Responses Summary: Commenters suggest asking specific questions about the billing timeline, the insurance claim process, and the rights regarding timely billing in Ohio to gain clarity on the situation.
+Themes: billing timeline, insurance claim process, patient rights
+Options Suggested: ask about billing timeline, inquire about claim process, check patient rights in Ohio
+Fit Explanation: The original poster is actively seeking help to understand a recent bill and its denial, indicating a very good fit for needing assistance with insurance denial.
+Original Post: I need some help preparing the right questions for both our insurance and the provider billing office to fully understand a $1200 bill that arrived for services provided over 15 months ago. My partner suspended her IVF treatment last July and we have been diligent in paying every invoice...thinking we were all wrapped up last year. We are still working to crystalize our understanding, but in our initial conversations with both the billing office and Aetna, understand that my partner had reached her IVF lifetime benefit limit ($30k) and we were now responsible for the balance. While that makes sense to me on its face, don't understand why this process would take 15 months to get back to us, and aren't clear about our rights in Ohio for timely billing. The billing office provided a poor explanation to my partner that the claim was originally paid, but Aetna later came back and partially denied some of it based on exceeding the lifetime limit. I thought sophisticated shops like Aetna were tracking accumulators and would only pay the claim, up to the benefit limit. Some additional context, our quaint local provider's practice was recently acquired by a Private Equity group and we've seen their fee structures almost double since and I'm also dubious about their billing practices. What questions should we be asking on how this happened? Thanks for any advice you can provide :  )

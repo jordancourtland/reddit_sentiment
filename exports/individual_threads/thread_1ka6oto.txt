@@ -1,0 +1,24 @@
+Thread ID: 1ka6oto
+Title: How to handle limitations on second/third opinion
+Subreddit: healthinsurance
+Created: 1745874588
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The user is seeking advice on how to navigate insurance coverage for multiple surgical opinions while avoiding financial pitfalls, as they are unsure about the necessity of follow-up appointments with two surgeons.
+Responses Summary: No response summary available
+Themes: surgery, second opinion, insurance coverage
+Options Suggested: consult with insurer, cancel follow-up appointments, seek local surgeon
+Fit Explanation: The user is currently facing a denial risk related to insurance coverage for surgical opinions, indicating a very good fit for assistance.
+Original Post: I need to make sure I don't get myself into financial trouble here and don't even want to talk to my insurer until I understand what I should say. I have a health problem that will definitely require surgery, but we don't yet know exactly what the problem is or what type of surgery will be best for it. 
+
+1. Went to Big City Surgeon A who ordered MRI. Followup telehealth is scheduled for 4/29 to discuss report.
+
+2. Had MRI.
+
+3. Then went to Big City Surgeon B who is trained differently and uses different techniques. MRI results were not back yet. Followup telehealth is scheduled for 4/30 to discuss report. 
+
+4. MRI results are now back.
+
+I thought I would be choosing between these two surgeons but now realize that I just do not have the financial or logistical support I need to have this surgery in Big City. I want to consult with a surgeon closer to home. In the past when I have asked my insurer about second opinions, they have told me their policy is they will cover a second opinion, and if it conflicts with the first, they will cover a third. I don't actually have an "opinion" from either of these surgeons yet. I don't want to get stuck with the bill for one of them if I try to move to a third surgeon closer to home or be denied coverage for the third surgeon to actually do the procedure. How do I manage this situation?  Do I cancel these followup appointments? Ideally I would like to hear what they have to say but I don't want to get stuck with a huge bill for it or somehow not have the third, closer-to-home surgeon covered.

@@ -1,0 +1,68 @@
+Thread ID: 1kocmjt
+Title: Appealing $25k in denied claims due to brief coverage lapse — any hope? - Or - On scale of 1 to *%&amp;#-ed, what am I?
+Subreddit: healthinsurance
+Created: 1747431553
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Cancellation due to non-payment of premiums
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on appealing denied claims totaling over $25k due to a brief lapse in insurance coverage caused by missed payments, and is unsure of their chances for success.
+Responses Summary: Commenters generally advise that the chances of a successful appeal are low due to the missed payments, suggesting that the OP should negotiate with the hospital for financial assistance or a payment plan instead.
+Themes: appeal process, financial assistance, insurance company policies
+Options Suggested: negotiate with hospital for financial assistance, request a payment plan, contact state insurance division
+Fit Explanation: The OP is actively seeking help with an appeal, indicating a strong fit for the persona, but the situation is complicated by the missed payments.
+Original Post: As the following formal appeal letter explains, I accidentally--stupidly--missed two payments, and as a result, claims totally over $25k were denied. Needless to say, I feel sick and frantic.
+
+I am sending this letter off immediately through the proper channels, but I have no idea of the likelihood that they will honor my request. Does anyone here have experience with Wellmark or similar appeals? What else should I do? Is there a chance at all this could succeed? If it doesn't, and I have to appeal to the state insurance division, what are my chances there? If I am on the hook for the full amount, is there any kind of assistance I can request?
+
+Here is the letter:
+
+\------------------------------------
+
+To:
+
+Wellmark Blue Cross and Blue Shield of XXXXXXX
+
+P.O. Box XXXXXXX XXXXXXX,
+
+IA XXXXXXX
+
+Fax: XXXXXXX
+
+Date: 5 May 2025
+
+Subject: Appeal for Denied Claims – Wellmark ID: XXXXXXX
+
+Claim Numbers: XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX
+
+Patient: XXXXXXX XXXXXXX
+
+Date(s) of Service: March 10–April 1, 2025
+
+To Whom It May Concern,
+
+I am appealing the denial of claims for services received by my wife, XXXXXXX XXXXXXX, in March and April 2025. The Explanation of Benefits states that coverage was denied due to cancellation. However, any lapse in premium payment was brief and corrected immediately.
+
+We’ve done our best to maintain coverage during a financially difficult year, during which I’ve been underemployed. We also lost over $20,000 in income from our rental property due to water damage to the building where it is located, and our insurer (American Family) delayed resolving the claim for more than six months after the date of loss. This delay was unintentional, and we respectfully request that Wellmark consider a goodwill exception and reinstate coverage retroactively. The total amount denied is $25,942.70 — a devastating cost for our family to bear due to what we believe was a brief, good-faith error. Additionally, now is a particularly critical time for our family as XXXXXXX has become pregnant.
+
+I’ve included records of my recent premium payments (January 8, March 2, and May 1, 2025). While I acknowledge that payments for February and April were missed, the May payment was made immediately upon realizing the coverage had lapsed. These missed payments occurred during a period of financial hardship — not from disregard — and we ask that Wellmark consider this context in reviewing our request for a one-time reinstatement.
+
+Please find the following attached:
+
+\- Copy of the EOB
+
+\- Payment records
+
+We ask that Wellmark reconsider the denial based on these circumstances. Please contact me if additional documentation is needed.
+
+Sincerely,
+
+XXXXXXX
+
+\------------------------------------
+
+I guess I just want to know what my real chances are and anything I can do to improve them so I can prepare. Thanks very much for reading and for any advice.
+
+
+
+EDIT: The people have spoken. I have my verdict, and I know my fate. So has it been written; so shall it be done. I will prepare with the necessary lubricant.

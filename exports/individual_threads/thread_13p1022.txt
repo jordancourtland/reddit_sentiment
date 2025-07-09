@@ -1,0 +1,22 @@
+Thread ID: 13p1022
+Title: Unexpected bill. My drs office did not coordinate for a routine medical check with my insurance.
+Subreddit: medicalbill
+Created: 1684784656
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not authorized
+Outcome: Ongoing
+OP Summary: The original poster is seeking guidance on how to handle a large medical bill due to a potential insurance denial for genetic testing during pregnancy, as they are unsure whether to contact their doctor's office or insurance first.
+Responses Summary: Commenters advised the original poster to first contact their insurance company to clarify the authorization status and suggested filing an appeal. They also recommended negotiating the bill and exploring self-pay rates if necessary.
+Themes: Insurance authorization, Appeal process, Negotiating medical bills
+Options Suggested: Contact insurance company, File an appeal, Negotiate the bill
+Fit Explanation: The original poster is currently facing a denial and is actively seeking options, indicating a very good fit for assistance.
+Original Post: Hello, and thanks for the help in advance.
+
+I’m currently pregnant and in the beginning of the year my dr had my blood sent for genetic testing to make sure baby is fine (From what I’ve read this is pretty standard now in pregnancy and I do have family history of Down syndrome).
+
+I remember getting a letter stating that is was approved (I’m 99% sure but now I’m doubting myself) from my insurance company. Unfortunately, I cannot find that letter and I tried looking it up on my insurance website portal but I don’t see it there either. I feel like this is being denied since they had to redo the test as the first results were inconclusive. So, technically I had the test done twice. The letter I just received is stating that since the services received were not authorized my insurance will not cover the cost. I’m considered high risk and my drs office has always made sure that any outpatient services were authorized by my insurance beforehand, so this is quite puzzling to me. Even though my drs office knows how the system works, ultimately I guess it’s my own responsibility to make sure things are approved (which I didn’t check when they asked me to come in again for a blood redraw). 
+
+I’m not sure if I should coordinate with my drs office first to see if they have the record of sending the authorization or start with my insurance company. This is a really big bill ($13,102.80) and I would like to know what options I even have at this point; since that’s a scary bill and I don’t want to go about this the wrong way. 
+
+Thank you again for any and all assistance!

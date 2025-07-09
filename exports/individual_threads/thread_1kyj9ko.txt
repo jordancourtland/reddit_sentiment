@@ -1,0 +1,30 @@
+Thread ID: 1kyj9ko
+Title: Anthem Healthkeepers
+Subreddit: healthinsurance
+Created: 1748545647
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to efficiently request HMO authorizations from PCPs for specialty visits, as many offices are unfamiliar with the process.
+Responses Summary: Commenters suggest ensuring that authorizations are obtained before scheduling appointments and emphasize the importance of understanding HMO requirements for specialist visits.
+Themes: Authorization process, Communication challenges, HMO requirements
+Options Suggested: Improve communication with PCPs, Educate staff on HMO processes, Use Availity more effectively
+Fit Explanation: The original poster is actively dealing with insurance denials and is looking for solutions, indicating a strong fit for assistance.
+Original Post: I work at a specialty provider office in Virginia. Our billing department states that any patient with Anthem Healthkeepers HMO (including Medicare Advantage, excluding Medicaid/Cardinal Care) requires their insurance selected PCP to check if an HMO authorization is required for specialty visits. This can and should be done through Availity.
+
+Without this documentation from the PCP/Availity, Anthem may deny payment for specialty visits. We have had a few patients slip through and their claims have been denied.
+
+It’s now my job to request these authorizations from the PCP and have the patients sign a waiver if they do not have one on file.
+
+The problem is, when I make this request from the PCP offices, 75% have no clue what I’m asking for or how to utilize Availity. A handful of offices have been great and were already familiar with the process. More often than not, no authorization is required.
+
+I’ve read through so many Anthem articles to see if there is anyway I can determine if an authorization is needed but I’m not getting anywhere. I wish there was a way to cut out the PCP and check if one is required for specialty visits myself.
+
+Another issue I run into is that the insurance selected PCP is often someone the patient has never seen, doesn’t know, etc. In these scenarios, I refer the patient to contact the healthplan to update to their actual PCP but then I still have to go through the request process.
+
+Currently, I fax the request to the PCP with a detailed layout of what we need from them via Availity along with the last visit note, records, etc. I also call the offices but they often get frustrated (because they don’t understand what I need and say they’ve never been asked this before, etc) and tell me to just fax the request over so they can review further. I typically don’t get any kind of follow up from the PCP.
+
+Does anyone have any suggestions on how to be more efficient with this process from the specialist end? Or how can I explain it better to the PCP and/or patient so that they understand what I’m needing?
+
+

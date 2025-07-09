@@ -1,0 +1,38 @@
+Thread ID: 1kxqro8
+Title: Previously covered routine STD test denied per EOB - struggling to get info from insurer on why.
+Subreddit: healthinsurance
+Created: 1748462106
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Non-covered procedure code
+Outcome: Ongoing
+OP Summary: The original poster is seeking assistance in understanding why their routine STD test for Trichomoniasis was denied by Tricare, despite it being covered in the past.
+Responses Summary: Commenters suggest checking with the provider for possible coding changes, reviewing clinical policies for STD testing, and considering an appeal based on CDC guidelines for high-risk individuals.
+Themes: Coding issues, Insurance policy changes, Appeal process
+Options Suggested: Talk to the provider about coding, Review clinical policy for STD testing, File an appeal based on CDC guidelines
+Fit Explanation: The original poster is actively seeking help with a denial, indicating they might need assistance soon.
+Original Post: 34F. I consider myself reasonably savvy when it comes to understanding my insurance plan. I've had the exact same plan since 2013 and hit my OOP max every year. Decade plus of dealing with needing prior auth for meds/procedures. However, **I am really struggling with how to sort out this particular denial.**
+
+Insurance info:
+
+* Tricare Select (only see civilian doctors) since 2013.
+* Unfortunately one of those impacted by the switch from Tricare East region to West region as of Jan 1 2025, and it has been a total clusterfuck.
+* Deductible/OOP max: not a factor here.
+
+Denied claim info:
+
+* My OB/GYN ordered routine STD screening alongside my pap smear as part of my annual well-woman exam. Ordered with smart code 91386 + diagnosis code Z01.419.
+   * Bill from lab reflects CPT code 87661 for the Trich test, which I understand is included in the more efficient 91386 code.
+* OB/GYN + lab both in network.
+* **The EOB + bill from the lab both indicate that my plan denied any coverage of the test for Trichomoniasis.** I'm not pissed about a cost share. Coverage for this specific test was fully denied.
+* Testing for gonorrhea, chlamydia, and HPV (as well as cytopathology for the pap) were all covered with no patient cost responsibility. My plan has already submitted payment to the lab for these covered tests.
+* **Reason for denial per EOB:** "Non-covered procedure code with either this type of service, diagnosis code, provider specialty, or provider type."
+
+Additional info:
+
+* Trichomoniasis is the only STD I have ever actually had. Care for that was managed by the same provider.
+* I have multiple sexual partners both male and female, which was disclosed to my provider in terms of sexual behavior/history.
+
+I've been on the phone now several times with Tricare and frankly they could not be any less helpful. To be very clear, I am not trying to figure out how to game the system. This test has been covered for me in the past with this plan. It appears from my research that they SHOULD cover it. **None of the claims representatives I've spoken to are able to clearly state the reason this specific test is not covered in this specific instance.**
+
+Anyone have any insight or advice on what direction to take this in next? I would be very grateful for the assistance.

@@ -1,0 +1,28 @@
+Thread ID: 1k6d79d
+Title: Denied hospitalization - “precert required” “not medically necessary”
+Subreddit: healthinsurance
+Created: 1745449588
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The user experienced a claim denial for hospitalization after a medical emergency, with the insurance citing 'pre certification required' and 'not medically necessary'. They are in the process of appealing the denial while seeking advice on navigating the situation.
+Responses Summary: No response summary available
+Themes: Claim Denial, Appeal Process, Insurance Communication
+Options Suggested: Contact hospital for documentation, Seek legal advice, Wait for hospital to handle appeals
+Fit Explanation: The user is actively seeking help with their appeal process and has already filed a first appeal, indicating a perfect fit for assistance.
+Original Post: I have insurance through work - Carefirst Administrators. I went to the ER a week after my c section, because I couldn’t breathe. I was diagnosed with peripartum cardiomyopathy and had pulmonary edema, and was hospitalized for two nights. 
+
+My insurance company denied the claim, saying “pre certification required”. They are having Conifer Health Solutions process the claim, and Conifer tells me it wasn’t medically necessary that I be hospitalized and that instead I should have been “observed.” 
+
+The first appeal was denied. I will file the second appeal shortly—trying to give the hospital as much time as possible to send all the documentation (they say they’re working on letters of medical necessity).
+
+Few questions:
+
+1. Conifer says they’re denying that I should have been treated in an inpatient setting, but the bill includes “emergency room services” that were also denied. Why would that be the case? Also not exactly something I can get pre certification for… because it’s the ER. 
+
+2. The bill is only 19k. Is there an ERISA lawyer who would litigate such a small bill?
+
+3. Any other advice for navigating this?? 
+
+Edit: Oregon, late 30s

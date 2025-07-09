@@ -1,0 +1,23 @@
+Thread ID: 1kmphzt
+Title: Negotiating a small bill
+Subreddit: healthinsurance
+Created: 1747254219
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Unclear
+OP Summary: A couple received a bill for a blood test denied by insurance as not medically necessary, and they are unsure how to negotiate the high charge. They seek strategies to pay a fair price without damaging their credit.
+Responses Summary: No response summary available
+Themes: billing disputes, insurance denials, negotiation strategies
+Options Suggested: appeal the denial, check state timely billing laws, negotiate a reduced payment
+Fit Explanation: The user is actively dealing with a denial and is looking for negotiation strategies, indicating a strong fit for assistance.
+Original Post: For our primary care, my wife and I go to a regional doctor network. One of the ones that has maybe a few hundred doctors spread across a couple states or so, across various specialties, including their own clinics, etc. So not exactly a solo practitioner or even a small group practice.
+
+A couple years ago, my wife had some blood test done, one of which was denied by the insurance as not medically necessary. In the past, most of the time when something is denied like that as one item on a bigger claim, nobody even bothers to ever send us a bill.
+
+Recently, almost 2 years later, we received a bill from the billing department of the doctors network for that test for ~$120. This is of course the fall “sticker price“. I found out that, hadn’t been medically necessary, the network rate that the insurance would’ve paid would’ve been $46, which they happily would’ve accepted as payment in full.
+
+However, calling their billing department they tell me that they cannot accept the network rate for me, and is against policy and there’s really nothing they can do about it.
+
+I don’t really appreciate being charged a ridiculous sticker price, but not sure what I can do about it other than refuse to pay, and it doesn’t seem worth damaging our credit for. Is there any sort of strategy I can use or law on my side, to pay them a fair price like what they get elsewhere?
+

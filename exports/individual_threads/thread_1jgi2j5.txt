@@ -1,0 +1,14 @@
+Thread ID: 1jgi2j5
+Title: Highmark denied medication, Appeal?
+Subreddit: healthinsurance
+Created: 1742567183
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not covered under new plan
+Outcome: Unclear
+OP Summary: The user's wife's medication coverage was denied by their new insurance after retirement, and they are considering whether to appeal the decision.
+Responses Summary: No response summary available
+Themes: Insurance transition, Appeal process, Medication coverage
+Options Suggested: Check new plan's formulary, Consider appealing if a mistake is suspected, Review summary plan description
+Fit Explanation: The user is actively seeking advice on appealing the denial of medication coverage.
+Original Post: I'll keep this short. My wife retired at the end of last year. She worked for the state prison system for 27 years and her insurance covered he Trintellix for the past 12 years. Now her post-employment insurance  company denied coverage, lol. The out-of-pocket cost is $500 a month. Can't afford it. Any point in appealing? 

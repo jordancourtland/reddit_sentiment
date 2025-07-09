@@ -1,0 +1,18 @@
+Thread ID: 1kjhx53
+Title: No longer covering med effective 7/1. Appeal Options?
+Subreddit: healthinsurance
+Created: 1746904438
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Coverage exclusion for medication
+Outcome: Unclear
+OP Summary: The user's medication will no longer be covered by insurance starting July 1, and they are considering filing an appeal for coverage despite the challenges and costs involved.
+Responses Summary: No response summary available
+Themes: insurance coverage changes, appeal process, financial burden of medications
+Options Suggested: file an appeal, explore alternative medications, contact HR for clarification
+Fit Explanation: The user is actively seeking advice on how to appeal the denial of medication coverage, indicating a strong need for assistance.
+Original Post: My health and prescription insurance company (via my employer) currently covers a medication I’m taking, but as of July 1, the medication will no longer be covered. I currently have a PA approving coverage of the med (through 12/25), and have yet to receive any information from the insurance company about the end of coverage for the medication. All info has been through my employer HR department. 
+
+Would it be worth it to file an appeal after July 1 to have the medication covered? I’m assuming I’d have to request a refill and have it denied by my insurance company, then go through the appeal process. What’s the likelihood of an appeal working? I have demonstrated an impact of the medication and my provider agrees I should continue taking it. 
+
+And no, I can’t afford to pay out of pocket for it. 

@@ -1,0 +1,26 @@
+Thread ID: 1jjxd2g
+Title: Rending Provider INN, Billing Provide OON
+Subreddit: healthinsurance
+Created: 1742944360
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The user is facing a claim denial from their insurance for a lab service due to the billing provider being out of network, despite the lab being performed at an in-network provider's office. They are seeking clarification on provider linkage and potential exceptions for claims processing.
+Responses Summary: No response summary available
+Themes: Claim denial, In-network vs out-of-network, Insurance communication
+Options Suggested: Contact state insurance department, File an appeal with the insurance carrier, Investigate HMO hold harmless clauses
+Fit Explanation: The user is actively seeking help regarding their claim denial and is in communication with the insurance company.
+Original Post: I completed a lab at an INN provider office. The lab (billing provider) is OON. Insurance is denying the lab claim due to OON (HMO, no OON coverage). I have been in communication with them about this. At first, the response was "Rendering provider is not linked with billing provider" and requested INN list the NETWORK name: XXXXXX, If INN list the CONTRACT name: XXXXXX, and If INN list the effective date: XX/XX/XXXX for processing. I followed up for clarification but did not get far, so I plan to follow up. 
+
+I am not understanding the basics of this. Is a rendering provider linked to a billing provider via a contract?
+
+Another question: I had a similar issue with a dermatologist's office and talked with someone in claims with the insurance company who said something like, "So what you are saying is you were not given a choice of providers?" I responded, "yes," and they did some sort of exception and got it processed INN.  Are there known exceptions to this situation?
+
+  
+This is not covered under the No Surprises Act since it was not a hospital or ambulatory surgical center. 
+
+Location: VA 
+
+  
+

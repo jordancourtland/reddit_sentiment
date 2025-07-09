@@ -1,0 +1,32 @@
+Thread ID: 1kyskoq
+Title: Aetna Misfilings
+Subreddit: healthinsurance
+Created: 1748570432
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network coverage based on in-network availability
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to proceed after Aetna denied their out-of-network coverage claim, despite having evidence that the listed in-network providers do not treat their condition.
+Responses Summary: Commenters advised the original poster to continue pursuing the issue with the Department of Labor and suggested contacting HR for further assistance, emphasizing the importance of documenting provider availability.
+Themes: ERISA process, Provider availability, Appeal strategies
+Options Suggested: Contact HR for assistance, File a complaint with the Department of Labor, Request a network gap exception
+Fit Explanation: The original poster is actively seeking help with their ongoing appeal process, indicating a strong fit for assistance.
+Original Post: Is there any advice for this? I do have an open case with ERISA.
+
+  
+\-Aetna denied OON coverage based on in network availability to original prior auth and listed two IN providers. At no point have I been denied medical necessity. 
+
+\-I contacted both providers, neither practiced or treated the disease. I submitted a first level appeal with this information.
+
+\-The first level appeal was denied, just restating "IN providers available"
+
+\-I called Aetna and a representative confirmed no other providers showed on the list and **instructed** me to file a second level appeal. I filed this appeal based on confirmation I would have no others to appeal 
+
+\-I submitted this appeal with a copy of email confirmation from the office of the unavailable providers. 
+
+\-The denial to the second level appeal again restated that provider I had just sent the email of. 
+
+\-I talked to a representative that escalated this with the review team. The review team **did** acknowledge the mistake and provided a list of two **new** providers, contrary to what the rep that encouraged me to submit the appeal said. This list was given informally over the phone and through the message portal. It included instructions to "contact pre cert for a network deficiency should these be unsuitable."
+
+\-I contacted these providers and have in writing that they cannot treat me. I called pre cert and they refused to file the deficiency based on appeals exhausted.   
+

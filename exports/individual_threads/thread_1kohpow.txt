@@ -1,0 +1,17 @@
+Thread ID: 1kohpow
+Title: MRIs I thought were approved got denied after getting them done
+Subreddit: healthinsurance
+Created: 1747446617
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking advice after their MRIs were denied by insurance, resulting in a large unexpected bill. They are unsure of the next steps to take regarding the denial and potential appeal process.
+Responses Summary: Commenters advised the OP to wait for the Explanation of Benefits (EOB) to understand the denial reason and suggested contacting the doctor's office for prior authorization details. They emphasized the importance of verifying coverage and appealing if necessary.
+Themes: Prior Authorization, Insurance Communication, Appeal Process
+Options Suggested: Contact insurance for EOB, Request appeal from doctor, Set up payment plan if necessary
+Fit Explanation: The OP is currently facing a denial and is actively seeking advice on how to address it, indicating a very good fit for assistance.
+Original Post: So due to health issues, a doctor ordered a Cervical MRI, and a Brain MRI with and without contrast. The place I went to, I scheduled the appointment and provided insurance info etc, and a few days before my appointment they called and told me that after insurance, my total was $329.29. I thought that was pretty freaking cheap, but okay. Why would they lie? Right? Well the claims just hit my insurance and it’s been denied, and it appears I owe $5200+ to the MRI company. What do I do? I don’t think I have proof that they told me what the cost after insurance would be, though I do have a receipt with the total. Other tests have been rescheduled or canceled because insurance denied it, so I was under the impression, both because of this and because they said ‘after insurance this is your total’, that the office got prior approval. Where do I go from here?
+
+Adding: not asking for medical advice. Just asking for health insurance advice
+26F, Texas, USA

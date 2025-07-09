@@ -1,0 +1,16 @@
+Thread ID: 1k0jjjb
+Title: Claim denied, claiming no prior authorization but I got prior authorization
+Subreddit: healthinsurance
+Created: 1744807594
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The user's claim for a cardiac MRI was denied due to a lack of prior authorization, despite having obtained it, leading to confusion and frustration.
+Responses Summary: No response summary available
+Themes: Claim denial, Prior authorization, Insurance navigation
+Options Suggested: Contact insurance for clarification, Request a review of the claim, Follow up with the facility for billing issues
+Fit Explanation: The user is actively seeking help to resolve their claim denial and has provided clear details about the situation.
+Original Post: Age: 25, state: NJ
+
+Hi. Young guy so first time navigating health insurance. Aetna is my insurance. I needed a cardiac MRI done and got prior authorization for it. The claim showed up in my app as denied, claiming I don’t have prior authorization for the test. I have the authorization number. On hold with insurance. What’s the likelihood I can get this resolved?

@@ -1,0 +1,22 @@
+Thread ID: ntq90n
+Title: NY state issued health insurance policy suprise out of network bill for NJ facility
+Subreddit: medicalbill
+Created: 1622998836
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The original poster is seeking help regarding a surprise out-of-network bill from an anesthesiologist for a procedure at an in-network facility, despite existing surprise billing laws in NY and NJ.
+Responses Summary: Commenters suggest contacting the billing company to inform them of the law and recommend filing a formal complaint with the NY insurance commissioner.
+Themes: surprise billing laws, insurance denial, appeal process
+Options Suggested: contact billing company, file complaint with insurance commissioner, upload denial letter for advice
+Fit Explanation: The original poster is actively dealing with a denial and may need assistance with the appeal process.
+Original Post: Hi,
+
+I had a scheduled procedure in an in-network facility in NJ. An anesthesiologist who I never met and was never told of their out-of-network status provided anesthesia for the procedure. This anesthesiologist is out of network and his fee is 10x what is allowed for the same procedure with an in-network provider. 
+
+Both NY and NJ have surprise billing laws in effect that are mirrors of each other to protect against this.
+
+My health insurance provider (Aetna) claims both that the NJ law for surprise out of network billing doesn't apply because the policy is issued out of NY and that the NY law for surprise out of network billing doesn't apply because the provider is in NJ. I have read the text of the NY law and I saw nothing about being limited to in-state providers. 
+
+Aetna tells me "sorry, you need to pay the provider" and has denied my first appeal.

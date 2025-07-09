@@ -1,0 +1,14 @@
+Thread ID: 1kotnb2
+Title: Appeal Your Out-of-Network Denials Regarding "Customary and Reasonable Charges"
+Subreddit: healthinsurance
+Created: 1747490339
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Exceeded customary and reasonable charges
+Outcome: Resolved
+OP Summary: The original poster successfully appealed a denial from their Medicare Advantage Plan for out-of-network dental care, which was initially denied for exceeding customary and reasonable charges.
+Responses Summary: Commenters emphasized the importance of appealing denials based on customary and reasonable charges and suggested gathering supporting documentation for future claims.
+Themes: Appeal process, Out-of-network care, Documentation support
+Options Suggested: Gather supporting documentation, Contact insurance for clarification, Consider further appeals if necessary
+Fit Explanation: The original poster actively sought advice on appealing a denial and successfully navigated the process, indicating a perfect fit for the persona seeking help with denials.
+Original Post:  I had dental coverage under my Medicare Advantage Plan which authorized out-of-network care, but when I submitted a claim for reimbursement for hundreds of dollars for a necessary dental procedure, the insurance company denied half of it on the grounds it "exceeded customary and reasonable charges." I appealed. I argued that the insurance company could not use their in-network rates as the standard because out-of-network providers are just that because they don't want to accept low reimbursement rates, and I argued that they didn't have the data to support their claim. I also described the quality of my care in contrast to that previously provided by an in-network dentist. The insurance company actually had a rep call me while the appeal was pending to advise that Medicare "guidelines" "required" them to reject any other amounts. Wrong. The appeal was successful. Reimbursement in full with interest. So, when they deny you full reimbursement for out of network on the grounds that the charge exceeds "customary and reasonable charges," appeal it.

@@ -1,0 +1,25 @@
+Thread ID: 1fgsc4h
+Title: In the middle of appeal but
+Subreddit: medicalbill
+Created: 1726337593
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to prevent a denied claim from going to collections while in the middle of an appeal with Highmark regarding two annual visits billed under the same code.
+Responses Summary: Commenters provided insights on the correct billing codes for the visits and suggested that both services were billed correctly, indicating that the issue may lie with the diagnosis codes used.
+Themes: billing codes, insurance appeal process, provider communication
+Options Suggested: follow up with Highmark, contact the provider, review diagnosis codes
+Fit Explanation: The original poster is actively seeking help with an ongoing appeal and is concerned about the potential for collections, indicating a perfect fit for assistance.
+Original Post: I had 2 annual visits. One was my annual with my PCP, the other annual with my GYN. Separate offices and different practitioners but under the same corporate company. 
+
+They were both billed under code 99395 "routine preventative visit".
+
+Highmark paid for one visit. Denied the other because I'm only allowed one visit per year. 
+I verified with Highmark that my annual PCP and annual GYN are both covered under separate benefits. Highmark then took over and reached out to my provider 3x to get the coding reviewed, corrected for the different service type. 
+
+My provider has not fixed their code on the claim. It has been over 6 months now and I am being sent letters that it will go to collections.
+
+How do I stop them from sending this to collections? This is what I am most worried about.
+
+I am also in the middle of a grievance/appeal with Highmark over this exact denied claim. They said it could take 60 days, but I need this all sorted out before it goes to collection. Who should I follow up with first, highmark or my provider?

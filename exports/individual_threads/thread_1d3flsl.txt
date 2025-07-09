@@ -1,0 +1,16 @@
+Thread ID: 1d3flsl
+Title: Am I required to pay in advance for an initial office visit? 
+Subreddit: medicalbill
+Created: 1716998206
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is inquiring whether they are required to pay in advance for an initial office visit due to their current lack of insurance coverage.
+Responses Summary: Commenters advised the OP to inquire about payment plans or temporary insurance options, noting that offices can legally require upfront payment.
+Themes: payment requirements, insurance coverage, financial assistance options
+Options Suggested: inquire about payment plans, apply for temporary insurance, ask for state aid
+Fit Explanation: The OP is facing a payment issue related to a medical appointment, indicating a need for assistance with potential denial of service due to non-payment.
+Original Post: My daughter and I are in between insurance right now and our new coverage doesn’t start till July 1. We have an appointment set up for her next week for an initial consultation at a neurological center at a local children’s hospital (in NE) but I just received an invoice from them for $502 saying it’s due at the time we check in. We can’t afford that right now. 
+
+Can they legally deny service if we can’t pay at the appointment?

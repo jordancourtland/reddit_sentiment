@@ -1,0 +1,18 @@
+Thread ID: 1kuun5d
+Title: Being denied care for psychiatry visits even though it is an included service in my plan
+Subreddit: healthinsurance
+Created: 1748149360
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is confused about their insurance denying coverage for psychiatry visits, which they believe should be included in their plan, and is unsure how to proceed after being asked for evidence of medication necessity.
+Responses Summary: Commenters suggest checking the billing codes used for the appointments, contacting the psychiatrist's billing department for assistance, and being cautious about submitting unnecessary paperwork to the insurance.
+Themes: billing and coding issues, evidence of medical necessity, communication with insurance
+Options Suggested: check billing codes, contact psychiatrist's billing department, request non-quantitative treatment limitation analysis
+Fit Explanation: The original poster is actively seeking help with an ongoing denial, indicating a very good fit for assistance.
+Original Post: My insurance, BCBS, started denying my psychiatry appointments (basic, monthly visits to adjust and review medication). I received an EOB stating that the service is not included in my plan, which is blatantly incorrect. The same insurance is currently covering my therapy appointments. My psychiatrist is in-network.
+
+I appealed the decision, and am being told that the adjuster wants to see evidence of why I need medicine that my psychiatrist is perscribing to make a decision on my claim.
+
+Does it seem normal that they are denying an included service and are now demanding to see evidence to support my need for medication on top of it all, which technically feels unrelated to my core claim that I am allowed this general service per my plan — regardless of my specific medication needs? I am extremely confused and hesitant on how to proceed. 

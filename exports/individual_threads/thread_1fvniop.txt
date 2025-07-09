@@ -1,0 +1,128 @@
+Thread ID: 1fvniop
+Title: Questions Answered: Which Plan Should I Choose?
+Subreddit: healthinsurance
+Created: 1728004522
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: None
+Outcome: Ongoing
+OP Summary: The thread discusses how to choose the best health insurance plan based on financial factors, preferred doctors, medications, and plan types, while addressing concerns about coverage and claims processes.
+Responses Summary: No response summary available
+Themes: Insurance Plan Selection, Financial Considerations, Network and Coverage Issues
+Options Suggested: Compare plans based on OOPM, Check in-network doctors, Review prescription coverage
+Fit Explanation: The user is exploring options for health insurance plans and has specific concerns about coverage and costs, indicating a need for assistance.
+Original Post: Which Insurance Plan Should I Choose?
+
+We get it, insurance is confusing, and you have ALL KINDS of questions when it comes to answering, “Which insurance plan is best for me”. Hopefully, this guide can provide you with some guidance and answers.
+
+ 
+
+Decide on what is most important to you when it comes to Insurance- what factors into “the best” plan for you?
+
+-          Financially, I want to pay the least amount out of pocket
+
+-          MY Doctors-Having My preferred doctors in network
+
+-          MY Medications-Making sure my medications are covered on the plan
+
+-          The Type of Plan- PPO, HMO, EPO, POS, HDHP and their pros/cons
+
+ 
+
+# FINANCIALLY-
+
+The entire point of insurance is to transfer financial risk from yourself to the insurance company. This is done in the form of your Out-of-Pocket Max (OOPM). The OOPM is the most your will pay for your care for all in-network, medically necessary (no cosmetic or elective things), non-excluded care (check your contract for excluded services).
+
+The only way to figure this out "definitively" which plan is best Financially is to do some math.
+
+Two schools of though.
+
+**1- What's the best plan should I hit an out-of-pocket Maximum**. People RARELY plan to meet their OOPM, but it happens. Maybe you are on a health journey and planning for a big medical expense year with the birth of a baby, an upcoming surgery, or you just need a lot of care. To find out which plan is best via this method, you figure out the Maximum Financial Liability.
+
+* Take your Annual Premiums
+* Add the In-network Out of Pocket Maximum
+* If it's an employer plan, subtract any money the employer contributes to an HSA/FSA/HRA, because it's free Money
+
+Compare the Max Annual Financial Liability of each plan you're considering. The plan with the lowest total will mean the least out of your pocket if you hit an out-of-pocket maximum- large claims, surgery, birth of a baby, etc.
+
+**2- If you want to plan as if you won't hit your out-of-pocket max**, the only way to do this is to spreadsheet out what your anticipated year of care looks like. How many Dr. Visits, how many prescriptions you take, any planned procedures, etc. You will then have to guestimate how much these things will cost you out of pocket. You may be able to get a general idea of the cost by looking at the allowable amounts on your old EOBs- Explanation of Benefits.
+
+This method involves some guessing and some additional research to end up at an imperfect budget estimation, so that's why I prefer the Max Annual Financial Liability Method. It's straight math that helps you prep for the worst possible scenario. If you don't end up hitting an out-of-pocket max, you can rejoice that you are below budget. If you do hit an out-of-pocket max, you can rejoice that you picked the right plan from the start.
+
+ 
+
+ 
+
+ 
+
+# MY DOCTORS-
+
+Every insurance plan has a list of doctors that are considered in-network. You likely will be able to check this list even before signing up for the insurance plan. Be sure to visit your carrier website to check for the provider list. When searching that list, be sure you are searching for YOUR network. Doctors may be in network with some BCBS/UHC plans, but not others.
+
+It’s also generally a smart idea to call the provider and verify network status as the Provider Lists can be out of date/incorrect for a variety of reasons. It is always YOUR responsibility as the member to check Network Status of a doctor. They don’t always inform you if they’ve left a network, and, unfortunately, they aren’t mandated to do so yet.
+
+When verifying network status, ask “Are you in network with my insurance network”- and provide the exact network name of your plan. A doctor may be in network with some BCBS networks, but maybe not YOUR specific network with BCBS. Most providers “accept” most insurance, but you will not get the in-network discounts/allowable amounts if they are not actually IN your network.
+
+ 
+
+# MY MEDICATIONS-
+
+Every plan has a Prescription Formulary List. You can obtain a copy from your Carrier by contacting them, or it may be listed in your insurance portal. If you obtain your insurance from your employer, you may be able to ask for this information from your HR staff/Broker.
+
+This Rx Formulary List will list out all the medications they cover, what tier the medications are, and any special information about that medication such as:
+
+-          dispensing limits
+
+-          if Prior Authorization is needed
+
+-          if they are only for certain conditions
+
+Do note that formulary lists can change, even during the plan year. There are always options for appeals, depending on the specifics of your plan. 
+
+Some plans may also require you to obtain medications from certain pharmacies. Specialty Medications are a common one to require you obtain them from a Specialty Pharmacy via mail order. If it’s important to you to be able to pick up your Specialty Medications from a local pharmacy, you may not want to pick a plan that requires the use of a mail order pharmacy.
+
+ 
+
+# TYPE OF PLAN-
+
+When it comes to the different types of plans that may be available to you, it can almost feel like you’re eating a bowl of Alphabet Soup. PPO, EPO, POS, HMO, etc. Here are some resources to help you differentiate between them.
+
+-          PPOs- Preferred Provider Organization
+
+-          EPOs- Exclusive Provider Organization
+
+-          HMOs-Health Maintenance Organization
+
+-          POS Plan- Point of Service Plan
+
+Handy charts noting High Level Differences:  
+[https://www.simplyinsured.com/advice/wp-content/uploads/2016/10/table-1-health-insurance-networks-768x818.png](https://www.simplyinsured.com/advice/wp-content/uploads/2016/10/table-1-health-insurance-networks-768x818.png)
+
+[https://www.opic.texas.gov/health-insurance/basics/comparison-chart/](https://www.opic.texas.gov/health-insurance/basics/comparison-chart/)
+
+[https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos](https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos)
+
+# HIGH DEDUCTIBLE HEALTH PLANS (HDHPs and HDHP-HSAs)-
+
+These are a further subtype of plan that may be available to you. Most commonly, we see HMOs and PPOs that are also HDHPs. These plans are designed to have you meet your deductible before insurance will begin paying for any of your care ([except ACA Mandated Preventive Care on ACA Compliant Plans](https://www.healthcare.gov/coverage/preventive-care-benefits/)). Many people opt for these kinds of plans without realizing this important factor, as it’s often the most affordable plan offered by your employer, and we all know we’re looking for fewer dollars to be deducted from our paychecks.
+
+You will still get a network discount for your in-network care, but you’ll pay the full contracted rate for your care before you meet your deductible THEN your coinsurance percentage will kick in.
+
+**Example-** You have a PCP who bills $600 for a PCP visit. If they are in- network, the contracted rate may be more in the $125 range. If you have an HDHP plan, you will pay that full $125 every time you visit your doctor. Once you hit your deductible, you will pay your Coinsurance percentage of that contracted rate, until you meet your out-of-pocket max. So, if your coinsurance percentage is 20%, you’ll pay $25 for a PCP visit, after you’ve met your deductible.
+
+Many first timers to HDHP plans get a little bit of a sticker shock when they get their first EOB-Explanation of Benefits- from insurance and see that, while they got a network discount, insurance didn’t pay anything towards the balance. This is how the plan is designed. So, if you need the comfort of, say a $30 copay each visit, from the start, an HDHP plan may not be for you.
+
+The trade off with HDHPs is that many (BUT NOT ALL) HDHPs allow for you to open an HSA- Health Savings Account. These are bank accounts are designed for you to contribute money on a pre-tax basis to a special account you can use to help pay for your care. You can use the money for payments towards your deductible/OOPM/Coinsurance/Copays, your prescriptions, your Durable Medical Equipment and even some over the counter items.  [Here is a list of qualified purchases with an HSA.](https://www.healthequity.com/hsa-qme)
+
+The HSA funds are yours to keep and use whenever you’d like. Today, Tomorrow, 10 years from now. The funds never expire (like they do with an FSA- Flexible Spending Account). However, do note that there are some rules to be eligible to open and contribute to an HSA:
+
+* You must be enrolled in an HSA-Compatible HDHP.  
+* You must not have any other health insurance coverage that is not an HSA-eligible HDHP.
+* You may use the accumulated funds to pay for your care, even if you are no longer enrolled in the HDHP in the future. You may not use the funds to pay for care before your HSA was opened. No covering past bills.
+
+**Taking your HSA further: INVESTING**  
+(this is not a financial planning subreddit, feel free to direct investment questions to one that is)
+
+-          Many banks will allow you to invest your HSA dollars so they can grow tax-free. You will need to consult with your HSA vendor to inquire about investment opportunities. There may be minimum thresholds to invest or a small fee to use guided investing tools/advisors.
+
+-          Pay yourself back later. You may decide to pay for your care out of your normal checking account. Keep those receipts and pay yourself back later, once you’ve made a profit investing your HSA funds. You can reimburse yourself immediately, next year, 5 years from now or even after you retire. You should keep your receipts in case of an audit though.

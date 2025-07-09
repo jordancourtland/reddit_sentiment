@@ -1,0 +1,26 @@
+Thread ID: 1jc9379
+Title: Urgent Care called ambulance and I was admitted - 22K claim denied
+Subreddit: medicalbill
+Created: 1742084243
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice after receiving a $22K claim denial from Anthem for a hospital stay related to tachycardia and a potential infection, expressing confusion and panic about the situation.
+Responses Summary: Commenters advised the OP to appeal the denial by ensuring the hospital resubmits the claim with correct coding, emphasizing that the admission was due to a potential infection rather than tachycardia, and suggested negotiating the bill with the hospital.
+Themes: coding errors, appeal process, negotiation strategies
+Options Suggested: contact Anthem, request itemized bill, appeal with hospital
+Fit Explanation: The OP is currently facing a denial and actively seeking advice on how to appeal, indicating a very good fit for assistance.
+Original Post: Soo, just received a claim denial from Anthem stating I owed 22K for my 2.5 day stay. 
+
+I went to the Urgent Care with an increased heart rate. That, with my high blood pressure, had them call an ambulance. I was diagnosed with tachycardia.
+
+After the ambulance took me in, the doctor said my white blood cell count was incredibly high and he thought my body was fighting off an infection so he said I had to stay, I had no say.
+
+Fast forward and the white blood cell count went down and I left with medication for my heart.
+
+I’m at a total loss here. The ambulance gave me no say in what hospital I was going to and it drove me to an out-of-network hospital. 
+
+I am to call Anthem correct? Do I wait for a bill from the hospital? I can dispute that the reason  for my stay wasn’t my heart which was denied, but for the potential infection?
+
+Any advise would be very helpful, I’m in full panic mode.

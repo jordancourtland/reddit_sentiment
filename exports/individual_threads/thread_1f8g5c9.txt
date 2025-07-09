@@ -1,0 +1,16 @@
+Thread ID: 1f8g5c9
+Title: Hospital billed wrong ins id#
+Subreddit: medicalbill
+Created: 1725410783
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Incorrect member ID leading to claim denial
+Outcome: Unclear
+OP Summary: The original poster is seeking clarification on their obligation to pay a nearly 2-year-old medical bill after discovering that the hospital billed the wrong insurance member ID, leading to a claim denial.
+Responses Summary: Commenters advised the OP that they are likely not obligated to pay the bill due to the hospital's failure to bill correctly and suggested filing a grievance with their insurance.
+Themes: billing errors, insurance claim process, patient responsibility
+Options Suggested: file a grievance with insurance, contact hospital billing manager, request explanation of benefits
+Fit Explanation: The OP is currently dealing with a denial situation and is seeking advice on how to proceed, indicating a very good fit for assistance.
+Original Post: So 2 years ago, summer 2022, I had a nosebleed that required medical intervention.  The ER was unable to stop the bleeding after 4 hours so I requested discharge.  My insurance at the time had a 250 ER fee so I was wxpecting at least that.  Well fast forward a couple months to around December, I get a bill for nearly 4K.  After a bunch of back and forth and the billing dept resubmitting to insurance across several more months I finally realized they were billing the wrong member id and insurance outright denied the claim bc the member info didnt match.  After that was realized, my insurance said I am under no obligation to pay any of it because the hospital defaulted on timely billing practices(?).  I thought that was the end of it, until today I received a collection letter for the full amount.  Over the last year, after finding out the member ID was wrong, Ive never received another bill, adjusted or otherwise.  
+
+Am I under any obligation to pay this bill nearly 2 years later when the hospital has failed to bill my insurance for 2 years?  I have a feeling that insurance denied the claim and this is a hail mary of sorts.  But I dont know really.  Can anyone enlighten me please?

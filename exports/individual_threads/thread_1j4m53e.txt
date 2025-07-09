@@ -1,0 +1,30 @@
+Thread ID: 1j4m53e
+Title: Insurance not covering after incomplete procedure?
+Subreddit: healthinsurance
+Created: 1741231237
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Missing correct coding
+Outcome: Ongoing
+OP Summary: The user is facing a denial from their insurance for an incomplete IUD insertion procedure due to incorrect coding, despite it being covered under family planning. They are frustrated with both the provider and the insurance company's responses regarding the necessary codes.
+Responses Summary: No response summary available
+Themes: Insurance denial, Coding issues, Provider communication
+Options Suggested: Submit a Quality of Care complaint, Appeal the insurance decision, Request provider to resubmit with correct codes
+Fit Explanation: The user is actively seeking help and advice on how to appeal the insurance denial.
+Original Post: I went through a medical procedure (IUD insertation) that was stopped halfway through because I was in such excruciating pain. My insurance should cover family planning for female in-network (which this was) 100% but now they are refusing to cover it on the grounds that it's missing the correct coding (specifically the preventative care diagnosic code). Apparently it also has a modifier for incomplete procedure?
+
+
+
+I am frustrated and confused. I reached out to the provider and they were nasty to me and said they wouldn't resubmit the claim with the needed code because it didn't apply. 
+
+
+
+I reached out to insurance and they blabbered on about how it wasn't covered because the codes didn't fall under the family planning and it has the modifier. They also said the provider needed to change the codes but wouldn't tell me what they could change them too. 
+
+
+
+I've been putting off taking care of my health for years because I'm scared of this happening. Should I appeal? 
+
+
+
+Any help or advice is appreciated. 

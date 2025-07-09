@@ -1,0 +1,28 @@
+Thread ID: 1ipbq45
+Title: Need Guidance – Aetna Denying Medically Necessary Hip Surgery
+Subreddit: healthinsurance
+Created: 1739543208
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: A user is facing a denial from Aetna for a medically necessary hip surgery despite medical evidence, and is seeking advice on how to proceed with appeals and potential legal action.
+Responses Summary: No response summary available
+Themes: insurance denial, medical necessity, appeal process
+Options Suggested: file a complaint with DIFS, seek legal advice, complete required physical therapy
+Fit Explanation: The user is actively seeking help with their current appeal process and is dealing with a denial from Aetna.
+Original Post: Hey everyone,
+
+I’m in a tough situation and hoping for some guidance or advice from anyone who has experience dealing with health insurance denials, ERISA claims, or bad faith insurance practices.
+
+I have employer-provided insurance through Aetna, and they are wrongfully denying my medically necessary hip surgery despite overwhelming medical evidence.
+
+I injured my right hip in June 2024 while sprinting. My MRI confirmed a complete labral tear, femoroacetabular impingement (FAI), and a displaced labrum. My surgeon determined that surgery is required after I failed all conservative treatments including physical therapy, medications, and pain management. Armor Physical Therapy provided a letter stating PT will not help my condition, yet Aetna denied my claim, saying I haven’t completed six weeks of PT. Aetna also refused to reschedule a peer-to-peer review after my provider missed the original call, blocking any further discussion.
+
+Aetna denied my initial claim on January 15 and my Level 1 Appeal on February 4. I filed a complaint with the Michigan Department of Insurance and Financial Services (DIFS) on February 6, and Aetna has until March 8 to respond. My Level 2 Appeal is currently pending, but I am expecting more pushback. I have reached out to attorneys who handle bad faith insurance and ERISA cases, but I am struggling to find one who will take my case.
+
+I need help figuring out what to do next. Has anyone successfully fought Aetna on a similar denial and won? If my Level 2 Appeal is denied, what are my best next steps? Does an external review through DIFS hold any real weight, or should I focus on legal action? If I hire an attorney, should I look for an ERISA lawyer, a bad faith insurance lawyer, or both? Would switching to a new provider help, or will that slow things down even more?
+
+I’m in constant pain, struggling with mobility, and this whole process is taking a serious toll on my mental health. I just want to get the care I need without unnecessary delays. Any guidance or personal experiences would be greatly appreciated.
+
+Thanks in advance.

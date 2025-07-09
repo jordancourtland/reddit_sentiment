@@ -1,0 +1,37 @@
+Thread ID: 1dt2nx5
+Title: Insurance says I don't have to pay, provider says I do - UPDATED
+Subreddit: medicalbill
+Created: 1719864487
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claim sent to the wrong insurance
+Outcome: Ongoing
+OP Summary: The original poster is seeking help with a claim denial issue where their insurance says they don't owe a payment, but the provider insists they do, leading to confusion between the two parties.
+Responses Summary: Commenters suggest that the provider may be billing the wrong Blue Cross Blue Shield plan and recommend contacting the provider's office manager or using a Coordination of Benefits form to clarify the situation.
+Themes: Coordination of Benefits, Billing issues, Communication problems
+Options Suggested: Contact provider's office manager, Submit Coordination of Benefits form, Request a three-way call with insurance and provider
+Fit Explanation: The original poster is actively dealing with a denial situation and may need assistance soon, but they have not yet resolved it.
+Original Post: Original post is here:
+
+[Insurance says I don't have to pay, provider says I do : r/MedicalBill (reddit.com)](https://www.reddit.com/r/MedicalBill/comments/1df6qtn/insurance_says_i_dont_have_to_pay_provider_says_i/)
+
+  
+Been going back and fourth with the provider and insurance, somehow this is still not resolved with both parties pointing the finger at one another.
+
+The insurance claiming the claim is being denied because it is being sent to the wrong insurance:
+
+&gt;SINCE OCT. 14, 2012, SERVICES REFERRED BY A HEALTH CARE PROVIDER WHO'S NOT LOCATED IN MICHIGAN MUST BE SENT TO THE BLUES PLAN THAT SERVES THAT AREA. PLEASE ASK THE PROVIDER TO SEND THIS CLAIM TO THE OTHER BLUES PLAN. (F956)
+
+According to the provider this means the claim is being denied, so they can keep trying to bill me:
+
+&gt;Per the EOB is said, “REFERRED BY A HEALTH CARE PROVIDER WHOS NOT LOCATED IN MI MUST BE SENT TO THE BLUES PLAN THAT SERVICES THAT AREA.” The doctor is register in NV and we has submitted the claim over to them for processing but they denied it as other insurance is primary.
+
+I don't know what they even mean by this as I only have the one insurance, they go on to say: 
+
+&gt;You must update your Coordination of benefits before they will process this claim. YOU need to tell them you have no other insurance, or we will keep getting the same denial.
+
+I don't know who "Them" is, but I assume my insurance company who just repeats verbatim what the coordination of benefits says to me.
+
+I don't know where to take this because the insurance wants me to tell the provider to send it to the right insurance while the provider is telling me its the insurance company that is denying it.  The provider at least seems to be listening to me, while BCBS just repeats the coordination of benefits and they seem to be an endless loop of the same non-solutions.
+
+Meanwhile the bills keep coming.

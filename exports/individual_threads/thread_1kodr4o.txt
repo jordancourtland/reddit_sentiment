@@ -1,0 +1,38 @@
+Thread ID: 1kodr4o
+Title: Help with benefit amount
+Subreddit: healthinsurance
+Created: 1747434625
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The original poster is seeking clarification on their insurance benefits after receiving partial reimbursement for emergency medical expenses incurred in Canada, and they want to know if they are entitled to a larger reimbursement and how to escalate the issue.
+Responses Summary: Commenters advised that the insurance may not cover 100% of the charges for out-of-network services and suggested checking if travel insurance could help cover additional costs.
+Themes: Insurance reimbursement, Emergency services coverage, Out-of-network benefits
+Options Suggested: Contact insurance for clarification, Consider travel insurance, Escalate the appeal process
+Fit Explanation: The original poster is actively seeking help regarding their insurance denial and reimbursement, indicating a very good fit for assistance.
+Original Post: Hello,  I was wondering if someone can determine if I am not understanding my benefits clearly.  
+
+I  am a US citizen and was in Canada on vacation, had an emergency and paid out of pocket for an urgent care visit, ambulance, CT scan and dr charges. I then submitted  them to  Medical Mutual  who is only  reimbursing me part of my expenses because, "This  healthcare  network is not in  network". 
+
+My  certificate book says,  
+
+*"Emergency Services do not require Prior Authorization and are payable at the PPO Network level of benefits shown in the Schedule of Benefits, regardless of whether these services are obtained from a PPO Network Provider, a Non-PPO Network Provider or a Non-Contracting Provider.",*  **AND** 
+
+*"If you obtain covered Emergency Services from a Non-Contracting Provider, Medical Mutual pays for benefits in an amount equal to the greatest of the following:*
+
+1. *The applicable Negotiated Amount. If more than one amount is negotiated with Contracting Providers for the Emergency Service, the amount payable is the median of these amounts.*
+2. *The Non-Contracting Amount.*
+3. *The amount that would be paid under Medicare for the Emergency Service"* **AND**
+
+*Foreign Travel*
+
+*"To receive reimbursement for Hospital and/or medical expenses, the services rendered must be eligible for coverage in accordance with the benefits described in this Benefit Book. If you travel to a foreign country and you receive treatment for an Emergency Medical Condition, Medical Mutual will provide coverage at the PPO Network Provider level"*
+
+I  have already met  my OOP max. I  appealed after MM denied my claim initially, then  they  sent me  $500, so I appealed a second  time and they  sent  me another  $350. I  guess my  question is,  am  I entitled to a larger  reimbursement  ($2,500)? If so, how do I escalate?
+
+Thank you for any insights  you may have!
+
+
+
+

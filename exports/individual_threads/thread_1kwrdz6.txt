@@ -1,0 +1,14 @@
+Thread ID: 1kwrdz6
+Title: Can we use the same qualifying event/SEP for both COBRA and marketplace insurance within 60 days?
+Subreddit: healthinsurance
+Created: 1748362528
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is asking if they can use the same qualifying event for both COBRA and marketplace insurance within 60 days after losing employer-sponsored coverage.
+Responses Summary: Commenters advised that the original poster can sign up for both COBRA and marketplace insurance using the same qualifying life event, as they are entitled to both options.
+Themes: Qualifying Life Events, COBRA vs Marketplace, Insurance Options
+Options Suggested: Sign up for COBRA, Sign up for marketplace insurance, Use the same qualifying event for both
+Fit Explanation: The original poster is currently facing a denial situation regarding insurance options and is seeking clarity on their choices, indicating a very good fit.
+Original Post: We are both on my wife's insurance through her job, but the job/coverage ends on June 30.  She starts her new job July 1st and would be eligible for their plan, but the coverage is much worse.  We have some large expenses coming up in July that we'd need COBRA for because the new plan wouldn't cover it at all.  But we're hoping not to have to pay for COBRA for the rest of the year, just 1 month or maybe 2 if possible. As long as we sign up for marketplace insurance within the 60 day period of the loss of employer-sponsored coverage, can we do this outside of the open enrollment period and then drop COBRA after 1 month? Or would they know we signed up for COBRA and deny us from marketplace insurance even within the 60 day period?

@@ -1,0 +1,22 @@
+Thread ID: 1km3xcx
+Title: Will I ever get a refund? How should I navigate this?
+Subreddit: healthinsurance
+Created: 1747188453
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The user is frustrated with a denied claim for their daughter's surgery due to lack of pre-authorization, resulting in double payment of the deductible and no progress on the appeal.
+Responses Summary: No response summary available
+Themes: Claim denial, Appeal process, Double payment
+Options Suggested: Contact provider for appeal status, Request EOB from insurance, Ask insurance to reach out to provider
+Fit Explanation: The user is actively seeking help to navigate the appeal process for their denied claim.
+Original Post: I’m going to try to make this as clear and concise as possible, so apologies if I leave any info out. 
+
+In November 2024, my daughter had an outpatient surgical procedure with an in-network facility and in-network provider. When we arrived, we were told we had to prepay her deductible ($875) before they would take her back. I did so, and I thought we were good to go.
+
+About 3 weeks later, we get a denial EOB from Cigna, stating that the provider did not get a pre-authorization for the procedure, and they would need to appeal (total bill was roughly $11k). I called Cigna, and verified that it was the provider that dropped the ball here, since they were in-network. Since that claim was denied, they did not have any proof/evidence that I had already pre-paid the deductible, so it didn’t reflect in their system. 
+
+Over the following month or so, as is customary, we continued to get bills from various providers for the same DOS (anesthesia, laboratory, etc) which totaled the deductible amount ($875). I was told that even though I had already technically paid that amount, I needed to pay these bills in order to not go to collections, as the appeals process can “take up to a year” and that eventually I will get a refund of the overage I’ve paid. I did so, so now I’ve paid the deductible twice.
+
+It’s now over 6 months later, and both the provider and Cigna aren’t being helpful on the current state of the appeal. Cigna has stated they have yet to receive any appeal from the provider, and the provider said they haven’t received any response on the original claim? I feel like the original $875 I paid is being held hostage and I’ll never get a refund. What should be my next move? It’s getting frustrating not having any movement toward a resolution on this. If there’s any other helpful info I can provide, please let me know. 

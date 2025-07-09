@@ -1,0 +1,14 @@
+Thread ID: 1l1z6fa
+Title: ABA claims retroactively denied
+Subreddit: healthinsurance
+Created: 1748913077
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Retroactive denial due to alleged exclusion for ABA services
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice after their daughter's ABA claims were retroactively denied by Carefirst, despite prior approvals, and they suspect a violation of the Parity Act.
+Responses Summary: Commenters advised the OP to obtain the SPD to verify the exclusion, suggested contacting the DOL for support, and emphasized the importance of appealing the denial if the exclusion is not valid.
+Themes: Appeal process, Access to plan documents, Legal support
+Options Suggested: Obtain SPD, Contact DOL, Seek legal counsel
+Fit Explanation: The OP is currently dealing with a denial and is actively seeking advice and support, indicating a very good fit for assistance.
+Original Post: Looking for advice here. For backstory my daughter received ABA last year though my previous employers self funded plan administered by Care first. I asked HR for an SPD and they told me that they could not provide one and I would have to go through Care first who obvious wouldn't give me a copy either. My daughters program called twice months before she started and confirmed coverage. All claims were approved and paid. We changed to my wife's insurance Jan 2025 after I left the company. Last week we got a call (six months from the last service billed to that plan) from my daughter's service provider saying Carefirst had retroactively denied the claims and had started clawing back all the payments for 2024. I called Carefirst and they claim that there's an exclusion for ABA. Our provider is appealing on their end and we are also appealing. Our suspicion is that the exclusion is a violation of the Parity Act. Something here is off. Any advice would be greatly appreciated. We're in the process of seeking counsel- it's just a stretch while having to potentially pay out tens of thousands of dollars so our daughter can keep her spot in her wonderful program.

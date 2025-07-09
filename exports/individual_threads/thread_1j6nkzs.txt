@@ -1,0 +1,18 @@
+Thread ID: 1j6nkzs
+Title: Denied full coverage because of a secondary complaint?
+Subreddit: healthinsurance
+Created: 1741458751
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not covered due to secondary complaint
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to address the denial of coverage for their dermatology visit, which was primarily for excessive sweating, due to a secondary complaint about hair loss that is not covered by their insurance plan.
+Responses Summary: Community members suggested reviewing the insurance policy for coverage details, contacting the insurance company to appeal the denial, and possibly obtaining a letter from the dermatologist clarifying the primary reason for the visit to support the appeal.
+Themes: insurance denial, primary vs secondary diagnosis, appeal process
+Options Suggested: request coding review, contact billing department, provide primary diagnosis evidence
+Fit Explanation: The user is actively seeking advice on how to appeal the denial, indicating a very good fit for assistance.
+Original Post: Hi everyone. Sorry I am new to health insurance as I recently moved to the US.
+
+Had a dermatology appointment after I was referred by my PCP for excessive sweating. During the appointment, most of the time was spent on my complaint of excessive sweating. After it was taken care of, the dermatologist asked me if I had any other things I want to talk about and I mentioned that I’m taking medication for hairloss prescribed from somewhere else and I’d like to transfer my prescription.
+
+I just got an email from insurance telling me that my claim for that dermatology visit is denied and I have to pay the full cost of it ($613) because my plan does not cover hair loss! How can I go about this when the main reason for the visit was not even the hair loss?

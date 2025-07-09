@@ -1,0 +1,20 @@
+Thread ID: 1kurok7
+Title: BCBS Denied Stool Test
+Subreddit: healthinsurance
+Created: 1748138829
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on appealing a denial from BCBS for a stool test, which was denied due to not having 'severe loose stools' despite experiencing severe symptoms.
+Responses Summary: Commenters advised contacting the doctor's billing department to correct the diagnosis code and resubmit the claim, emphasizing the importance of reviewing the explanation of benefits (EOB).
+Themes: appeal process, diagnosis code correction, importance of EOB
+Options Suggested: contact doctor's billing department, review EOB, request resubmission with corrected code
+Fit Explanation: The original poster is actively seeking help with an ongoing denial, indicating a very good fit for the persona seeking appeal assistance.
+Original Post: Hello, BCBS just denied my claim for a stool test due to not having "severe loose stools". I had been bitten by a neighbors dog and taken Augmentin which destroyed my gut.
+
+I did have SEVERE bright green loose stools. I was sitting on the toliet almost all day on the verge of crying due to pain. I was literally pissing out of my ass. 
+
+I noticed on my doctor's notes he just stated "diarrhea".. is there any hope of appealing this? 
+
+Thank you

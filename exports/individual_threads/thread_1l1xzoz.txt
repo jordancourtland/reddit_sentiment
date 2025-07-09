@@ -1,0 +1,17 @@
+Thread ID: 1l1xzoz
+Title: Cigna Denied $50,000 Claim
+Subreddit: healthinsurance
+Created: 1748909552
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Coordination of Benefits (COB)
+Outcome: Ongoing
+OP Summary: The original poster is seeking guidance on how to address a $50,000 claim denial from Cigna, which claims the baby has other insurance despite the OP stating there is none.
+Responses Summary: Commenters suggest contacting both insurance companies to clarify coverage, keeping detailed records, and potentially submitting a form to confirm there is no other insurance.
+Themes: Coordination of Benefits, Insurance Communication, Record Keeping
+Options Suggested: Contact both insurances, Submit a form confirming no other coverage, Keep detailed records of communications
+Fit Explanation: The OP is currently dealing with a denial and actively seeking advice on how to appeal, indicating a very good fit for assistance.
+Original Post: Cigna Denied $50,000 Claim
+I had a baby. I immediately enrolled her in my insurance. Cigna denied because they said she had other insurance. Apparently her dad's (my boyfriend) insurance automatically enrolled her and Cigna became aware of that. We didn't find out until Cigna told us. First EOB said call us (Cigna) and give us other insurance info. Or let us know there is no additional insurance. I called twice and let them know we never enrolled her in any other insurance. I took down the call reference numbers for my records. Today I received a new EOB showing it was denied with the following note. I had already notified them there was no other insurance. What do I do now?
+
+NOTE: THIS CLAIM HAS BEEN DENIED BECAUSE WE DID NOT RECEIVE THE OTHER INSURANCE INFORMATION WE REQUESTED. WE WILL BE HAPPY TO PROCESS THIS CLAIM AGAIN IF YOU RE-SUBMIT IT WITH THE OTHER CARRIER'S EXPLANATION OF BENEFITS (EOB), OR A STATEMENT LETTING US KNOW THAT THERE IS NO OTHER GROUP HEALTH INSURANCE. RETAIN THIS FOR YOUR RECORDS.

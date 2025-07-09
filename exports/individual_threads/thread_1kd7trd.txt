@@ -1,0 +1,19 @@
+Thread ID: 1kd7trd
+Title: Curious about the third party external review process
+Subreddit: healthinsurance
+Created: 1746209650
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The user is facing a claim denial for an IUD insertion due to incorrect coding by the provider, and despite filing an appeal, the insurance company denied it again, leading to the need for an external review.
+Responses Summary: No response summary available
+Themes: coding issues, insurance appeal process, provider communication
+Options Suggested: submit for external review, contact employer for assistance, request provider to correct coding
+Fit Explanation: The user is actively seeking help with their appeal process and is currently preparing for an external review.
+Original Post: I had a medical procedure (IUD insertion) attempted back in February, but the procedure was discontinued due to extreme pain I was in. The provider filed the claim against my healthcare without the Z30.430 "Encounter for insertion of intrauterine contraceptive device" primary diagnosis code (they used Z53.8 "Procedure and treatment not carried out for other reasons"). I should say they are still trying to charge me for the insertion with CPT code 58300-53. As such, my insurance denied the claim saying it isn't preventative. I've reached out to the clinic several times and they refuse to change it. 
+
+
+I filed an appeal explaining all of this in extreme detail but insurance denied it again. To add to the frustration, the denial letter was full of misspellings and they clearly didn't read my appeal letter. 
+
+So now I have to submit for an external review, but I’m scared that no one is actually going to take it seriously and read the letter carefully. How do I make sure I’m actually heard? As an alternative, how can I force the provider correct the code? 

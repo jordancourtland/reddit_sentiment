@@ -1,0 +1,24 @@
+Thread ID: 1j6usa4
+Title: Wrong insurance billed and denied coverage
+Subreddit: healthinsurance
+Created: 1741478664
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Late billing due to incorrect insurance billed
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to appeal a denial of coverage for hospital bills due to incorrect insurance billing during a policy switch, which has resulted in late billing issues.
+Responses Summary: Community members advised the poster to gather all documentation, contact both insurance companies for clarification, and consider filing a formal appeal or complaint with the state insurance commissioner if necessary.
+Themes: insurance policy switch, billing errors, appeal process
+Options Suggested: contact hospital financial department, provide documentation of communication, research timely filing laws
+Fit Explanation: The user is actively seeking help to appeal the denial of their significant medical bills.
+Original Post: My insurance switched two days before the birth of my child. I knew this would be a nightmare and it has been. 
+
+I have two large bills. One is for two days before the end of the month, and they billed the new insurance. The second is for the third day of the next month, and they billed the old insurance. 
+
+I have plenty of bills where the correct insurance was billed, so this is not an issue of me not providing the updated insurance. Insurance of course declined coverage for the bills that were sent to the wrong policy for the wrong dates. The problem is that by the time I was notified by the hospital and insurance that the wrong policy was billed, told the hospital so they could bill the correct policy, it had been months. When they billed the correct policy they were denied due to late billing. 
+
+I have documentation to back up all of my communication and when I received EOBs and bills. I have proof I provided the new policy as they were able to successfully bill for a number of other items for the correct dates. I just got another bill from the hospital without insurance applied, with an EOB from insurance saying it was submitted too late. 
+
+I intend to continue to fight this bill as it's huge ($10k) and at least a large chunk should be covered. Does anyone have any advice on how to proceed? All of the care happened in August.
+
+Thanks in advance!

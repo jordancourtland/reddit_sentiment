@@ -1,0 +1,24 @@
+Thread ID: 1kyl03r
+Title: Prior Authorization UHC Issue
+Subreddit: healthinsurance
+Created: 1748549835
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Prior authorization denied
+Outcome: Ongoing
+OP Summary: The original poster is seeking help after their prior authorization for knee surgery was denied, despite being told it was approved during a peer-to-peer call. They are feeling uncertain about canceling the surgery and the impact on their relationship with the provider.
+Responses Summary: Commenters advised that it can take time for peer-to-peer call information to be documented and suggested checking plan documents for appeal processes. They also shared experiences of UHC's handling of authorizations, indicating a lack of trust in the process.
+Themes: communication issues, provider frustration, authorization process complications
+Options Suggested: contact provider for correct CPT codes, file an appeal, seek a new clinic for care
+Fit Explanation: The original poster is actively dealing with a denial and is uncertain about their next steps, indicating a very good fit for needing assistance.
+Original Post: Hello,
+
+I need some knee surgery and the prior authorization was denied.   A day before my surgery, the surgeon's PA had a peer to peer call and said it was approved, but the UHC website did not confirm this.   I checked this morning, just prior to my surgery and still only the denial was listed.   The provider gave me the auth number but UHC staff said it was not a proper authorization number and it did not pull anything up in their system.    Out of fear, I decided to cancel my appointment which didn't go well with the provider as my procedure was time sensitive.   All UHC could tell me was to contact my provider.    The PA told me he had the number they gave him but he did not document the call in my record.   It sound like CPT codes were wrong.   
+
+  
+It seemed like a big gamble going into surgery without a documented prior auth for a 60k surgery.    Especially with the horror stories others have reported about UHC denying claims.   I just checked and there is no preauthorization on the website.     
+
+Feeling like I screwed up canceling and should have trusted my provider's work.   I feel like it has soured the relationship.
+
+  
+

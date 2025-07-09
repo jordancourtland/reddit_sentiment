@@ -1,0 +1,24 @@
+Thread ID: 1cnflmo
+Title: How to Negotiate Medical Bill
+Subreddit: medicalbill
+Created: 1715202881
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Financial assistance denied
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to negotiate a $3000 medical bill after being denied financial assistance and facing a rigid negotiation policy from the hospital.
+Responses Summary: Commenters suggested exploring resources like Dollarfor.org for assistance, emphasized the difficulty of negotiating discounts due to contractual obligations, and recommended considering payment arrangements.
+Themes: Negotiation strategies, Financial assistance resources, Payment arrangements
+Options Suggested: Contact Dollarfor.org, Consider hiring a bill negotiator, Set up a payment plan
+Fit Explanation: The original poster is actively seeking help with a current denial and negotiation situation, indicating a strong fit for persona analysis.
+Original Post: Long story short, my kid was born, month long NICU stay, insurance already paid their share, and now I have a $3000 bill.
+
+I applied for financial assistance with the hospital and was denied (to compare, another healthcare network we used gave us a 75% discount, so...). I called the business line to negotiate because I have been told that is something you can do.
+
+They said that they have a policy where they can do 25% off if you pay all at once. I told them that was great, but countered with 35%. That's a specific percentage that makes it work with our finances. No matter what, they will just not budge, claiming its an internal policy of theirs and there is nothing they can do.
+
+I'm not sure I believe them. Right now I'm just escalating, getting supervisors involved, but I'm worried this won't work.
+
+What's my next step? I have the itemized bill, but I couldn't tell you if it was accurate or not. There isn't anything like $50 for a napkin on there. I am debating on hiring a bill negotiator (but wouldn't they also just get the "25% is all we can do" spiel). I've also debated on letting it go to collections, which I heard does not automatically hit your credit if its medical debt, and then settling for a big discount with them.
+
+What should I do?

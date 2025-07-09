@@ -1,0 +1,26 @@
+Thread ID: 1h7omjw
+Title: United Healthcare denial of claim for inpatient services
+Subreddit: healthinsurance
+Created: 1733445444
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The claim for inpatient services was denied by United Healthcare, stating the admission did not meet guidelines for inpatient care despite the ER doctor's recommendation. The poster is seeking advice on how to handle the denial and potential financial responsibility for the $16,000 bill.
+Responses Summary: No response summary available
+Themes: insurance denial, appeal process, hospital billing practices
+Options Suggested: appeal to state insurance department, contact hospital billing office, seek legal advice
+Fit Explanation: The poster is actively seeking help regarding a claim denial and is concerned about the financial implications.
+Original Post: My wife passed out and split her head open on the floor so I took her to ER. She passed out due to loss of blood and high white blood cell count. She was aware of these issues and was supposed to see the gyno the same day. The ER gave her 11 stiches and performed diagnostics to determine the case. They said she had an "acute UTI" and gave her antibiotics among other medicines.  The ER doctor said her blood count was low, white cells were high and had an elevated heart rate. He determined she needed to be checked in as a inpatient for a day or so until she stabilizes. 
+
+They wheeled her in a chair and checked her in for a few hours and decided to let her check out so we could see the gyno as planned. The gyno recommended removal of our uterus lining and all is good now.
+
+Later, we received a notice from UHC that her claim had been denied. Here is how it reads:
+
+You were admitted to the hospital on \_\_\_\_\_. the reason is Kidney infection. We read the medical records given to us. We read the guidelines for a hospital stay. This stay does not meet the guidelines. You did not have to be admitted as an inpatient in teh hospital for this care. The reason is you were watched closely in the hospital. You were stable. You had tests that did not show any problems that needed inpatient only treatment. The records showed you did not have fevers. You could have gotten the care you needed without being admitted inpatient at the hospital. The hospital inpatient admission is not covered. We let the hospital know that is is not covered.
+
+The letter goes on to imply that we are on the hook for the stay but at no point were we given any options to seek treatment elsewhere. We just did what the ER Doctor said. The hospital did not tell us we would not be covered. My wife was absolutely not stable for the reasons mentioned earlier.
+
+We tried to appeal but it got denied and on that letter they mentioned the claim was $16000! We were only there for like 3 hours.
+
+Is the hospital on the hook for this? I read they have to tell us if something is not covered or out of network but I read other shady things that UHC is doing so I'm very concerned. There is no way we're paying this by the way.

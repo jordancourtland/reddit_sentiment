@@ -1,0 +1,18 @@
+Thread ID: 1j1iot2
+Title: Why can Kaiser deny coverage for QLE (CA) ?
+Subreddit: healthinsurance
+Created: 1740889940
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Voluntary quit of previous plan
+Outcome: Ongoing
+OP Summary: Kaiser denied coverage for a health insurance plan citing a voluntary quit of the previous plan, despite the user claiming it was due to a job loss, which should qualify as a qualifying life event (QLE). The user filed a grievance and has since gained coverage through a new employer.
+Responses Summary: No response summary available
+Themes: Qualifying Life Event (QLE), Insurance Denial, Grievance Process
+Options Suggested: File a grievance, Seek coverage through CoveredCA, Provide certificate of prior coverage
+Fit Explanation: The user is actively seeking clarification and assistance regarding their denial, indicating a very good fit for appeal help.
+Original Post: Kaiser recently denied my purchase of a health insurance plan citing that I “voluntarily quit my previous plan”.  I quit my job, not my health insurance plan. That employer decided, as most (but not all) do, to cease their employer contribution to my plan and cancel it. That is inherently the QLE. 
+
+Numerous sources confirm this is considered a QLE, even other health insurance companies. 
+
+Why is Kaiser able to skirt around offering coverage and a SEP for such a common occurrence? 

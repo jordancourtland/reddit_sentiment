@@ -1,0 +1,18 @@
+Thread ID: 1jty27l
+Title: Behavioral Health Coverage
+Subreddit: healthinsurance
+Created: 1744064486
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The user is seeking help to get denied medication management services covered by their insurance after being told they are not eligible due to provider type. They are facing a significant bill and are frustrated with the lack of resolution between the insurance companies.
+Responses Summary: No response summary available
+Themes: insurance communication issues, provider type confusion, financial burden
+Options Suggested: contact HR for assistance, request a review of the denial, consult with a healthcare advocate
+Fit Explanation: The user is actively seeking assistance with an ongoing denial issue and is looking for direction on how to resolve it.
+Original Post: I'm looking for some direction on how to get services covered. I reside in North Carolina and am insured through my employer. My spouse is under my coverage as well. Last year, my medical insurance was under Aetna. Behavior Health was covered under CBHA.
+
+My spouse used a Tier 1 in network provider for his PCP. During their wellness exam, it was determined they would likely benefit from therapy and medication. The PCP submitted a referral for a therapist, which was utilized and covered by CBHA. Quarterly medication management appointments were held with the PCP to ensure there were no side effects and that the medications were working well. Aetna denied these medication management claims because they are deemed behavioral health services. CBHA is stating they won't cover these services because the PCP is a MD not a psychologist. We are now left with a bill for over $1500 and being threatened with collections, despite being in constant communication with both insurances and the provider.
+
+Can anyone point us in the right direction to get this covered? It's so frustrating because we specifically used the recommended provider for his PCP to prevent issues with out of pocket costs. Thinking we are fully covered and then being told otherwise has been such an exhausting experience. All help is greatly appreciated!

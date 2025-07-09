@@ -1,0 +1,24 @@
+Thread ID: 1kgpnfl
+Title: New job, new insurance. Medicaid question
+Subreddit: healthinsurance
+Created: 1746595367
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The user is unsure whether to inform Medicaid about their new job and insurance, fearing potential issues with dual coverage after a previous claim denial.
+Responses Summary: No response summary available
+Themes: Dual coverage concerns, Income reporting, Medicaid communication
+Options Suggested: Call Medicaid, Continue reporting income, Inform work insurance about Medicaid
+Fit Explanation: The user is currently navigating a potential insurance denial situation due to changes in coverage and income.
+Original Post: Hi everyone,
+
+Last year, when I turned 26, I applied for Medicaid since I was still in school and didn’t have a job yet. I got approved. Recently, I started a full-time job at a hospital (weekends + overnight shifts with differential pay) and enrolled in the health insurance they offer, just in case Medicaid drops me due to my new income.
+
+I just got my new insurance card in the mail, and I’m wondering: should I call Medicaid or just keep reporting my income every payday? I remember that once before, a claim was denied because they thought I had dual coverage, even though I didn’t. I had to call and prove my old insurance had ended.
+
+So far, I haven’t gotten any notice from Medicaid. I’m still new to this. what should I do?
+
+Thanks in advance!
+
+State: Louisiana

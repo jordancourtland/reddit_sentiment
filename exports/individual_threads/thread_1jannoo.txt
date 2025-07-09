@@ -1,0 +1,14 @@
+Thread ID: 1jannoo
+Title: COBRA Pre Authorization
+Subreddit: healthinsurance
+Created: 1741902265
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: A parent is facing a denial of coverage for their child's surgery under COBRA due to a lack of prior authorization, despite having made a significant payment for coverage.
+Responses Summary: No response summary available
+Themes: COBRA coverage issues, Surgery authorization, Financial burden
+Options Suggested: Contact previous employer for expedited coverage, Consider a three-way call with COBRA vendor and insurance, Prepay for surgery and seek reimbursement later
+Fit Explanation: The user is actively seeking help regarding an ongoing denial of coverage for a necessary medical procedure.
+Original Post: My 5 year child is having severe pain around the same time my husband was already changing jobs. He purchased a COBRA so there’d be no gaps. My child is scheduled for surgery next week to address issue but when hospital called for prior authorization they’re told no coverage is in place. The cobra admin acknowledged receipt of payment (which was several thousands of dollars) and said our option is to prepay. But I read online about people being denied coverage for failure to obtain a pre authorization. She’s in pain so I hate to delay (next opening is June) but the prepay is like $13k which would be very hard for us to swing and not get reimbursed, plus I’m frustrated because the whole point in buying the cobra was because I had a feeling she needed surgery. Any ideas how to protect ourselves here? TIA

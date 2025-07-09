@@ -1,0 +1,35 @@
+Thread ID: 1k3x5b2
+Title: UHC denied coverage on my OBGYN visit and preventative testing
+Subreddit: healthinsurance
+Created: 1745184920
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not considered preventative care
+Outcome: Ongoing
+OP Summary: A 24-year-old woman faces a $1500 bill for an OBGYN visit and preventative testing, which her insurance, UHC, denied coverage for, stating it did not qualify as a preventative yearly visit due to her reported health concerns.
+Responses Summary: No response summary available
+Themes: High medical bills, Insurance coding issues, Need for appeal assistance
+Options Suggested: Contact the doctor's office to refile as preventative, Appeal the denial with UHC, Seek financial assistance or payment plans
+Fit Explanation: The user is actively seeking help to appeal the denial and lower their bill, indicating a perfect fit for assistance.
+Original Post: Hello! I'm a 24 year old woman totally new to medical insurance coverage and trying to manage my healthcare for the first time.
+
+I recently visited an in-network OBGYN for the first time and was billed **$1500**. This was a 45-60 minute office visit with verbal discussion of menstrual cycle, breast tissue exam, and some preventative testing (Gonorrhea test, Syphilis test, and PAP Smear).
+
+I was billed for the following (referring to my EOB, these are the final "allowed amounts", and I did receive the equivalent bill from the doctor's office)
+
+\- Office/Outpatient New High Mdm 60 Minutes - 99205 (CPT), Prolong outpt/office vis - G2212 (HCPCS) = **$900** (\*\*Plan covered $0, all goes to my deductible). $900 is the allowed amount, the original amount was $940.  
+\- HC Neisseria Gonor Amp Probe Naat - 87591 (CPT), HC Chl Trach Amp Probe Naat - 87491 (CPT), HC Labvagpcr - 81515 (CPT®) = **$600** (\*\*Plan covered $0, all goes to my deductible) $600 is the total allowed amount, the original amount was $1300.
+
+I had no idea that this visit would cost so much and can't afford to pay it. All the items listed above, I considered regular check-up items that would fall under preventative care.
+
+I talked to UHC on the phone and they said that the visit would only not go towards my deductible if it was considered my Preventative Yearly Visit. 
+
+When I scheduled the appointment with the OBGYN office, they didn't ask whether this would be a preventative yearly visit or not. When they asked if I had any concerns, I mentioned that I'd been dealing with irregular menstrual cycles for about a year. *Did my admittance of irregular menstrual cycles result in the office not considering my visit to be preventative?*
+
+What can I do at this point to try to lower my bill?
+
+* For the $900 in-office (in-network) visit -&gt; Does anyone have any advice for calling the doctor’s office and trying to convince them to bill it as my preventative yearly visit? 
+* For the $600 lab testing -&gt; Why are these not considered preventative? According to UHC guidelines for my age range, the Pap smear and the STD testing should be...
+
+My deductible is $3,300.  
+Any and all advice would be much appreciated!! I've been freaking out, I don't know how I screwed up this badly on my first OBGYN visit ever. Thank you in advance!

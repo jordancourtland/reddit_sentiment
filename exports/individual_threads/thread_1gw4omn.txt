@@ -1,0 +1,31 @@
+Thread ID: 1gw4omn
+Title: Frustrating Situation with a Denial - Advice Needed
+Subreddit: healthinsurance
+Created: 1732153546
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The user is facing a denial from Ambetter for medically necessary genetic tests due to lack of prior authorization, which they were unaware was required. They are seeking advice on how to appeal the denial and clarify the confusing billing situation.
+Responses Summary: No response summary available
+Themes: Insurance denial, Prior authorization confusion, Billing issues
+Options Suggested: File an appeal, Request retroactive authorization, Contact the doctor's office for assistance
+Fit Explanation: The user is actively seeking help to appeal their insurance denial and is currently engaged in resolving the issue.
+Original Post: Looking for advice on a frustrating medical billing/insurance situation. Back in July, my doctor ordered some medically necessary genetic tests (due to an immediate relative testing positive for a significant genetic condition - the tests were for MSH2, MLH1, MSH6, PMS2 gene sequencing and variants). I had the blood drawn and tests done on July 23rd, not knowing there would be any issues with insurance coverage.
+
+Fast forward to today - I just discovered an EOB from my insurance (Ambetter) on their website dated September 25th, which I never received by mail or email (double checked both). I'm absolutely certain the upload didn't happen before October 23rd - that was the last time I looked on the portal, and it definitely wasn't there then. The EOB shows they denied nearly $3,000 worth of genetic testing because there was "no record of prior authorization."
+
+Here's where it gets weird: the lab still hasn't actually billed me for any of this. Their billing portal shows the denied amount, but won't give me the option to pay and says "Insurance Pending" even though Ambetter claims they denied it two months ago.
+
+And here's where it just gets dumb. When I called Ambetter today, not only did the representative completely ignore my repeated attempts to ask about the incorrect dating of the EOB, they told me to call my PCP and just have my doctor submit a *retroactive* prior authorization request for these tests. I confirmed no less than three times they actually meant a *retroactive prior authorization for these tests that were already performed on July 23rd* and they said yes (I asked for the call reference number FWIW). However, from everything I've read online, that's not a thing - prior authorizations have to be obtained BEFORE the service is performed, hence the word "prior."
+
+I'm frustrated because:
+
+1. Nobody told me these tests needed prior authorization
+2. I didn't get any notification about the denial until I happened to check the portal
+3. The insurance rep gave me incorrect information about retroactive authorization
+4. Quest still hasn't updated their billing despite the denial
+
+I'm worried I'm going to end up stuck with a $3,000 bill for tests that were medically necessary but denied on a technicality. I know I can file an appeal within 180 days, but I'm concerned about how the delayed EOB notification affects that timeline. Plus, Quest's billing status is confusing me - why haven't they billed me if the insurance denied it months ago? Has anyone dealt with something similar? What should my next steps be? I'm planning to call my doctor's office, but I want to be prepared with the right questions and know my options. Any advice would be greatly appreciated!
+
+EDIT: State is Georgia and I'm 20M

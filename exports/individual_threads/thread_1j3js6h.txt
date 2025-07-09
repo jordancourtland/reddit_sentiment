@@ -1,0 +1,16 @@
+Thread ID: 1j3js6h
+Title: Should I file an appeal or let the provider handle it?
+Subreddit: healthinsurance
+Created: 1741117921
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on whether to file a personal appeal for a denied insurance claim for nerve monitoring during surgery, given that the provider has already filed an appeal. They are concerned about the approaching 180-day limit for appeals and want to ensure they do not miss their opportunity.
+Responses Summary: Community members generally advised the original poster to file a personal appeal to strengthen their case and keep their options open, even though the provider has already initiated an appeal. They emphasized the importance of documenting all communications and following up with both the insurance company and the provider.
+Themes: insurance denial, appeal process, provider involvement
+Options Suggested: file a personal appeal, wait for provider's appeal, check for signed documents
+Fit Explanation: The user is actively seeking advice on whether to file an appeal, indicating a current need for assistance.
+Original Post: I had surgery for a total thyroidectomy last year at an in-network hospital with a third-party, out-of-network provider performing intraoperative nerve monitoring during the procedure. My insurance (BCBS) denied the nerve monitoring claim for being 'not medically necessary.' I've checked the insurance medical policy and it does show that it should be covered so I can only guess there was a missing document or some clerical error that caused the issue, but I couldn't get a definite answer from talking to insurance. I have not received a bill yet!
+
+I was able to find out that the provider has filed an appeal with insurance with more documentation, but i don't know if that is enough. Should I also file a personal appeal to keep my options open? Or would it have no effect since the process has already been started? I don't want to miss my opportunity to appeal if I need to as the 180-day limit is approaching.

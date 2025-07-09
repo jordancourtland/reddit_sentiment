@@ -1,0 +1,14 @@
+Thread ID: 1kbitce
+Title: cigna medicare advanage hmo denied ER doctor &amp; nurse as not in network but hospital is
+Subreddit: healthinsurance
+Created: 1746025659
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The user faced denials for ER doctor and nurse services despite the hospital being in-network, leading to confusion and concern over potential bills.
+Responses Summary: No response summary available
+Themes: Insurance Denial, Emergency Services, Appeal Process
+Options Suggested: Appeal the denial, Contact the doctor's office, Wait for a bill from the hospital
+Fit Explanation: The user is actively seeking advice on how to appeal the denials, indicating a very good fit for assistance.
+Original Post: I got an EOB on the ER visit and two denials for their hospitalist and his PA to a tune of $1100. I made sure the hospital was in network before going there. The hospital bill came separate and was paid for the most part with me just owing the ER copay. The doctor is their hospitalist apparently in charge of patients care even though i never knew he existed till i had to wait hours for him to come by for 5 minutes to discharge me. What in the world? Am i supposed to quiz everyone who pops in the room to take blood, etc and ask are you in network? My EOB says patient responsibility is $0 but when i called they just told me the claims were denied becasue they were out of network. They told me to appeal it. The hospital billing just said something to the effect that they had to hire who they could get and suggested i call that doctors office and see if i could pay the in network price instead. This is messed up. I dont want to offer the doctor any money at this point but I also dont want to just sit here and wonder if i will get this big bill at some point. Any ideas on how to proceed?

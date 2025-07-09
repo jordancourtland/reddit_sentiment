@@ -1,0 +1,24 @@
+Thread ID: 1hq0hdc
+Title: Preauth approved, claim denied for MRI
+Subreddit: healthinsurance
+Created: 1735600609
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No accident reported
+Outcome: Unclear
+OP Summary: The insurance claim for an MRI was denied due to a lack of reported accident, despite prior authorization being granted. The user is uncertain whether to appeal the denial.
+Responses Summary: No response summary available
+Themes: Claim Denial, Prior Authorization, Appeal Process
+Options Suggested: Contact customer service, Submit accident information, Request provider assistance
+Fit Explanation: The user has a claim denial and is seeking advice on whether to appeal, indicating a very good fit for assistance.
+Original Post: High deductible plan. 
+
+Early this year I twisted my knee and it locked up for a day. Unable to move it and was stuck bent.  Exquisite pain. I've had chronic mild pain since. 
+
+Went to orthopedist a couple months later because of the continued pain and they said nothing seemed to jump out at them, but lets do an xray and see if anything is obvious in the new. Xray comes back negative and they said that it could be a lateral meniscus tear which can be hard to tell because it can shift back into place. They said let's do a steroid and compression sleeve thing. I do. No change. They submit for an MRI since the source of pain is unidentified and MRI would be able to better diagnose any tear. Preauth approved and they call to schedule. I ended up not doing it at the time, I hadn't hit my deductible yet. I wasn't going to TRY to either so decided financially I'd deal.
+
+I hit my deductible. My knee is still bothering me and is easily aggravated. I call and request for them to resubmit for preauth. They do. They call and schedule. Do MRI.
+
+And then I just received a notice from insurance the claim has been denied because there was no "accident" and requesting that I submit information about an "accident" that caused injury.  Like the medical necessity had been revoked unless I had sustained an obvious injury. I followed all my orthopedic instructions and there weren't any other avenues to identify the cause of the chronic pain. 
+
+I researched and see prior authorization guarantees nothing. Should I even try to appeal the claim? 

@@ -1,0 +1,23 @@
+Thread ID: 1k2ztco
+Title: Anthem is sending me a check to pay the provider. Never seen this before
+Subreddit: healthinsurance
+Created: 1745079083
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The user is confused about receiving a check from Anthem for an out-of-network ultrasound that was supposedly covered by their doctor, who assured them there would be no out-of-pocket costs. They are unsure why the doctor did not verify the provider's network status and why Anthem is sending them a check instead of paying the provider directly.
+Responses Summary: No response summary available
+Themes: confusion about coverage, out-of-network issues, communication with providers
+Options Suggested: contact the provider for clarification, review the EOB from Anthem, consult with a billing expert
+Fit Explanation: The user is experiencing a denial situation and is seeking clarification, indicating they might need help soon.
+Original Post: Went for my annual physical last year and my doctor did some ultrasound. She said they have an arrangement with a provider in the same office and it will be covered by insurance and I will not have to pay anything out of pocket. This came from the doctor and not just the front desk people. She also asked me to contact her if I get any bill. First time getting this done with my annual physicals and asked once more to confirm.
+
+Few months later, this ultra sound provider is submitting a number of claims to Anthem. They denied some and approved some. All are treated as out of network. That was my first surprise. Why wouldn't the doctor check if this provider is in network or not?
+
+A month later Anthem is sending me a check for nearly 90% of the "amount you pay - this is your share of the cost" amount. Yet to receive any bill from that provider directly. I have only seen their claims being sent to Anthem.
+
+I am confused with the whole thing. Why would my doctor say "it is all covered and I don't have to pay anything" knowing this will be out of network? Why would Anthem send me a check and not deal with the provide directly?
+
+Did someone say insurance industry is not easy to understand?  
+

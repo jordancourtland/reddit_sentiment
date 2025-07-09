@@ -1,0 +1,16 @@
+Thread ID: 1kx6mjz
+Title: What can we do?
+Subreddit: healthinsurance
+Created: 1748401574
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Failure to notify primary care provider within 48 hours
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to handle a $6k bill from an emergency hospital visit that was denied by their mom's insurance due to not notifying the primary care provider within 48 hours.
+Responses Summary: Commenters advised obtaining the Explanation of Benefits (EOB) from the insurance, appealing the denial with supporting documentation, and potentially contacting the state insurance commissioner if the appeal is unsuccessful.
+Themes: EOB retrieval, Appeal process, Medical necessity documentation
+Options Suggested: Obtain EOB, Appeal the denial, Contact state insurance commissioner
+Fit Explanation: The original poster is actively seeking help regarding a recent insurance denial, indicating a very good fit for assistance.
+Original Post: My mom went to the emergency hospital last August and within the last month, the hospital has been sending us the bill(over $6k) for it directly because her insurance (SEIU healthcare) denied it. I made quite a few calls to find out that my mom’s insurance denied the claim because we did not contact her primary care provider/doctor within 48 hours to notify them of the ER visit. That took all of us by surprise because for  her previous ER visits in the past, we didn’t have to do any of that. 
+
+What can we do about this? 

@@ -1,0 +1,22 @@
+Thread ID: 1kazmek
+Title: GEHA assistance needed. I DO NOT have Medicare!
+Subreddit: healthinsurance
+Created: 1745962383
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Medicare EOB needed
+Outcome: Ongoing
+OP Summary: A Federal Retiree with Standard GEHA coverage is facing claim denials due to a lack of Medicare EOB, despite multiple assurances from GEHA that the claims would be reprocessed.
+Responses Summary: No response summary available
+Themes: Claim Denial, Appeal Process, Customer Service Issues
+Options Suggested: Contact GEHA supervisor, Send appeals via certified mail, Reach out to OPM for assistance
+Fit Explanation: The user is actively seeking assistance to appeal the denial of their claims.
+Original Post: Hoping someone can offer insight. I am a Federal Retiree with Standard GEHA coverage. It is my only coverage.
+
+I have outstanding claims &gt; 90 days that GEHA denied, stating a Medicare EOB was needed. I have called 4 times,  advising them I don't have Medicare, each time receiving assurance that claims would reprocess. Still no action.
+
+We have faxed and mailed written appeals as well, but no evidence or acknowledgment of receipt or action on that front either.
+
+GEHA is administered by UHC. Anyone with advice on how to escalate this? 
+
+TIA

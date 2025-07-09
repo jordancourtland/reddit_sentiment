@@ -1,0 +1,42 @@
+Thread ID: mf2wzj
+Title: ER visit charges
+Subreddit: medicalbill
+Created: 1616945083
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Leaving against medical advice (AMA)
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to fight a claim denial from their insurance after their wife left the ER against medical advice due to a broken testing machine.
+Responses Summary: Commenters suggest contacting the hospital billing department to negotiate the bill and emphasize the importance of documenting the situation and the reasons for leaving AMA.
+Themes: Insurance claim denial, Negotiation with hospital, Patient rights and documentation
+Options Suggested: Contact hospital billing department, Negotiate the bill, Document the situation thoroughly
+Fit Explanation: The original poster is actively seeking help with a denial, indicating a very good fit for the persona.
+Original Post: Settle in and I appreciate any advice on fighting this.
+
+In February, my wife volunteered at a vaccination clinic. At the end of her shift, she was offered an extra dose (honestly, one of the reasons she volunteered in the first place). After getting the dose, she became light headed and, according to other ***medical professionals*** on the scene, passed out.
+
+So, here we get to the first issue I have with our whole endeavor: syncope is a common response to being stuck with a needle. A vaso-vagal response is what happened, no question. I work in healthcare and have had a handful of people become light headed after being stuck with a needle of some kind (I do dry needling regularly as part of my career). ***It does not constitute a medical emergency***. Despite this, an ambulance was called and my wife was taken to a local hospital. I was called after she was in it to tell me what was going on and where she was headed. I'd happily have driven to get her to bring her home if I'd been called earlier, and avoided this whole debacle.
+
+Anyway, she gets to the hospital ER and is placed in a hallway on her stretcher. She gradually is feeling better, but it is taking a while. She was given IV saline in the ambulance. I go to stand with her in the hallway and am shortly asked to leave by security. I still haven't figured out why this happened since an ER patient is allowed 1 visitor, but, regardless, I comply and head out to sit in my car. My wife has her phone with her so we talk and text throughout the rest of our ordeal.
+
+My wife arrived around 8 P.M. and we wait until 11:30 P.M. At this point I am becoming too tired to be able to drive her home and I have work in the morning. I ask her to ask the nurses what is taking so long. She is informed that they are waiting for a blood test to come back but the machine is broken. At this point, she is feeling fine and asks to leave. They won't sign off until the test returns from the ***broken machine***. So, here's our biggest mistake: she leaves AMA (against medical advice) \*forehead smack.\* Despite working in healthcare, I haven't had to deal with insurance much, so I didn't know what this would mean. Remember, I'm in my car this whole time and my wife said that no one explained the full ramifications of this, but ***she did sign the paperwork***.
+
+As a side note: In this whole time, she has remained in a stretcher in the hallway. I think a physician came by once but it was early and she doesn't remember (and I wasn't allowed to be back there with her.)
+
+So, now we have gotten the letter from our insurance saying claims were denied due to leaving AMA. This letter includes the charged amounts and the "not covered" amount, which are vastly difference. The bill from the hospital is the full charged amount ($1565.10). ~~On top of this, we got a bill from the ambulance company for $1012.50 the 7.5 mile ride. I have submitted insurance information for that one but haven't heard back yet. I'm expecting a denial.~~
+
+Is there any hope of fighting this? Did we screw the pooch by leaving AMA because of a broken (unnecessary) testing machine? Thankfully, we are in a financial position that $2500 is not going to break us but we certainly have other bills that it could be better used towards. I'd happily pay the $395.00 "not covered" amount just to be done with this.
+
+Sorry for the wall of text and thanks for any advice.
+
+Edit: Insurance came through on the ambulance charge, at least. So, only on the hook for the $1565.10. I haven't talked to the hospital billing department yet, but that's the next step.
+
+[Insurance letter](https://preview.redd.it/ic78qht1dsp61.png?width=924&amp;format=png&amp;auto=webp&amp;s=008781e933130f15a5d38561f9de17be0c611966)
+
+&amp;#x200B;
+
+[Hospital Bill](https://preview.redd.it/rpyv86g3dsp61.png?width=938&amp;format=png&amp;auto=webp&amp;s=0eea9a2a78e21ea573ae2ae6735efec6d59f6e2d)
+
+&amp;#x200B;
+
+[Ambulance Bill \(submitted to insurance but no word yet\)](https://preview.redd.it/al4jsq05dsp61.png?width=525&amp;format=png&amp;auto=webp&amp;s=751b07484eef8782d61f58ef4e7dfbde8678193c)

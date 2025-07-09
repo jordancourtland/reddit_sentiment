@@ -1,0 +1,20 @@
+Thread ID: 1kypaar
+Title: Prior Authorization approved but denied claim
+Subreddit: healthinsurance
+Created: 1748560806
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Excluded dental services
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to handle a claim denial from Cigna for anesthesia related to their child's dental surgery, despite prior authorization being approved.
+Responses Summary: Commenters suggest that the OP should appeal the denial, as there may be provisions for coverage under medical benefits for anesthesia in cases involving autism, and emphasize the importance of verifying coverage details with the insurance provider.
+Themes: Prior Authorization confusion, Coverage verification, Appeal process
+Options Suggested: Continue to appeal, Contact HR for assistance, Verify billing codes with provider
+Fit Explanation: The OP is currently dealing with a claim denial and is actively seeking advice on how to proceed, indicating a very good fit for the persona seeking help with insurance denials.
+Original Post: 
+Last month, my kiddo had major dental surgery involving 4 tooth extractions and 8 crowns! The dentist said he needed to go under anesthesia because of his autism. The clinic submitted a PA request to our health insurance, (Cigna) for the anesthesia/hospital clinic. If Cigna denied coverage, we had the option to pay OOP ($900) for the anesthesiologist at the dentist office. But since we had already met the deductible and were about to and would be reaching the OOP anyway, (Autism therapies are very expensive) it would benefit us the most to see if Cigna would cover this, saving us $900. The billing individual reached out to me letting me know the PA was approved so we went ahead and booked the procedure in the hospital for the procedure. 
+
+Cigna denied the claim. I reached out and they acknowledge the PA was approved due to medical necessity but remind me that the PA approval is not a guarantee of payment. Dental is excluded from our coverage. (Unless resulting from an injury or illness) I understand that. What I don't understand is that Cigna didn't disclose that this service was excluded from coverage to the dental billing individual about it beforehand leading to the denial of the claim. The dental billing individual called Cigna multiple times including on the date of service and was never told dental was excluded (I don't know if she asked though that's what is the big question?) and Cigna told her what our cost responsibility would be, (this estimate was before we met our OOP) and gave her the billing codes to use when submitting the claim. Would this imply the Cigna representative thought this would be covered? The individual at the hospital beforehand the day of service told me our estimated responsibility is $0 (we met our OOP by the date of service). I had no reason (or so I thought) to wonder if this was covered. 
+The PA approval does state Cigna is being conditional on verifying if this is a covered benefit, but then they didn't investigate it deeper when she called? Only after claim is submitted? She is shocked they aren't paying for this. I appealed the anesthesia claim, and they denied it because it's excluded from coverage and that's that. I haven't appealed the hospital bill yet because they are just going to come to the same conclusion. Can Cigna be responsible because they didn't disclose that this is an excluded coverage in the PA or on the phone about it (I don't know if it was asked specifically on the phone) or do you think I need to make payment plans to these two clinics? Looks like because I trusted what I was told, and didn't call Cigna myself to verify if this was excluded from coverage was a $10k mistake. Unfortunately, these charges aren't from the dentist office so if she is in error by not asking Cigna if this is a covered benefit, they aren't at a loss. The hospital and anesthesiologist won't care about her mistake. 
+
+Thoughts? Continue to escalate appeals, etc or make payment plans? 😔

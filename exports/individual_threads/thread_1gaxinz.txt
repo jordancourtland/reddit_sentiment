@@ -1,0 +1,18 @@
+Thread ID: 1gaxinz
+Title: Aetna claims active insurance when I never enrolled resulting in denial of claims with my insurance
+Subreddit: healthinsurance
+Created: 1729757360
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Complete
+Outcome: Ongoing
+OP Summary: The user is facing claim denials from UnitedHealthcare due to an alleged enrollment with Aetna, which they never initiated, leading to confusion and potential medical debt.
+Responses Summary: No response summary available
+Themes: Insurance Enrollment Confusion, Claim Denials, Need for Coordination of Benefits
+Options Suggested: Contact Aetna for eligibility verification, Request a letter from Aetna to clarify coverage, Coordinate benefits with 1199
+Fit Explanation: The user is actively seeking help to resolve their insurance denial issues and is in the process of appealing the claims.
+Original Post: 
+I was under my parents insurance in NY (United Healthcare Essential Plan) until April 2024 as I started my first full time job in January 2024. Probation was 3 months so my 1199 insurance didn’t kick in until April. However, I was contacted by my primary care physician and doctors that UnitedHealthcare is denying all their claims from March 2023 to April 2024 because I have Aetna. I have NEVER enrolled in Aetna, never received an insurance card, a single letter in the mail or email, and did not even know my member ID until my primary care physician provided me it. I made sure I was on my parents’ insurance throughout college. I have called Aetna several times who routes me through a special department because they are not able to see details of my benefits and even then they tell me I have to call my enroller but proceeds to give me 1199’s number (my current insurance). I call 1199 and they state the only active insurance they see is 1199, however, Aetna, UnitedHealthcare, and my doctors all say they see an active Aetna but aren’t able to see details which is extremely odd. 1199 has a partnership w Aetna but excludes NY. I called UnitedHealthcare appealing the denials but they are refusing to pay the claims because of Aetna. My primary care physician, orthopedist, and physical therapist are now telling me I owe them thousands if I don’t have Aetna correct this, retroactively terminate my plan that supposedly started 3/1/2023, and have them mail a letter stating such!! UnitedHealthcare representative said because I was on a Medicaid plan, I do not have to pay but I know people who had collectors sent after them and credit was affected!! Please advise!
+
+I reached out to Aetna once again who states “your medical coverage through 1199SEIU became effective with us on 03/01/2023.” I am being told to contact 1199 if I believe this information is incorrect - which it is! 1199 needs to contact Aetna’s Employer Service department to make the appropriate changes as I did not have active 1199 coverage until 04/07/2024. When I called 1199 over the phone, they refused to do coordination of benefits or reach out to Aetna, stating they only see active 1199 coverage which is clearly not the case. I need 1199 to collaborate with Aetna for me to receive a letter stating my plan is terminated and I should have never had Aetna starting on 3/1/2023 to begin with to avoid medical debt.
+

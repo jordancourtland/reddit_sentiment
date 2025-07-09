@@ -1,0 +1,22 @@
+Thread ID: 1k33ab5
+Title: Aetna Insurance denying claims after network deficiency request approval
+Subreddit: healthinsurance
+Created: 1745088331
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The user is struggling with Aetna denying claims for an out-of-network provider despite prior approval for in-network coverage, leading to confusion and frustration.
+Responses Summary: No response summary available
+Themes: Claim denial, Network deficiency, Insurance navigation
+Options Suggested: Mail in claims, Request supervisor assistance, Follow up weekly
+Fit Explanation: The user is actively seeking help to manage ongoing claim denials from Aetna, indicating a perfect fit for assistance.
+Original Post: Hello - Posting here as a last resort and hoping I can get insight on the best way to manage Aetna claims. I see a lot of complaints about Aetna here so I know I'm not alone :/ 
+
+Basically, I have to see an out-of-network Chiro/PT for a somewhat rare problem (EDS) that in-network Chiros often aren't familiar with. After a year of paying out of pocket, I finally got Aetna to approve a Network deficiency request to cover this provider at an in-network level. The approval letter states, "We’re approving coverage at an in-network benefit level for services by the below non-participating provider, subject to the requirements in this letter. The member will be responsible only for in-network cost sharing, such as a copay or coinsurance". 
+
+This letter almost brought me to tears after the time/money I've spent on this but I knew it was too good to be true. The first claim I submitted after approval was denied immediately as "out-of-network". I even submitted the claim with huge red font on the front stating this was pre-approved with the ref # from the lette. I called Aetna and they told me all claims are auto-processed by a computer and that they would "rework" it. They did, and the claim again was denied but they  covered an addl $100.. out of $900.. I called AGAIN and the rep looped in the network deficiency dept to confirm that it was approved on their side (obviously it was bc they already sent me the letter) but the rep thought this would help. She said they would rework the claim again but I have very little hope. They keep telling me they will call me once it's reworked but I've never in my life received a phone call from their support team. I also don't want to call with every claim I submit to go through this process.
+
+Has anyone learned how to navigate this system?? I saw one thread say it might be better to mail in a claim so it's not auto-denied? Any help would be much appreciated! 
+
+

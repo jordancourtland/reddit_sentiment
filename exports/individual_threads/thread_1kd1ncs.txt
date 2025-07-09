@@ -1,0 +1,28 @@
+Thread ID: 1kd1ncs
+Title: All of my test are fully covered, unless they are not. Not sure what to do.
+Subreddit: healthinsurance
+Created: 1746194373
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Potential denial by JVHL for medical necessity
+Outcome: Unclear
+OP Summary: The user is concerned about potential out-of-pocket costs for over 100 blood tests that their insurance claims are covered, but a third-party company may deny the claim, leaving them financially responsible.
+Responses Summary: No response summary available
+Themes: Insurance coverage confusion, Third-party claim denial, Financial anxiety over medical costs
+Options Suggested: Contact insurance for written policy, Request a case worker, Seek state insurance commissioner assistance
+Fit Explanation: The user is actively seeking clarity on their insurance coverage and potential costs, indicating they might need help soon.
+Original Post: I need to have many blood tests done (ordered by my doctor), outside of the typical ones (there are 100+). My insurance (Blue Care Network) tells me that all lab tests are covered. I checked to make sure the lab I am going to is in-network. All this seemed to check out. But since the tests were well over $25k, I called just to be extra sure.
+
+I gave the CSR all of the CPT codes and such, and they verified everything would be covered - and the lab was in-network. However, the  CSR also told me if some other company, JVHL, denies the claim, I would be responsible. I ended up calling BCN 3 more times and got told the same thing. I asked if there was a way to contact them prior to doing the tests, but they won't let me know if they will deny the claim. I asked if they can do a prior authorization, but they said they don't for blood tests.
+
+I'm really worried that I may be responsible for some or all of these tests.
+
+I don't understand how everything can be covered, go to an in-network lab, but I may still need to pay, and there's no way to know how much.
+
+I reached out to other local labs for an out of pocket cost, and they all have similar pricing.
+
+I really need these tests, but I can't financially ruin myself. I don't know what to do.
+
+Also, I forgot to mention, I have already hit my deductible and out of pocket maximum.
+
+Also edit: I am in Michigan.

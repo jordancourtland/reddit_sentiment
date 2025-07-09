@@ -1,0 +1,16 @@
+Thread ID: 1k72gwo
+Title: First health network question
+Subreddit: healthinsurance
+Created: 1745526363
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not covered service
+Outcome: Ongoing
+OP Summary: The user is facing unexpected charges for diagnostic testing that they believed would be covered by their First Health network insurance, leading to confusion and concerns about potential scams.
+Responses Summary: No response summary available
+Themes: insurance coverage confusion, diagnostic testing denial, pre-existing conditions
+Options Suggested: appeal the denial, review plan documents, consult with an insurance expert
+Fit Explanation: The user is currently dealing with a denial and is seeking help, indicating a very good fit for assistance.
+Original Post: So I signed up for a first health network insurance plan back in January. I was told I had no deductible and that the specialists I see would be covered with minimal co pay. However, I was informed by the claims department (via NaviClaim) that my plan does not cover "diagnostic testing". I was then told by a First Care rep that they cover up to 70% of a diagnostic testing bill. Then a bill came today asking me for the full amount for a Holter Monitor I had placed. I called billing through that office and they informed me FirstHealth/Naviclaim told them it was "not a covered service" so I am on the hook. This has confused me as I know the same insurance recently denied a CT scan as it was "diagnostic" so I don't know why the holter wasn't denied or covered. I was wondering if anyone else has had similar issues with FirstHealth not covering things. 
+
+TLDR: I'm getting put on the hook for things that I was never told were not covered by my insurance. Am I getting scammed? 

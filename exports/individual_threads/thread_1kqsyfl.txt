@@ -1,0 +1,14 @@
+Thread ID: 1kqsyfl
+Title: ER visit denied
+Subreddit: healthinsurance
+Created: 1747704714
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to appeal a denied ER visit claim for severe back pain, as the insurance company deemed it not an emergency despite their insistence on the severity of their condition.
+Responses Summary: Commenters suggest escalating the issue to HR if it's an employer-funded plan, emphasizing the importance of medical documentation and the need to clearly articulate why the ER visit was necessary in the appeal.
+Themes: appeal process, medical documentation, insurance company policies
+Options Suggested: escalate to HR, gather medical documentation, consult a patient advocate
+Fit Explanation: The original poster is actively seeking help with an ongoing appeal process, indicating a strong fit for assistance.
+Original Post: Hi everyone! Looking for some advice/ to see if anyone has been in a similar situation. I went to the ER for severe back pain and because that doesn’t fall under their reasons for an emergency, they denied my claim. I’ve appealed it once to which they’ve “stuck by their decision”. I’m going to appeal it again but is there anything I can say to help my case? When I spoke with the health concierge she wrote down why I chose to go to the ER because the doctor was extremely dismissive and his notes reflect that so that obviously doesn’t help me. I have never had to fight my insurance on anything so this is new territory for me. Thank you! 

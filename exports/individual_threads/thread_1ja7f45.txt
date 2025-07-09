@@ -1,0 +1,16 @@
+Thread ID: 1ja7f45
+Title: Unfair Medical Bill
+Subreddit: medicalbill
+Created: 1741855153
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on whether they can dispute a medical bill for a surgery that was not completed, resulting in a charge of almost $1,500 after insurance coverage.
+Responses Summary: Commenters provided mixed opinions, with some suggesting that disputing the bill may not be effective, while others recommended contacting patient services or a patient advocate for assistance.
+Themes: disputing medical bills, patient advocacy, surgery complications
+Options Suggested: contact patient services, speak to a patient advocate, check for billing modifiers
+Fit Explanation: The original poster is actively seeking help regarding a recent denial of coverage for a medical bill, indicating a strong fit for the persona.
+Original Post: My husband has an abscess/possible fistula. This issue began in 2023 and he’s just been dealing with it for well over a year. In December 2024, he finally sees a general surgeon who confirms he has an abscess/possible fistula. Surgery is scheduled for mid January and at his pre-op appointment the surgeon states he “might have two!” Day of appointment, I’m in the waiting room, my husband is under anesthesia, and the Surgeon himself comes out and tells me he can’t find anything, then attempts to give me a congratulatory hug. I’m assuming he sees my confusion because he leaves and comes back ten minutes later and says he grabbed several nurses and another Doctor to verify and no one can find any abscess. I tell him how hard that is to believe since he has been dealing with the same issue for almost two years (not to mention the surgeon himself seeing it two weeks prior). He says he wishes he could bring me back to show me and says he’s was expecting to “cut” and is disappointed. I say I worry my husband will be disappointed if one month from now, he is in pain again. So after putting him under anesthesia for no reason, I wait until the next day when he is no longer groggy, and examine for myself. Surprise: the abscess is exactly where it has always been. I take a picture for proof. At the follow-up appointment, my husband shows the picture and the Dr asks when that was taken and denies there being anything the day of the surgery. He now examines for himself and states “it’s small” and “we’ll just monitor.” 
+
+Fast forward two months and we have a bill for that waste of time and our portion after insurance coverage is almost $1,500. Obviously I don’t want to pay this. Am I SOL? Can I dispute and who would that be to?

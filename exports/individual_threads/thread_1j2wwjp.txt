@@ -1,0 +1,16 @@
+Thread ID: 1j2wwjp
+Title: Erroneous infertility coverage
+Subreddit: healthinsurance
+Created: 1741044978
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Error in coverage approval
+Outcome: Unclear
+OP Summary: The user is facing a potential denial of infertility coverage after their primary insurance mistakenly approved a significant portion of their IVF cycle costs, leading to confusion about future claims. They are unsure if they should expect retroactive denials or if their coverage has changed.
+Responses Summary: No response summary available
+Themes: infertility coverage, insurance audit, confusion over policy changes
+Options Suggested: Contact HR for clarification, Wait for audit results, Prepare for potential retroactive denials
+Fit Explanation: The user is currently dealing with a denial situation and is seeking clarity on their coverage, indicating a very good fit for assistance.
+Original Post: I have two insurance policies because I thought my primary did not cover infertility based on all available plan documentation. However, after my IVF cycle in January, my primary insurance appears to have approved and covered \~90% of the cycle based on the claims and associated EOBs. I called my primary to confirm if there had been a change in coverage (coverage docs have not been updated since 2024) and was told that the coverage was in error and they are now auditing the claim. I'm kicking myself for calling and drawing attention to the situation, but if this truly was in error I'm sure they would have audited eventually anyway. 
+
+IVF associated CPT codes can only be billed under infertility, so I'm confused how this error would have occurred. I don't know of another explanation, except the insurance rep I spoke with said she also could not see my updated 2025 coverage documentation on her end. Is it possible my plan has been updated to include coverage or should I prepare to deal with a bunch of previously approved claims being retroactively denied? 

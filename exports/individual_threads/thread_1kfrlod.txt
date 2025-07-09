@@ -1,0 +1,24 @@
+Thread ID: 1kfrlod
+Title: Coverage change in middle of plan year
+Subreddit: healthinsurance
+Created: 1746491694
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Coverage change mid-year
+Outcome: Unclear
+OP Summary: The user experienced a denial for a preventive lab test due to a mid-year coverage change by Cigna, which they were not notified about. They are seeking advice on whether they can appeal this decision.
+Responses Summary: No response summary available
+Themes: Lack of notification, Mid-year coverage changes, Preventive care denial
+Options Suggested: Appeal the denial, Check the summary plan description, Contact customer support for clarification
+Fit Explanation: The user is actively seeking help regarding a recent denial and is confused about the coverage change.
+Original Post: Hello,
+
+I have Cigna health insurance, and also work in the healthcare industry. I am the type to scour an insurance plan prior to signing up and typically know the ins and outs of what is covered versus what is not. 
+
+I recently had a preventive care visit, where routine labs were completed. One of these labs was denied by my insurance due to frequency. I was confused by this because it had been over a year since I last had this preventive test done, and from my understanding of my policy this testing was covered on an annual basis. 
+
+I went to the support chat for Cigna, and the representative stated they changed the coverage of this test to every 3 years on March 17th of this year, a few weeks before my testing was performed. 
+
+I did not receive any kind of notice from Cigna detailing this mid-year change in coverage, and there was no mention of it in their “Annual Notification of Change” for 2025 that is specific to my plan. The representative I was chatting with stated they only changed it within the Preventive Care PDF online.
+
+Is this allowable or do I have a leg to stand on to appeal the coverage? It feels shady to change coverage in the middle of a plan year and not explicitly send out notification of the change. 

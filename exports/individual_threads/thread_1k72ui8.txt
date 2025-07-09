@@ -1,0 +1,33 @@
+Thread ID: 1k72ui8
+Title: Next steps after updating coordination of benefits info
+Subreddit: healthinsurance
+Created: 1745527302
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Coordination of benefits issue
+Outcome: Ongoing
+OP Summary: The user is seeking guidance on next steps after their claim was denied due to outdated coordination of benefits information, which has now been updated.
+Responses Summary: No response summary available
+Themes: Claim denial, Coordination of benefits, Next steps for resolution
+Options Suggested: Contact previous employer/BCBS, Contact PCP to refile claim, Contact Labcorp to refile claim
+Fit Explanation: The user is actively seeking help to resolve a claim denial and has already taken steps to update their insurance information.
+Original Post: At the end of February I went to my PCP for a yearly physical. I provided my health insurance (UHC Choice Plus through my current employer) to them prior to this appointment. As part of this visit I received a blood test, a cyst was drained, and a culture from the cyst was sent to Labcorp.
+
+  
+Fast forward to a few weeks ago I received a notice from Labcorp that my claim was denied due to having other primary insurance. I then proceeded to contact UHC and was able to confirm they believed my BCBS plan with a previous employer was still active, even though it should have ended almost a year ago. In this phone call I went through a coordination of benefits to remedy this.
+
+  
+Over the past week or two I have: received a voicemail from UHC stating that the coordination of benefits info has been updated and BCBS is no longer listed, received a bill from Labcorp for the culture, and received a claim summary from BCBS for my visit.
+
+  
+What are the next steps to resolve this? Do I need to do all, or some, of the following? Are there any additional steps I need to do to resolve this?
+
+1. Contact my previous employer and/or BCBS to ensure they are aware my plan is mistakenly still active
+
+2. Contact my PCP to have them refile the claim through UHC
+
+3. Contact Labcorp and have them refile the claim through UHC
+
+
+
+Thank you in advance for any assistance.

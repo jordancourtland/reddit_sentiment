@@ -1,0 +1,16 @@
+Thread ID: 1jwfns6
+Title: Aetna denied IVF coverage submitted by Progyny
+Subreddit: healthinsurance
+Created: 1744339300
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not covered under Aetna
+Outcome: Ongoing
+OP Summary: Aetna denied coverage for an IVF Fresh Cycle despite Progyny's approval, leading to confusion over the claim's processing and potential coding errors. The user is seeking clarification on the denial and plans to contact Aetna for resolution.
+Responses Summary: No response summary available
+Themes: IVF coverage confusion, Insurance coding issues, Need for appeal assistance
+Options Suggested: Contact Aetna, Work with Progyny, Check HR for coverage details
+Fit Explanation: The user is actively seeking help regarding a denial and is in the process of appealing the decision.
+Original Post: My company uses Aetna and provides fertility coverage through Progyny. Progyny approved an IVF Fresh Cycle that counted toward my tier 2 (65% percent covered, $4800 out of pocket max). I just received an EOB that Aetna denied the egg retrieval and embryo transfer because CPT code S4015 (IVF) is not covered under Aetna. My regular Aetna insurance only covers IUI, but Progyny under Aetna absolutely covers IVF and it plainly states that in the brochure for the 2025 calendar year. The authorization sent to me by Progyny also utilizes that code.
+
+Progyny was a new benefit my company offered as of January 2024. I'm wondering how this possibly could've been denied. Progyny has opened a case and I plan to contact Aetna but if anyone could enlighten me if this was a coding error or some sort of miscommunication between insurance partners, I would be grateful to learn. I received a $13k EOB for services that are plainly states as covered through the Progyny benefit. I have not yet received a bill.

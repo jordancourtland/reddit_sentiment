@@ -1,0 +1,49 @@
+Thread ID: 1h1hx3k
+Title: Newborn insurance coverage disputed between mom’s and dad’s insurance providers. Guidance needed!
+Subreddit: healthinsurance
+Created: 1732749501
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Coverage dispute due to prior coverage on file
+Outcome: Ongoing
+OP Summary: A mother is facing a dispute between her and her husband's insurance providers regarding coverage for their newborn's medical bills due to a clerical error and conflicting interpretations of the newborn mandate.
+Responses Summary: No response summary available
+Themes: newborn mandate, insurance coverage dispute, appeal process
+Options Suggested: Contact employer for assistance, File a grievance with the state department of insurance, Request a denial from United Healthcare
+Fit Explanation: The user is actively seeking guidance on how to resolve an ongoing insurance denial issue for their newborn's medical bills.
+Original Post: Hi r/healthinsurance,
+
+Apologies for the long post, but I’m stuck in an ongoing battle between my insurance (Anthem BCBS) and my wife’s old insurance (United Healthcare) over my son’s medical bills. I’m hoping for any guidance or insight that anyone might have on how to get this issue finally resolved.
+
+Background:
+My son was born in February 2024. Due to a clerical error, Anthem voided his coverage for the first three months of his life. In September, after months of appeals, his coverage was finally reinstated retroactively to his date of birth.
+
+Even though this happened in September, all of the medical bills from his first month of life are still unpaid, and we’ve hit another major roadblock.
+
+Before my son was born, my wife and I had heard about the “newborn mandate,” which legally requires that newborns be covered under the mother’s insurance as an extension of her plan (not as a dependent) for the first 30 days. She brought this up with her HR before the birth, but they unambiguously told her that this was not possible. They claimed the only way to get him covered under her insurance was to add him as a dependent and upgrade to a dependent plan for the entire year. Since this wasn’t financially feasible, we enrolled him in my insurance from birth.
+
+It turns out HR and their insurance broker steered us wrong. My wife’s old insurance (United) now says they should have covered his first 30 days of life under the newborn mandate.
+
+The current issue:
+After a lot of back-and-forth:
+	•	United confirmed on a 3-way call with Anthem that they will pay any bills incurred during those 30 days if the providers resubmit them.
+	•	But now United is saying they can’t pay because my son has on file that he was covered by Anthem during that time.
+	•	United insists that Anthem needs to drop or void his first month of coverage before they can step in and process the claims.
+
+I’m hesitant to have Anthem void anything because:
+	1.	We already went through so much trying to get his coverage reinstated and I don’t want to mess anything up if it turns out that the United agent who told us this was incorrect.
+	2.	What if we do have Anthem void his first month’s coverage, but then there is yet another roadblock preventing United from paying?
+
+Questions I have:
+	1.	Has anyone dealt with something like this before? Would it be simple to have my insurance void the whole first month of coverage?
+	2.	Are there risks to doing this?
+	3.	How can I escalate this with both insurers to make sure this can finally be resolved without another month or two of back and forth phone calls?
+
+Other details that might help:
+	•	My wife has since changed jobs and is no longer insured by United. Thankfully, this does not seem to affect anything as she did have active coverage at the time.
+	•	We live in Ohio.
+	•	The providers have delayed sending these bills to collections, but now that the ball is seemingly in our court, I don’t want to push our luck any further.
+
+Any advice or insights would be incredibly helpful. This has been a constant source of stress and anxiety for us, as our son was born premature and has nearly $20,000 in bills from the hospital stay alone. It has dragged on for months, and we just want to finally see these bills get paid. 
+
+EDIT: Apologies for the wonky formatting, as I posted on mobile.

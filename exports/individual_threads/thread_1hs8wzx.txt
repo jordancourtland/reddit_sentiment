@@ -1,0 +1,32 @@
+Thread ID: 1hs8wzx
+Title: Calling Lawyers: How Are Insurers/TPAs Winning Any Court Cases?
+Subreddit: healthinsurance
+Created: 1735863314
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Unclear
+OP Summary: The discussion revolves around the surprising frequency with which insurers win court cases despite seemingly weak medical opinions against stronger specialist opinions, raising questions about contract law and the definition of 'medically necessary'.
+Responses Summary: No response summary available
+Themes: Contract law, Medical necessity, Insurance litigation
+Options Suggested: Consult a lawyer, Gather more evidence, Explore alternative dispute resolution
+Fit Explanation: The user is actively questioning the legal outcomes of insurance denials and seeking deeper understanding, indicating a strong fit for those needing appeal assistance.
+Original Post: Nutshell: It seems like insurers should have a very high loss rate over breach of contract given the fact patterns that are coming out of many of these denial cases. Why is this not way more one sided?  
+  
+ProPublica has yet another long article out on contested claim denials this one featuring the worst offending medical review docs: [https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors](https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors) The part that really surprised me was that the insurer prevailed at least a few times in court with medical reviewers who consistently wrote up embarrassingly bad opinions describing the wrong person and even requesting the wrong procedure. Also not forgetting that patient typically possesses a significantly better/more qualified/etc. medical opinion from their specialists.
+
+What I'm not asking:  
+1) Aware that this a coverage question not practice of medicine. I'm aware they aren't practicing medicine by denying claim.  
+2) Not talking about how people are persuaded to not pursue cases (few appeal, people talked out of ERISA cases because no punitive, etc.)  
+3) How claim denials may be influenced by lack of consequences to insurance carrier (ERISA plan denial worst case scenario is what the claim would have cost aka compensatory damages + attorney fees so why not just deny a lot).
+
+  
+***Crux of what I am asking:*** Coverage decisions (outside of certain regulatory parameters) are essentially governed by contract law, right (excluding Medicare/Medicaid plans)? Those contracts largely center around the language "medically necessary". In the few contracts I've seen the language isn't terribly defined so I suspect "Contract of Adhesion" principals would apply and the interpretation of "medically necessary" would swing heavily in the insured's favor in court? 
+
+Therefore, after a denial of claim (appeals, etc.), insured sues for breach of contract, case goes forward and insurance carrier puts forward their Homer Simpson joke of a medical opinion who may not even have a medical license or even work in the right field and the insured puts up a serious medical opinion written by a true specialist... how the heck does the insurance carrier not lose 95%+ of the time (which would make out of court settlements significantly higher as well)? 
+
+Is it that some carriers have really done an amazing job writing the language of the contract and those are different than some of the ones I've seen? (if so examples) Is there some really unfavorable case law out there? Is there something inherent to the process of some of these cases that it becomes ridiculous to win? (I remember something about how ERISA can prevent someone from bringing up claims/evidence later in the process that wasn't brought up early in the process, but that doesn't seem to be too insurmountable). Is it that there just aren't that many cases that go to litigation and so the legal profession is just not good at these? Is it just some judges just have ridiculous amount of authority bias and assume that companies that large wouldn't systemically make mistakes like that on their own contracts vs. some regular Joe &amp; their attorney who is more likely to give false arguments to the court?  
+
+
+  
+Extra color here would be appreciated since it seems like some people on here act like the carrier effectively has no contract in place and basically gets the right to deny claims at their whim without consequence. 

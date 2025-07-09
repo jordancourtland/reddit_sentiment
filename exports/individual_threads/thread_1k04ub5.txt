@@ -1,0 +1,28 @@
+Thread ID: 1k04ub5
+Title: Hospital Indemnity Denial??
+Subreddit: healthinsurance
+Created: 1744755748
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Hospital admission status incorrectly noted as outpatient
+Outcome: Ongoing
+OP Summary: The user is seeking advice on appealing a hospital indemnity insurance claim denial due to a hospital error in their admission status. They have provided documentation and are awaiting further information from the hospital to support their appeal.
+Responses Summary: No response summary available
+Themes: claim denial, hospital error, appeal process
+Options Suggested: provide additional documentation, contact insurance for clarification, follow up with hospital billing
+Fit Explanation: The user is actively seeking help with an ongoing appeal for their claim denial.
+Original Post: Hii!   
+I'm looking for advice and also any user experiences navigating a Hospital Indemnity claim denial.   
+Please help! 
+
+I have Lincoln Financial as my hospital indemnity insurance provider. I am a healthy adult who had NEVER been admitted to the hospital or had any chronic health conditions until last month... I woke up in March and could not see out of my right eye, it had me totally spooked. I went to MedExpress and then an optometrist with no answers, finally made it to an ophthalmologist who told me to get to the ER STAT. I was admitted into the ER on Monday night and was discharged on Wednesday night of the same week. I was diagnosed with optic neuritis; I have still not fully recovered and have a follow up appointment with a specialist in a few months. 
+
+I said all of that to say, on the first day of my hospital stay the hospital staff (billing department maybe? I'm not sure) incorrectly notated my status as outpatient and sent a plethora of authorization requests for testing to my health insurance company (which they denied...) before my doctor realized the error and made the staff change my status to reflect inpatient/admitted rather than outpatient. I am dreading receiving these bills in a few weeks, but that's not the point....
+
+When I was released from the hospital and feeling better, I submitted a claim to Lincoln for my hospital indemnity insurance benefits. I provided them with my discharge paperwork and summary, my health summary reflecting all of the test and dates that the tests were performed, my work excuse providing the dates of treatment, and an authorization form for them to collect information from the hospital. I learned today that my claim was denied. The denial reason states "the medical reviewed indicated treatment for Emergency Care services on (date) for unspecified optic neuritis and was discharged on (date of admittance)." 
+
+I called the hospital and requested that they send documentation reflecting my admittance into the hospital and requested that they correct their error. The representative that I spoke with said that they have updated everything on their end and are working to reprocess claims with my health insurance provider since my claims were internally denied (I know that this is going to be really fun to work through when I get the paperwork...) She said that she would snail-mail copies of my billing summaries and itemized billing reflecting the insurance coding to send to Lincoln for an appeal. 
+
+I said all of that to say, has anyone on here ever had to navigate hospital indemnity insurance claim denials before? I feel like I have already provided so much information reflecting my hospital admittance and I am not feeling hopeful that they will approve my appeal due to the hospital error. Can anyone give me any pointers on the appeal submission or specific information to include?
+
+TLDR; my hospital indemnity insurance claim was denied due to a hospital error. Please advise.... 

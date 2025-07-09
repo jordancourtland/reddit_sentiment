@@ -1,0 +1,16 @@
+Thread ID: 1l03rs8
+Title: UHC denials
+Subreddit: healthinsurance
+Created: 1748715453
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking insights on UHC's denial of an MRI ordered by their neurologist, particularly questioning if the denial was due to 'running the clock' as they are switching to a new insurance provider.
+Responses Summary: Commenters suggest filing a complaint with the Virginia insurance department and emphasize the importance of ensuring that the correct medical information is submitted to avoid denials.
+Themes: Insurance company communication issues, Importance of accurate documentation, Filing complaints with regulatory bodies
+Options Suggested: File a complaint with the Virginia insurance department, Visit a local imaging center and pay out of pocket, Ensure correct medical documentation is submitted
+Fit Explanation: The original poster is actively dealing with a denial and may need assistance navigating the appeal process, indicating a very good fit.
+Original Post: I have been through the wringer with UHC denying a MRI my Neurologist ordered. I have completed an appeal and so has my doctor. They denied service. During the appeal process, my company changed health insurance companies to Anthem, so as of midnight tonight, I will no longer have UHC. 
+I am wondering, has anyone heard of UHC denying service because they were running the clock? I'm in Virginia. I feel that it is criminal how they denied me physical therapy last fall,  so I paid out of pocket. I'm an underwriter for Title insurance and usually, I can  speak with someone and we figure out why I am not getting my coverage. UHC continually denied me any resolution. I could never speak with someone after escalating the claim. The phone tree never got me anywhere nor did their text option in the app. 
+

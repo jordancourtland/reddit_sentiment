@@ -1,0 +1,32 @@
+Thread ID: 1kbn30a
+Title: GEHA customer seeking input
+Subreddit: healthinsurance
+Created: 1746036229
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claims denied due to filing late
+Outcome: Unclear
+OP Summary: The user is experiencing issues with GEHA's website login and inconsistent information regarding their claims, seeking advice on how to contact a competent representative.
+Responses Summary: No response summary available
+Themes: website issues, claims processing, customer service
+Options Suggested: contact customer service, escalate the issue, seek help from a supervisor
+Fit Explanation: The user has a claim denial issue and is actively seeking help, indicating a very good fit for assistance.
+Original Post: Other than the GEHA website and customer service phone number, does anyone know how to contact a warm body at GEHA?
+
+Here are the problems:
+
+Ever since late Dec 2024, when GEHA redid its website, neither my friend nor I have been able to login.  Yes we made the new login data and no, the website just goes to a blank page.  Nothing like this ever happened to either of us before the GEHA changes.  The phone people are useless too. 
+
+Issue 01:  We need some way to contact a person who is competent.  We need someone to resolve this login problem.
+
+Also, each time we call regarding claims, the answers change.  
+
+- First time, they were processing. 
+
+- Second time, they were denied due to filing late even though I have a copy of the original filing in front of me, and it is well within the alleged 6 month deadline.
+
+- Third time, they can’t even find the fucking claims when provided with the claim numbers and dates of service.
+
+Issue 02:  We need someone competent enough to review the many documents we previously mailed.
+
+Does anyone have any suggestions?

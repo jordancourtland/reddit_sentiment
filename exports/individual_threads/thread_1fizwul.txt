@@ -1,0 +1,43 @@
+Thread ID: 1fizwul
+Title: Next Steps for Rejected Claim?
+Subreddit: healthinsurance
+Created: 1726581372
+Persona Fit: 1.0
+Confidence: 0.7
+Denial Type: Partial
+Outcome: Ongoing
+OP Summary: The user is facing a denial from their medical insurance for a bone graft related to a dental implant after a sports accident, despite prior confirmations of coverage. They are seeking advice on how to appeal the denial and ensure proper claim submission.
+Responses Summary: No response summary available
+Themes: Claim Denial, Insurance Communication, Appeal Process
+Options Suggested: Contact provider for corrected claim, File an appeal, Involve HR for assistance
+Fit Explanation: The user is actively seeking help with their claim denial and exploring options for appeal, indicating a perfect fit for assistance.
+Original Post: My front tooth was cracked in a sports accident and it had to be extracted. I’m in the process of getting an implant, and have been trying to get it billed through my medical insurance because my dental insurance doesn’t cover implants. Because it was an accident, my medical insurance should cover it. Here’s the relevant portion of my summary plan description referring to when dental services are covered (this is listed under the “Covered Medical Benefits” section:
+
+19. **Dental Services** include: 
+
+* • The care and treatment of natural teeth and gums if an Injury is sustained in an Accident (other than one occurring while eating or chewing), or for treatment of cleft palate, including implants. Treatment must be completed within 12 months of the Injury except when medical and/or dental conditions preclude completion of treatment within this time period. 
+* • Inpatient or Outpatient Hospital charges, including professional services for X-rays, laboratory services, and anesthesia while in the Hospital, if Medically Necessary. 
+* • Removal of all teeth at an Inpatient or Outpatient Hospital or dentist's office if removal of the teeth is part of standard medical treatment that is required before the Covered Person can undergo radiation therapy for a covered medical condition.
+
+For the extraction, I went to my normal dentist who is not in-network with my medical insurance. So I’m just accepting that I won’t get anything covered for that. He did a bone graft as well to prepare for implant placement, but unfortunately, it didn’t take.
+
+So I went to an oral surgeon who is in network to get the bone graft re-done. Before the procedure, I contacted my provider numerous times to try to make sure the codes would be covered. I gave them both the CPT codes and the diagnosis codes that would be billed. I probably called 5-7 different times to see what different representatives would say (I’ve noticed that probably only 1/3 of the people I contact at insurance seem to have any idea what they’re doing). I got the whole gamut of responses: from “dental services aren’t ever covered” (which is clearly wrong in the case of an accident) to “these codes will definitely be covered in your case,” along with some less confident answers where people thought they should be covered. It seemed to me that the consensus was that as long as I could prove it was an accident, it would be covered.
+
+My oral surgeon’s office submitted the claim to my insurance, and it was rejected. The reason code was "701: Charge(s) denied. Dental services not covered. See Covered Benefits and Exclusions in your benefit booklet". I called my insurance, and they said they would reprocess it as an accident since they hadn’t done that previously. Then, after a month (the max amount of time they said it would take), they told me my provider hadn’t submitted it as an accident, so I’d need to have them do that by checking box 10c on the HCSA form and submitting a corrected claim.
+
+I asked my provider to do this, and they told me that they had done it on Sept. 5th.
+
+I called my insurer last Friday, and the representative I talked with then told me that they hadn’t received the corrected claim, but said even if they had bone grafts are excluded under my plan. I don’t know if he is right or not. The documents I have access to don’t mention this, but all they say is what I’ve listed above, so there is definitely plan information that I cannot access on my own and can only receive by calling. I have never heard this from any of the other representatives I’ve talked with.
+
+I guess I’m trying to figure out what my move should be and how I can get this covered. All the going back and forth with the insurance and my provider seems to never get anywhere. My current plan is:
+
+1. Reach out to my doctor again to make sure they submit the claim with documentation that it was an accident and correct box checked
+2. Wait for processing and keep contacting my insurance to make sure they get the corrected claim.
+
+I’m less than optimistic that this will be enough. I’m starting to prepare as if the claim gets rejected again, and am thinking in that case, I would file an appeal, request recordings of all the calls I’ve made to them this year, and keep on escalating the appeal up.
+
+If it really is true that bone grafts are excluded from my plan, would I have a leg to stand on during the appeal process since that never once came up until after the claim came through (despite calling them many times to try to determine coverage ahead of time) and that I have no documentation available to me that says this, aside from the clearly inconsistent representatives I can call? Would I have a chance in small claims court if the entire appeals process doesn’t work out for me? I unfortunately didn’t record any of the phone calls I’ve made. Is my insurance required to give those to me?
+
+Should I get HR at my work involved at some point? (I have this insurance through work, and have heard that HR can often help with claim disputes. Not sure how helpful that typically is.)
+
+I’d love any advice on if the steps I’m taking make sense or if there are other things I can do to make the process more likely to succeed.

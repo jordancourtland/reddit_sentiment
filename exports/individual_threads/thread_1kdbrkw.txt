@@ -1,0 +1,31 @@
+Thread ID: 1kdbrkw
+Title: Health Plan won't pay for a procedure they approved
+Subreddit: healthinsurance
+Created: 1746219723
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Exceeds allowable amount for procedure
+Outcome: Ongoing
+OP Summary: The insurance denied coverage for a procedure that was previously approved, claiming the charges exceeded allowable amounts, leading to the account being sent to collections despite the plan's assurances of coverage.
+Responses Summary: No response summary available
+Themes: insurance denial, reference based pricing, collections
+Options Suggested: contact HR, file a complaint with the Department of Labor, seek legal advice
+Fit Explanation: The user is actively seeking help with an ongoing denial issue and is frustrated with the lack of resolution.
+Original Post: 
+My employer changed plan providers a couple years ago, we now have an "employer funded health plan" (or something to that effect) instead of traditional insurance. We now have lower premiums and better coverage (on paper) for "preferred providers" (essentially in-network providers) and we have coverage for all "non-preferred providers" (traditionally out-of-network) that is comparable to the in-network benefits we previously had under Blue Cross. We're explicitly told there is no traditional "network" and we will have coverage regardless of the provider we choose.
+
+In spring of 2023 (just over 2 years ago) my wife had a procedure done. It's a specialized procedure, the nearest doctor for it was the next state over, some 350 miles away. 
+
+Not that it matters, but this was objectively the best option. The alternative was to completely remove her thyroid (with all the standard risks associated with any surgery) and be on medication the rest of her life. This was a simple outpatient procedure, virtually no risks, and good odds it would completely resolve all issues (though actually it would require doing the procedure 2-3 times, spaced 9-12 months apart).
+
+The procedure worked better than expected, 80% of my wife's thyroid issues disappeared over the next several weeks, we would need to go back in one more time to finish it off. But we never got the second visit.
+
+Total cost from the clinic was just over $10,000. I confirmed with insurance ahead of time that they would cover it, so I expected to pay the first couple thousand until we hit her out of pocket max. Instead, insurance refused to pay. Something about the charge being over the allowable amount for that procedure. Despite having no "network", they guarantee coverage for all providers despite having no contract with those providers, but then come in after the fact to say the clinic is charging too much and they won't pay.
+
+Over the last 2 years, insurance has apparently been negotiating with the clinic. We recently received a letter from a debt collector demanding payment for the full amount. Every time I've asked insurance over the last 2 years they just stall and don't provide any concrete info. I'm just so f-ing tired of it all. 2 years later, my wife still hasn't had the second procedure, and we'll probably never be able to after this (no way they'll want to work with us now, even if insurance comes through and pays the full amount). We could try to find another provider, but we can't if we're just going to get stuck with another $10,000 bill.
+
+I'm not even sure why I'm posting here. Partially just a rant, but I guess hoping there may be a solution I haven't thought of? Sorry if  this isn't the appropriate sub or if the flair's off. I'm just so tired of this all. Thanks for taking the time to read.
+
+
+Edit: this is a reference based payer. I wasn't aware of that term before now. Officially the reason for denial is that it exceeds some percentage of Medicare allowed amount. But they're not even paying up to some allowed amount, they're just denying the whole thing. I got HR involved a year ago, and the plan was supposedly negotiating with the clinic. According to my plan, I'm not supposed to pay ANY balance bills, but just forward balance bills to them. So I did. Now it's in collections.
+

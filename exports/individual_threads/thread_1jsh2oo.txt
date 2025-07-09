@@ -1,0 +1,31 @@
+Thread ID: 1jsh2oo
+Title: Looking for advice on next steps regarding backdated insurance termination and denied medical claims (Texas)
+Subreddit: healthinsurance
+Created: 1743896956
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Backdated termination of coverage
+Outcome: Unclear
+OP Summary: The user is facing denied medical claims due to a backdated insurance termination after being furloughed and later terminated by their employer, who filed for bankruptcy without notice. They are seeking advice on how to navigate this situation and whether their coverage should have continued.
+Responses Summary: No response summary available
+Themes: Insurance denial, Employer bankruptcy, COBRA options
+Options Suggested: Elect COBRA coverage, Check healthcare.gov, Seek legal advice
+Fit Explanation: The user is actively seeking help regarding their insurance denial and is looking for options to address the situation.
+Original Post: I was insured through United Healthcare via my employer in Texas. My employer paid premiums monthly to cover the following month’s insurance (monthly payroll).
+
+On March 12, 2025, all employees were notified via work email that we were being placed on unpaid furlough effective immediately. We were told we would still be paid for work performed from March 1–11, with payroll running as usual at the end of the month.
+
+I didn’t hear anything else from my employer until April 2, when I received a letter in my personal email stating that we had all been officially terminated effective March 21, 2025. 
+
+The issue is that I saw a specialist and had exams done on March 24, unaware that I had technically been laid off on March 21. The same day I received notice of separation (April 2), I called United Healthcare to check on my coverage. They told me my insurance appeared to be active and didn’t show any indication that it had ended.
+
+However, when I checked the United Healthcare app today (April 5), it now says my coverage ended March 21, and they have denied the claims from my March 24 visit.
+
+I had no way of knowing my coverage (or job) had ended at the time of the appointment. I’m concerned my employer backdated the termination or insurance cancellation, and I’m now stuck with bills for services I reasonably believed would be covered.
+
+Has anyone dealt with something like this before?
+What are my options here? Should coverage have continued through the end of March?
+
+Additional information: I have since found out my employer filed for bankruptcy, without letting any of us know, and none of the employees were paid for their time worked in March 1 - 11th. 
+
+Any help or guidance would be appreciated I’m unsure how to navigate this situation. 

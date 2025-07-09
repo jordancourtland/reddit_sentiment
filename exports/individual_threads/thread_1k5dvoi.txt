@@ -1,0 +1,18 @@
+Thread ID: 1k5dvoi
+Title: Hospital billing different codes
+Subreddit: healthinsurance
+Created: 1745347042
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No prior authorization
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to hold the hospital accountable for using a different code that requires preapproval for insurance coverage, which could lead to a significant financial liability if the claim is denied.
+Responses Summary: Community members advised the poster to gather all documentation related to the procedure and communication with both the hospital and insurance, and suggested contacting a patient advocate or legal professional for assistance in navigating the situation.
+Themes: insurance claim denial, hospital billing practices, preapproval requirements
+Options Suggested: Contact the hospital for clarification, Request a review of the medical records, Consult with a healthcare advocate
+Fit Explanation: The user is actively worried about a claim denial and is seeking advice on how to address the situation, indicating a very good fit.
+Original Post: I had a minor medical procedure last month. The hospital where this happened pre verified all codes with my ppo provider (bcbs) and none of them required a pre approval. I separately went through the maze to get all the codes and reverified all of the codes that were given by the hospital with the insurance. I (and my insurance) was given an estimated quote of 80k $, but after the procedure I was only given a total bill (hospital+doctor) of ~50k $.
+
+The procedure went very smooth, and nothing adverse happened requiring any additional attention. A couple of weeks ago i called insurance and realized they had used a different code from the one that didnt need preapproval and apparently this new code needed a preapproval. The insurance said they will still consider it depending on the medical records and history. But i am worried the insurance might deny my claim. Is there a way to hold the hospital accountable for this change? Fortunately I have not paid any money out of pocket yet; but the possible liability could be huge (~50k). I would also not meet my out of pocket maximum, which would have significantly helped me and my family throughout the year. 
+
+Is there anything I can do in this situation except wait and watch?

@@ -1,0 +1,20 @@
+Thread ID: 1i46gd7
+Title: Insurance Help!
+Subreddit: healthinsurance
+Created: 1737203007
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Past the deadline for claim submission
+Outcome: Ongoing
+OP Summary: The user is seeking advice on how to appeal a denied health insurance claim for ER services, which was rejected due to a missed deadline that the insurance company did not communicate. They are unsure of the next steps after their appeal was denied again.
+Responses Summary: No response summary available
+Themes: Claim denial, Appeal process, Communication issues
+Options Suggested: Contact state insurance commissioner, Speak to a supervisor at the insurance company, Request financial assistance or charity care from the hospital
+Fit Explanation: The user is actively seeking help with an ongoing appeal process for their claim denial.
+Original Post: Hello everyone, I need advice on how to handle an issue related to my health insurance.
+
+In May 2024, I went to the ER. When the hospital sent me the bill, I filed a claim with my insurance company (ISI Insurance). During this time, I regularly checked in with the insurance company about the status of the claim, and they kept telling me they were waiting for the hospital to provide my medical records before they could proceed. At no point did they mention the 180-day deadline for resolving the claim, nor did they advise me to contact the hospital myself.
+
+Later on, when I followed up again, they told me to contact the hospital to request the medical records. I did so and sent the records to the insurance company. However, they denied my claim, saying it was past the deadline, and told me to submit an appeal letter explaining the situation. I wrote the appeal, but they found every reason to deny it again and refuse to cover the bills.
+
+I’m at a loss for what to do next. I’d really appreciate any advice or guidance on how to handle this situation. Thank you so much!

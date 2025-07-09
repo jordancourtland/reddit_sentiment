@@ -1,0 +1,46 @@
+Thread ID: 1hcpu3s
+Title: Surgeon's office hasn't refunded my $5k overpayment due to insurance processing issues
+Subreddit: healthinsurance
+Created: 1734023341
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Claim processing issues
+Outcome: Ongoing
+OP Summary: The user is struggling to obtain a $5k refund from their surgeon's office due to ongoing insurance processing issues, with conflicting information from multiple parties involved.
+Responses Summary: No response summary available
+Themes: Insurance complications, Refund delays, Conflicting information
+Options Suggested: Contact attorney general, Get an attorney, File a complaint
+Fit Explanation: The user is actively seeking help regarding their insurance denial and refund process.
+Original Post: I'm hoping someone here can help me as I'm at a complete loss. I've been trying to get an overpayment refunded for 6 months now from my surgeon's office. However, insurance complications have been making it feel impossible. 
+
+Back in March '24, I paid a $10k deposit on my credit card to an in-network surgeon to schedule surgery. The surgeon's office told me that the $10k would be refunded based on my Premera BC/BS insurance coverage. Alternatively, if insurance chose NOT to cover the procedure it would be the maximum they would charge me.
+
+Some important details to note:
+
+* I'm based in Georgia, my home plan is issued out of Washington, and the surgery took place in Texas -- this means my insurance plan (Premera BC/BS) had to coordinate with the surgeon's local insurance (BC/BS of Texas).
+
+My surgery was pre-approved by insurance and performed in April '24. Since then, this has been the timeline of events:
+
+* **May '24:** Received first EOB and the hardware used in my surgery is denied by Premera BC/BS despite the pre-approval. I appeal the decision with my surgeon's help.
+* **Early June '24:** Claim appeal was resolved and hardware payment was rendered. My patient responsibility is $0. At this point I'm excited as it means I'll be refunded the full $10k, woohoo!
+* **July '24:** Surgeon's office tells me that the claim was done incorrectly by BC/BS and adjustments need to be made. In the meantime, the office refunds me $5k. 
+* **Aug. '24:** I call my provider, Premera BC/BS, and am told they cannot reprocess the claim until they are resubmitted by the insurance office. The process isn't automatic.
+* **Early Sept. '24:** Claim is submitted and begins processing with BC/BS of Texas.
+* **Nov. '24:** Claim is still processing. BC/BS of Texas claims they have not recouped an overpayment from the surgeon's office. The issue is escalated by Premera BC/BS and a notice is sent to the surgeon's office as well as BC/BS of Texas. I'm told they have 14 days to respond.
+* **Early Dec. '24:** I reach out to the surgeon's office to see if they will refund the remaining $5k given the extremely long timeline. They tell me that BC/BS of Texas refuses to formalize (for lack of a better word) the recoupment process since they never received the claim adjustment information or a refund request from Premera BC/BS. 
+   * I call Premera BC/BS to see if they can send the needed information to BC/BS of Texas so we don't end up in a standstill for another 14 days. When *they* call BC/BS of Texas, they receive different information and are told nothing is needed, the recoupment will take place automatically within the required 14 business days. BC/BS of Texas has no reason to be waiting on Premera BC/BS.
+   * I have Premera BC/BS call the surgeon's office since the information is conflicting. The surgeon's office claims they've never received a formal refund request and reiterates that BC/BS of Texas is waiting on information from Premera. 
+   * I tell Premera BC/BS of Texas that I'm apprehensive about waiting the full 14 days since it seems like everyone is operating off of different information. I'm assured that the recoupment will automatically be processed by BC/BS of Texas in this window. 
+* **Today:** Over 14 days have passed. The claim is still processing. I call Premera BC/BS, who then contacts BC/BS of Texas. The local insurance tells my insurance that the 14 days were spent drafting a notice to the surgeon's office to request recoupment. This letter will be mailed this week, and then the surgeon's office has 14 days to respond.
+
+I don't know why the circumstances have changed to make BC/BS of Texas move away from an "automatic overpayment recoupment". Given the issues have been known since August (resubmitted since September), I'm losing hope.
+
+I'm also told by Premera BC/BS that the recoupment amount in question is only a difference of $1k.
+
+Every time I talk to insurance, it leads to another 14 day escalation. I don't know why this hasn't been processed when the issue has been known for over 150 days at this point. I don't even know who is responsible -- my insurance, BC/BS of Texas, or the surgeon's office. I just want my $5k back :(
+
+I've tried filing complaints with DOL, DOI, and the medical board but none would receive them as they blamed the other party for my issue. They all kept referring me to the other department, so I just gave up.
+
+I'm willing to wait another 14 days as requested by BC/BS of Texas, but at this point my trust in the system is broken. Is there anything I can do if nothing is resolved by the end of this month? Should I file a chargeback? Get an attorney? File a complaint with the Texas Attorney General? Or just keep patiently waiting?
+
+ 

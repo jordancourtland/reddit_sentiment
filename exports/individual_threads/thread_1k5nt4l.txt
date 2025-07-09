@@ -1,0 +1,18 @@
+Thread ID: 1k5nt4l
+Title: Advice on unethical and potentially illegal actions by Evicore (Priority Partners)
+Subreddit: healthinsurance
+Created: 1745373479
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Misrepresentation and denial of prior authorization
+Outcome: Ongoing
+OP Summary: The user received a denial for an MRI after being misled by Evicore, who falsely claimed affiliation with their doctor's office to obtain personal health information. They are seeking advice on how to report this unethical behavior and appeal the denial.
+Responses Summary: No response summary available
+Themes: Unethical practices, Misleading communication, Appeal process
+Options Suggested: File a complaint with the insurance commissioner, Contact the Maryland Attorney General's Office, Appeal the denial with supporting documentation
+Fit Explanation: The user is actively seeking help to appeal their denial and report unethical practices.
+Original Post: I got an approval for an MRI and soon after I received a call from Evicore, who claimed to be calling on behalf of Johns Hopkins, where my doctor is located.  They asked me several medical questions related to my pain, which I answered, believing they were with my doctor's office. Then they offered me information on alternatives to "invasive medical procedures like MRI". This seemed sketchy and inaccurate. I looked them up and realized that they were being dishonest about their affiliation to obtain PHI and were contracted by Priority Partners, owned by Hopkins.
+
+Now I've gotten a denial letter for my MRI by Evicore. This seems like a blatant violation of HIPAA. I was not aware they were misrepresenting themselves to mislead me into giving PHI to build a case to deny me.  There was no informed consent.
+
+Priority Partners is already in hot water and has suspended accreditation. I would like to know if these are reportable offenses and advice on how to proceed. I'd like to escalate this as far as I can because they must be doing this to numerous people and it seems predatory and unethical.

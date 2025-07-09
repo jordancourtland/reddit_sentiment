@@ -1,0 +1,22 @@
+Thread ID: 1kri1sg
+Title: Anyone ever dealt with specialty drug denials?
+Subreddit: healthinsurance
+Created: 1747779870
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice after their insurance denied coverage for a specialty drug due to it not being administered in an inpatient facility, leaving them with a significant financial burden.
+Responses Summary: Commenters suggested contacting the drug manufacturer for potential assistance programs and emphasized the importance of having an official appeal denial letter to access those resources.
+Themes: specialty drug coverage, appeal process, manufacturer assistance
+Options Suggested: contact the manufacturer, submit a retro authorization, work with in-network pharmacy
+Fit Explanation: The original poster is currently dealing with a denial and actively seeking help, indicating a very good fit for assistance.
+Original Post: I am on a specialty drug called cuvitru bi-weekly for my immune deficiency and have been for 1.5 years. I recently changed insurance in March 2025. I took the proper steps and called my specialty pharmacy, Accredo, to let them know so they could get a prior auth to fill the medication shipment for me. I received the call from them that it was approved through my medical benefits and proceeded to order my 2 doses for March and then later my 2 doses for April. 
+After over 30 days insurance finally processed my March claim and won’t cover any payment because the medication was not administered in an inpatient facility or emergency room as that is not part of my benefits. 
+Insurance is stating it should be billed to my pharmacy benefits since it was self administered. Contacted my pharmacy benefits to review if that was a covered drug, well of course it’s not. Cuvitru is not their (pharmacy plan) preferred drug (its cutaquig), but the pharmacy benefits representative did say that my dr could submit a retro authorization and medical necessity exception to get the cuvitru approved BUT Accredo is not in network with the pharmacy benefits so they won’t approve any claim from them regardless. 
+Now they (my specialty pharmacy) are trying to pass the responsibility of payment on to me because neither insurance nor pharmacy will process my claims. At this point, they (accredo) is stating that it will probably be the insurance rate which is 24k total. 
+
+Any advice? So far I have:
+-contacted my immunologist to submit an appeal letter to insurance detailing why the home therapy was necessary and it wasn’t done IP or ER
+-contacted the group insurance rep for my company explaining the situation and hoping they have a direct contact to the insurance company to help sort this
+-working with new in network pharmacy now to get approval for cuvitru for future doses

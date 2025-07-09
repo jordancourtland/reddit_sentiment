@@ -1,0 +1,20 @@
+Thread ID: 1kglhbw
+Title: Billed 1500 after being told I would copay 300 for MRI
+Subreddit: healthinsurance
+Created: 1746581438
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The user received a $1500 bill for an MRI after being told they would only owe $300, due to a claim denial for not obtaining a referral from their PCP first.
+Responses Summary: No response summary available
+Themes: Referral requirements, Cost anxiety, Appeal process
+Options Suggested: Contact insurance for appeal, Get PCP to write a letter, Review policy for referral requirements
+Fit Explanation: The user is actively seeking help to appeal the denial and reduce the bill.
+Original Post: A while back, I went to urgent care for some nerve-related issues where I could hardly sleep at night because of the pain I was feeling. They did blood work and referred me for an MRI. They called my insurance and said it was approved, and I was told I’d only owe $300 based on my plan. Everything was in-network from the urgent care to the imaging center.
+
+Now, weeks later, I just got hit with a $1500 bill. After receiving some letters, I found out the claim was denied because I didn’t go through my PCP for a referral. Since I’m a student, my PCP is through student health services of my college, but I was never aware I had to go through there first since it would take 3 weeks to get an appointment there. It’s why I went to urgent care because I needed to get it treated quickly. If I knew the claim wouldn’t go through I would have said no to the mri and just wait for the appointment! The urgent care doctor said it was necessary.
+
+Im so very anxious and frustrated seeing this large bill that I could hardly afford. Not only that I haven’t even received my results from my MRI. I’m a college student who works part time and is considered low income.
+
+Has anyone dealt with something like this? Any advice on getting this bill reduced or covered would help a lot. I just don’t know where to start and would appreciate any advice…

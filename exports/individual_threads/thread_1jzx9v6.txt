@@ -1,0 +1,94 @@
+Thread ID: 1jzx9v6
+Title: Lessons From My Battle vs. Guardian Life
+Subreddit: healthinsurance
+Created: 1744736956
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Insufficient documentation, incorrect address, failure to receive Proof of Loss letter
+Outcome: Resolved
+OP Summary: The user shares their extensive experience battling Guardian Life over a Short Term Disability claim denial, highlighting the importance of documentation and communication in the process.
+Responses Summary: No response summary available
+Themes: Documentation importance, Communication challenges, Claim denial strategies
+Options Suggested: Document everything, Confirm information regularly, Challenge denial reasons
+Fit Explanation: The user is actively sharing their experience and lessons learned from a recent denial, indicating they are seeking to help others in similar situations.
+Original Post: I recently spent 3 months dealing with the black box of horrors that is the Guardian Life insurance Short Term Disability claim experience. Despite my claim being incredibly straightforward, it was threatened by a combination of their incompetence, bad faith practices, and obscure processes. I was in a mental health partial hospitalization program for 4 months. I had extensive paperwork from multiple MDs and other medical providers confirming this, with full documentation on every nook and cranny of my time off work. 
+
+They made many attempts at justifying a denial of my claim that I'll outline here. I did some things to protect myself during this application, and also missed a few things so I'll list the guidance/lessons I have from this experience of fighting them (and winning). I'm hoping someone in the future will search "Short Term Disability Guardian" or "Short Term Disability Claim Mental Health" and find some helpful information via this post. 
+
+----------    
+  
+**Print/Download Your Submitted Claim. Take note of all the documents you uploaded. Save copies of those documents. Keep them organized digitally at the least and also in print if you can.**
+
+I had a long conversation with the case manager who initially rejected me because she claimed I didn't provide things I had in fact uploaded. (Attempt #1 at rejecting my claim) She then denied my claim because "I did not respond to any requests to return a Proof of Loss Letter. While speaking with her she had my address wrong and I was able to confirm from my printed claim submission that I had submitted it correctly.  (Attempt #2 at rejecting my claim, you'll notice they make a lot of shit up and move the goalposts regularly)
+
+**Even if you provide financial documentation like W2s or paystubs, they will *MAIL* you a "Proof of Loss" letter asking for the information those documents provide, and it will have a hard due date. If not completed by this due date your claim will be denied. This is not noted at time of submission, and you are not made aware of it until you receive the initial loss letter form in the mail.**
+
+I had no idea about this because they sent it all to my wrong address. They also never reached out by phone or email to get me to complete it. She claims that she "reached out multiple times by phone". I asked her to confirm those dates, then went back through my phone records to confirm she had never actually called or left a voicemail like she said. (Attempt #3 at rejecting my claim) Record keep. Record keep. Record keep. 
+
+*Note that they have administrative records of if this mail was returned to sender, so if you know for certain you did not receive, it try and push them into checking their records. Confirm with them that it was able to be sent to your address if they claim it wasn't their fault. 
+
+**Have your employer/HR representative confirm dates/times that they submitted their records as well.**
+
+The case manager also tried to claim that my employer had never submitted the necessary paperwork (Attempt #4 at rejecting my claim). Thankfully they were organized and had record of the dates of submission. After your submission Guardian will request for signatures/proof that you were not getting paid during this time. They will also ask your job role/responsibilities. Make sure to follow up regularly with your employer to ensure this information is sent over, and then document that confirmation so you can correct Guardian when they claim it was never received.
+
+**If they believe that your workplace is the REASON for your mental health hiatus, they will reject your claim since it's an issue with your job not an insurance issue**
+
+This is something that I did not experience because I was in inpatient treatment, but I've heard this is a common strategy. They try to get you to point blame at your employer for your mental health situation, which will allow them to deflect. Ensure that you have records that invalidate this attempt. 
+
+**In the case that they make a mistake denying your claim, they will try to casually suggest "just go through the appeal process! That's what it's there for!" No. Do not give up this right.**
+
+After getting denied out of the blue for not submitting the Proof of Loss letter I never received, I was not able to get in touch with my case manager. I first had to go through their terrible customer support to "request a call" from my case manager. The support people said my claim got denied because of "insufficient medical documentation" (Attempt #5 at rejecting my claim). This was not true, I know because I regularly checked with my medical provider and was having consistent communication with the nurse at Guardian on my case. 
+
+They then insisted I should just file an appeal. I refused to do that before speaking with the case manager. AFAIK their own errors are not grounds for initial claim rejecting. You have a right to appeal. Do not give it up. 
+
+**I don't know if my case manager was actually this dumb, but either way she kept messing up my coverage duration. Before filing your claim look up your "waiting period" (or something similar) in your STD coverage. It's normally 2 weeks but my plan was 1 week.**
+
+When I finally got the claim approved, the case manager kept trying to trim down the dates I could get coverage. This is how the conversation went, note that my claim was from May 4th to August 24th. 
+
+CM: "We're going to give you coverage from June 1st to August 24th due to the two week waiting period"
+
+Me: "Sorry, where did you get June 1st?"
+
+CM: "From the two week waiting period on claim coverage"
+
+Me: "But June 1st is almost a month after the initial claim date"
+
+CM: "Oh right sorry let me review that for you"
+
+CM: "Ok yes so we are going to give you coverage from May 24th to August 24th"
+
+Me: "Looking here I see where my plan only has a 1 week waiting period, can you explain why it's 2 weeks"
+
+CM: "Yes sir let me confirm that for you"
+
+*Finally gets the dates right of May 11th to August 24th*
+
+CM: "Ok great so we're going to be sending you a direct deposit based on this form for 12 weeks of disability coverage. *rambles on about direct deposit caveats*"
+
+Me: "Wait, you said 12 weeks isn't May 11th to August 24th 15 weeks?"
+
+CM: "Let me review that please hold on and I will follow up"
+
+Finally after a long back and forth of the case manager getting multiple facts of coverage wrong, we got it corrected. Hold them accountable and politely but firmly confirm information. 
+
+**Important: RECORD CALLS WITH THE CASE MANAGER**
+
+I did this using my iphone, there's a recording function in the top left as a calls going on. I asked for her permission in the case anything ever went to court so I could use it as evidence. I believe this was very helpful for me. The case manager was speaking really fast about all of these incorrect "issues" with my claim, and by recording all of it I was able to make sure all of my bases were covered. It also holds them accountable to not pull any funny business (which they still did, but at least now I had record of it). I also assume this helped on the call where she kept getting the dates wrong. In the case I wasn't on top of things I could've read through the transcript afterwards and ensured there weren't any "mistakes" being made re: the details of my claim coverage. 
+
+**Final note for specifically mental health-related STD claims: they will ask your psychiatrist or other assessing provider to fill out a "behavioral health assessment" form**
+
+The way this form is worded puts your provider in a bad position. It's worded such that it's filled out IMMEDIATELY after you as the patient were assessed and before you even leave work. My doctor rightfully was concerned about the way it was worded and how they could complete it. Despite providing very extensive documentation about my treatment timeline, Guardian still insisted this form providing the same information was completed. In hindsight, I'm not convinced it was ever necessary because I was able to get the claim approved before ever submitting it. 
+
+Anyway, after a long back and forth I was able to confirm that this could be completed retroactively by my providers. They said as long as the signing providers were the ones who assessed me, then their answers can be provided as if it was completed at time of assessment. This put them in a bad spot, so push back regularly on their behalf with the nurse on your claim to ensure they can get the go-ahead to provide the information in a way that meets the incredibly restrictive format of this form. 
+
+
+**TL;DR: Document, Confirm, Challenge, and Record EVERYTHING.**
+
+1. Record keep everything. Make sure you take note of what you submitted along with the date and time, the discussions you had with stakeholders on the claim, and things that they said. Write down when you had phone calls and with whom. Keep track of names, dates, times, any small piece of information will be a helpful piece to the puzzle.
+2. Confirm everything regularly. Make the case manager and other insurance representatives put things in writing. If they claim something, ask them to confirm that that's true with their records. They will say they haven't received something. Make them confirm that. Have your HR/employer representatives confirm their side of the equation in writing. 
+3. Challenge. This goes along with #2. Challenge everything they say, because they are absolutely trying to get anything they can past you, whether it be false causes for denial or incorrect coverage dates. They will talk fast, they will avoid written communication, and they will throw shit at the wall hoping it sticks. Take the time to confirm the information they provide you is correct. If it is not, challenge it. Ask them to repeat what they said. If they claim something was not submitted, use your records to push back on that. Arm yourself with the information you've gained from #1 and #2. 
+4. This is a necessary precursor for #s 2 and 3. They will conduct business over the phone. Get their consent to record the call so you can ensure they are being honest. This will make sure you can protect yourself against being unrightfully denied by false assertions. You will also have a chance to follow up on the call on your own time to make sure you have everything that they ask of you. 
+
+----
+
+I really hope this helps someone. Even if you're reading this 5 years from now I encourage you to ask any questions if you have them. I think we all need to be more transparent about our insurance experiences to help each other get the claim coverage that we deserve.

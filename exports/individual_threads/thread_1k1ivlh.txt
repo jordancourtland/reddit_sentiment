@@ -1,0 +1,18 @@
+Thread ID: 1k1ivlh
+Title: Cigna claims denied
+Subreddit: healthinsurance
+Created: 1744911758
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Facility charge not covered
+Outcome: Ongoing
+OP Summary: The user is experiencing multiple claim denials from Cigna for outpatient visits coded as facility charges, leading to unexpected bills from providers. They suspect a coding error and seek advice on how to address the issue.
+Responses Summary: No response summary available
+Themes: Coding errors, Billing disputes, Insurance claim processes
+Options Suggested: Contact provider's billing office, Request a review of the coding, File a claims appeal with insurance
+Fit Explanation: The user is actively dealing with claim denials and is looking for insights on how to resolve them, indicating a strong fit for assistance.
+Original Post: Hi, there!
+
+I'm noticing that quite a few of several different providers' claims are being processed as a "facility charge" (these are outpatient doc visits) and are being denied for that reason. I've never had this issue with previous insurance carriers. I'm then getting billed by the providers for the full amounts of the visits because insurance didn't pay anything. I'm assuming this is a coding error that the providers need to resolve, but seems odd to have it happen multiple times with different, unrelated providers. 
+
+Anyone have any insight? 

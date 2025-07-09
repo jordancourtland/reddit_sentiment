@@ -1,0 +1,14 @@
+Thread ID: na9115
+Title: Can I still self-pay?
+Subreddit: medicalbill
+Created: 1620770561
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is asking if they can request the self-pay price for a mammogram after their insurance denied the claim due to age, and if the previous billing to insurance affects this.
+Responses Summary: Commenters advised that the OP can request the self-pay price and suggested starting the offer at $60-$75, while also mentioning the possibility of proving medical necessity without needing an appeal.
+Themes: self-pay options, insurance denial reasons, medical necessity
+Options Suggested: request self-pay price, prove medical necessity, start offer at $60-$75
+Fit Explanation: The OP is currently dealing with a denial and is seeking a quick resolution, indicating a good fit for the persona.
+Original Post: I had a screening mammogram recently that was denied by insurance because of my age. Rather than going through an appeals process, I would like to just resolve this quickly. Would I be able to request the self-pay price for the mammogram from the provider even though they already tried to bill my insurance? Does that matter at all since the claim was denied? Thanks in advance!

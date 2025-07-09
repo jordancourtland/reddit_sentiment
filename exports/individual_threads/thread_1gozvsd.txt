@@ -1,0 +1,14 @@
+Thread ID: 1gozvsd
+Title: Medical Claim Processed Incorrectly, appeal denied?
+Subreddit: healthinsurance
+Created: 1731351182
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Unclear
+Outcome: Ongoing
+OP Summary: The user is facing an issue with their insurance processing a claim incorrectly, resulting in a higher copay than expected, and is seeking advice on how to appeal this decision.
+Responses Summary: No response summary available
+Themes: claim processing error, appeal process, insurance communication issues
+Options Suggested: contact insurance for clarification, file a formal appeal, consult with a billing expert
+Fit Explanation: The user is actively seeking help to appeal a denial related to their insurance claim.
+Original Post: I'm wondering if someone can help me on what the next steps should be for this. So I went to a CVS Minute clinic and was charged a $40 PCP copay at the time of the visit. They billed my insurance and it insurance processed the claim as a Specialist, resulting in a $70 copay, in addition to the cost of lab work done on site. I understand the lab work, but I didn't understand the copay as they are most definitely not specialists, nor do they seem to even be urgent care. My SBC says retail clinics and PCP are both a $40 copay which is also what they charged when they checked my card. I used my insurances online claim portal to send an inquiry into this, they said they would look into it then 2 days later said the provider is in their system as a specialist and so the bill is correct. How do I get this fixed, as it feels like there's some fraud or miscommunication going on here. Thanks in advance for any advice.

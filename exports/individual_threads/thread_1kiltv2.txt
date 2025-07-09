@@ -1,0 +1,16 @@
+Thread ID: 1kiltv2
+Title: Feel duped by annual wellness check up - billed 2 codes
+Subreddit: healthinsurance
+Created: 1746805827
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Billing for separate services during a wellness visit
+Outcome: Unclear
+OP Summary: The user was surprised to receive a $390 bill for an annual wellness exam due to being charged for two separate billing codes, questioning the ethics of the billing process and seeking advice on whether to appeal the claim.
+Responses Summary: No response summary available
+Themes: Billing confusion, Preventive care vs. diagnostic care, Patient communication
+Options Suggested: Contact insurance for clarification, Request a detailed billing explanation, Consider filing an appeal
+Fit Explanation: The user is actively seeking help regarding a recent denial and is unsure about the billing practices related to their wellness visit.
+Original Post: I have Cigna insurance, and recently chose a new PCP (in network). I just had my annual physical/wellness exam and to my surprise, was billed $390. 
+
+Looking at the EOB, it looks like I was billed separately for 2 new patient visits. Billing codes 99203 and 99385. For a routine physical/wellness visit that lasted about 30 minutes. I brought up straightforward well visit concerns, requested routine labs (as one does at an annual physical) &amp; when asked about if I had any concerns I mentioned I had been having some gastro issues and my provider recommended a bland diet, and for the Dr to view a skin tag on my leg that she looked at and said not to worry about. This was the extent of my visit (it really was as straightforward as that). I am wondering why I was billed 99385 for "more comprehensive evaluation" when there was none? I find this to be extremely unethical. To my understanding, because preventive &amp; wellness visits come with no cost sharing, it's best practice to explain to patients that a separate service performed during the same visit may result in a charge to them - this did not happen in the appointment. There was absolutely no significant medical decision making for a concern in this appointment. I have never had this issue before during an annual physical, in which medical hx, concerns, etc. are discussed. Do I have a leg to stand on to appeal this claim, or no? I'm really surprised by this because this has never happened to me before, and I feel like it's a super shady thing to do to a new patient. 

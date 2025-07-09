@@ -1,0 +1,19 @@
+Thread ID: 1kdg70c
+Title: Dental insurance denied our bill
+Subreddit: healthinsurance
+Created: 1746232011
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking clarification on whether their husband's dental insurance should have covered a deep cleaning procedure done shortly before he left his job, and they are looking for advice on how to effectively appeal the insurance denial.
+Responses Summary: Community members advised the poster to review the insurance policy details, gather documentation from the dental office, and clearly explain the situation when contacting the insurance company to strengthen their appeal.
+Themes: insurance coverage confusion, denial reasons, appeal process
+Options Suggested: call insurance for clarification, request an EOB, check for pre-authorization details
+Fit Explanation: The user is actively seeking help to appeal the denial and clarify coverage issues.
+Original Post: Hello! My husband was working at a job that provided dental insurance. About a month before he left the job we went to the dentist and he had to get a deep clean done. We asked the dental office if that would be a problem with the insurance coverage considering he was leaving in a month. They assured us it wouldn’t be and stated that as long as we were paying the insurance, we would have coverage. 
+Well, we received a letter in the mail from the dental office stating that they had submitted the claim to the insurance and that they denied the coverage twice. They said we should call our insurance and try to fight the rejection and if the insurance still chose to deny us that we would have to pay out of pocket for the work. 
+I thought as long as my husband was paying our insurance and still at the job, we were covered. Is that incorrect? 
+Is there anything we can do/say when we call our old insurance that will give us a better chance of getting our bill  covered by them? 
+
+

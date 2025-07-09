@@ -1,0 +1,48 @@
+Thread ID: 1ishta7
+Title: COB between two Caremark plans
+Subreddit: healthinsurance
+Created: 1739898837
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No COB provisions
+Outcome: Ongoing
+OP Summary: The user is facing a coordination of benefits (COB) issue between two Caremark plans, where the primary plan refuses to process claims due to a lack of COB provisions, leading to confusion and potential financial burden.
+Responses Summary: No response summary available
+Themes: Coordination of Benefits, Claim Denial, Pharmacy Billing Issues
+Options Suggested: Contact Caremark for clarification, Request evidence of coverage, Consider appealing the denial
+Fit Explanation: The user is actively seeking help regarding a claim denial related to COB, indicating a very good fit for assistance.
+Original Post: Hi all. I’m currently trying to work out a pharmacy COB issue between two employer-sponsored plans. In summary:
+
+Primary: 
+ - HDHP
+ - Subscriber: self. Plan is new as of 2025.
+ - PBM: Caremark
+ - Cost sharing: full retail cost due OOP until plan deductible is met.
+ - Deductible ($2,000) and OOP max ($4,000) shared for medical and pharmacy benefits.
+ - Rx costs apply to overall deductible and OOP max.
+
+Secondary:
+ - HDHP
+ - Subscriber: parent
+ - PBM: Caremark
+ - Cost sharing: fixed-tier rates. Not subject to medical deductible. No pharmacy deductible. 
+ - Rx costs do not apply to medical deductible or medical OOP max.
+ - Pharmacy OOP max (individual): $1,500
+
+I recently filled an Rx at a retail CVS. I explained that I have 2 plans and tried to provide the benefit info. for both plans before paying. This isn’t my first time dealing with COB, and I know for a fact that CVS can bill 2 plans at POS.
+
+The pharmacist seemed to be having a hard time getting the claim to go through both plans, so I told him to bill whatever plan they had on file. I figured I’d manually submit to whatever plan wasn’t billed. I come to find that CVS billed the secondary plan.
+
+Fast forward 1-2 weeks, I submitted a claim to my primary plan with the receipts and EOB from secondary. I wasn’t expecting any reimbursement (haven’t met primarily plan’s deductible), but I was hoping to have the retail cost applied to my deductible, as if the primary had been billed in the first place. This is typically standard practice for medical claims, where primary initially processes claim as if secondary doesn’t exist.
+
+While my claim was processing, I spoke with a Caremark rep. who told me that my primary plan “doesn’t allow COB,” which is why CVS couldn’t bill both directly in store. Meanwhile, I confirmed that the secondary plan does. Unsurprisingly, the claim submitted to my primary plan rejected because the plan “does not have provisions for COB.”
+
+To be clear, I haven’t had any issues with COB for medical claims between these two plans, so this seems to be a Caremark issue. I know that I could just have the pharmacy bill the primary plan and manually submit to the secondary after, but I’d prefer to (1) avoid the hassle of this, and (2) having to front the OOP retail cost while waiting for reimbursement from secondary (esp. because I take a brand-name stimulant that retails $200+/monthly). 
+
+I’ve never heard of a health insurance plan outright refusing to engage in COB, or a primary refusing to even process a claim that’s already been paid by secondary. Is this allowed? I understand medical and pharmacy COB rules likely differ. Do I have any grounds to appeal this or find a workaround? Located in MA that makes any difference. 
+
+Appreciate any feedback and sorry for long post.
+
+TL;DR: do I have any grounds to appeal a primary Caremark plan that refuses to engage in COB with a secondary plan (also Caremark)? 
+
+

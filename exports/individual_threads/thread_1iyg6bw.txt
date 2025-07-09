@@ -1,0 +1,19 @@
+Thread ID: 1iyg6bw
+Title: Legal Help
+Subreddit: healthinsurance
+Created: 1740547368
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The user is facing a claim denial from United for surgery at Stanford, which was previously approved, citing it as not medically necessary despite the complexity of their condition. They are seeking options for appeal and potential legal action due to the abrupt denial before their scheduled surgery.
+Responses Summary: No response summary available
+Themes: continuity of care, out of network issues, administrative denial
+Options Suggested: file a grievance with the state, request a letter from in-network doctors, consider legal action if appeal is denied
+Fit Explanation: The user is actively seeking help with an ongoing appeal against a claim denial for necessary surgery.
+Original Post: To start off, this particular insurance company has been a NIGHTMARE to deal with 
+
+My current insurance is United, my provider is Mercy physicians group. In 2024, I started having a lot of medical problems pop up, turns out I have a neuroendocrine tumor. I live in California and the only hospital in the state with a dedicated team for this type of tumor is Stanford. Everyone from surgeons and anesthesiologists to oncologists and genetic counselors are highly trained in this type of tumor and removal process. Due to the medical complexity of surgery, I was referred out of network to Stanford. I had a surgery consultation, pre-anesthesia consultation, and meeting with geneticist all at Stanford approved. Then come 2025, a new medical group took over for Mercy physicians group and they denied my claim for surgery. They stated out of network surgery is not "medically necessary" and there's doctors in network for me to see. I met with those doctors, and the Stanford doctors being the SPECIALISTS were quick to deny and correct everything that was said to me, from pre-surgery medication to the procedure itself. It's clear that Stanford was the right move. Again, they're the only hospital in the state with staff specializing in this. When I contacted my insurance provider, I asked why Stanford was approved up until surgery. No one could give me an answer other than "we're a new company with new criteria". Stanford appealed the decision and was set to do a peer to peer with the providers medical director. He called Stanford before the appointment and said the peer to peer was denied because there's doctors in network. He said "if he wants to be seen at Stanford he needs to switch providers". Didn't listen to a single thing the surgical team had to say. I received a copy of the appeal, it was DAMN good, and it would be hard to hear that argument and deny the appeal. Maybe that's why he canceled the peer to peer. I spoke to United and they stated I should file a grievance with the California Department of Managed Healthcare. After speaking with the state department, she stated she would contact United and argue continuity of care and seek an immediate resolution. My surgery is scheduled the 28th of February, and writing this it is the 25th. I've waited 5 months for this date and I'll be damned if I let some new insurance provider come in and ignore everything the old provider did. Should United come back and deny the appeal, would there be any precedent to sue? I'm just trying to think of any and all options. Travel arrangements, flights, airbnbs, family coming from out of state to help with childcare and recovery, all paid for. For insurance to deny this a week before surgery without listening to why is wrong.
+
+What can I do?
+

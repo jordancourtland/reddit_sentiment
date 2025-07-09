@@ -1,0 +1,18 @@
+Thread ID: 1koigy5
+Title: I’m confused
+Subreddit: healthinsurance
+Created: 1747449098
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network preventive services
+Outcome: Ongoing
+OP Summary: The original poster is seeking clarification on a denial from UHC for a bilateral salpingectomy at an out-of-network facility, despite having previously received coverage for procedures there.
+Responses Summary: Commenters suggest checking the insurance plan's tiers, contacting HR for assistance, and exploring options for in-network providers to avoid denial issues.
+Themes: Insurance tiers, HR assistance, In-network options
+Options Suggested: Contact HR, Negotiate with the facility, Find an in-network provider
+Fit Explanation: The original poster is actively dealing with a denial and is looking for advice on how to appeal or navigate the situation, indicating a very good fit.
+Original Post: I’m a nurse. My docs are in-network, but at other facilities for privacy reasons (and because they’re fantastic).
+
+I’m having a bilateral salpingectomy soon and just got a letter back from UHC stating that they wouldn’t cover the bil salp at in-network cost since I could have it done at my hospital. It went on to say that there is coverage for in and out of network services, but no coverage for out of network preventive services. I have had procedures done before with my in-network docs at this facility without issue (cost is slightly higher, but still have coverage). 
+
+I knew I’d have to pay a little extra, but I wasn’t expecting 100% denial. I’m already planning to call UHC and have a backup plan to negotiate the bill with the facility if it comes to that.. but guess it may be a loophole where they can deny it completely though :(

@@ -1,0 +1,23 @@
+Thread ID: 1k8riq0
+Title: Super Pregnant and Just Found Out This Might be a Problem
+Subreddit: healthinsurance
+Created: 1745714167
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claim denial from primary insurance (United HMO)
+Outcome: Unclear
+OP Summary: The user is facing a denial from their primary insurance for a recent office visit while being pregnant and is concerned about potential denials for their upcoming delivery at Kaiser, which they wish to keep as their provider.
+Responses Summary: No response summary available
+Themes: Dual insurance coverage, Continuity of care, Claim processing confusion
+Options Suggested: Contact United for denial letter, Ensure Kaiser is billed as secondary, Verify insurance status with providers
+Fit Explanation: The user is currently dealing with a denial and is seeking advice on how to navigate their insurance situation, indicating a very good fit for appeal help.
+Original Post: Hi guys, I live in Southern CA (23f) and don’t have much experience with hospital billing ping pong when dealing with dual health insurance coverage and was hoping someone could make sense of what I learned today. I’m 40+ weeks pregnant. Yay! 
+
+Uh-oh, Today I found out that my employer-sponsored health care (United HMO, enrolled February 2025) is listed as my primary insurance under my medical office (Kaiser HMO, enrolled under my husband in February 2023). I plan on staying with Kaiser and plan to deliver a baby with Kaiser within the week! All of my prenatal appointments have been with Kaiser. When pre-admitting to labor and deliver early April 2025, they said my delivery will be fully covered. 
+
+Today I received a letter from United denying the cost of a recent Kaiser office visit from February 2025. After calling Kaiser to find out why they had been billing United, I found out that United was listed as my primary insurer. 
+
+I requested that Kaiser remove United as an insurance to avoid billing confusion. Member services said this could take 7 days. Now i’m wondering if I can still deliver with Kaiser without footing the bill. The problem I’m having is that i’m 40+ weeks pregnant and need to decide where to deliver yesterday. I’m worried that the labor and delivery bill will get denied by United and Kaiser. When I look at my previous insurance claims through the Kaiser app since my medical coverage with United started in February, they are under the status: Paid instead of: Approved. 
+
+Does anyone know what’s going on here? Am I so screwed? I’m hoping that if I deliver before Kaiser removes United as a primary insurer, United will deny the claim since they don’t cover Kaiser, and Kaiser will cover their share. 
+

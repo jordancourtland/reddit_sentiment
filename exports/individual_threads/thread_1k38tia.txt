@@ -1,0 +1,24 @@
+Thread ID: 1k38tia
+Title: Should I bill my insurance?
+Subreddit: healthinsurance
+Created: 1745103983
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Billing for services not rendered
+Outcome: Unclear
+OP Summary: The user is facing a billing issue with a hospital that charged for services not rendered during a visit for their daughter's asthma attack, and they are unsure how to proceed with insurance claims.
+Responses Summary: No response summary available
+Themes: insurance billing issues, hospital charges, dispute resolution
+Options Suggested: Contact the hospital billing office, File a complaint with the insurance company, Request medical records to support the dispute
+Fit Explanation: The user has a current denial situation and is actively seeking advice on how to handle it, indicating a very good fit for assistance.
+Original Post: (30, m, GA, high $300s) 
+
+Seeking some advice for a messy situation-
+
+My daughter had an asthma attack back in February so we went to our closest hospital. They had no beds and encouraged us to drive the 20 mins to the children’s hospital about 20 mins after triage. We did and were seen etc no problem. Insurance paid and applied that visit to deductible etc
+
+A few weeks ago I got a bill from the 1st hospital for both a facility fee and physician fee. I disputed as we never saw a physician, basically told me I’m sol and have to pay or they’ll send to collections. They billed an old insurance company we had 2 years ago (on file from prior visit). 
+
+Any issues with having them bill BCBS even though BCBS has already closed out the children’s hospital claims? My guess is they will deny since we left without care or maybe even “ama” depending on how it’s documented. If we left, can they/will they reopen the children’s hospital claims and deny those?
+
+Not sure what to do. 

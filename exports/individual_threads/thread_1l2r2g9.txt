@@ -1,0 +1,18 @@
+Thread ID: 1l2r2g9
+Title: What has your experience with Ameritas PrimeStar Lite Dental insurance been?
+Subreddit: healthinsurance
+Created: 1748994169
+Persona Fit: 0.0
+Confidence: 0.3
+Denial Type: unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking experiences with Ameritas PrimeStar Lite Dental insurance, specifically regarding coverage, claim denials, and cancellation ease.
+Responses Summary: Commenters provided general guidance on how to improve the post for better responses, including the importance of sharing specific details like age, state, and income.
+Themes: insurance coverage, claim denial experiences, cancellation process
+Options Suggested: provide more details, check EOB, review common questions
+Fit Explanation: The original post does not directly address a claim denial issue, making it a poor fit for the persona seeking denial analysis.
+Original Post: What has your experience with Ameritas PrimeStar Lite Dental insurance been? Coverage decent? Claims denied? Easy to cancel? Thanks!!
+
+Age 38
+state Maine 
+Estimated income $30k

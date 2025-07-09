@@ -1,0 +1,84 @@
+Thread ID: 1k2e7fh
+Title: Dislocated shoulder in NYC: $32K bill now $6.6K self‑pay; out‑of‑state Bronze 60 PPO—use insurance or negotiate?
+Subreddit: healthinsurance
+Created: 1745006593
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: After dislocating a shoulder in NYC, the user faces a $32K bill reduced to $6.6K for self-pay, questioning whether to use insurance or negotiate further. They seek advice on handling insurance and negotiating medical bills.
+Responses Summary: No response summary available
+Themes: Insurance negotiation, Medical billing, Emergency care
+Options Suggested: Negotiate self-pay discount, Submit partial insurance claim, Explore charity care options
+Fit Explanation: The user is actively seeking advice on how to navigate their insurance denial and negotiate medical bills, indicating a perfect fit.
+Original Post: A month ago I’d just moved from California to New York when I dislocated my shoulder playing basketball at the gym (the gym had an awful design which contributed to this) I, panicked, and called 911. The ambulance ride was rough (crew even botched the sling), but the ER sedated me and popped the joint back in. Now the real pain is the bill.
+
+# The basics
+
+* **Insurance:** Blue Shield of CA **Bronze 60 PPO** (NY hospital = out‑of‑network).
+* **Income:** $95 k/year.
+* **Ambulance bill:** still pending.
+
+# The damage so far — fully itemized
+
+# Facility (hospital) bill
+
+|Item|CPT/HCPCS|Gross|Self‑pay discount|**Net**|
+|:-|:-|:-|:-|:-|
+|ER visit – Level 3|99283|$5,106.17| | |
+|OR: Closed reduction of shoulder|23650|$20,530.05| | |
+|X‑ray shoulder 2+ views|73030|$694.31| | |
+|Bupivacaine 0.25 % (50 ml)|J0665|$5.29| | |
+|Bupivacaine 0.25 % (100 ml)|J0665|$10.58| | |
+|NYS surcharge|—|$482.06| | |
+|**Facility subtotal**| |**$26,828.46**| | |
+|**Self‑pay discount**|—|—|**–$21,340.58**| |
+|**Facility balance**| | | |**$5,487.88**|
+
+# Physician (ER / Ortho) bill
+
+|Item|CPT|Gross|Self‑pay discount|**Net**|
+|:-|:-|:-|:-|:-|
+|ER visit – Level 4|99284|$750.00|–$590.00|$160.00|
+|Shoulder reduction w/ manipulation|23650|$4,739.00|–$3,815.00|$924.00|
+|**Physician balance**| | | |**$1,084.00**|
+
+**Running total (no ambulance yet):** $32k gross → **$6,571.88** owed after discounts.
+
+*(CPT 23650 national allowed avg ≈ $1.5 k—hospital wanted $20.5 k 🤯)*
+
+# Insurance math (out‑of‑network)
+
+* **OON deductible:** $12,600
+* **OON max OOP:** $25,000
+
+If I file through insurance, I’d owe at least the $12.6 k deductible—**double** my current $6.6 k self‑pay price—unless insurance massively reprices the charges.
+
+# What I’m wrestling with
+
+1. **Use insurance or stay self‑pay?**
+   * Will the hospital yank the discount if they learn I’m insured—even if I never submit the claim?
+2. **Negotiating the facility bill**
+   * Best tactics to push CPT 23650 toward Medicare/“reasonable &amp; customary” ($1.5 k) **and** secure a 0 % long‑term payment plan ($100–150/mo).
+3. **Ambulance wildcard**
+   * Typical NYC EMS bills and how negotiable they are.
+4. **Physical therapy mess**
+   * Insurer’s directory says my NY PT clinic is in‑network, but claims denied. Should I fight it or switch to a NY plan ASAP?
+5. **Collections risk**
+   * If this drags into collections, do they chase the **$6.6 k** discounted balance or the $32 k sticker?
+
+# What I’ve done so far
+
+* Pulled full itemized bill + CPT codes.
+* Found the hospital’s chargemaster (prices are wild).
+* Paused payment by initiation a forgiveness review
+
+# Need advice on
+
+* Sample scripts/letters that actually worked for slashing self‑pay hospital bills.
+* Whether partially submitting to insurance (e.g., physician bill only) ever makes sense.
+* Negotiating NYC ambulance charges.
+* Charity‑care possibilities at my income.
+* Any loopholes (special enrollment, retro‑coverage, surprise‑billing protections).
+
+**TL;DR:** ER wants $32 k → discounted to $6.6k after a shoulder dislocation in NYC; my CA Bronze 60 PPO OON deductible is $12.6 k. Not sure if using insurance helps or hurts. Looking for negotiation tactics and prep for the looming ambulance bill. Thanks for any wisdom! 🙏

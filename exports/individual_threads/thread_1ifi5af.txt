@@ -1,0 +1,29 @@
+Thread ID: 1ifi5af
+Title: More is allowed for the same CPT in vs. out of network? (Aetna)
+Subreddit: healthinsurance
+Created: 1738448731
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network reimbursement disparity
+Outcome: Unclear
+OP Summary: The user is frustrated with the disparity in allowed amounts for CPT codes between in-network and out-of-network providers and is considering an appeal.
+Responses Summary: No response summary available
+Themes: In-network vs. out-of-network reimbursement, Claim appeal process, Frustration with insurance contracts
+Options Suggested: File an appeal, Consult with a billing expert, Review EOB for discrepancies
+Fit Explanation: The user is actively seeking to appeal a claim denial related to in-network versus out-of-network reimbursement rates.
+Original Post: I know this is likely due to the in vs. out of network piece here...But I was reviewing our EOBs for CPT 99214 and CPT 99213 and found some very interesting information and now...I want to decide how to proceed with this appeal.  
+  
+Again read above, yes, possibly associated with in vs. out-of-network - but wouldn't you think the average contracted amount for a CPT code would be appropriate? 
+
+***So they allow $229.44 for CPT 99213 in the agreed upon amount for in-network, yet they think allowing less than $150 for a higher level claim is appropriate just because it's out of network?*** 
+
+I know - again this is likely related to contracts.  But there is a reason some medical professionals don't go through the insurance process.  I'm not here to debate the contracts, but this feels off.  
+
+|Code|In or out of network provider?|Amt Billed|Not payable|In-network allowed|
+|:-|:-|:-|:-|:-|
+|CPT 99214 |Out of network|200|48.78|\--|
+|CPT 99214|Out of network (diff provider - for my spouse)|150|\--|\--|
+|CPT 99213|in network (lower level claim)|237.00|\--|229.44|
+|CPT 99213 (when Aetna downcoded the above 99214 that I appealed and won...)|Out of network|200|92.48|\--|
+
+

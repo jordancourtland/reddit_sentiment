@@ -1,0 +1,25 @@
+Thread ID: 1jw2wn9
+Title: Anthem denied BRCA 1/2 test saying “once per lifetime” — but I’ve never had it before
+Subreddit: healthinsurance
+Created: 1744304510
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Once per lifetime limit
+Outcome: Ongoing
+OP Summary: The user had a BRCA genetic test denied by Anthem due to a claimed 'once per lifetime' limit, despite never having the test before. They are seeking advice on how to address the denial and understand the situation better.
+Responses Summary: No response summary available
+Themes: Claim Denial, Pre-Authorization Issues, Insurance Communication
+Options Suggested: Contact Anthem for clarification, Request a copy of previous EOBs, Seek assistance from a healthcare advocate
+Fit Explanation: The user is currently dealing with a claim denial and is actively seeking advice on next steps, indicating a very good fit for assistance.
+Original Post: Hi all,
+Hoping someone here can help me make sense of this or share advice on next steps.
+
+I recently had a BRCA genetic test done through Labcorp. Before the test, I received an estimate of $43.17 and got pre-authorization from Anthem. Everything looked good, so I went ahead.
+
+Now I’ve received an EOB from Anthem denying the claim. They say I’ve reached my “once per lifetime” limit for BRCA testing—and they’re expecting me to pay $3,000 out-of-pocket.
+
+I called Anthem, and they said the correct CPT codes were used and the denial is based solely on the lifetime limit. But I have never had BRCA testing before. It’s my first time. Anthem is now reviewing the case, but I’m trying to understand what might have gone wrong.
+
+My theory is that their system may have logged the pre-authorization itself as a completed test, and when the actual test was billed, it triggered the “second” test denial. Has anyone seen something like this happen?
+
+Thanks in advance!

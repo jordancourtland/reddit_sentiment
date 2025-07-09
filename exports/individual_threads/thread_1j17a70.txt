@@ -1,0 +1,42 @@
+Thread ID: 1j17a70
+Title: I reported AMBETTER Health (OK) - failure to comply with State law concerning diagnostic screening mammograms
+Subreddit: healthinsurance
+Created: 1740856567
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Denial of coverage for diagnostic screening mammogram
+Outcome: Ongoing
+OP Summary: The user reported AMBETTER Health for denying coverage of a diagnostic screening mammogram, claiming violations of state law and inadequate communication for individuals with disabilities.
+Responses Summary: No response summary available
+Themes: Insurance compliance with state law, Communication barriers for disabilities, Inadequate information from insurance provider
+Options Suggested: File a complaint with the state insurance department, Request reimbursement for the mammogram, Seek legal advice regarding ADA compliance
+Fit Explanation: The user is actively seeking help regarding their insurance denial and has taken steps to report the issue.
+Original Post: This is the report I filed today with the OK Insurance Department, Ambetter's Grievance's department and a few other organizations:
+
+I am hereby reporting three violations of my rights perpetrated by AMBETTER health insurance, of which I am a member (Member ID **XXX,** Effective Date of Coverage **01/01/2025**):
+
+1. **Denial of coverage** of my yearly diagnostic screening mammogram, determined by OK state law, to which AMBETTER is required to comply as per the **Affordable Care Act** (ACA). \[cited documents: 1, 2, 3, 4\]
+2. Harassment by the customer service operator into submitting to a painful experience in exchange for information (which was denied), and absence of "effective communication" (email and messaging) for people with disabilities, which includes those with hearing and ear disorders. I have hyperacusis and a phone call can be very painful depending on the background noise and overall quality. Effective communication is a requirement of the **Americans with Disabilities Act** \[cited documents: 5, 6, 7\] The call was made by XXX and authorized by me on Monday, February 17, 2025, from 2:50 PM - 3:30 PM. I didn't understand a single word spoken by the operator, but I did identify myself and authorize Mr. Bruno to talk on my behalf.
+3. Misleading, inaccurate, incomplete, and disorganized online and printed information concerning this particular service that AMBETTER is mandated by law to cover, which, combined with the denial of information (item 2), resulted in denial of coverage (item 1). Under the Affordable Care Act (ACA) and the Employee Retirement Income Security Act (ERISA), health insurance companies are legally required to provide detailed information about their services to policyholders, including both printed and online access.
+
+I am also officially requesting AMBETTER to reimburse me for the cost of my screening mammogram done at OU Breast Health Network (2607 SW 1119th Street, Oklahoma City, OK 73013) on March XX, 2025, at the price of  $175.20 (special price for patient self-coverage). I understand that the Oklahoma Insurance Department cannot force them to do it, but, as it is, I cannot even communicate my request to them: they do not offer me any channel of communication. I am forced to report them.
+
+Finally, I also demand AMBETTER’s compliance with both legal requirements, that it provides me with objective information of where to get the diagnostic procedures I require, and that, from now until the end of my policy, it provides a written form of communication to me, either by email or a messaging system.  
+
+Yours,
+
+Marilia Coutinho, Ph.D. 
+
+(1) Women’s Preventive Services Guidelines | HRSA. (2025, January 1). [https://www.hrsa.gov/womens-guidelines](https://www.hrsa.gov/womens-guidelines)
+
+(2) DenseBreast-info, Inc. (2024, December 27). State Law Insurance Map | DenseBreast-info, Inc. [https://densebreast-info.org/legislative-information/state-law-insurance-map/](https://densebreast-info.org/legislative-information/state-law-insurance-map/) 
+
+(3) Coordinated Care Corporation. (2024). Preventive Services Guide. [https://www.ambetterhealth.com/content/dam/centene/Coordinated%20Care/ambetter/PDFs/WA-2024-PCSG-ENG.pdf](https://www.ambetterhealth.com/content/dam/centene/Coordinated%20Care/ambetter/PDFs/WA-2024-PCSG-ENG.pdf)
+
+(4) United States Preventive Services Task Force, Advisory Committee on Immunization Practices, Centers for Disease Control and Prevention, Health Resources and Services Administration, &amp; American Academy of Pediatrics. (2024). Preventive Services Guide \[Guide\]. [https://www.ambetterhealth.com/content/dam/centene/ambetter-of-oklahoma/pdf/OK-2024-PCSG-ENG.pdf](https://www.ambetterhealth.com/content/dam/centene/ambetter-of-oklahoma/pdf/OK-2024-PCSG-ENG.pdf) 
+
+(5) Effective Communication for Individuals with Hearing Loss | University Disability Resources. (n.d.). [https://accessibility.harvard.edu/effective-communication-individuals-hearing-loss](https://accessibility.harvard.edu/effective-communication-individuals-hearing-loss)
+
+(6) U.S. Department of Justice, Civil Rights Division, &amp; Disability Rights Section. (2010). Effective communication. [https://archive.ada.gov/effective-comm.pdf](https://archive.ada.gov/effective-comm.pdf) 
+
+(7) U.S. Department of Justice, Civil Rights Division, &amp; Disability Rights Section. (2010). Effective communication. [https://archive.ada.gov/effective-comm.pdf](https://archive.ada.gov/effective-comm.pdf) 

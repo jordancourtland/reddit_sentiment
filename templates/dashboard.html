@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Patient Experience Analytics Dashboard</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { 
+            background: #f7f7f7; 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+        }
+        nav { 
+            background: #222; 
+            color: #fff; 
+            padding: 1rem; 
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        nav a { 
+            color: #fff; 
+            text-decoration: none; 
+            margin-right: 1rem; 
+            font-weight: bold;
+        }
+        .container { 
+            max-width: 1400px; 
+            margin: 2rem auto; 
+            padding: 0 1rem;
+        }
+        .stats-grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+            gap: 1rem; 
+            margin-bottom: 2rem; 
+        }
+        .stat-card { 
+            background: #fff; 
+            padding: 1.5rem; 
+            border-radius: 8px; 
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            border-left: 4px solid #007bff; 
+        }
+        .stat-number { 
+            font-size: 2rem; 
+            font-weight: bold; 
+            color: #007bff; 
+        }
+        .stat-label { 
+            color: #666; 
+            margin-top: 0.5rem; 
+            font-size: 0.9rem;
+        }
+        .chart-container {
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        .chart-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+            color: #333;
+        }
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 2rem;
+        }
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+        }
+        .tab-container {
+            margin-bottom: 2rem;
+        }
+        .tab-button {
+            background: #fff;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            margin-right: 0.5rem;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .tab-button.active {
+            background: #007bff;
+            color: #fff;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav>
+        <a href="/">Posts</a>
+        <a href="/dashboard">Dashboard</a>
+        <a href="#" onclick="exportData()">Export Data</a>
+    </nav>
+    
+    <div class="container">
+        <h1>Patient Experience Analytics Dashboard</h1>
+        
+        <!-- Tab Navigation -->
+        <div class="tab-container">
+            <button class="tab-button active" onclick="showTab('overview')">Overview</button>
+            <button class="tab-button" onclick="showTab('patient-journey')">Patient Journey</button>
+            <button class="tab-button" onclick="showTab('denial-analysis')">Denial Analysis</button>
+            <button class="tab-button" onclick="showTab('touchpoints')">Touchpoints & Players</button>
+        </div>
+        
+        <!-- Overview Tab -->
+        <div id="overview" class="tab-content active">
+            <div class="stats-grid" id="stats-grid">
+                <div class="loading">Loading statistics...</div>
+            </div>
+            
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Analysis Progress</div>
+                    <canvas id="progressChart" width="400" height="200"></canvas>
+                </div>
+                
+                <div class="chart-container">
+                    <div class="chart-title">Recent Activity</div>
+                    <div id="recent-activity">
+                        <div class="loading">Loading recent activity...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Patient Journey Tab -->
+        <div id="patient-journey" class="tab-content">
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Patient Phase Distribution</div>
+                    <canvas id="phaseChart" width="400" height="200"></canvas>
+                </div>
+                
+                <div class="chart-container">
+                    <div class="chart-title">Phase Sentiment Analysis</div>
+                    <canvas id="phaseSentimentChart" width="400" height="200"></canvas>
+                </div>
+            </div>
+            
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Treatment Decision Factors</div>
+                    <canvas id="treatmentDecisionChart" width="400" height="200"></canvas>
+                </div>
+                
+                <div class="chart-container">
+                    <div class="chart-title">Patient Confidence by Phase</div>
+                    <canvas id="patientConfidenceChart" width="400" height="200"></canvas>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Denial Analysis Tab -->
+        <div id="denial-analysis" class="tab-content">
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Denial Categories</div>
+                    <canvas id="denialCategoryChart" width="400" height="200"></canvas>
+                </div>
+                
+                <div class="chart-container">
+                    <div class="chart-title">Resolution Analysis</div>
+                    <canvas id="resolutionChart" width="400" height="200"></canvas>
+                </div>
+            </div>
+            
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Denial Timeline Analysis</div>
+                    <canvas id="denialTimelineChart" width="400" height="200"></canvas>
+                </div>
+                
+                <div class="chart-container">
+                    <div class="chart-title">Denial Reason Breakdown</div>
+                    <canvas id="denialReasonChart" width="400" height="200"></canvas>
+                </div>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-title">Denial Impact on Treatment</div>
+                <canvas id="denialImpactChart" width="400" height="200"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-title">Denials by Patient Phase</div>
+                <canvas id="denialByPhaseChart" width="800" height="400"></canvas>
+            </div>
+        </div>
+        
+        <!-- Touchpoints & Players Tab -->
+        <div id="touchpoints" class="tab-content">
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Touchpoint Frequency Distribution</div>
+                    <canvas id="touchpointFreqChart" width="400" height="200"></canvas>
+                </div>
+                
+                <div class="chart-container">
+                    <div class="chart-title">Player Frequency Distribution</div>
+                    <canvas id="playerFreqChart" width="400" height="200"></canvas>
+                </div>
+            </div>
+            
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Touchpoint Sentiment Distribution</div>
+                    <canvas id="touchpointSentimentChart" width="400" height="200"></canvas>
+                </div>
+                
+                <div class="chart-container">
+                    <div class="chart-title">Player Sentiment Distribution</div>
+                    <canvas id="playerSentimentChart" width="400" height="200"></canvas>
+                </div>
+            </div>
+            <!-- Leaderboard versions -->
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Touchpoint Sentiment Leaderboard (Top 10 & Bottom 10)</div>
+                    <canvas id="touchpointSentimentLeaderboardChart" width="400" height="400"></canvas>
+                </div>
+                <div class="chart-container">
+                    <div class="chart-title">Player Sentiment Leaderboard (Top 10 & Bottom 10)</div>
+                    <canvas id="playerSentimentLeaderboardChart" width="400" height="400"></canvas>
+                </div>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-title">Touchpoint-Phase Heatmap</div>
+                <canvas id="touchpointPhaseChart" width="800" height="400"></canvas>
+            </div>
+            
+
+            
+
+        </div>
+    </div>
+    
+    <script>
+        let progressChart, phaseChart, phaseSentimentChart, denialCategoryChart, 
+            resolutionChart, denialByPhaseChart, touchpointChart, playerChart;
+        
+        function showTab(tabName) {
+            // Hide all tab contents
+            $('.tab-content').removeClass('active');
+            $('.tab-button').removeClass('active');
+            
+            // Show selected tab
+            $('#' + tabName).addClass('active');
+            $('[onclick="showTab(\'' + tabName + '\')"]').addClass('active');
+            
+            // Load data for the tab if needed
+            if (tabName === 'patient-journey') {
+                loadPatientJourneyData();
+            } else if (tabName === 'denial-analysis') {
+                loadDenialAnalysisData();
+            } else if (tabName === 'touchpoints') {
+                loadTouchpointData();
+            }
+        }
+        
+        function loadDashboardData() {
+            $.get('/api/analytics', function(data) {
+                // Update stats cards
+                let statsHtml = `
+                    <div class="stat-card">
+                        <div class="stat-number">${data.total_posts}</div>
+                        <div class="stat-label">Total Posts</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">${data.total_analyzed}</div>
+                        <div class="stat-label">Analyzed Posts</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">${Math.round(data.avg_score)}</div>
+                        <div class="stat-label">Avg Score</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">${Math.round(data.avg_comments)}</div>
+                        <div class="stat-label">Avg Comments</div>
+                    </div>
+                `;
+                $('#stats-grid').html(statsHtml);
+                
+                // Create progress chart
+                if (progressChart) progressChart.destroy();
+                const progressCtx = document.getElementById('progressChart').getContext('2d');
+                const analyzedPercent = data.total_posts > 0 ? (data.total_analyzed / data.total_posts * 100) : 0;
+                progressChart = new Chart(progressCtx, {
+                    type: 'doughnut',
+                    data: {
+                        labels: ['Analyzed', 'Pending'],
+                        datasets: [{
+                            data: [data.total_analyzed, data.total_posts - data.total_analyzed],
+                            backgroundColor: ['#28a745', '#dc3545']
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            legend: {
+                                position: 'bottom'
+                            }
+                        }
+                    }
+                });
+                
+                // Load recent activity
+                loadRecentActivity();
+            });
+        }
+        
+        function loadPatientJourneyData() {
+            $.get('/api/patient-analytics', function(data) {
+                // Phase distribution chart
+                if (phaseChart) phaseChart.destroy();
+                const phaseCtx = document.getElementById('phaseChart').getContext('2d');
+                
+                // Sort phases in correct order
+                const sortedPhaseDistribution = data.phase_distribution.sort((a, b) => {
+                    const aIndex = PHASE_ORDER.indexOf(a.patient_phase);
+                    const bIndex = PHASE_ORDER.indexOf(b.patient_phase);
+                    return aIndex - bIndex;
+                });
+                
+                phaseChart = new Chart(phaseCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: sortedPhaseDistribution.map(p => p.patient_phase),
+                        datasets: [{
+                            label: 'Posts',
+                            data: sortedPhaseDistribution.map(p => p.count),
+                            backgroundColor: '#36A2EB'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
+                
+                // Phase Sentiment Analysis chart (with significance threshold)
+                if (phaseSentimentChart) phaseSentimentChart.destroy();
+                const phaseSentimentCtx = document.getElementById('phaseSentimentChart').getContext('2d');
+                const significanceThreshold = 5; // Change as needed
+                const filteredPhaseSentiment = (data.phase_sentiment || []).filter(p => p.count >= significanceThreshold);
+                
+                // Sort phases in correct order
+                const sortedPhaseSentiment = filteredPhaseSentiment.sort((a, b) => {
+                    const aIndex = PHASE_ORDER.indexOf(a.patient_phase);
+                    const bIndex = PHASE_ORDER.indexOf(b.patient_phase);
+                    return aIndex - bIndex;
+                });
+                
+                const phaseLabels = sortedPhaseSentiment.map(p => p.patient_phase);
+                const avgSentiments = sortedPhaseSentiment.map(p => p.avg_sentiment);
+                
+                phaseSentimentChart = new Chart(phaseSentimentCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: phaseLabels,
+                        datasets: [{
+                            label: 'Avg Sentiment',
+                            data: avgSentiments,
+                            backgroundColor: avgSentiments.map(s => s > 0.6 ? '#28a745' : s > 0.4 ? '#ffc107' : '#dc3545')
+                        }]
+                    },
+                    options: { y: { beginAtZero: true, max: 1 } }
+                });
+            });
+            
+            // Load new charts
+            loadTreatmentDecisionFactors();
+            loadPatientConfidenceByPhase();
+        }
+        
+        function loadDenialAnalysisData() {
+            $.get('/api/patient-analytics', function(data) {
+                // Denial categories chart (existing code)
+                if (denialCategoryChart) denialCategoryChart.destroy();
+                const denialCtx = document.getElementById('denialCategoryChart').getContext('2d');
+                // Aggregate counts by denial_category, excluding 'None'
+                const categoryCounts = {};
+                data.denial_by_phase.forEach(d => {
+                    if (d.denial_category && d.denial_category !== 'None') {
+                        if (!categoryCounts[d.denial_category]) {
+                            categoryCounts[d.denial_category] = 0;
+                        }
+                        categoryCounts[d.denial_category] += d.count;
+                    }
+                });
+                const categories = Object.keys(categoryCounts);
+                const counts = categories.map(cat => categoryCounts[cat]);
+                denialCategoryChart = new Chart(denialCtx, {
+                    type: 'doughnut',
+                    data: {
+                        labels: categories,
+                        datasets: [{
+                            data: counts,
+                            backgroundColor: [
+                                '#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0',
+                                '#9966FF', '#FF9F40', '#FF6384', '#C9CBCF'
+                            ]
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            legend: {
+                                position: 'bottom'
+                            }
+                        }
+                    }
+                });
+                // Resolution Analysis chart (with significance threshold)
+                if (resolutionChart) resolutionChart.destroy();
+                const resolutionCtx = document.getElementById('resolutionChart').getContext('2d');
+                const significanceThreshold = 5; // Change as needed
+                const filteredResolutionData = (data.resolution_data || []).filter(r => r.count >= significanceThreshold);
+                const resolutions = [...new Set(filteredResolutionData.map(r => r.denial_resolution))];
+                const timeframes = [...new Set(filteredResolutionData.map(r => r.resolution_timeframe))];
+                const resolutionCounts = {};
+                filteredResolutionData.forEach(r => {
+                    if (!resolutionCounts[r.denial_resolution]) resolutionCounts[r.denial_resolution] = {};
+                    resolutionCounts[r.denial_resolution][r.resolution_timeframe] = r.count;
+                });
+                const resolutionDatasets = timeframes.map((tf, idx) => ({
+                    label: tf,
+                    data: resolutions.map(res => resolutionCounts[res]?.[tf] || 0),
+                    backgroundColor: `hsl(${idx * 360 / timeframes.length}, 70%, 50%)`
+                }));
+                resolutionChart = new Chart(resolutionCtx, {
+                    type: 'bar',
+                    data: { labels: resolutions, datasets: resolutionDatasets },
+                    options: { responsive: true, scales: { y: { beginAtZero: true } } }
+                });
+                // Denial by Patient Phase chart (with significance threshold)
+                if (denialByPhaseChart) denialByPhaseChart.destroy();
+                const denialByPhaseCtx = document.getElementById('denialByPhaseChart').getContext('2d');
+                const filteredDenialByPhase = (data.denial_by_phase || []).filter(d => d.count >= significanceThreshold);
+                const phases = [...new Set(filteredDenialByPhase.map(d => d.patient_phase))];
+                const sortedPhases = sortPhases([...phases]);
+                const denialCats = [...new Set(filteredDenialByPhase.map(d => d.denial_category))];
+                const phaseCategoryCounts = {};
+                filteredDenialByPhase.forEach(d => {
+                    if (!phaseCategoryCounts[d.patient_phase]) phaseCategoryCounts[d.patient_phase] = {};
+                    phaseCategoryCounts[d.patient_phase][d.denial_category] = d.count;
+                });
+                const denialByPhaseDatasets = denialCats.map((cat, idx) => ({
+                    label: cat,
+                    data: sortedPhases.map(phase => phaseCategoryCounts[phase]?.[cat] || 0),
+                    backgroundColor: `hsl(${idx * 360 / denialCats.length}, 70%, 50%)`
+                }));
+                denialByPhaseChart = new Chart(denialByPhaseCtx, {
+                    type: 'bar',
+                    data: { labels: sortedPhases, datasets: denialByPhaseDatasets },
+                    options: { responsive: true, scales: { y: { beginAtZero: true } } }
+                });
+            });
+            
+            // Load new denial analysis charts
+            loadDenialTimelineAnalysis();
+            loadDenialReasonBreakdown();
+            loadDenialImpactOnTreatment();
+        }
+        
+        function loadTouchpointData() {
+            const significanceThreshold = 5; // Change this value as needed
+            // Load touchpoint analytics
+            $.get('/api/touchpoint-analytics', function(touchpointData) {
+                console.log('Touchpoint Analytics:', touchpointData);
+                // Touchpoint frequency distribution (with significance threshold)
+                if (window.touchpointFreqChart && typeof window.touchpointFreqChart.destroy === 'function') window.touchpointFreqChart.destroy();
+                const touchpointFreqCtx = document.getElementById('touchpointFreqChart').getContext('2d');
+                // Filter for significance
+                const filteredTouchpointFreq = touchpointData.frequency.filter(t => t.count >= significanceThreshold);
+                const touchpointFreqLabels = filteredTouchpointFreq.map(t => t.touchpoint);
+                const touchpointFreqData = filteredTouchpointFreq.map(t => t.count);
+                window.touchpointFreqChart = new Chart(touchpointFreqCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: ['Frequency'],
+                        datasets: touchpointFreqLabels.map((label, index) => ({
+                            label: label,
+                            data: [touchpointFreqData[index]],
+                            backgroundColor: `hsl(${index * 360 / touchpointFreqLabels.length}, 70%, 50%)`
+                        }))
+                    },
+                    options: {
+                        responsive: true, 
+                        indexAxis: 'y', 
+                        scales: {x: {beginAtZero: true}},
+                        plugins: {
+                            legend: {
+                                display: true,
+                                position: 'top'
+                            }
+                        }
+                    }
+                });
+                // Touchpoint sentiment distribution (average per touchpoint)
+                if (window.touchpointSentimentChart && typeof window.touchpointSentimentChart.destroy === 'function') window.touchpointSentimentChart.destroy();
+                const touchpointSentimentCtx = document.getElementById('touchpointSentimentChart').getContext('2d');
+                // Group and average
+                const sentimentByTouchpoint = {};
+                touchpointData.sentiment.forEach(item => {
+                    if (!sentimentByTouchpoint[item.touchpoint]) sentimentByTouchpoint[item.touchpoint] = [];
+                    sentimentByTouchpoint[item.touchpoint].push(item.sentiment_score);
+                });
+                const touchpointSentimentLabels = Object.keys(sentimentByTouchpoint);
+                const touchpointSentimentData = touchpointSentimentLabels.map(tp => {
+                    const arr = sentimentByTouchpoint[tp];
+                    return arr.reduce((a, b) => a + b, 0) / arr.length;
+                });
+                window.touchpointSentimentChart = new Chart(touchpointSentimentCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: touchpointSentimentLabels,
+                        datasets: [{
+                            label: 'Average Sentiment',
+                            data: touchpointSentimentData,
+                            backgroundColor: touchpointSentimentData.map(s => s > 0.6 ? '#28a745' : s > 0.4 ? '#ffc107' : '#dc3545')
+                        }]
+                    },
+                    options: {responsive: true, scales: {y: {beginAtZero: true, max: 1}}}
+                });
+                // Touchpoint Sentiment Leaderboard (Top 10 & Bottom 10, with significance threshold)
+                if (window.touchpointSentimentLeaderboardChart && typeof window.touchpointSentimentLeaderboardChart.destroy === 'function') window.touchpointSentimentLeaderboardChart.destroy();
+                const touchpointSentimentLeaderboardCtx = document.getElementById('touchpointSentimentLeaderboardChart').getContext('2d');
+                // Only include touchpoints with at least N data points
+                const leaderboardArr = touchpointSentimentLabels
+                    .map((tp, i) => ({label: tp, value: touchpointSentimentData[i], count: sentimentByTouchpoint[tp].length}))
+                    .filter(x => x.count >= significanceThreshold);
+                leaderboardArr.sort((a, b) => b.value - a.value);
+                const top10 = leaderboardArr.slice(0, 10);
+                const bottom10 = leaderboardArr.slice(-10).reverse();
+                const leaderboardLabels = top10.map(x => x.label).concat(bottom10.map(x => x.label));
+                const leaderboardData = top10.map(x => x.value).concat(bottom10.map(x => x.value));
+                window.touchpointSentimentLeaderboardChart = new Chart(touchpointSentimentLeaderboardCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: leaderboardLabels,
+                        datasets: [{
+                            label: 'Avg Sentiment',
+                            data: leaderboardData,
+                            backgroundColor: leaderboardData.map(s => s > 0.6 ? '#28a745' : s > 0.4 ? '#ffc107' : '#dc3545')
+                        }]
+                    },
+                    options: {responsive: true, indexAxis: 'y', scales: {x: {beginAtZero: true, max: 1}}}
+                });
+                // Touchpoint-phase heatmap
+                if (window.touchpointPhaseChart && typeof window.touchpointPhaseChart.destroy === 'function') window.touchpointPhaseChart.destroy();
+                const touchpointPhaseCtx = document.getElementById('touchpointPhaseChart').getContext('2d');
+                
+                // Group by touchpoint and phase
+                const phaseData = {};
+                const allPhases = new Set();
+                touchpointData.phase_heatmap.forEach(item => {
+                    if (!phaseData[item.touchpoint]) phaseData[item.touchpoint] = {};
+                    phaseData[item.touchpoint][item.phase] = (phaseData[item.touchpoint][item.phase] || 0) + item.count;
+                    allPhases.add(item.phase);
+                });
+                
+                // Filter touchpoints that appear more than 10 times total
+                const touchpointTotalCounts = {};
+                Object.keys(phaseData).forEach(touchpoint => {
+                    touchpointTotalCounts[touchpoint] = Object.values(phaseData[touchpoint]).reduce((sum, count) => sum + count, 0);
+                });
+                
+                const frequentTouchpoints = Object.keys(phaseData).filter(tp => touchpointTotalCounts[tp] > 10);
+                
+                // Define strict phase order
+                const PHASE_ORDER = [
+                    'Symptom Onset',
+                    'Assessment & Diagnosis', 
+                    'Treatment Options',
+                    'Pretreatment & Prescription',
+                    'Insurance & Financial Support Determination',
+                    'Enrollment',
+                    'Initial Treatment',
+                    'Maintaining Treatment',
+                    'Ongoing Treatment'
+                ];
+                
+                // Sort phases in correct order and filter to only include phases that exist in data
+                const sortedPhases = PHASE_ORDER.filter(phase => allPhases.has(phase));
+                
+                // Create datasets for each touchpoint (each touchpoint becomes a series)
+                const touchpointDatasets = frequentTouchpoints.map((touchpoint, idx) => ({
+                    label: touchpoint,
+                    data: sortedPhases.map(phase => phaseData[touchpoint][phase] || 0),
+                    backgroundColor: `hsl(${idx * 360 / frequentTouchpoints.length}, 70%, 50%)`
+                }));
+                
+                window.touchpointPhaseChart = new Chart(touchpointPhaseCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: sortedPhases,
+                        datasets: touchpointDatasets
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Frequency'
+                                }
+                            },
+                            x: {
+                                title: {
+                                    display: true,
+                                    text: 'Patient Phase'
+                                },
+                                ticks: {
+                                    autoSkip: false,
+                                    maxRotation: 45,
+                                    minRotation: 45
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: true,
+                                position: 'top'
+                            }
+                        }
+                    }
+                });
+
+            });
+            // Load player analytics
+            $.get('/api/player-analytics', function(playerData) {
+                console.log('Player Analytics:', playerData);
+                // Player frequency distribution (with significance threshold)
+                if (window.playerFreqChart && typeof window.playerFreqChart.destroy === 'function') window.playerFreqChart.destroy();
+                const playerFreqCtx = document.getElementById('playerFreqChart').getContext('2d');
+                // Filter for significance
+                const filteredPlayerFreq = playerData.frequency.filter(p => p.count >= significanceThreshold);
+                const playerFreqLabels = filteredPlayerFreq.map(p => p.player);
+                const playerFreqData = filteredPlayerFreq.map(p => p.count);
+                window.playerFreqChart = new Chart(playerFreqCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: ['Frequency'],
+                        datasets: playerFreqLabels.map((label, index) => ({
+                            label: label,
+                            data: [playerFreqData[index]],
+                            backgroundColor: `hsl(${index * 360 / playerFreqLabels.length}, 70%, 50%)`
+                        }))
+                    },
+                    options: {
+                        responsive: true, 
+                        indexAxis: 'y', 
+                        scales: {x: {beginAtZero: true}},
+                        plugins: {
+                            legend: {
+                                display: true,
+                                position: 'top'
+                            }
+                        }
+                    }
+                });
+                // Player sentiment distribution (average per player)
+                if (window.playerSentimentChart && typeof window.playerSentimentChart.destroy === 'function') window.playerSentimentChart.destroy();
+                const playerSentimentCtx = document.getElementById('playerSentimentChart').getContext('2d');
+                const sentimentByPlayer = {};
+                playerData.sentiment.forEach(item => {
+                    if (!sentimentByPlayer[item.player]) sentimentByPlayer[item.player] = [];
+                    sentimentByPlayer[item.player].push(item.sentiment_score);
+                });
+                const playerSentimentLabels = Object.keys(sentimentByPlayer);
+                const playerSentimentData = playerSentimentLabels.map(p => {
+                    const arr = sentimentByPlayer[p];
+                    return arr.reduce((a, b) => a + b, 0) / arr.length;
+                });
+                window.playerSentimentChart = new Chart(playerSentimentCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: playerSentimentLabels,
+                        datasets: [{
+                            label: 'Average Sentiment',
+                            data: playerSentimentData,
+                            backgroundColor: playerSentimentData.map(s => s > 0.6 ? '#28a745' : s > 0.4 ? '#ffc107' : '#dc3545')
+                        }]
+                    },
+                    options: {responsive: true, scales: {y: {beginAtZero: true, max: 1}}}
+                });
+                // Player Sentiment Leaderboard (Top 10 & Bottom 10, with significance threshold)
+                if (window.playerSentimentLeaderboardChart && typeof window.playerSentimentLeaderboardChart.destroy === 'function') window.playerSentimentLeaderboardChart.destroy();
+                const playerSentimentLeaderboardCtx = document.getElementById('playerSentimentLeaderboardChart').getContext('2d');
+                // Only include players with at least N data points
+                const playerLeaderboardArr = playerSentimentLabels
+                    .map((p, i) => ({label: p, value: playerSentimentData[i], count: sentimentByPlayer[p].length}))
+                    .filter(x => x.count >= significanceThreshold);
+                playerLeaderboardArr.sort((a, b) => b.value - a.value);
+                const playerTop10 = playerLeaderboardArr.slice(0, 10);
+                const playerBottom10 = playerLeaderboardArr.slice(-10).reverse();
+                const playerLeaderboardLabels = playerTop10.map(x => x.label).concat(playerBottom10.map(x => x.label));
+                const playerLeaderboardData = playerTop10.map(x => x.value).concat(playerBottom10.map(x => x.value));
+                window.playerSentimentLeaderboardChart = new Chart(playerSentimentLeaderboardCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: playerLeaderboardLabels,
+                        datasets: [{
+                            label: 'Avg Sentiment',
+                            data: playerLeaderboardData,
+                            backgroundColor: playerLeaderboardData.map(s => s > 0.6 ? '#28a745' : s > 0.4 ? '#ffc107' : '#dc3545')
+                        }]
+                    },
+                    options: {responsive: true, indexAxis: 'y', scales: {x: {beginAtZero: true, max: 1}}}
+                });
+
+
+            });
+            
+
+        }
+        
+        function loadRecentActivity() {
+            $.get('/api/threads', { page: 1, per_page: 5 }, function(data) {
+                let activityHtml = '';
+                if (data.threads && data.threads.length > 0) {
+                    data.threads.forEach(post => {
+                        const date = new Date(post.created_utc * 1000).toLocaleString();
+                        const analysisStatus = post.persona_fit ? '✅ Analyzed' : '⏳ Pending';
+                        activityHtml += `
+                            <div style="border-bottom: 1px solid #eee; padding: 10px 0;">
+                                <div style="font-weight: bold; margin-bottom: 5px;">${post.title}</div>
+                                <div style="font-size: 0.9rem; color: #666;">
+                                    r/${post.subreddit} • ${date} • ${analysisStatus}
+                                </div>
+                            </div>
+                        `;
+                    });
+                } else {
+                    activityHtml = '<div style="color: #666;">No recent activity</div>';
+                }
+                $('#recent-activity').html(activityHtml);
+            });
+        }
+        
+        // Phase ordering helper function
+        const PHASE_ORDER = [
+            'Symptom Onset',
+            'Assessment & Diagnosis', 
+            'Treatment Options',
+            'Pretreatment & Prescription',
+            'Insurance & Financial Support Determination',
+            'Enrollment',
+            'Initial Treatment',
+            'Maintaining Treatment',
+            'Ongoing Treatment'
+        ];
+        
+        function sortPhases(phases) {
+            return phases.sort((a, b) => {
+                const aIndex = PHASE_ORDER.indexOf(a);
+                const bIndex = PHASE_ORDER.indexOf(b);
+                return aIndex - bIndex;
+            });
+        }
+        
+        // New chart loading functions
+        function loadTreatmentDecisionFactors() {
+            $.get('/api/treatment-decision-factors', function(data) {
+                if (window.treatmentDecisionChart && typeof window.treatmentDecisionChart.destroy === 'function') {
+                    window.treatmentDecisionChart.destroy();
+                }
+                
+                const ctx = document.getElementById('treatmentDecisionChart').getContext('2d');
+                const labels = Object.keys(data);
+                const values = Object.values(data);
+                
+                window.treatmentDecisionChart = new Chart(ctx, {
+                    type: 'radar',
+                    data: {
+                        labels: labels.map(label => label.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())),
+                        datasets: [{
+                            label: 'Sentiment Score',
+                            data: values,
+                            backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            borderWidth: 2,
+                            pointBackgroundColor: 'rgba(54, 162, 235, 1)',
+                            pointBorderColor: '#fff',
+                            pointHoverBackgroundColor: '#fff',
+                            pointHoverBorderColor: 'rgba(54, 162, 235, 1)'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            r: {
+                                beginAtZero: true,
+                                max: 1,
+                                min: -1
+                            }
+                        }
+                    }
+                });
+            });
+        }
+        
+        function loadPatientConfidenceByPhase() {
+            $.get('/api/patient-confidence-by-phase', function(data) {
+                if (window.patientConfidenceChart && typeof window.patientConfidenceChart.destroy === 'function') {
+                    window.patientConfidenceChart.destroy();
+                }
+                
+                const ctx = document.getElementById('patientConfidenceChart').getContext('2d');
+                
+                // Sort phases in correct order
+                const sortedPhases = sortPhases([...data.phases]);
+                const sortedConfidence = sortedPhases.map(phase => {
+                    const index = data.phases.indexOf(phase);
+                    return index >= 0 ? data.confidence_scores[index] : 0;
+                });
+                const sortedSentiment = sortedPhases.map(phase => {
+                    const index = data.phases.indexOf(phase);
+                    return index >= 0 ? data.sentiment_scores[index] : 0;
+                });
+                const sortedExperience = sortedPhases.map(phase => {
+                    const index = data.phases.indexOf(phase);
+                    return index >= 0 ? data.experience_scores[index] : 0;
+                });
+                
+                window.patientConfidenceChart = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: sortedPhases,
+                        datasets: [{
+                            label: 'Confidence Score',
+                            data: sortedConfidence,
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            tension: 0.1
+                        }, {
+                            label: 'Sentiment Score',
+                            data: sortedSentiment,
+                            borderColor: 'rgba(255, 99, 132, 1)',
+                            backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                            tension: 0.1
+                        }, {
+                            label: 'Experience Rating',
+                            data: sortedExperience,
+                            borderColor: 'rgba(255, 205, 86, 1)',
+                            backgroundColor: 'rgba(255, 205, 86, 0.2)',
+                            tension: 0.1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                max: 1
+                            }
+                        }
+                    }
+                });
+            });
+        }
+        
+        function loadDenialTimelineAnalysis() {
+            $.get('/api/denial-timeline-analysis', function(data) {
+                if (window.denialTimelineChart && typeof window.denialTimelineChart.destroy === 'function') {
+                    window.denialTimelineChart.destroy();
+                }
+                
+                const ctx = document.getElementById('denialTimelineChart').getContext('2d');
+                
+                // Group by phase
+                const phaseData = {};
+                data.forEach(item => {
+                    if (!phaseData[item.phase]) {
+                        phaseData[item.phase] = {
+                            denial_count: 0,
+                            avg_sentiment: 0,
+                            count: 0
+                        };
+                    }
+                    phaseData[item.phase].denial_count += item.denial_count;
+                    phaseData[item.phase].avg_sentiment += item.avg_sentiment;
+                    phaseData[item.phase].count += 1;
+                });
+                
+                // Calculate averages
+                Object.keys(phaseData).forEach(phase => {
+                    if (phaseData[phase].count > 0) {
+                        phaseData[phase].avg_sentiment /= phaseData[phase].count;
+                    }
+                });
+                
+                const phases = Object.keys(phaseData);
+                const sortedPhases = sortPhases([...phases]);
+                const denialCounts = sortedPhases.map(phase => phaseData[phase].denial_count);
+                const sentiments = sortedPhases.map(phase => phaseData[phase].avg_sentiment);
+                
+                window.denialTimelineChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: sortedPhases,
+                        datasets: [{
+                            label: 'Denial Count',
+                            data: denialCounts,
+                            backgroundColor: 'rgba(255, 99, 132, 0.8)',
+                            yAxisID: 'y'
+                        }, {
+                            label: 'Avg Sentiment',
+                            data: sentiments,
+                            backgroundColor: 'rgba(54, 162, 235, 0.8)',
+                            yAxisID: 'y1'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            y: {
+                                type: 'linear',
+                                display: true,
+                                position: 'left',
+                                beginAtZero: true
+                            },
+                            y1: {
+                                type: 'linear',
+                                display: true,
+                                position: 'right',
+                                beginAtZero: true,
+                                max: 1,
+                                min: -1,
+                                grid: {
+                                    drawOnChartArea: false
+                                }
+                            }
+                        }
+                    }
+                });
+            });
+        }
+        
+        function loadDenialReasonBreakdown() {
+            $.get('/api/denial-reason-breakdown', function(data) {
+                if (window.denialReasonChart && typeof window.denialReasonChart.destroy === 'function') {
+                    window.denialReasonChart.destroy();
+                }
+                
+                const ctx = document.getElementById('denialReasonChart').getContext('2d');
+                
+                // Group by category
+                const categoryData = {};
+                data.forEach(item => {
+                    if (!categoryData[item.category]) {
+                        categoryData[item.category] = {
+                            count: 0,
+                            avg_sentiment: 0,
+                            total_sentiment: 0
+                        };
+                    }
+                    categoryData[item.category].count += item.count;
+                    categoryData[item.category].total_sentiment += item.avg_sentiment * item.count;
+                });
+                
+                // Calculate weighted average sentiment
+                Object.keys(categoryData).forEach(category => {
+                    if (categoryData[category].count > 0) {
+                        categoryData[category].avg_sentiment = categoryData[category].total_sentiment / categoryData[category].count;
+                    }
+                });
+                
+                const categories = Object.keys(categoryData);
+                const counts = categories.map(cat => categoryData[cat].count);
+                const sentiments = categories.map(cat => categoryData[cat].avg_sentiment);
+                
+                window.denialReasonChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: categories.map(cat => cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())),
+                        datasets: [{
+                            label: 'Count',
+                            data: counts,
+                            backgroundColor: 'rgba(255, 99, 132, 0.8)',
+                            yAxisID: 'y'
+                        }, {
+                            label: 'Avg Sentiment',
+                            data: sentiments,
+                            backgroundColor: 'rgba(54, 162, 235, 0.8)',
+                            yAxisID: 'y1'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            y: {
+                                type: 'linear',
+                                display: true,
+                                position: 'left',
+                                beginAtZero: true
+                            },
+                            y1: {
+                                type: 'linear',
+                                display: true,
+                                position: 'right',
+                                beginAtZero: true,
+                                max: 1,
+                                min: -1,
+                                grid: {
+                                    drawOnChartArea: false
+                                }
+                            }
+                        }
+                    }
+                });
+            });
+        }
+        
+
+        
+        function loadDenialImpactOnTreatment() {
+            $.get('/api/denial-impact-on-treatment', function(data) {
+                if (window.denialImpactChart && typeof window.denialImpactChart.destroy === 'function') {
+                    window.denialImpactChart.destroy();
+                }
+                
+                const ctx = document.getElementById('denialImpactChart').getContext('2d');
+                
+                // Group by denial category
+                const impactData = {};
+                data.forEach(item => {
+                    if (!impactData[item.denial_category]) {
+                        impactData[item.denial_category] = {
+                            count: 0,
+                            avg_sentiment: 0,
+                            avg_experience: 0,
+                            total_sentiment: 0,
+                            total_experience: 0
+                        };
+                    }
+                    impactData[item.denial_category].count += item.count;
+                    impactData[item.denial_category].total_sentiment += item.avg_sentiment * item.count;
+                    impactData[item.denial_category].total_experience += item.avg_experience * item.count;
+                });
+                
+                // Calculate weighted averages
+                Object.keys(impactData).forEach(category => {
+                    if (impactData[category].count > 0) {
+                        impactData[category].avg_sentiment = impactData[category].total_sentiment / impactData[category].count;
+                        impactData[category].avg_experience = impactData[category].total_experience / impactData[category].count;
+                    }
+                });
+                
+                const categories = Object.keys(impactData);
+                const counts = categories.map(cat => impactData[cat].count);
+                const sentiments = categories.map(cat => impactData[cat].avg_sentiment);
+                const experiences = categories.map(cat => impactData[cat].avg_experience);
+                
+                window.denialImpactChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: categories.map(cat => cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())),
+                        datasets: [{
+                            label: 'Count',
+                            data: counts,
+                            backgroundColor: 'rgba(255, 99, 132, 0.8)',
+                            yAxisID: 'y'
+                        }, {
+                            label: 'Avg Sentiment',
+                            data: sentiments,
+                            backgroundColor: 'rgba(54, 162, 235, 0.8)',
+                            yAxisID: 'y1'
+                        }, {
+                            label: 'Avg Experience',
+                            data: experiences,
+                            backgroundColor: 'rgba(255, 205, 86, 0.8)',
+                            yAxisID: 'y1'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            y: {
+                                type: 'linear',
+                                display: true,
+                                position: 'left',
+                                beginAtZero: true
+                            },
+                            y1: {
+                                type: 'linear',
+                                display: true,
+                                position: 'right',
+                                beginAtZero: true,
+                                max: 1,
+                                min: -1,
+                                grid: {
+                                    drawOnChartArea: false
+                                }
+                            }
+                        }
+                    }
+                });
+            });
+        }
+        
+
+        
+        function exportData() {
+            $.get('/api/export/all', function(data) {
+                alert('Export completed! Check the exports/ directory.');
+            }).fail(function() {
+                alert('Export failed. Please try again.');
+            });
+        }
+        
+        // Initial load
+        $(document).ready(function() {
+            loadDashboardData();
+            
+            // Refresh every 5 minutes
+            setInterval(loadDashboardData, 300000);
+        });
+    </script>
+</body>
+</html> 

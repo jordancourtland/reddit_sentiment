@@ -1,0 +1,40 @@
+Thread ID: 1jqo6wt
+Title: Company Denied Plan Tier Change For QLE
+Subreddit: healthinsurance
+Created: 1743700480
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not allowed to change plan tier
+Outcome: Ongoing
+OP Summary: The user is facing a denial from their employer to change their health insurance plan tier after their spouse lost coverage, despite being allowed to add her to the plan. They are seeking advice on whether this denial is valid under IRS guidelines and if there are options to contest it.
+Responses Summary: No response summary available
+Themes: Qualifying Life Events (QLE), Insurance Plan Changes, IRS Guidelines
+Options Suggested: Consult HR for exceptions, Research HIPAA laws, Seek legal advice
+Fit Explanation: The user has a denial and is actively seeking advice on how to contest it, indicating a very good fit for assistance.
+Original Post: My wife recently lost coverage at her employer, where she had a much lower deductible than me due to expected medical costs. I am trying to add her to my company's plan, and while they allow the addition of her to my plan, they are saying that I'm not allowed to change the plan (from $3400 ded. to $1700 ded.)  in this event. 1700 bucks isn't the end of the world, but I'm also willing to put up a bit of a fight for this.
+
+I have looked up the IRS Section 125 laws, and there is no definitive answer for my situation or a "change in tiers" that I could find. 
+
+My company provided my with this from their insurance broker rep
+
+***"5. May I change my elections during the Plan Year?***
+
+*Generally, you cannot change the elections ou have made after the beginning of the Plan Year. However, there are certain limited situations when you can change your election.* ***You are permitted to change elections if you have a "change in status" and you make and election change that is consistent with the change in status.*** *Currently, federal law considers the following events to be a change in status:*
+
+*- Marriage, divorce, death of a spouse, legal separation or annulment*
+
+*- Change in the number of dependents, including birth, adoption, placement for adoption, or death of a dependent*
+
+*- Any of the following events for you, your spouse, or dependent; termination or commencement of employment, a strike or lockout, commencement or return from an unpaid leave of absence, a change in worksite, or any other change in employment status that affect eligibility for benefits*
+
+*-One of your dependents satisfies or ceases to satisfy the requirements for coverage due to change in age, student status, or any similar circumstance; and*
+
+*- A change in the place of residence of you, your spouse or dependent, that would lead to  change in status, such as moving out of a coverage area for insurance."*
+
+The bolded phrase is the one that I think they are using to say "your situation isn't consistent with a change in tier". But I'm not certain if they are allowed to deny a change like that.
+
+I also recently found that HIPPA has overlapping laws that may be more specific to tier changes, but I haven't done as much research in those yet. Anyone know more about these and if my situation would apply to those?
+
+
+
+I would appreciate any advice and help on this! 

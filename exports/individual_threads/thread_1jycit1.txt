@@ -1,0 +1,18 @@
+Thread ID: 1jycit1
+Title: Lab work denied "Not Medically Necessary" now have $3000+ bill
+Subreddit: healthinsurance
+Created: 1744564069
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to resolve a $3000+ bill for genetic testing that was denied by their insurance as 'not medically necessary', despite their hematologist's assertion of its necessity and ongoing appeals.
+Responses Summary: Community members suggested exploring further appeals, contacting the insurance company's ombudsman, and considering filing a complaint with state insurance regulators. Others recommended discussing the situation with the hematologist's office to seek their assistance in resolving the billing issue.
+Themes: Insurance Denial, Genetic Testing, Appeal Process
+Options Suggested: Contact the insurance company for further clarification, Request a peer-to-peer review with the hematologist, Explore state-level independent medical review options
+Fit Explanation: The user is actively seeking advice on how to resolve their insurance denial and is currently in the appeals process.
+Original Post: I am currently dealing with a situation where my hematologist ordered some blood work that unknown to me at the time that they took the sample, one of the tests was not covered.  Fast forward 4 months after that appointment, my insurance company, Anthem Blue Cross of CA, denied the test which turned out to be genetic testing to see if I had a rare blood mutation that had a very minor impact on my health if any.  At my next visit with the hematologist I asked about it getting denied and he got very defensive saying that it was medically necessary. His office appealed the decision on my behalf. 
+
+I just found out that the insurance company had denied the claim again saying that it was not medically necessary again.  I am at a loss as this one test is being billed at over 3000 dollars which had I been told this would be the cost, I would have never had said to test for it.  I called the insurance company and the only appeal I have right now is a level 2 appeal which seems like a long shot at best.  Due to the length of time this has been appeals, it has been sent to an internal collections.  They know it is in appeals but I need to figure out how to get this resolved without me paying the bill that, in my opinion, the hematologist’s office should be on the hook for the cost of the test as they neglected to check if the test was covered and just sent it out.
+
+Do you have any advise for me for next steps? Thanks in advance

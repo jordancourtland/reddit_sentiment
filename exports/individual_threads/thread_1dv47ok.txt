@@ -1,0 +1,14 @@
+Thread ID: 1dv47ok
+Title: In network doctor took me to an out of network surgery center.
+Subreddit: medicalbill
+Created: 1720090839
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The original poster is seeking help after being unexpectedly billed $59k for a second hip surgery at an out-of-network facility, despite prior authorizations indicating coverage.
+Responses Summary: Commenters advised the OP to appeal the denial, contact the insurance company for clarification, and consider seeking legal assistance if necessary.
+Themes: insurance appeal, out of network issues, prior authorization confusion
+Options Suggested: appeal the denial, contact insurance for clarification, seek legal assistance
+Fit Explanation: The OP is currently facing a denial and is actively seeking assistance, indicating a very good fit for the persona.
+Original Post: So I had to get hip surgery on both my left and right hip each surgery 6 months apart. The first time I went in for surgery I had no cost at all except for my out of pocket maximum. For some reason for the second surgery the same surgeon who did my first surgery took me to a different facility and failed to ever mention that the new facility was out of network and now I’m being told I owe 59k in bills. When I looked online before the surgery all my prior authorizations seem to say covered and approved yet when I got my claim after the surgery it says partially denied and then claims the surgery center is out of network. I’m 28 and have been in the military the past 10 years so this is my very first year with private health insurance. I was under the impression that if a prior authorization says covered and approved It’s actually covered and approved. I would not have gotten this surgery had I known that it was gonna cost me 59k. Really unsure what to even do or how to fight this so any help would be appreciated. Thanks in advance for any help. 

@@ -1,0 +1,20 @@
+Thread ID: 1k4hs53
+Title: Breast Reconstruction Billing (Post Mastectomy)
+Subreddit: healthinsurance
+Created: 1745253179
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Co-surgeon claim denial
+Outcome: Ongoing
+OP Summary: The user is concerned about insurance denials related to their breast reconstruction surgery, particularly regarding co-surgeons' claims and an out-of-network doctor's excessive billing. They are seeking advice on how to handle these issues.
+Responses Summary: No response summary available
+Themes: Insurance denial, Out-of-network billing, Surgery billing issues
+Options Suggested: Document all communications, Request medical records, File a complaint with the hospital
+Fit Explanation: The user is actively dealing with insurance denials and is likely to need assistance navigating the appeals process.
+Original Post: So I finally got my DIEP flap reconstruction for both breasts in late February. Because of all the issues I had over a year ago for my breast cancer mastectomy I'm really really wary of insurance getting everyone paid.
+
+First issue is that my surgery was performed by co-surgeons which appears to be the 'norm' as it was a 7 hour surgery using two surgeons. A DIEP flap is where they harvest fat/blood vessels/tissue from your stomach and use it to rebuild your breasts, its extremely time consuming. Apparently 4 years ago UHC made a stink about paying both surgeons and there was a lawsuit (still can't find what happened). UHC is says its 're-reviewing' my co-surgeon's claim even though its showing 'denied' right now. I told my UHC rep this is in violation of the 1998 Women's Health and Cancer Act, which requires reconstruction to be covered by insurance.
+
+Second is that when I logged on to check the status of that I have a new claim by an out of network Dr for $125,000, dated to my surgery day. He billed everything my main and co-surgeon had billed for (removable of expander, reconstruction, microsurgery blah blah). My main surgeon only billed $25K and co-surgeon billed $17K for this WHOLE surgery. I called my surgeon's office and asked who this was and apparently the hospital staffs an 'assistant' for them. I googled the Dr and it appears he is an OBGYN that no longer has a practice (due to many complaints around billing and extremely poor bedside manner).
+
+The billing manager told me she actually remembers getting a call from him or his office shortly after asking for codes on the surgery. She is trying to find his number but was aghast when I told her what he billed for. Her words were 'He billed like he performed the surgery'. I am just floored at what kind of individual would be allowed to do this, especially with the 'No more surprises' Act and the HUGE dollar amount. Has anybody experienced a surgery with a hospital supplied CSA (assistant) bills 5x what the surgeon bills? I feel like this is some scam by him to milk my insurance for all he can.

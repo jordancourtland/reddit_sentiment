@@ -1,0 +1,14 @@
+Thread ID: 1kfpl85
+Title: Denied critical care coverage
+Subreddit: healthinsurance
+Created: 1746485949
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Recurrence of cancer within 180 days
+Outcome: Unclear
+OP Summary: The user was denied insurance coverage for critical care due to a claim being classified as a recurrence of cancer within 180 days, despite having two separate occurrences in different breasts. They are seeking advice on how to appeal this denial.
+Responses Summary: No response summary available
+Themes: insurance appeal process, cancer diagnosis, separate occurrences
+Options Suggested: contact insurance for clarification, work with doctor for appeal, review denial letter for appeal rights
+Fit Explanation: The user is actively seeking help to appeal their insurance denial related to critical care coverage.
+Original Post: So my right breast was diagnosed DCIS back in December 2024 than when I has my DMX (abnormal cells on left) it was discovered that my left breast has invasive cancer in Feb. 2025 my insurance declined due to a reoccurance of cancer within 180 days. Is there any way to appeal this?

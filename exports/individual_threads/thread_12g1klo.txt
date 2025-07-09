@@ -1,0 +1,18 @@
+Thread ID: 12g1klo
+Title: Denied medical bill due to lack of pre-authorization
+Subreddit: medicalbill
+Created: 1680995440
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to address a claim denial for an MRI due to a lack of pre-authorization, despite being informed that it was approved.
+Responses Summary: Commenters suggest contacting the insurance company to link the claim with the pre-authorization and recommend obtaining a copy of the pre-authorization letter for reference.
+Themes: pre-authorization issues, insurance communication, claim resolution strategies
+Options Suggested: call the insurance company, obtain a copy of the pre-authorization letter, link the authorization with the claim
+Fit Explanation: The original poster is currently facing a denial and is actively seeking help, indicating a very good fit for assistance.
+Original Post: Hi,
+
+Before I have scheduled and done my MRI, the medical office informed me that the pre authorization was approved. Now, the insurance company denied the claim because the pre authorization requirement was not satisfied. 
+
+What should I do?

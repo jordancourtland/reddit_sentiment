@@ -1,0 +1,16 @@
+Thread ID: 1k1wb6c
+Title: Air ambulance services denied
+Subreddit: healthinsurance
+Created: 1744950051
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Non-covered benefit
+Outcome: Ongoing
+OP Summary: The user is facing a denial of $75k in claims for air ambulance services, which they believe should be covered under their BCBS Anthem plan due to a high-risk pregnancy. They are seeking advice on how to appeal the denial and ensure proper documentation is provided.
+Responses Summary: No response summary available
+Themes: Claim denial, Appeal process, Documentation requirements
+Options Suggested: Contact insurance for clarification, Request documentation from the hospital, Consult with a billing advocate
+Fit Explanation: The user is actively seeking help with their appeal process for a claim denial, indicating a perfect fit for assistance.
+Original Post: Hi, Just wondering if anyone has any advice here. My BCBS Anthem plan is denying $75k worth of claims, stating that the service is a non-covered benefit... but it is? Air ambulance and the hcpcs codes billed (A0431 and A0436) are covered benefits. I seemingly meet the criteria for coverage as well unless something wasn't documented. I developed HELLP syndrome and Pre-E (making me a high risk pregnancy one of the qualifying diagnoses). I was taken by air ambulance to a hospital roughly an hour away by vehicle  because I needed a level one trauma center and the hospital I was at was not equipped to provide the services I needed. This was also the closest level one trauma center. I was told multiple times by the hospital that I almost died. The Air Ambulance Service appealed the denial and they were denied, they recommended I appeal which I did. I'm confused by the language presented in the denial. I could understand if they were denying due to it not being medically necessary but to say it's a non-covered benefit entirely? When it says that it is covered in my benefit booklet and I have reference numbers from member services confirming it is? What am I missing? Should I be calling the admitting hospital and requesting a CMN? I want my ducks in a row if they try denying my appeal. Has this happened to everyone else? Also - will I really be on the hook for the $75k? I barely make half of that a year. Will the air ambulance services reduce the cost and allow a payment plan? What happens in case of denials with large sums?
+
+**edit: Age 26, in AZ, roughly 38k pre-tax.

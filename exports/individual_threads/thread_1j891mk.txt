@@ -1,0 +1,29 @@
+Thread ID: 1j891mk
+Title: Help negotiating my hospital bill
+Subreddit: healthinsurance
+Created: 1741639817
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Patient responsibility due to deductible
+Outcome: Ongoing
+OP Summary: The user is seeking advice on negotiating a hospital bill of approximately $2,450 after an ER visit, as they are facing challenges with their high deductible insurance plan and have been denied discounts.
+Responses Summary: No response summary available
+Themes: Negotiation challenges, High deductible insurance, Financial assistance options
+Options Suggested: Apply for financial assistance, Set up a payment plan, Negotiate with hospital billing department
+Fit Explanation: The user is actively looking for ways to negotiate their bill, indicating they might need help soon.
+Original Post: Hey everyone,
+
+Went to the hospital for an ER visit about a week or so ago to diagnose a kidney stone (Def should've just went to an urgent care for it but it was my first time having one...) and received a bill for \~$2,450 for some blood panel testing and a CT scan. I have a high deductible PPO BlueCross BlueShield plan and my deductible limit is $2500. 
+
+I reviewed the itemized bill with the billing department of the hospital and verified the services I was charged for as well as with verified the coverage with my insurance company. They said everything was covered and nothing was denied or could be appealed, so everything seems to check out on those fronts.
+
+  
+I tried calling my the hospital's billing department to negotiate a discount. I first started with asking if they offer a discount for paying in full. They said no, then i went the route of stating I had some "questionable charges" on my bill considering how much pain i was in and that i couldn't reasonably consent to them in the state i was in, as well as mentioning that i saw "cheaper rates" at other local facilities. Then I presented my offer of $1500, was rejected. Then i went the "financial hardship" route saying it was beyond my means at the moment and the most I could do is $1700 and just settle it today, was still met with rejection. 
+
+They said the reason they couldn't offer a discount is because they would be "breaking the contract with my insurance company" and that the amount due in my case is the patient's responsibility because i have a deductible with the insurance and that they have to do exactly what the insurance company tells them and they already have negotiated rates. I then asked if they offer any financial assistance or hardship discount and they just referred me to the MyChart portal (the website to pay my bill) to apply for an income-based financial assistance program.
+
+I asked they escalate it to a manager and they said that the manager would just say the same thing but they did anyway and told me they would have them call me back.
+
+Is there anything further I could do to negotiate this and get some amount of a discount? Are they just giving me that 'insurance company contract' line because they're trained to, or is it legitimate? I heard this same objection from 2 different reps on 2 different calls and i followed the same formula mentioned above on both.
+
+Any advice is deeply appreciated, thank you!!

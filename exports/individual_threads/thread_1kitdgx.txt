@@ -1,0 +1,27 @@
+Thread ID: 1kitdgx
+Title: Aetna charging me for PreP
+Subreddit: healthinsurance
+Created: 1746824834
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Incorrect classification of PrEP as HIV treatment
+Outcome: Ongoing
+OP Summary: The user is facing issues with Aetna incorrectly classifying their PrEP prescription as HIV treatment, resulting in improper charges and denials despite multiple appeals and doctor confirmations.
+Responses Summary: No response summary available
+Themes: Insurance denial, Appeal process, Preventive care coverage
+Options Suggested: File a complaint with state insurance department, Consult with healthcare provider for correct diagnosis coding, Seek advice from others with similar experiences
+Fit Explanation: The user is actively seeking help for their ongoing appeal against the insurance denial.
+Original Post: I’m dealing with something incredibly frustrating and dangerous right now, and I wanted to share it in case others have faced this too.
+
+I’m HIV-negative and have been prescribed Emtricitabine/Tenofovir (generic Truvada) as PrEP for HIV prevention — which, under the Affordable Care Act (ACA), is supposed to be covered without cost-sharing.
+
+Back in February 2025, I had a one-time PEP prescription after a high-risk situation. Ever since, Aetna has been wrongly treating my PrEP prescription as if it’s HIV treatment instead of prevention. They’ve been charging me a $10 co-pay and denying proper coverage, even though my doctor has called their prior authorization line multiple times to confirm it’s for preventive care.
+
+I’ve filed two appeals, submitted letters from my doctor, and explained that I’m HIV-negative and taking PrEP to stay that way. The agents I’ve spoken with barely seem to understand what PrEP is for and keep defaulting to inaccurate classifications.
+
+This is not just a billing issue — it’s a bad faith insurance practice and a direct violation of ACA preventive care mandates. If I lose access to this medication because of their negligence and end up contracting HIV, the consequences would be life-changing.
+
+I’ve filed a complaint with my state’s Department of Insurance and plan to report them to HHS too, but it’s exhausting having to fight this hard for basic, federally-mandated preventive care.
+
+If anyone else has been through something similar or has advice on what else I can do, I’d really appreciate it. No one should have to deal with this.
+

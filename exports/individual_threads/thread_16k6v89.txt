@@ -1,0 +1,36 @@
+Thread ID: 16k6v89
+Title: Medical billing question
+Subreddit: medicalbill
+Created: 1694868786
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No prior authorization
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to handle a $2000 medical bill for a procedure that was denied by insurance due to lack of prior authorization and unclear responsibility for the referral.
+Responses Summary: Commenters suggest that the responsibility for payment lies with the patient, as they received the service, and emphasize the importance of understanding insurance coverage prior to procedures.
+Themes: insurance denial, referral confusion, financial burden
+Options Suggested: contact a lawyer, appeal the denial, negotiate the bill
+Fit Explanation: The original poster is actively seeking help regarding a denial and a significant medical bill, indicating a very good fit for assistance.
+Original Post: I was referred to Mass General hospital from my hometown clinic in NH. The referral was for a consultation with a specialist this coming October.
+
+Prior to this consultation, I received a phone call from Mass General to schedule a procedure in July that I thought was a preliminary test for the upcoming consultation in October. I didn't think much of it and went for the procedure in July. This was my first time going to Mass General.
+
+About a month and a half later, I received a notification from my medical insurance that the claim for the procedure I had done in July was denied due to "no medical reason" for the procedure.
+
+When I called my insurance they told me the provider for the procedure was not provided. I thought that was weird since I know I got this done at Mass General. I had an agent for my insurance call Mass General and after about 2 hours, no one could tell us exactly who ordered the procedure and if any pre authorization for my insurance was even attempted. Basically, Mass General was telling me they have no record of who ordered it and it was most likely ordered by my hometown specialist.
+
+I called my hometown specialist and they also told me they did not order this procedure and that procedures don't even get scheduled unless a preauthorization is done or an insurance waiver is signed. 
+
+Basically, either side doesn't seem to have an answer as to who ordered it and if any checking with my insurance happened. When I asked my insurance about the procedure, they said it would not be covered because it is considered "experimental" and not in my plan.
+
+I eventually had an invoice emailed to me showing a referral document that was handwritten from my hometown doctor's office to Mass General naming the procedure and basically confirming SOMEONE requested it be done. My hometown doctor said there is no record of this request in their system, even though I have a hand written copy of it in my echart. 
+
+The facilities manager in my hometown tried reaching out to Mass General's manager and literally could not get through to anyone. Just hours of being put on hold with no direct numbers. I also tried contacting Mass General with no success.
+
+Basically, no one can tell me the source and no one is admitting a mistake was made when no prior authorization was done for this procedure. My hometown doctor even told me he would not have told me to go to do this procedure and assumed it was from the Mass General specialist. Everyone I talked to about it said they have "never seen this before" or thought it was "strange" how this even went through to an actual appointment and procedure.
+
+I am not sure what I need to do since I now have a $2000 medical bill and no one is willing to admit they messed something up. Is there anyone I can call that can tell me how to proceed? Should I contact a lawyer? I have 2 kids and a mortgage and cannot pay this bill.
+
+&amp;#x200B;
+
+Any advice would be helpful. Thank you.

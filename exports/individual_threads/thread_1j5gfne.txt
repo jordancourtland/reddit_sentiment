@@ -1,0 +1,20 @@
+Thread ID: 1j5gfne
+Title: Procedure happened without authorization?? Need advice
+Subreddit: healthinsurance
+Created: 1741325912
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The user faced a denial for a colonoscopy due to lack of prior authorization, but later learned that post-authorization was approved, reducing their bill significantly. They are seeking advice on how to handle the situation and ensure proper authorization in the future.
+Responses Summary: No response summary available
+Themes: Authorization issues, Billing confusion, Provider responsibility
+Options Suggested: Appeal the denial, Contact the medical facility, Request a letter of medical necessity
+Fit Explanation: The user is actively dealing with a denial and has received some resolution but may still need further assistance.
+Original Post: UPDATE: I called this morning and apparently the post authorization did get approved without my knowing and without updating in my online portal. It's still showing online that I owe the full amount but the employee I spoke with said to ignore those charges and wait for a bill in the corrected amount of $333.87 which is much more palatable. Major thank you for everyone's input!! It was late and I was getting very anxious about it, I seriously appreciate everyone's comments. Hopefully there won't be any more mishaps and I know better moving forward to make sure preauth gets sent.
+
+Recently I had a colonoscopy at the suggestion/request of a gastroenterologist for issues I've been having. This was my first time having any kind of outpatient procedure and my first time dealing with marketplace health insurance (United Healthcare) on my own.
+
+I did not know that prior authorization was a requirement for this procedure. Prior to scheduling the procedure I spoke with UHC about coverage and was told I'd only be charged the copay because it was in network. After the procedure I found out the medical office and hospital failed to request authorization and did the procedure anyway, now I'm being charged $5,000+ for the colonoscopy because of it.
+
+I didn't know I needed authorization and moreover it was the medical facility's responsibility to get that, and NOT perform the procedure unless it was granted. Am I mistaken? Has this happened to anyone else? What are my options? I've already called the medical facility to submit a post-authorization appeal but it seems to be denied as well. I'm at a loss and feel entirely screwed over, would love some advice!

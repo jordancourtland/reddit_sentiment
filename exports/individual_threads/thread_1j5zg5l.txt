@@ -1,0 +1,20 @@
+Thread ID: 1j5zg5l
+Title: Is this fraud? Health insurance added extra funds for prescriptions to my out-of-pocket maximum, but I am concerned it was a system error.
+Subreddit: healthinsurance
+Created: 1741379321
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The user is confused about their health insurance's handling of prescription costs and out-of-pocket maximums after a transition to a new pharmacy benefits manager, suspecting potential errors or fraud in the reprocessing of claims.
+Responses Summary: No response summary available
+Themes: Prescription cost confusion, Out-of-pocket maximum issues, PBM reprocessing concerns
+Options Suggested: Contact customer service for clarification, Seek assistance from HR benefits partner, Research state laws on copay accumulators
+Fit Explanation: The user is actively seeking clarification on their insurance situation and expresses concern about potential financial implications, indicating they may need help with the appeal process.
+Original Post: I picked up a few prescriptions in January for a Tier 2/$30 copays. This was a transition fill because my employer switched pharmacy benefits manager (PBM) and the medications were not on the new formulary. They said the lower cost was a grace period and standard of care while appealing for an Exception For Coverage. 
+
+A few weeks later my Exception For Coverage for the medications were approved so I paid Tier 3/30% coinsurance on the next fills in February. The Exception For Coverage was backdated to January 1st, 2025. Then, the following month it looks like the PBM reprocessed the January fills as a Tier 3/30% coinsurance and the additional cost was applied to my out-of-pocket maximum accumulator through my health insurance.
+
+I'm not sure what is going on here? I called the PBM and was advised that they will not recoup cost from me and they will not ask the pharmacy to reprocess the claims. The OOP max was never mentioned previously, but the representative confirmed that my current out-of-pocket maximum (with the added amount) was accurate as well.
+
+Is this common practice for PBMs? Or, could it have been a system error? Has anyone else had something like this happen to them? I am so confused about this because I have not been billed for the additional increase in coinsurance from the PBM, but it feels like fraud since I know the numbers do not add up. 

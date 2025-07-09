@@ -1,0 +1,86 @@
+Thread ID: 1gh3cgz
+Title: My daughter is being denied therapy 
+Subreddit: healthinsurance
+Created: 1730461273
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Partial
+Outcome: Ongoing
+OP Summary: The user's daughter is being denied additional therapy visits due to a maximum limit set by their self-funded insurance plan, despite her medical needs. They are seeking options to appeal this decision.
+Responses Summary: No response summary available
+Themes: Insurance policy limits, Medical necessity, Appeal options
+Options Suggested: Contact employer for plan changes, Apply for Medicaid, Seek additional funding sources
+Fit Explanation: The user is actively seeking help to fight the denial of therapy visits for their daughter, indicating a perfect fit for the persona.
+Original Post: My daughter is diagnosed with Angelman Syndrome and Autism in Texas. My husband works for a company that has a self-funded insurance (EMI). They are deny her more than 20 therapy visits due to her disability. I’ll post the email sent below. 
+
+What options do I have to fight this? 
+
+Your appeal was heard and denied on Thursday.  The letter should answers a lot of your questions, but I will give you more detail.  Habilitation is an exclusion of the policy.  The policy states:
+
+ 
+
+37. Care or treatment of learning disorders, intellectual disabilities, or chronic organic
+
+ brain syndrome, except services required to diagnose any of the above.
+
+ 
+
+The multiple diagnosis codes and how it works is explained within the letter.   I have remarked your daughter’ family notes in detail for our customer service representatives so we are all on the same page. 
+
+ 
+
+Here are the claims that we have received and paid .  There are 4 claims that will be denied for over the plan maximum.  Those dates are 10/10/24, 10/11/24, 10/17/2024 and 10/18/2024.  We cannot extend additional therapy visits based on the contract we have between the group and EMI Health regardless of medical necessity. 
+
+ 
+
+ 
+
+Dx F84.0 Autistic Disorder (Physical Therapy)
+
+Q93.51 Angelman Syndrome ( American Specialty Physical Medicine)
+
+ 
+
+1. 09/04/2024 97110 224-1356162
+
+2. 09/06/2024 97110 224-1356163
+
+3. 09/05/2024 97110 224-1356164
+
+4. 09/11/2024 97110 224-1358382
+
+5. 09/12/2024 97110 224-1358385
+
+6. 09/25/2024 97110 224-1439867
+
+7. 09/26/2024 97110 224-1439868
+
+8. 09/27/2024 97110 224-1439873
+
+9. 10/03/2024 97110 224-1478123
+
+10.10/04/2024 97110 224-1478128
+
+11.10/09/2024 97110 224-1515337
+
+ 
+
+DX F80.2 Mixed receptive -expressive language disorder.  (Speech Therapy)
+
+ 
+
+12.09/05/2024 92507 224-1258830
+
+13.09/06/2024 92507 224-1258856
+
+14.09/12/2024 92507 224-1332134
+
+15.09/13/2024 92507 224-1332162
+
+16.09/17/2024 92507 224-1349900
+
+18.09/27/2024 92507 224-1404229
+
+19.09/26/2024 92507 224-1404232
+
+20.10/03/2024 92507 224-1434200

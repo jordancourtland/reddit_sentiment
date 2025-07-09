@@ -1,0 +1,38 @@
+Thread ID: 1f4iwjx
+Title: Question about medical bill that was never processed through insurance after I requested it be
+Subreddit: medicalbill
+Created: 1724980305
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not processed due to timely filing issue
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to handle medical bills for their daughter that were not processed through insurance due to a coverage issue after her birth.
+Responses Summary: Commenters suggest that the hospital may be obligated to bill the insurance if the OP provided timely information, and recommend contacting the insurance company to attempt to reprocess the claims.
+Themes: timely filing, insurance reprocessing, hospital billing obligations
+Options Suggested: contact the hospital billing department, call the insurance company, provide proof of timely insurance information
+Fit Explanation: The OP is currently dealing with a denial situation and is actively seeking advice on how to appeal or resolve the issue.
+Original Post: Hello!
+
+I don’t know if anyone would be able to offer any advice or assistance about this situation, but I thought I would ask anyways.
+
+After my daughter was born, I added her on to my insurance policy through my employer and instead of making her coverage start on the day of her birth, they future dated her coverage to start at the beginning of the next calendar year. The hospital tried to submit her charges to the insurance, but she did not have coverage so they did not pay anything.
+
+I contacted my employer and they fixed the issue and backdated her insurance coverage to begin on the date of her birth.  I then contacted the hospital via telephone and sent a message on the patient portal requesting the billing department run her charges through her insurance again since she now had coverage.
+
+Flash forward to recently and as I’m dealing with getting finances in order, those bills were never run through insurance again like I requested.
+
+Here is the biggest issue—my daughter no longer has that insurance coverage.  I can’t even remember what insurance company that was right now.  It seems that after the date I notified them of the insurance coverage start date being fixed, the well child visits she had after that date do not have outstanding balances so I assume insurance is taking care of those bills.
+
+So my question is—at this point now since my daughter does not have that insurance policy at the time of the hospital and well child visits that I owe a balance for—is there anything the hospital will do about that? I have copies and screenshots that I requested those remaining balances be put through her insurance again through the patient portal but obviously not of the phone calls I made.
+
+I plan on calling the hospital tomorrow to speak to the billing department, but I was curious if anyone could offer any information or speculation about what might realistically happen when I do contact them tomorrow?
+
+Thanks!
+
+EDIT:
+
+I just went on the hospitals website and read through their “Billing and Collections Policy” (I redacted the hospital name) and found the following passage that I think is relevant to me but maybe someone can shed some light on it if I’m wrong:
+
+“If a claim is denied (or is not processed) by a payer due to [hospital name] error, [hospital name] will not bill the patient for any amount in excess of that for which the patient would have been liable had the payer paid the claim”
+
+I am hoping my sent message through the patient portal that never received a response is enough evidence to prove that my insurance (the payer) did not process my claims for my daughters charges due to the hospitals error?

@@ -1,0 +1,20 @@
+Thread ID: 1koiqtr
+Title: Molina Behavioral Health Denial- Help!
+Subreddit: healthinsurance
+Created: 1747450007
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking insights and advice regarding recent denials from Molina for prior authorizations related to Eating Disorder treatment, questioning the criteria for medical necessity used in these denials.
+Responses Summary: Commenters did not provide specific advice but emphasized the importance of having relevant documentation like EOBs and suggested checking for updated criteria from Molina.
+Themes: denial reasons, appeal process, insurance criteria
+Options Suggested: appeal the decision, request criteria from Molina, seek insight from other providers
+Fit Explanation: The original poster is actively dealing with a denial and is looking for help, indicating a very good fit for the persona seeking appeal assistance.
+Original Post: After years of having a good relationship with Molina and negotiating Single Case Agreements for Eating Disorder IOP and PHP Care (since we are not a medicaid provider and the ONLY treatment facility for 200 miles), they suddenly are denying all our Prior Auths IMMEDIATELY after attempting to re-enter rate negotiations. They are claiming the denials are due to "medical necessity" not being met, which is clearly not true given the clinical info provided.
+
+Have any other providers recently seen this trend for Molina? While we will appeal the decision and seek an IRO if the appeal is denied, I do not have high hopes since medicaid just seems to operate by their own set of rules.
+
+I also used to be able to look up the criteria used in denials, so I could use it in our appeal, however, seems perhaps their criterion has switched? I plan to request a copy of the criteria but wondering if anyone can confirm if they are using new guidance for making decisions on medical necessity?
+
+Would love to know any insight others have or ways they have found success- It breaks my heart to not be able to get client's care they deserve, when there is so little access in our area.

@@ -1,0 +1,22 @@
+Thread ID: 1kqo0wf
+Title: Single Case Agreement with Anthem
+Subreddit: healthinsurance
+Created: 1747690720
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The original poster is seeking help with repeated claim denials for a patient under a Single Case Agreement with Anthem, despite providing all required documentation.
+Responses Summary: Commenters did not provide specific advice due to the automated nature of the response, but they suggested ensuring all necessary information is included for better assistance.
+Themes: Claim Denial, Documentation Issues, Provider Network
+Options Suggested: Contact Anthem directly, Review appeal process, Ensure all documentation is submitted
+Fit Explanation: The original poster is actively dealing with claim denials and may need help navigating the appeals process.
+Original Post: I work at a therapy clinic and have this 1 patient who's under SCA with Anthem. We are not in network with them and have no plans to be. This patient has 26 approved sessions with Anthem under this SCA, and all of them are getting denied over and over and over and over again, because apparently we need to add the doctor to our PDM on Availity. 
+
+The doctor has been added long time ago, I printed out a screenshot of the doctor's name added under our organization. I sent along our W9, the SCA UM approval with 26 visits, License number, everything they're asking for but we're still getting denied. Even the appeals are getting denied. due to same reason. 
+
+I called Availity and they said that updating providers on Availity does not submit directly to payers whom we are out of network with. So how can Anthem recognize our doctor (who is out of network)???
+
+There seem to be a disconnect between Anthem claim's department, authorization department, and Availity.   
+  
+

@@ -1,0 +1,20 @@
+Thread ID: 1j8vxgd
+Title: Health Insurance denying trans health claim as "mental health"
+Subreddit: healthinsurance
+Created: 1741713132
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Claim denied as 'mental health treatment'
+Outcome: Ongoing
+OP Summary: The user is facing a denial from their health insurance for HRT-related claims, which are being categorized as mental health treatment, leading to significant medical bills and confusion over billing codes.
+Responses Summary: No response summary available
+Themes: Insurance denial, Billing code confusion, Appeal process
+Options Suggested: File a complaint with the Oregon Insurance Commissioner, Ask provider to change diagnosis code, Consult with coding and billing experts
+Fit Explanation: The user is actively seeking help with their appeal process after a denial related to their healthcare claims.
+Original Post: I have been receiving HRT from my PCP for years. My copay is $20 in network for every PCP visit. This year, they have decided that any mention of my HRT in a visit now means my PCP visit is "mental health" which needs to go through my EAP, who is also denying the claim because they only cover mental health providers. Suspiciously, my provider says they did not add any different billing codes than normal, the health insurance provider merely saw HRT was discussed and denied it.
+
+I appealed with health insurance, it was denied. 
+
+This is in Oregon, Health Insurance claims they are not in violation of HB 2002 because they blanket do not cover mental health. Mental Health EAP claims they are not in violation of HB 2002 because I did not follow their process to get seen.
+
+They are now sticking me with hundreds in medical bills which could get me dropped from my PCP if I can't pay. What are my options?

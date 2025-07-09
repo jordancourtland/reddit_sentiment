@@ -1,0 +1,18 @@
+Thread ID: 1hx4231
+Title: Level 2 Appeal / Non Contracted Payor 
+Subreddit: healthinsurance
+Created: 1736394715
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking clarification on the implications of their air ambulance claim being denied due to medical necessity and whether the provider can pursue a Level 2 appeal despite being a non-contracted payor. They also want to know their options after their member appeal was denied.
+Responses Summary: Community members advised that the provider may still have options for appealing the denial, even as a non-contracted payor, and suggested exploring further appeals or contacting the insurance company for more detailed explanations of the denial reasons.
+Themes: medical necessity, appeal process, non-contracted provider
+Options Suggested: file another member appeal, contact state insurance department, seek legal advice
+Fit Explanation: The poster is actively seeking help with their appeal process and has multiple denials.
+Original Post: Husband had an accident; hospital couldn’t operate due to severity of injuries; sent to higher level of care via air ambulance.
+
+Insurance denied due to medical necessity. Air ambulance filed one appeal, but notes from them say they did not pursue a level two appeal “because it was a non-contracted payor.” Our insurance is BCBS of Illinois; but claim was filed with BCBC of Arkansas. 
+
+What does this mean? We filed a member appeal; also denied. We have one more member appeal remaining; but doesn’t the provider also have the option to complete a Level 2 appeal? 

@@ -1,0 +1,23 @@
+Thread ID: 1kgnjqu
+Title: Coordination of Benefits when Primary is a closed make plan
+Subreddit: healthinsurance
+Created: 1746587965
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The original poster is questioning whether their secondary insurance should have applied the contracted rate discount when processing a claim after their primary insurance denied coverage due to out-of-network status, as their plan document suggests the secondary should act as if it were primary.
+Responses Summary: Community responses generally advised the OP to review the specific language in their policy regarding contracted rates and to consider filing a second level appeal, as there may be grounds to argue that the secondary insurance should have applied the contracted discount.
+Themes: Coordination of Benefits, Contracted Rate Discrepancy, Appeal Process
+Options Suggested: File a second level appeal, Review the Summary Plan Description, Gather past EOBs for comparison
+Fit Explanation: The user is actively seeking clarification on their insurance denial and considering further appeals, indicating a strong fit for assistance.
+Original Post: Here’s the scenario I’m dealing with…
+
+Primary insurance is a closed panel plan with a small network and no out of network coverage. Secondary insurance is not a closed panel plan. Provider is out of network for primary but in network for secondary. Primary claim was denied (as expected), since it’s out of network. Based on the NAIC guidelines, the secondary insurance is supposed to act as if it were primary. Secondary claim was “approved” but the entire billed amount was applied to the deductible (no contracted discount), so I’m on the hook for the entire billed amount. Problem is, I know for certain the contracted rate for the service provided through the secondary insurance is much much less than the billed rate. I already filed an appeal with the secondary, but they denied my appeal saying the claim was processed correctly, and since my deductible was not met, they applied the “total eligible expense” to my deductible. 
+
+My question is, if the secondary insurance actually is supposed to act as if they were primary, should they have also provided the contacted rate discount and the amount owed by me and applied to the deductible would be the discounted rate? 
+
+My plan document states:
+“If you receive care that your primary plan does not cover but which the Company Plan does, the Company Plan’s benefits will effectively be the same as if the Company Plan were primary.”
+
+Does “benefits” here also include the benefit of the contracted rate? Should I file a second level appeal? Or is there some nuance that means they are doing this correctly?

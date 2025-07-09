@@ -1,0 +1,15 @@
+Thread ID: 1l1t0ne
+Title: Finally got a $3,000 bill wiped after a denial, sharing what worked in case it helps someone else
+Subreddit: medicalbill
+Created: 1748896750
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Resolved
+OP Summary: The original poster successfully appealed a $3,000 medical bill denial labeled as 'not medically necessary' and shared their experience to help others facing similar issues.
+Responses Summary: Commenters advised that medical necessity denials often require provider involvement and supporting medical records for successful appeals, cautioning against relying solely on personal appeal letters.
+Themes: Medical necessity denials, Provider involvement, Appeal processes
+Options Suggested: Contact provider's billing office, Submit medical records, Use appeal letter templates with caution
+Fit Explanation: The original poster has experienced a denial and successfully appealed it, indicating they might need help with future denials.
+Original Post: Hello Everyone,  
+I’ve seen a bunch of posts here about denied claims and wanted to throw in something that worked for me, in case it helps someone else digging through the same mess. I had a procedure earlier this year that I thought was covered, prior auth was submitted, doctor said we were good. Then the denial came in: “not medically necessary.” The EOB made zero sense, and after a couple of useless calls with the insurer, I figured I’d try appealing. The problem is, most of the “sample letters” I found online were either outdated or super vague. I did find one tool from a non profit organization called Counterforce Health that walked me through creating a custom letter. I sent that off and just heard back, they overturned the denial. Didn’t expect it to actually work, to be honest. It was free and pretty straightforward. This stuff sucks. Hope it helps at least one other person here not get steamrolled.

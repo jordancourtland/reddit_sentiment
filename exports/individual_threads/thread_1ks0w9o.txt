@@ -1,0 +1,20 @@
+Thread ID: 1ks0w9o
+Title: Hospital didn't get paid, yet no bill has come.
+Subreddit: medicalbill
+Created: 1747841773
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No prior authorization
+Outcome: Unclear
+OP Summary: The original poster is concerned about a $57k hospital bill that was denied by their insurance, wondering if they will eventually receive a bill despite the current lack of communication from the hospital.
+Responses Summary: Commenters advised that if the hospital failed to obtain pre-authorization, they are likely responsible for the costs and may not bill the OP. However, they cautioned that if the hospital appeals successfully, a bill could come later.
+Themes: hospital billing practices, insurance denial reasons, financial assistance
+Options Suggested: let it lie, appeal the denial, wait for hospital's action
+Fit Explanation: The OP is actively seeking clarity on a denial situation and considering an appeal, indicating a strong fit for needing assistance.
+Original Post: I had a planned inpatient surgery three months ago at a large teaching hospital. When the insurance claims came in, the insurance company paid the surgeon and anesthesiologist, but denied the $57k hospital bill (OR suite, 1 night stay, medications). 
+
+EOB lists codes PS1(Charge exceeds allowable, member not liable unless permitted by law) and X12 (Deny Services not authorized, provider resp on covered charges). It says plan paid $0, member responsibility $0.
+
+I have not heard a peep from the hospital, and my billing portal shows no balance. Do they literally just have to eat this, or do I need to be worried I'm going to get a $57k bill? I was tempted to appeal the denial myself just to be sure I don't get hosed, but should I let this sleeping dog lie?
+
+If it's relevant, this hospital says they will automatically run their financial assistance metrics on your balance/income and adjust as needed.

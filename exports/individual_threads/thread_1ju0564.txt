@@ -1,0 +1,35 @@
+Thread ID: 1ju0564
+Title: Constantly Fighting Denied Claims with BCBSNC — Is It Just Me?
+Subreddit: healthinsurance
+Created: 1744070316
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary; Incorrect billing classification
+Outcome: Ongoing
+OP Summary: The user is frustrated with multiple claim denials from BCBSNC, including routine bloodwork and urgent care visits, and is seeking advice on how to resolve these issues.
+Responses Summary: No response summary available
+Themes: Claim Denials, Billing Issues, Insurance Communication
+Options Suggested: Contact HR, File a complaint with the Department of Insurance, Request a corrected claim from the provider
+Fit Explanation: The user is actively seeking help to appeal denied claims and is currently engaged in the process.
+Original Post: I'm honestly at my breaking point dealing with BCBSNC. I’ve had multiple claims denied that should be routine — and I’m exhausted from trying to get clear answers.
+
+Recently, I had in-network bloodwork done that was ordered by my doctor. BCBS denied the entire claim — not even applied to my deductible — and there was no EOB at first. The exact same tests were processed last year with no issue.
+
+In Dec. I had a bad sinus infection, I went to urgent care, and even though the provider billed it correctly as urgent care (POS 20), BCBS processed it as outpatient hospital and denied the appeal.
+
+Last year, I also got stuck with a $1,300 bill after seeing a cardiologist who ordered a stress test at a local hospital. That claim was denied too, because they classified it as an outpatient hospital visit — even though it was a specialty care appointment.
+
+I’ve submitted appeals, contacted billing departments, and chased down paperwork, and BCBS just keeps giving vague, inconsistent responses. I haven’t contacted HR yet, but I’m seriously considering it, along with a complaint to the Department of Insurance.
+
+I’m using in-network care and following the rules. I just don’t know what else to do at this point. Has anyone else dealt with this kind of mess?
+
+
+---
+🔄 **Update – April 9, 2025** 
+I finally received the EOB for the bloodwork claim, and it turns out the issue was the diagnosis code — they used Z01, which means “Encounter for other special examination without complaint, suspected or reported diagnosis.” Basically, it’s a vague pre-op or general screening code, and BCBS won’t cover the labs under that.
+
+The visit was supposed to be preventive care, so now I have to go back to my doctor and ask them to correct the diagnosis code. From there, they’ll likely need to contact the hospital lab to have them resubmit the claim with the correct info. Fingers crossed it doesn’t take weeks again.
+
+Meanwhile, I’m still fighting with BCBS over the urgent care visit they processed as an off-campus outpatient hospital — not as an urgent care facility, even though the provider billed it as such. I’ve contacted the appeal analyst and the urgent care billing team, but I haven’t heard back from either. They keep saying no one made a mistake… yet here I am, 4 months later, still trying to untangle all of this.
+
+They say patience is a virtue, but honestly, I’m just exhausted.

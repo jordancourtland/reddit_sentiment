@@ -1,0 +1,18 @@
+Thread ID: 1jj8fkf
+Title: Drug on formulary, but denied by Regence
+Subreddit: healthinsurance
+Created: 1742867595
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not covered under pharmacy benefit
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to proceed after their health insurer, Regence, denied a prior authorization request for the medication Wegovy, despite it being listed as covered on their formulary. They are unsure whether to call Regence or file an appeal based on the denial letter's reasoning.
+Responses Summary: Community members advised the original poster to contact Regence directly for clarification on the denial and to request a copy of the specific coverage documents referenced in the denial letter. Many suggested filing an appeal if the information from Regence continues to contradict the formulary tool.
+Themes: Prior Authorization, Coverage Exclusions, Confusion over Plan Details
+Options Suggested: File an appeal, Contact Regence for clarification, Review the Member Handbook
+Fit Explanation: The user is actively seeking advice on how to appeal the denial, indicating a strong need for assistance.
+Original Post: My doctor is trying to get me going on Wegovy. According to the Regence website (my employer sponsored health insurer), Wegovy is covered on my plan if I receive a Prior Authorization from my physician. My doctor sent in the Prior Authorization, and I just received a letter from Regence saying the request is denied. Their reasoning is listed as follows:
+
+"As noted in the exclusions section of your most current Regence Member Handbook/Certificate of Coverage or Drug Lists, starting on page one, the requested product is not covered under your pharmacy benefit. Questions regarding coverage should be directed to the health plan by calling the number on the back of your card."
+
+I am unsure on my next step. According to the Regence website (their pharmacy drug formulary tool) while signed into my Regence account, the drug is in fact covered under my plan. I have googled "Regence Member Handbook/Certificate of Coverage or Drug Lists" to try to view whatever document they are referencing in the denial letter, but every attempt to do that leads me right back to the formulary tool on the Regence website, which clearly indicates the drug is covered with the Prior Authorization. The denial letter makes no indication that there were any issues with the Prior Authorization. Before I call Regence, does anyone have advice for me? Do I just need to file the paperwork for appeal?

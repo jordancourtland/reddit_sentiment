@@ -1,0 +1,14 @@
+Thread ID: 1l1yi60
+Title: I got billed 2 months after the visit
+Subreddit: healthinsurance
+Created: 1748911063
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Coordination of benefits issue
+Outcome: Unclear
+OP Summary: The original poster received a bill for a medical service two months after the visit and is confused about why their old insurance denied coverage after switching to a new primary insurance.
+Responses Summary: Commenters explained that billing timelines are standard and that claims are processed based on the date of service, suggesting the OP check their explanation of benefits (EOB) for details on the denial.
+Themes: Billing timelines, Insurance processing, Date of service
+Options Suggested: Check EOB, Contact old insurance, Ask about coordination of benefits
+Fit Explanation: The OP is dealing with a recent denial and is seeking clarification on the billing process, indicating a good fit for assistance.
+Original Post: I got a bill in the mail for $471 that I got done March 18th and I just got the bill today (June 2nd). It says that the bill wasn't issued until May 23rd and I just got a new primary insurance about two weeks ago. The insurance that I had when I went to the doctor denied any coverage because I have a new primary insurance, but the diagnostics were ran two months ago?? What do I do about this? Also why are doctors bills so slow. Why did it take me two months to get this bill and why didn't insurance cover any of it before I even switched primary insurances

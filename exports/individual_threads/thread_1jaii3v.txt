@@ -1,0 +1,16 @@
+Thread ID: 1jaii3v
+Title: My PCP requested bloodwork. Provided codes but insurance can't confirm whether they will be covered or not.
+Subreddit: healthinsurance
+Created: 1741889283
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Unclear
+OP Summary: The user is frustrated trying to confirm if their bloodwork will be covered by insurance, as the insurance company could not verify the provided codes and mentioned coverage depends on medical necessity proof.
+Responses Summary: No response summary available
+Themes: Insurance coverage uncertainty, Need for valid codes, Concerns about medical necessity
+Options Suggested: Contact insurance for specific lab names, Request valid CPT codes from PCP, Ask for a different representative from insurance
+Fit Explanation: The user is actively seeking clarification on insurance coverage for upcoming tests, indicating a need for assistance.
+Original Post: I'm really frustrated here. I have a list of bloodwork that need to get done (7) and I'm trying to find out before I get it done if it will be covered by insurance or not. PCP provided codes and I gave those over the phone to the insurance company. 
+
+They were unable to find the codes on the system and their only answer was: you will be covered as long as the provider can proof that these tests are truly necessary. I've heard stories about insurance denying coverage because they don't think it was medically necessary and seriously can't afford to uncovered testing. This system is nuts. 

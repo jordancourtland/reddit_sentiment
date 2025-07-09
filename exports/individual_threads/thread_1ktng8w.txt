@@ -1,0 +1,24 @@
+Thread ID: 1ktng8w
+Title: Paid out of pocket, 200 days later... turns out it should've been covered.
+Subreddit: healthinsurance
+Created: 1748016617
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Timely Filing
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to handle a situation where they paid out of pocket for their child's eyeglasses, which they later discovered should have been covered by their medical insurance plan.
+Responses Summary: Commenters advised the OP to gather necessary paperwork to submit a claim themselves and suggested that Cigna may deny the claim due to late filing. They emphasized the importance of understanding one's insurance coverage.
+Themes: Claim Submission, Insurance Coverage Understanding, Provider Responsibility
+Options Suggested: Submit claim to Cigna, Contact Cigna customer service, Request paperwork from provider
+Fit Explanation: The OP is currently dealing with a denial situation and is actively seeking advice on how to appeal or submit a claim, indicating a very good fit for the persona.
+Original Post: I purchased eyeglasses for my child out of pocket at a retailer/optometrist office that is in network for my Cigna medical plan. I see this provider and get my exams covered through insurance, however, this is not where we got the RX written for my child - just their glasses.
+
+We discussed insurance, but I confirmed I did not have vision specific insurance/only medical and so they did not submit any claims to Cigna. 200 days later, it turns out my medical plan covers 1 pair of lenses/frames for child dependents per annual year and did so at the time of purchase. 
+
+The provider said they would not submit this claim on my behalf as it's been too long. I'm wavering between owning 100% of this as my error versus thinking that the provider/retailer - who already had my insurance on file - should have confirmed coverage. In fact, shortly after this episode they submitted my personal contact lenses to my Cigna plan, which of course was denied.
+
+I plan to submit a claim regardless with low expectations that Cigna will cover this.
+
+Any feedback on course of action or otherwise? Thanks!
+
+edit: I'm in Vermont. I should also add that out of network self submission claims have an 180 day timeframe to submit in my plan; however the plan makes no mention of in-network self submissions, given that the provider is to handle these.

@@ -1,0 +1,20 @@
+Thread ID: 1jdsbuy
+Title: Doctor and questionable billing
+Subreddit: healthinsurance
+Created: 1742257448
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Fraudulent billing practices
+Outcome: Ongoing
+OP Summary: The original poster is questioning the legality of a dermatologist's practice of billing for services on different dates to maximize revenue and is seeking opinions on this issue after facing denials from insurance and authorities regarding their complaints.
+Responses Summary: Community responses generally express concern over the billing practices described, with some users sharing similar experiences and advising the OP to continue pursuing the issue through legal channels or seeking further assistance from regulatory bodies.
+Themes: billing practices, insurance denial, fraud complaints
+Options Suggested: file a complaint with AMA, request medical records, continue pursuing legal action
+Fit Explanation: The user is actively seeking help with an ongoing appeal related to a fraudulent billing issue.
+Original Post: I have been in revenue cycle for 30+ years.  Lets say I have been around the block once or twice.  My question, has anyone ever worked for a doctor that would bill an E/M today and then the incision of a lesion tomorrow + biopsy, when the lesion was removed the same say as the E/M?
+
+I recently went to a dermatologist and this apparently is pretty common for this practice to bill different dates of service so they can 'make extra money'. Per the billing office.  In all of my years, I have never billed this way and I feel it is very illegal.  I was an established patient and there was no extra DX codes to warrant a mod 24 or 25 on the E/M so if he billed the incision on the day it actually happened, he would lose 97.00.
+
+I appealed with the insurance, they said they have no control over his dates of service.  I filed a complaint with fraud and abuse, they denied said they found no evidence(i think he changed his medical records too). I filed with the Atty General's office.  I am not at collections(for the first time in my life) because I refuse to pay the fraudulent claim.  
+
+I wonder what this groups opinion is on changing DOS like this. 

@@ -1,0 +1,17 @@
+Thread ID: 1hh4c5q
+Title: Payer Matrix cost containment plan documentation
+Subreddit: healthinsurance
+Created: 1734536632
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Revoked coverage for specialty medications
+Outcome: Ongoing
+OP Summary: The original poster is concerned about their employer's partnership with Payer Matrix, which revokes coverage for specialty medications unless obtained through them, creating barriers to access critical medications. They seek clarification on the legality of this process and the employer's obligation to provide documentation.
+Responses Summary: No response summary available
+Themes: Employer responsibility, Access to medication, Payer Matrix practices
+Options Suggested: Contact state insurance commissioner, Request documentation from employer, Reach out to patient advocacy organizations
+Fit Explanation: The poster is actively seeking information about their denial of medication coverage and the implications of the new policy, indicating a very good fit for appeal help.
+Original Post: My employer has a self funded health plan, and has now partnered with Payer Matrix to reduce the costs associated with specialty medications,  This apparently involves revoking coverage of all specialty medications, and forcing employees who take them to obtain them through Payer Matrix.  If the employee is unable to obtain the medication for "free" or at a "substantially reduced rate" through Payer Matrix, the health plan might (or might choose not to) somehow magically un-revoke that employee's specialty medication coverage, and cover it as described in the benefits summary document.
+
+  
+All of this seems kind of sketchy, and I am scared of losing access to a critical medication.  My employer (also the health plan here, due to the self funding aspect), is refusing to provide any details or documentation relating to how this process works.  Are they required to provide any explanation or documentation (like an updated benefits summary reflecting this new use of Payer Matrix) describing the requirements/rules governing this process?  Do the laws requiring an appeals process for denied claims still apply in this situation?  This seems super sketchy, and I just want to maintain access to medication.  Our HR manager, who is in charge of the health plan, claims to know nothing about how the new Payer Matrix part of our plan works, and have no documentation regarding it (in spite of the fact that he set it up).

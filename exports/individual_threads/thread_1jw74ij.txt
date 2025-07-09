@@ -1,0 +1,40 @@
+Thread ID: 1jw74ij
+Title: Insurance logjam - anyone seen this?
+Subreddit: healthinsurance
+Created: 1744314971
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The user experienced a retroactive denial of an MRI claim due to a change in insurance coverage from UHC to BCBS, with BCBS also denying the claim for lack of prior authorization.
+Responses Summary: No response summary available
+Themes: Insurance transition, Retroactive denial, Prior authorization requirements
+Options Suggested: Work with provider for retroactive authorization, Appeal BCBS denial, Contact UHC for clarification
+Fit Explanation: The user is actively seeking help with their insurance denial situation.
+Original Post: 1. I was on COBRA in the month of February through UHC. I got a new job in starting Jan 31st and I picked a new insurance plan February 20th which is Blue Cross Blue Shield (BCBS).  
+
+2. The BCBS became my primary insurance and back dated my effective coverage starting Feb 1st
+
+3. On Feb 5th I got an MRI which had the proper approvals from UHC.  The claim was paid in full in the amount of $3,500 from insurance. 
+
+4. On Feb 28th, UHC found out that I had new coverage that back dated to Feb 1st and they retroactively denied the Feb 5th MRI and pulled back their $3,500 payment from my provider.
+
+5. My provider called me to tell me the bad news, that my claim was retroactively denied due to UHC being the secondary insurance. 
+
+6. I gave my provider the new insurance information for BCBS and they billed it as my primary insurance.
+
+7. BCBS denied my claim for the MRI stating that I needed a prior authorization for the Feb 5th service.
+
+8. I called BCBS and they informed me that their policy states that I need prior authorization.
+
+9. UHC is saying that they will not pay the claim since they are secondary insurance and the primary insurance denied the claim.  
+
+
+Since this is not back to the future, and Doc brown isn’t bringing my the DeLorean anytime soon, what do I do? It’s not like my provider could have known to give a prior authorization for insurance I did not have.
+
+Thanks for the help if you know what to do.
+
+Edit: added start date 
+
+
+

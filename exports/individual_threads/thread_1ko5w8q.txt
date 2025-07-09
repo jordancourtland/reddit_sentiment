@@ -1,0 +1,30 @@
+Thread ID: 1ko5w8q
+Title: insurance might've accidentally approved my upcoming IVF cycle? not sure how to proceed
+Subreddit: healthinsurance
+Created: 1747414673
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on whether to proceed with a second IVF cycle that was unexpectedly approved by Aetna, despite concerns about potential denial later due to their policy restrictions.
+Responses Summary: Commenters advised the OP to keep thorough documentation of the approval, including names of representatives and any correspondence, and to understand the differences between self-funded and fully-insured plans for better consumer protection.
+Themes: Documentation importance, Insurance plan type, Consumer protections
+Options Suggested: Keep copies of all communications, Get names of insurance representatives, Research consumer protections for fully insured plans
+Fit Explanation: The OP is currently facing a denial risk and is actively seeking advice on how to protect themselves, indicating a very good fit for assistance.
+Original Post: \*FYI i'm posting both here and in r/IVF in hopes someone can advise!\*
+
+our insurance plan -- which is through my husband's employer, a private company -- with Aetna covers 3 cycles of IVF per lifetime. i did my first egg retrieval in april &amp; my husband and i got 2 high-quality embryos, currently on ice/in storage. i (35f) have one ovary and thus diminished ovarian reserve (DOR), so we knew we wanted to attempt a second retrieval before doing a FET (frozen embryo transfer/attempting to get pregnant with one of our embryos). our clinic told us Aetna is typically very strict with embryo banking, and i read an Aetna policy bulletin that confirms this \[it reads: “Before proceeding to the next fresh ART cycle, FET using cryopreserved embryos must be used if there are reasonable quality (grade B or its equivalent) cryopreserved embryo(s) available."\] 
+
+so our plan was to schedule the 2nd cycle, wait for Aetna to deny it, then have our fertility doctor do a peer-to-peer/make the appeal to Aetna making the case for me that i qualify for medical exception -- i.e. have a strong medical reason for needing to do back-to-back egg retrievals before attempting to get pregnant -- based on childhood emergency surgeries that left me with one ovary &amp; fallopian tube and then almost lost my remaining ovary.
+
+to our great surprise, Aetna approved our 2nd cycle, no questions asked. sent me a letter in the mail and also told the clinic cycle #2 is approved, services are covered, etc. Aetna has already paid for cycle #1, i have not received any unexpected bills for that, so i do not think they somehow aren’t aware that i already did one IVF cycle. 
+
+our clinic says we got very lucky, but also says i should be concerned since Aetna clearly states in its policy bulletins that doing a second cycle isn’t allowed if the patient has good-quality cryopreserved embryos available (which we do). 
+
+i am aware that Aetna’s pre-authorization is not a guarantee of payment. my husband and i are very nervous that after we do this second cycle Aetna will come back and say “oops nevermind, we aren’t covering that.” because they could do that, right? and then we’d have to pay the $20-$30k for this cycle which we 100% cannot do. 
+
+i spent hours on the phone yesterday with Aetna’s infertility unit explaining all this. 2 different Aetna reps confirmed my upcoming cycle was approved, reassured me all was fine. i asked for additional confirmation in writing that the approval stands despite their general policy. so far i’ve not been able to get this. i have been recording these calls but i’m not sure that will matter down the road if Aetna were to say they mistakenly pre-authorized cycle #2 and are now not paying for it. 
+
+should i proceed with this second cycle? if so, is there anything more i can do to cover my bases now in case Aetna later refuses to cover it? i have to start meds soon so don't have much time to stay on the fence.
+
+TL;DR: Aetna approved my upcoming IVF cycle even though, according to their stated rules re: IVF coverage, they shouldn’t have. i’m nervous to do this cycle and later be told Aetna isn’t covering it after all. seeking advice!

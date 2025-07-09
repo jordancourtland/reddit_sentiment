@@ -1,0 +1,20 @@
+Thread ID: 1hbkdzr
+Title: Anthem BSBC considering treatment for newborn under new account, rather than his mother's
+Subreddit: healthinsurance
+Created: 1733887771
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claim billed under separate deductible for newborn
+Outcome: Ongoing
+OP Summary: The OP is facing a claim denial issue where their newborn's hospital care is being billed under a separate deductible instead of the mother's account, despite the mother's coverage exceeding the Out of Pocket Maximum.
+Responses Summary: No response summary available
+Themes: Newborn care billing, Deductible confusion, Appeal process
+Options Suggested: Contact insurance for clarification, Review plan documents, File an appeal
+Fit Explanation: The OP is actively seeking help regarding a claim denial and has filed an appeal, indicating a strong need for assistance.
+Original Post: I've seen other posts with similar situations but it seems that our case is slightly different. We live in the state of NY and had a child. I added our child to our family plan within the 30 day window. We were billed by the hospital for the care provided to our child, under his name. The claim was approved, but, it's counting towards a new deducible and OOPM balance. According to my wife's Certificate of Coverage (Inpatient Services), this care should be covered under her account, not my son's. Here's the text on the COC:
+
+*Inpatient Stay for Maternity Care. We Cover inpatient maternity care in a Hospital for the mother, and inpatient newborn care in a Hospital for the infant, for at least 48 hours following a normal delivery and at least 96 hours following a caesarean section delivery, regardless of whether such care is Medically Necessary.*
+
+My wife already exceeded the Out of Pocket Maximum so I was assuming I would have to pay $0, instead of the full deductible. Every agent I speak with thinks I'm right and that the claim should be under my wife's account but, our first request to change the claim was rejected. I just filed an appeal.
+
+What options do I have? Is my argument correct? Anyone has similar experiences and/or recommendations?

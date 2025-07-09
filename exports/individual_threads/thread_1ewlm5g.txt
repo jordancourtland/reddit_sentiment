@@ -1,0 +1,22 @@
+Thread ID: 1ewlm5g
+Title: Medical bill sent to collections but I shouldn’t have even gotten it??
+Subreddit: medicalbill
+Created: 1724124575
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Incorrect billing date
+Outcome: Ongoing
+OP Summary: The original poster is frustrated about a medical bill sent to collections for a therapy appointment that should have been covered by insurance, and they are seeking advice on how to resolve the issue.
+Responses Summary: Commenters suggest doing a three-way call with the office and insurance company to address the billing error, and if that fails, to file a complaint with the state insurance commissioner.
+Themes: billing error, insurance communication, collections
+Options Suggested: three-way call with office and insurance, file a complaint with insurance commissioner, request updated bill from provider
+Fit Explanation: The original poster is actively seeking help to resolve a denial issue related to a medical bill, indicating a very good fit for assistance.
+Original Post: Okay, this one is a little confusing but I’m so frustrated going back and forth with my insurance and network provider that I’ve come to the internet for help.
+
+On April 16, 2024, I had a final therapy appointment with my therapist that I had been seeing for months. She is in network, 100% covered by my insurance at the time and I never paid a dime. On April 19, 2024, I left my job at the time and my last day of coverage for my insurance for that job ended in April 20, 2024.
+
+On July 5, 2024, I got a notification from the health network that I had a bill ready to be paid with a due date on July 31, 2024. I was confused, since I hadn’t seen a doctor in months while I was waiting for my new coverage at my new employer to take effect, so I looked up the info and it was for my appointment on April 16. I was confused, called the office, and they said the insurance said it wasn’t covered. After 2+ hours on the phone with both my insurance provider and my health network, it was determined that the reason my coverage was denied is that the office put a date of April 30, 2024 as the date of service, not April 16. And since I was not covered during that time, they wouldn’t approve the claim. I asked what needed to be done to fix the date, and they said the network needed to send an updated bill. I spoke with someone who said they would send the new bill and I shouldn’t worry.
+
+On July 25, I got a notification “reminding me to pay my bill”. I was confused, saw that the bill still was on my account, and called again. Got the same answers as before, explained that I just needed a new bill sent to my insurance with the correct date, and to please send it. The woman on the phone assured me it would be taken care of by the end of the week and I never heard anything else so I assumed it was handled.
+
+Today I got notification that my “bill” is in collections for being unpaid. And I have no idea what to do. Can a bill come out of collections? Can I fight that bill since I did have coverage during the date of service? Who do I need to call to get this sorted out? I’m at a complete loss so any information someone can give me to help would be greatly appreciated.

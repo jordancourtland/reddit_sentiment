@@ -1,0 +1,26 @@
+Thread ID: 1kg0l8x
+Title: Non-formulary medical exceptions: worth even trying?
+Subreddit: healthinsurance
+Created: 1746525230
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not covered (non-formulary exclusion)
+Outcome: Unclear
+OP Summary: Caremark has removed Zepbound from its formularies, leading to concerns about the appeal process for non-formulary exceptions and the lack of clinical alternatives. Many patients are frustrated with the potential denial of necessary treatment and the implications of obesity bias in insurance coverage.
+Responses Summary: No response summary available
+Themes: insurance denial process, medication coverage issues, obesity bias in healthcare
+Options Suggested: submit a prior authorization, appeal based on medical necessity, explore alternative medications
+Fit Explanation: The user is actively seeking information on how to appeal a denial for a medication that has been removed from coverage, indicating a strong need for assistance.
+Original Post: Caremark just dropped Zepbound from its formularies. They struck a deal with Novo Nordisk and are pushing Wegovy instead. We all understand how grotesque it is to yank treatment away suddenly for a chronic condition .. treatment that by all measures is very successful. 
+
+Caremark is telling subscribers to apply for a new PA, which will get automatically denied by AI because Zepbound will be excluded from coverage. But the denial triggers an appeal and  “your dr can appeal based on medical next.”
+
+First, the Caremark rep said a “normal appeal” is all that needs to be submitted. Not a non-formulary exception form. I just want to make sure the right form is submitted.
+
+Second, what are the chances of getting an exception approved? Realistically? The highest dose of Zepbound has no clinical equivalent in Wegovy, which Caremark obviously didn’t factor in nor do they care. Is that alone enough to get an exception through? Or do you have to have terrible side effects? Is that enough?
+
+Or basically show extreme intolerance to the alternate med.. like hospitalization level with video evidence of being wheeled on a gurney into imaging?
+
+What are the real chances of succeeding in getting a nonfornulary exception approved and what must you report for it to be considered?
+
+Thanks on behalf of thousands of patients suddenly finding a trap door opening under them. 

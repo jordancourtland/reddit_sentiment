@@ -1,0 +1,18 @@
+Thread ID: 1kjjdw2
+Title: Need help with insurance bill for a newborn
+Subreddit: healthinsurance
+Created: 1746908463
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not an eligible dependent
+Outcome: Unclear
+OP Summary: The user is facing a $35,000 bill for their newborn due to the baby not being listed as an eligible dependent on their insurance, and they are unsure if the costs will be covered once the baby is added. Additionally, there is confusion regarding a NICU charge for a service that was not utilized.
+Responses Summary: No response summary available
+Themes: newborn insurance coverage, billing confusion, NICU charge dispute
+Options Suggested: contact HR for insurance confirmation, call hospital billing department, wait for insurance to reprocess claims
+Fit Explanation: The user is actively seeking help regarding a recent insurance denial and is unsure about the next steps, indicating a very good fit for assistance.
+Original Post: We had a baby 2 weeks ago and spent 2 days in the hospital with no NICU stay. Today I received emails about explanation of benefits and saw that the insurance has billed us $35000 for the baby claiming that the person is not an eligible dependent. I  reached out to my employer last week and finished the formalities to add the baby to my insurance. I’m not sure if that has been processed. My query is once the formalities of adding the baby to the insurance are completed, will the insurance cover the said cost because $35000 is a huge amount for us. I also received another bill in the mail where the insurance denied covering the NICU charge but I’m not sure why the hospital even billed that because the baby never went to the NICU. 
+
+If anyone has experience about the same, please share your insights. 
+
+Thank you 

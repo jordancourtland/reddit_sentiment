@@ -1,0 +1,28 @@
+Thread ID: 1jww6d1
+Title: Out of Network Claim Denied
+Subreddit: healthinsurance
+Created: 1744394218
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to appeal a partial denial of a $16,000 claim due to the provider being out of network, despite the surgery being performed at an in-network hospital and believing it should be covered under the No Surprises Act.
+Responses Summary: Community members suggest contacting the insurance company for clarification on the No Surprises Act, gathering documentation to support the appeal, and potentially reaching out to the provider for assistance in resolving the issue.
+Themes: No Surprises Act, In-network vs Out-of-network, Claim appeal process
+Options Suggested: Contact insurance company, File an appeal, Seek clarification on provider's network status
+Fit Explanation: The user is actively seeking help to appeal the denial of their claim.
+Original Post: I was recently in the hospital for a discectomy to remove a herniated disk.
+
+The surgery took place on 3/3 but I am seeing most of the claims processed. Most of them have been covered by insurance as I met my out of pocket maximum pretty quickly. 
+
+However one charge for $16,000 is showing as only partially paid by insurance. When I called to ask why that is I was told the provider was out of network. The insurance agent then went on to say this type of claim is what should be covered by the No Surprises Act yet it was still only partially paid. In total my EOB says I owe about $14,000 of the original amount.
+
+This is the only claim made by this specific provider, everything else charged by the hospital was paid in full.
+
+I am not sure what to do next, I feel this type of claim is exactly what laws like the No Surprises Act are meant to prevent.
+
+Has anyone been in a similar situation?
+
+I live in Illinois and my insurance provider is Blue Cross Blue Shield Illinois and is a PPO plan. When I attempt to search for the provider online, ‘PHYSICIAN OVERSIGHT LLC’, the only match is for a company in Texas. There is no number to call on the EOB so I am not sure if this is the same company, but would probably explain why it was out of network. 
+
+

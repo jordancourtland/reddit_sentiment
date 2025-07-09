@@ -1,0 +1,22 @@
+Thread ID: 1ksycxs
+Title: Was told by provider and testing company that test was covered - insurance has now denied
+Subreddit: healthinsurance
+Created: 1747939143
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The original poster is seeking guidance on what to do after their insurance denied coverage for a genetic test that they were assured would be covered by both their provider and the testing company.
+Responses Summary: Commenters advised the OP to take responsibility for verifying insurance coverage, suggested contacting the insurance company for clarification, and recommended exploring options like cash discounts or retroactive prior authorization.
+Themes: Verification of coverage, Responsibility of the patient, Options for appeal or negotiation
+Options Suggested: Contact insurance for clarification, Ask for a cash discount, Request retroactive prior authorization
+Fit Explanation: The OP is currently facing a denial and is actively seeking advice on how to proceed, indicating a very good fit for assistance.
+Original Post: My provider ran a genetic panel via a saliva sample through a genetic company. It was at my annual OBGYN appointment and the screening questions they asked about familial cancer history lead them to have me take a QR code survey/series of questions from the company from a poster they had on the wall in the clinic. I told the survey, provider said based on my answers the test would be covered so collected a saliva sample and sent test off. 
+
+A few weeks later I got two text messages from the genetics company saying there may be a problem with coverage, and each time I called, and both times the customer service person did some typing in the background and then assured me the test was going to be covered.
+
+I got the test results, but my insurance (Pacific Source) sent me a letter saying it was supposed to be preauthorized before it was run, and since it wasn't they were denying the claim. The genetics company  told me they were filing an appeal, and I just received a letter saying insurance denied the appeal. 
+
+So I was told three separate times by both parties the test was covered, and now I’m the one on the hook for it - and I’m freaking out because it’s $2000 and I just plain old can’t pay it. And I don’t feel like I should because again, I was told thrice that it was covered. What else was I supposed to do in this situation? How was I supposed to know insurance required pre authorization for that specific test? Shouldn’t my provider have known or checked that before the test was sent off? 
+
+My real question: what do I do now? I can’t afford a lawyer to actually fight the results of the appeal or claims court or whatever is going to happen next. I have no clue how to move forward with this. 

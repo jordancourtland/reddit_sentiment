@@ -1,0 +1,22 @@
+Thread ID: 127vinh
+Title: Denied coverage for a necessary medical procedure
+Subreddit: medicalbill
+Created: 1680289356
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Experimental procedure
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to handle a denied insurance claim for a necessary capsule endoscopy procedure, which their insurance provider labeled as 'experimental'. They are concerned about an impending $5000 bill and how to get the insurance to cover the procedure.
+Responses Summary: Commenters suggested filing complaints with state insurance divisions, negotiating with the hospital for a discount, and seeking further evidence from the doctor to support the necessity of the procedure.
+Themes: Insurance denial, Negotiation strategies, Filing complaints
+Options Suggested: File a complaint with state insurance division, Negotiate with the hospital for a discount, Gather more evidence from the doctor
+Fit Explanation: The original poster is actively seeking help with an ongoing denial situation, indicating a very good fit for the persona.
+Original Post: Hello,
+
+I am hoping to get some advice from those who have experience dealing with denied medical claims. 
+
+I recently received a medical bill of $5000 for a capsule endoscopy that I did in June 2021. The insurance provider BCBSIL denied the coverage for the reason that they consider it "experimental". I've tried filing appeals and got a letter from my doctor to prove the necessity of the procedure, still my insurance provider denied the claims as ‘experimental’. The hospital has informed me that my bill will be sent to a collector next month, and I’m really worried about how to handle this situation. 
+
+The procedure is my doctor recommended as necessary to diagnose and treat my newly diagnosed Crohn's disease. I was under the impression that it would be covered by my insurance, but now I am left with a $5000 bill that I cannot afford. I already paid $8,000 out-of-pocket for my medical expenses in 2021, this extra and unexpected $5000 medical bill will be a huge financial burden.
+
+I would appreciate any advice or guidance on how to handle this situation and how to get my insurance provider to cover the necessary procedure. Thank you in advance for your help.

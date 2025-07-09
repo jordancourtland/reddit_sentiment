@@ -1,0 +1,14 @@
+Thread ID: yyx5kp
+Title: Received a surprise bill after 4 months.
+Subreddit: medicalbill
+Created: 1668812345
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is questioning whether they need to pay a $320 bill after their insurance denied the claim for a recent urgent care visit.
+Responses Summary: Commenters advised the OP not to pay the bill and suggested obtaining the explanation of benefits from the insurance to understand the denial reason, as well as exploring appeal options.
+Themes: insurance denial, balance billing, appeal process
+Options Suggested: do not pay the bill, contact the billing department, obtain explanation of benefits
+Fit Explanation: The OP is currently facing a denial and is seeking advice on how to handle the situation, indicating a very good fit for assistance.
+Original Post: I am an international student in the united states and i have insurance through my university. In the past three years i have never used it. But a couple of months ago i visited an urgent care as i was having difficulty breathing. I gave them my insurance information and everything and they did not mention any charges i had to pay in the future. I asked them if i had to pay anything right now and they said no. They did a covid test on me and it came back negative and i was prescribed some medication. However after a few months i get an email that my claim with my insurance was denied and they kept filing with my insurance multiple times and it kept getting denied. They send me a bill for 320 dollars which included a new patient fee of 240 and an 80 dollar covid test. I went to another clinic after a couple months and they filed with my insurance for 1400$ and it was accepted and i only had to pay 25$. My question is do i have to pay this 320 bill even after giving my insurance information?

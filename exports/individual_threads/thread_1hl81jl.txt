@@ -1,0 +1,29 @@
+Thread ID: 1hl81jl
+Title: $2.6k in therapy claims denied, did I do something wrong? (California)
+Subreddit: healthinsurance
+Created: 1735023465
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Coordination of benefits issue
+Outcome: Ongoing
+OP Summary: The user is experiencing denials for therapy claims due to potential coordination of benefits issues between their UCSHIP and Covered California insurance plans, and is seeking guidance on how to resolve the situation.
+Responses Summary: No response summary available
+Themes: Insurance denial, Coordination of benefits, Mental health therapy
+Options Suggested: Contact both insurance providers, Request therapist to resubmit claims, Complete UCSHIP coordination of benefits form
+Fit Explanation: The user is actively seeking help to understand and appeal the insurance denials, indicating a very good fit for assistance.
+Original Post: Hi, I don't know where else to ask this especially around the holidays so I'm going to ask people who may know how medical insurance works and I'm freaking out. This is in California is it matters.
+
+I'm at a university where each student receiving a health insurance plan through the school. It's UCSHIP if anyone is familiar. I decided I wanted to take long-term therapy so my school's health center offered me a few locations and a tool to find spots.
+
+I found one by campus that takes students from my school. The application told me to fill out my insurance information and listed that they take UCSHIP, my insurance, and they also states that I have to note if I am covered by other medical insurance plans because the way it works is that if I don't, they might charge the insurance i am not covered by, so I denoted that I am covered by UCSHIP and MediCal through my parents. I also received the proper referral from my Student Health Center to receive therapy at this location.
+
+I took 6 sessions. During one of them, my therapist told me on their screen it was showing that MediCal was being shown as my primary insurance, but I told them I had UCSHIP and then they told me I should be covered by UCSHIP then. Today, I checked my Sydney Health App which displays both my UCSHIP and Medical ID cards and claims, and it showed all 6 claims were denied ranging from around $400 each session.
+
+Obviously, I'm freaking out now. I should be covered, but I'm not sure why it's denied. Was it some technicality? Did I do something wrong? Is this something that can be fixed and appealed? It's been around 2 months (beginning of Nov) and I didn't notice until now because I don't really use my insurance often except for this, and I haven't been charged anything on any credit card.
+
+I will be contacting everyone I can as soon as the holidays are over. Obviously the worst time to finding this out while offices are closed for Christmas Eve and Christmas Day. I'm just worried sick.
+
+NOTE: There are some notes on my file about my two insurance plans. Something about $0 Copay, $0 DED, and 4500 OOP, and other things. I'm not sure. I can provide more if it'll help
+
+  
+EDIT: It's not MediCal, it's a Covered California plan. Either way, it seems like my school insurance is secondary to my covered california plan which is first although I would've hoped it was the other way around. They said a team will process a coordination of benefits and they determine what is primary themselves.

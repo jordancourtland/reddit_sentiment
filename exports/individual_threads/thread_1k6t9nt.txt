@@ -1,0 +1,22 @@
+Thread ID: 1k6t9nt
+Title: Provider charged my insurance for a test I never received
+Subreddit: healthinsurance
+Created: 1745504017
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Billing error for a test not received
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to address a billing issue where their provider charged for a test they never received, specifically looking for guidance on documenting and advocating for their appeal with their insurance.
+Responses Summary: Community members advised the poster to keep detailed records of all communications, request written confirmation from the provider regarding the error, and consider escalating the issue to higher management if necessary.
+Themes: billing issues, insurance appeal, provider communication
+Options Suggested: file an appeal with insurance, contact the third party test agency, report potential fraud
+Fit Explanation: The user is actively seeking help to appeal the denial related to the incorrect billing.
+Original Post: I saw my PCP for a routine physical a few months ago. They called me a week later asking about a monitoring medical device and asked if I still had it. I told them I had no idea what they were talking about, and said they must have the wrong person. The office staff told me yes this must be a mistake and it must have been the patient before or after me. 
+
+About a month later, I received a bill in the mail from a third party, the entity that runs the test based on the monitoring device. I called my provider’s office and explained the situation and after speaking with billing and checking in daily for updates, the billing staff told me this has been fixed and I should receive confirmation via regular mail. I never received anything in the mail besides another statement (a few weeks after receiving confirmation this has been fixed) from the third party reminding me I had a co-pay. My insurance provider already paid for this claim. 
+
+I called my insurance provider and they told me they had not received anything communication from my provider regarding this matter. They told me I will need to file an appeal through them in order for them to take any action because it’s very likely that the provider will not admit fault. 
+
+I reached back out to the billing person at my provider’s office and requested that 1) my medical records are updated to indicate that I did not receive this test and 2) she send me her documentation of her conversation with my provider admitting that this was an incorrect charting. She evaded this and told me she sent everything to another staff person who said she took care of it. She’s not in office so I have to wait til tomorrow to talk to her. 
+
+I appreciate any advice on what I can do to ensure that this is actually fixed. For example if there’s anything I should be documenting, advocating for etc to include in my appeal with my insurance. 

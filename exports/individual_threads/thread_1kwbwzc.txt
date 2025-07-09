@@ -1,0 +1,14 @@
+Thread ID: 1kwbwzc
+Title: denied splenectomy claim (Cigna &amp;RWJ)
+Subreddit: healthinsurance
+Created: 1748311701
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Requested additional information not received
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice after Cigna denied their claim for a splenectomy, citing a lack of requested information from the provider despite prior confirmations that no prior authorization was needed.
+Responses Summary: Commenters suggest that the doctor's office may be appealing the denial and recommend contacting the insurance for clarification on the required information. They also advise not to worry too much until actual bills are received, as the situation may change.
+Themes: claim denial, appeal process, insurance communication
+Options Suggested: contact insurance for clarification, check with provider about appeal, wait for actual bills before worrying
+Fit Explanation: The original poster is currently dealing with a claim denial and is actively seeking advice, indicating a very good fit for assistance.
+Original Post: Hi everyone, just received an email today from cigna denying a claim of over $100k, submitted by rwj for my recent oncologic surgery. The reason stated was that they requested additional information from the provider but didnt receive it, so the claim was closed. Before surgery, I contacted both to ask whether pa was required. I was told the surgery was considered outpatient, so no PA was needed (and any situation that might arise later tey would convert the request into inpatient admission). After surgery I had elevated hr, severe pain and hadn't eaten so the doctors delayed my discharge for some hours more (stayed around 36 hours in the hospital). Curiously, i later received two PA letters dated after my procedure: one approved outpatient care and another denied inpatient care. When contacted after surgery both parties stated that they're waiting the other to send something making me frustated with this situation. Any advice or similar stories would be huge right now. Thank you!

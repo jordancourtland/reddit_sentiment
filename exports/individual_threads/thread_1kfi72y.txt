@@ -1,0 +1,27 @@
+Thread ID: 1kfi72y
+Title: Stuck Between Hospital and Insurance
+Subreddit: healthinsurance
+Created: 1746467804
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Claim denied due to lack of medical records
+Outcome: Unclear
+OP Summary: The user is facing a denial from their insurance for a NICU bill, with both the hospital and insurance blaming each other for the lack of communication and resolution.
+Responses Summary: No response summary available
+Themes: communication breakdown, insurance denial, NICU billing issues
+Options Suggested: three-way call with insurance and hospital, request medical records personally, appeal the denial with submitted records
+Fit Explanation: The user is actively seeking help to resolve a current denial issue with their insurance and hospital.
+Original Post: Hi all,
+I really need help or guidance here. Our newborn had to spend some time in the NICU, and we just received a bill from the hospital for around $150,000, which they “generously” reduced to $38,000 after some discount. But the nightmare is just starting.
+
+The hospital says our insurance denied the claim, and when I called the insurance company, they said they requested medical records from the hospital but never received them. Because of that, they denied the claim.
+
+I asked the insurance company if they could follow up with the hospital. They said they already sent a letter and that there’s nothing else they can do.
+
+When I call the hospital billing department, they claim they never got any letter and straight-up refuse to call the insurance or help move this forward. I’ve asked multiple times, and they just don’t care. They keep repeating that I’m responsible for the balance.
+
+Now I’m stuck in the middle, with each side blaming the other and no one willing to talk to each other. And I obviously can’t afford a $38,000 bill.
+
+Has anyone dealt with something like this? How do I get this resolved when neither party will take initiative?
+
+Any advice, tips, or next steps would be greatly appreciated.

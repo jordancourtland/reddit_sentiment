@@ -1,0 +1,16 @@
+Thread ID: 1jqwzmb
+Title: Denied coverage 1 week before surgery
+Subreddit: healthinsurance
+Created: 1743721256
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The user faces a denial of coverage for surgery due to the hospital being out-of-network, despite prior appointments being billed to insurance. They are seeking advice on how to proceed and advocate for themselves amidst the stress of the situation.
+Responses Summary: No response summary available
+Themes: surgery denial, insurance miscommunication, advocacy for care
+Options Suggested: file an out-of-network gap exception, consult another surgeon, contact a nurse case manager
+Fit Explanation: The user is actively seeking help to appeal the denial and navigate their options for surgery.
+Original Post: I am scheduled for surgery next week with a specialist. I’ve waited a very long time to get this care and am chronically ill from my health problems. I received notice from the hospital billing department today that in fact the hospital is out-of-network with my insurance. This is after at least 6 months of appointments at this hospital and with this surgeon’s office. My insurance was billed for the other pre-op appointments. The billing office informed me today that I would have to pay about 49k up front to even be seen by the doctor for the surgery at this point. I pressed both my insurance and the hospital as to how this could happen. According to the hospital billing office, they had my insurance numbers but not my card on file (I’m quite sure I gave them my physical cards at one of my in-person appointments). They said someone had entered the wrong plan into the system (one that was covered by the hospital) and just discovered this. Something feels very wrong to me, not to mention the psychological stress of having been preparing for a hopefully life-changing surgery that is likely to be off the table. I have the option to file an out-of-network gap exception or use another recommended surgeon, but I am enraged that this mistake was made. I don’t understand how the hospital could just now find out that my insurance is out-of-network. Can anyone advise—is this fishy? What might I do to get my surgery next week? My FMLA is approved, my friend paid money to fly to stay with and take care of me, and childcare and meals are organized. I find the whole thing unacceptable but don’t know how to advocate for myself.
+
+My plan is Highmark Blue Cross Community PPO.

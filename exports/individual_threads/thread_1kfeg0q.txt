@@ -1,0 +1,20 @@
+Thread ID: 1kfeg0q
+Title: Can Insurance change my coverage date retroactively (divorce)?
+Subreddit: healthinsurance
+Created: 1746458890
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Administrative error regarding coverage
+Outcome: Ongoing
+OP Summary: The original poster is seeking guidance on their rights and protections regarding insurance coverage after being denied claims for medical treatments due to an administrative error following their divorce. They are particularly concerned about the lack of COBRA information and the implications of the backdated coverage end date.
+Responses Summary: Community members advised the original poster to gather all documentation related to their coverage and treatment, contact the insurance company to dispute the denial, and consider reaching out to a legal expert or patient advocate for assistance in navigating the situation.
+Themes: Coverage denial, Administrative error, COBRA and special enrollment
+Options Suggested: Contact insurance for clarification, Explore COBRA options, Consider Medicaid eligibility
+Fit Explanation: The user is actively seeking help regarding their claim denial and understanding their rights.
+Original Post: Tldr - insurance told me I was covered, I got treatment, now they are saying I wasn’t covered during the treatment dates due to their admin error. 
+
+I was covered as a dependent spouse under my ex husband’s employer plan with UHC. He told me he would cancel my coverage when we got divorced, but on my end I kept checking coverage and he still hadn’t canceled it, so I had some medical appointments and procedures. I contacted him to ask him about his plans to cancel the insurance and he said he already had. Apparently there was some administrative error, and they mistakenly thought I was still covered. Now they have backdated my coverage end date to last November and denied all of the recent claims.
+
+I never received any COBRA information, and I was very careful about checking coverage before I scheduled my appointments. I plan to reach out to them ASAP, but I want to understand my rights and protections first. I obviously never would have gotten procedures and appointments without insurance, and I’m pretty sure that I’m not going to be able to get a new plan to retroactively cover this. 
+
+Please help!

@@ -1,0 +1,14 @@
+Thread ID: 1khemm5
+Title: Aetna Insurance Claim for Wisdom Tooth Extraction
+Subreddit: healthinsurance
+Created: 1746668900
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The original poster is seeking clarification on why their wisdom tooth extraction claim was denied by Aetna as a medical claim, despite it being a dental procedure, and is confused about the out-of-network status of their oral surgeon.
+Responses Summary: Community members advised the poster to review their insurance policy for coverage details and suggested contacting Aetna for a more detailed explanation of the denial. Some shared similar experiences and recommended appealing the decision or seeking in-network providers for future procedures.
+Themes: Claim denial, Out of network provider, Medical vs dental classification
+Options Suggested: Contact Aetna for clarification, Request an appeal, Seek advice from others with similar experiences
+Fit Explanation: The user is experiencing a denial and is seeking clarification, indicating they might need help soon.
+Original Post: I had 4 of my wisdom teeth extracted last February. The total amount was $1,360 and I initially got an estimate to pay $572 as out of pocket (that's excluding the $750 general anesthesia fee not covered by insurance). 3 months later, I got a bill from my provider for another $766! upon calling Aetna, they said that the dental claim was denied because this is considered a medical claim. And the oral surgeon was out of network under medical. But I'm confused how this is a medical claim when it's for my teeth. Does anyone have the same experience?

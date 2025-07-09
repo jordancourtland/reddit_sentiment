@@ -1,0 +1,17 @@
+Thread ID: 1kgosbd
+Title: HELP idk how to make sure my claim for my hospital bill doesn’t get denied
+Subreddit: healthinsurance
+Created: 1746592167
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Claim denied due to potential other insurance coverage
+Outcome: Ongoing
+OP Summary: The user is facing a claim denial from Meritain for a hospital bill incurred before their child's birth, as they have dual insurance coverage and are unsure of the payment responsibilities.
+Responses Summary: No response summary available
+Themes: Dual coverage confusion, Claim processing issues, Need for clear communication with insurers
+Options Suggested: Contact Meritain for reprocessing, Request itemized bill from the hospital, Provide proof of eligibility dates to insurers
+Fit Explanation: The user is actively seeking help to appeal the denial and clarify payment responsibilities.
+Original Post: I am on my parents insurance plan (Meritain) but I had a child in December. I enrolled my child and I in a plan through my employer (Excellus), and the plan became effective the date of his birth. Now  Meritain has become my secondary payer. Who is supposed to pay for my hospital bill? I was admitted to the hospital 2 days before my child’s birth. Is Meritain responsible for my entire hospital bill or for the two days before my child’s birth? I’ve received a letter in the mail from the hospital telling me that Meritain is denying the claim because I may have another insurance who is supposed to pay first. I called and explained my situation to Meritain and they said they would reprocess the claim. I then received the same letter again a few weeks later.
+
+
+I’m 25 from NY, work full time making about $78k 

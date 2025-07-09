@@ -1,0 +1,24 @@
+Thread ID: 1k8urhy
+Title: $1429 Lab test denied coverage for it being deemed "experimental/investigational"
+Subreddit: healthinsurance
+Created: 1745724888
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Experimental/investigational
+Outcome: Unclear
+OP Summary: A fecal test ordered by a gastroenterologist was denied by Aetna for being deemed experimental/investigational, leading the patient to seek advice on how to avoid such denials in the future and negotiate costs.
+Responses Summary: No response summary available
+Themes: insurance denial, negotiation strategies, understanding healthcare costs
+Options Suggested: contact the lab for negotiation, request medical records for appeal, call insurance for procedure codes
+Fit Explanation: The user is actively seeking advice on handling a denial and how to navigate the healthcare system, indicating a strong fit for assistance.
+Original Post: I have health insurance with Aetna through my employer. I went to see an in-network gastroenterologist last week for having discomfort in my abdomen. The doctor ordered some bloodwork and fecal tests. The denied one is a fecal test done at Northwell Labs "IADNA-DNA/RNA PROBE TQ 12-2 87507" and on the diagnosis this is part of the Gastrointestinal Pathogen Panel, PCR, Feces Test Code 37939 CPT Code 87507. It appears to be a PCR test.
+
+My questions:
+
+1. It looks like a very basic test and the doctor only mentioned that he would do some routine tests, without naming all the tests and explaining them to me. I'm sure the doctor wouldn't know the test he ordered could be denied by my insurance. What can I do better next time to avoid a nasty surprise like this?
+
+2. The cost seems exorbitant.  Is its possible to negotiate and reduce the charge? If so, what's a good approach?
+
+3. As a foreigner I never got used to the US healthcare system and I've become quite scared to go to doctors for this exact reason. I don't understand how it is legal that patients don't know how much they would be charged and are obligatory to pay. It is as if the providers can just charge anything. There were some years my medical bills are more than $5000. I feel that simply making sure I'm staying in-network is not enough to avoid huge bills... Should I go as far as always calling my insurance and go through the treatments/tests one-by-one before agreeing to have them performed on me?
+
+

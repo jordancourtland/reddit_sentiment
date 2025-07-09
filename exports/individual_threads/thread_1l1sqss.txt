@@ -1,0 +1,28 @@
+Thread ID: 1l1sqss
+Title: Claims are getting denied for a weird issue
+Subreddit: healthinsurance
+Created: 1748896112
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Rendering provider not associated with billing provider
+Outcome: Ongoing
+OP Summary: The original poster is seeking help with BCBSIL regarding denied claims due to a provider association issue, despite their contract being valid.
+Responses Summary: Commenters did not provide specific advice but suggested ensuring all relevant information is included and to have EOBs ready for further assistance.
+Themes: provider association issues, claims denial, communication challenges
+Options Suggested: contact provider consultant, fill out provider update form, wait for response from BCBSIL
+Fit Explanation: The original poster is actively seeking help with a current denial issue, indicating a very good fit for assistance.
+Original Post: **Need help with BCBSIL (desperate so posted on other places too)**
+
+I run a mental health private and we ran into a massive issue with BCBSIL. Our contract is still good and the directory still shows our company but it removed all 3 of our providers and put them back on their old practices’ rosters from last September. All our claims were being paid out perfectly fine until 5/23/25 and starting 5/23 our claims all came back denied because it said the rendering provider wasn’t associated with the billing provider. I called the claims department and they said there is no record of the rendering provider being a part of the practice but sees that old claims were paid. Availity has the provider listed correctly but running benefit checks the reports show the rendering provider at a different location.
+
+
+
+The claims department couldn’t help and said to email the provider consultant which talks 10 days to get a response. There is no other number to call and no way to talk to a person about it. I have emailed the provider consultant and waiting. I also emailed the provider roster email and requested ours but the roster they sent back had no providers on it. We emailed again explaining the situation and we are waiting on the response.
+
+
+
+I filled out the provider update form but that takes up to 30 days and might not work since the providers aren’t on the roster according to them. Everything (CAQH, Availity, and NPI) has all have the correct information and have been attested correctly. We attested and confirmed information for BCBS about a month before this issue happened. 
+
+
+
+Does anyone have a contact or suggestion as what to do? 

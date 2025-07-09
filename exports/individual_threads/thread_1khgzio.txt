@@ -1,0 +1,16 @@
+Thread ID: 1khgzio
+Title: Claim Denied For Specialist But They Accept my Insurance?
+Subreddit: healthinsurance
+Created: 1746676482
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The user is confused about their insurance claim denial for a specialist visit, despite the office stating they accept Aetna insurance. They are unsure if they will be responsible for the bill and seek guidance on how to proceed.
+Responses Summary: No response summary available
+Themes: Insurance acceptance vs. network status, Claim denial confusion, Patient responsibility for bills
+Options Suggested: Contact Aetna for clarification, Ask the specialist's office about the denial, Verify if the provider is in-network
+Fit Explanation: The user is actively seeking help regarding a claim denial and is unsure about their financial responsibility.
+Original Post: I have an Aeatna HMO ACA plan and I do not understand what is going on with my insurance. The specialist said they accept Aetna. Got the referral from my primary. Ive been two times and apparently the claim has been denied both times. Does that mean I am on the hook for the rest of the bill? I do not understand how this works. The office has not mentioned the insurance being denied and have only asked for a co-pay. However, the claims are being denied. What should I do?
+
+Codes 376 and CYL. 

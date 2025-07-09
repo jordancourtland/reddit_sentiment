@@ -1,0 +1,14 @@
+Thread ID: 1j0dux0
+Title: Insurance not covering service provided
+Subreddit: healthinsurance
+Created: 1740765372
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Experimental/investigational services excluded from coverage
+Outcome: Unclear
+OP Summary: The user received a denial for an ultrasound charge from their ER visit, labeled as 'experimental/investigational services excluded from coverage', resulting in a significant out-of-pocket expense.
+Responses Summary: No response summary available
+Themes: Emergency room visit, Insurance denial, Cost confusion
+Options Suggested: Contact insurance customer service, Consider appealing the denial, Seek clarification on coverage policies
+Fit Explanation: The user is actively seeking insight and potential appeal options regarding their insurance denial.
+Original Post: Hello, so I went to the ER a few weeks ago and just got my EOB today. There were numerous charges, most applied toward my deductible although one of the charges, for an ultrasound states it was denied due to “experimental/investigational services excluded from coverage”. The charge wasn’t even applied to my deductible and I owe 100% of the charge which is well over $2,000 on top of all the other charges that were partially covered but I owe for as well. I searched the CPT code that was used for this charge to check the “estimated cost” with my insurance at the same hospital and the amount I would owe was a fraction of what the EOB is telling me along with the cost being applied to the deductible. I’m confused because this is the first time I’ve been to the ER and it was an emergency so I wasn’t thinking about costs, just that I knew I had insurance and a deductible that I thought it would all be applied to. I’m honestly not educated with the whole system and wanted to see if I could please get some insight or explanation from anyone who is willing to provide it to see if this makes sense or if it’s something I should appeal.

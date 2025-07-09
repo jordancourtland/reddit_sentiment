@@ -1,0 +1,95 @@
+Thread ID: 1hvbhi0
+Title: Navigating Health Insurance Customer Service, A Guide
+Subreddit: healthinsurance
+Created: 1736201576
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The post provides a comprehensive guide on navigating health insurance customer service, emphasizing persistence and effective communication strategies to resolve issues. It shares personal experiences and tips for dealing with claim denials and prior authorizations.
+Responses Summary: No response summary available
+Themes: Customer service navigation, Claim denial strategies, Personal experiences with insurance
+Options Suggested: Stay persistent, Ask for supervisors, Document interactions
+Fit Explanation: The author discusses their experience with insurance denials and offers guidance, indicating they may need help with similar issues soon.
+Original Post: Recently I had a complicated issue that I needed to resolve over the phone with my health insurance provider. It took a couple of hours, but I knew exactly what to do and, in the end, got what I wanted even though I had to get through a lot of incompetence and naysaying. I am a lurker on Reddit, I deleted my last account because I didn't like having my two posts just out there in the world, but it has helped me practically many times in my life and so I decided I wanted to pay it forward with my tips on dealing with health insurance customer service (tips which would apply to many other call center types of customer service as well).
+
+A short back story that you can skip if you wish. My mom passed away from cancer some years ago, and before she died, I lived through three horrible days of calling her insurance non-stop to try and get them to speed up a prior auth for radiation and chemo treatment. In hindsight, it was way too late (my mom had delayed care for months due to anxiety and other things and we did not know how badly it had spread), so I can't blame the insurance too much; they authorized that care within a couple of days thanks to my persistence, but my mom passed away suddenly just before.
+
+It's a horrible story- but I learned how to get to the right person over the phone thanks to a very kind supervisor I had at the time. His wife had a TBI from a car accident and they had a lot of experience with insurance companies, and they patiently sat with me (at work! in his office!) while I mourned and freaked out and they coached me on what to do and say. Wherever you are, D&amp;J, I shall never forget this kindness.
+
+Without further ado, here is my **Guide on Dealing with Health Insurance Customer Service**, which includes a list of dos and don’ts and then step-by-step instructions.
+
+**DO**
+
+* Try to find the right number. Research online which number you should call about what issue, as some companies have different lines for pharmacy vs medical claims, etc. This will save you time and sanity.
+
+* Gather all your info ahead of time. Insurance card, case or claim number, dates of care or when you submitted a claim, any relevant medical or personal info, doctor contact info, etc.
+
+* If you are calling on behalf of someone you are not a guardian of, you need to have them ready to talk on the phone to give you permission to speak for them if you have some kind of extreme case like I had with my mom.
+
+* Have pen and paper/tablet/etc ready to take notes. Note which department you are speaking to and the names of the customer service reps that you talk to.
+
+* Be very polite and good natured from the get-go. Eventually you may lose patience, but start the call off right. The initial customer service rep isn't responsible and may not know IF or how they can help. Use their names, remember they are humans.
+
+* Try to find something easy to do while you wait on hold. Knit, paint, game, etc. Something you can do with headphones on that isn't loud or distracting but keeps you from feeling like you are wasting your life on the phone. Last time I repotted my plants.
+
+* Check Reddit for tips regarding prior authorizations for specific drugs or care if that is what you need. See if there is a subreddit for said health issue/drug and search within that. This guide is just about getting to the right customer service rep, I don't know the ins and outs of PAs.
+
+* Be mentally prepared. This will suck. You will probably be on hold for a long time- the more patient you are over that, the more likely they will feel bad and get you to someone else who knows more.
+
+**DON'Ts**
+
+* Don't lose hope! It's all about getting the right person on the phone. DO NOT HANG UP. A reputable company in the US cannot hang up on you. All they can do is continue transferring you.
+
+* Don't threaten to sue. That does nothing, they hear that all the time, the rep doesn't care; it's an empty threat.
+
+* Don't hide your frustration, but don't lose your temper. Calmly explain your emotions as they evolve. Example from my last call: "I've been on the phone for hours and you are the first person to tell me my claim was denied, and I've talked to three people who all told me they couldn't properly see the claim- when they could- so I think you can see why I am upset. I need to find a way to appeal this, can you please help me find the right person to talk to?"
+
+* DON'T TAKE NO FOR AN ANSWER. Someone there can help you! Just because that person on the phone doesn't have the knowledge or authority to help, doesn't mean they can't transfer you to someone who does have it.
+
+  
+**Step-by-step**
+
+1) Get through the bots to a human. Greet them by their name (write it down) they will give you, be polite, and explain your problem BRIEFLY because at this point, they are just screening you. You can get into details as they ask follow-up questions.
+
+2) If they at any point they put you on hold, make sure they have your call back info in case the call drops. A good company will confirm that with you, but if they don't you should offer it. Do this whenever you get transferred as well. 
+
+3) If they can't find your claim, or are having trouble locating it, or seem confused, ask them to tell you exactly what they are seeing, instead of letting them put you on hold. "Before you put me on hold, can you tell me exactly what you are seeing about XYZ? I may be able to explain this or that."
+
+Last week I had three people tell me that a file I had submitted was corrupted and missing info. Turns out they just didn't realize it was written in Finnish, even though I told them I was calling about an overseas claim and lived in Finland. This was such a distraction to them that they failed to mention to me the claim was denied until we were 1.5 hours in.
+
+4) If the rep claims their department cannot help you with your said issue, ask them to transfer you to the department that can. If your issue is complex, ask them to stay on the line with you and explain it to the person they transfer you to. Beware, this may take a long time.
+
+If/when you get to a new person or department, write down their name and confirm which department you are speaking to, and what their department phone number is. Write that ish down.
+
+5) If you are in the correct department, but the rep says there is nothing they can do, kindly explain that that is not satisfactory. "Thanks for your help so far but unfortunately I need more assistance to resolve this. What else can you do or what other resources do I have?" Most likely they will offer to transfer you.
+
+6) Before they transfer you, ask where they are transferring you too. Always check this. People get frustrated and give up or lose their tempers because they get stuck in loops of getting booted back and forth between the same 2-3 departments, but to entirely new reps who have no idea you already spoke to their department. This is nightmare territory, and this is why you need a record of who you spoke to previously.
+
+When they offer to transfer you say "I just spoke with so-and-so in such-and-such department. Is that the same place? This is their phone number."
+
+You may run into a wall here. The rep may think that if you've already spoken to the person they offered, then there is really nothing else they can do. You don't know who can best help you, and sometimes they don't either! If you did not do this before, it's vital now you get both parties on the phone and make them explain the problem to each other on a three-way call.
+
+7) If they don't offer to transfer you and give you "I'm sorry but I checked with my supervisors, etc. etc. and this what they said for this case." then politely tell them you would like to speak to the supervisor directly about the issue. You may want to say something like this:
+
+"I'm sorry, I know you aren't responsible for this mess, but it's unacceptable that I can't get the information/help I need in a timely manner. I think there is a way to fix this. May I please speak with your shift supervisors directly about this matter?"
+
+Don't make it like you are going to report them, just that they've done all they can for you and now you need access to more power.
+
+  
+8) If you are told "no" about a claim or prior auth, ask about the appeal process. If you get told there is no way to appeal, ask why not when you have doctors willing to back you up. Get as much info about “the why” as you can.
+
+I had an odd case where I was told I couldn't appeal a denied claim, but if I had called them before filing, they may have been able to help me. My line was "I'm sorry but there was no way of me knowing this information in advance, it seems predatory and misleading to deny me coverage because of information I could not have known about. If you were able to make an exception before the file was claimed, then you can do so retroactively now. Can you please help me figure out a way to appeal this? I will stay on the line as long as I need to." This got me to a new person who helped me submit an appeal.
+
+9) Repeat the steps about asking for supervisors or connecting departments as needed as you run into walls. There is always someone higher up, or a different department that can help. I had to go through 5 people recently before I got what I needed, but it could be more. You may get so high up you get to a person who actually can definitively tell you no for real. Sometimes that is how it goes. At that point, you can know you've done everything possible and can DM a health care journalist or something with all your notes, if they are being shady. 
+
+10) Once (if) you reach someone who can help you, that might mean they just submit an official request for you. Thank them, and ask them for a case or a task number and a phone number where you can call and follow up directly without having to go through bots, etc, if you need to. Ask for a timeline. If they can't give you a tracking number, it is an empty promise and not to be trusted. If they can, don't be unreasonable with their time and sanity or your own and demand more. You found a helpful person, so don't sabotage it!
+
+
+
+That’s it! So simple! Haha! **Bottom line – just stay on the phone, stay polite, don’t take no for an answer and keep moving up the chain of command.**
+
+When I was called about my mom, I was still on the learning curve about this (even with the help of my friends) and wasted a lot of time getting transferred to different departments, getting sent to supervisors’ lines which turned out to be answering machines, the call mysteriously dropping while I was on hold, etc. I just kept calling back with my last case number or name of the last person or department I talked to. Eventually everyone knew who I was and they started sending me directly to the boss lady who was at her wits end with me, as I was with her. I realized that I had banged the drum enough to stop as they were now pleading with me to believe them that they had accelerated my mom’s case as much as they could. It wasn’t a win really, it didn’t save my mom, but I don’t want anyone to have to deal with their stupid run-around like I did and hope this guide helps people navigate the absolute horror maze of health insurance industry. 
+
+  
+Also, if ever your loved one is very very sick... go to them directly! You may not have a chance to say goodbye otherwise. 

@@ -1,0 +1,14 @@
+Thread ID: 1jg030c
+Title: Just caught an error after open enrollment
+Subreddit: healthinsurance
+Created: 1742505857
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Overlapping coverage
+Outcome: Unclear
+OP Summary: The user accidentally signed up for medical insurance through their employer, leading to denied claims from their spouse's plan, and is seeking a way to cancel the unwanted coverage.
+Responses Summary: No response summary available
+Themes: insurance enrollment error, claim denial, coverage cancellation
+Options Suggested: contact employer for cancellation, wait for next open enrollment, check for qualifying events
+Fit Explanation: The user is facing a denial due to overlapping insurance coverage and is likely looking for assistance in resolving this issue.
+Original Post: I have medical through my spouse. I added dental through my employer and just discovered that I somehow signed up for medical too, when claims were denied by my spouse’s plan because I now have my own insurance.  Is there any way to get rid of this unneeded and unwanted coverage or am I stuck paying thousands until next year?

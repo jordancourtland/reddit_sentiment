@@ -1,0 +1,28 @@
+Thread ID: 1kqizv1
+Title: After 6 months, my in-network healthcare provider is still not refunding me for an overpayment. I've seen some people try to claw back the money via the credit card company; could I do that in my case?
+Subreddit: healthinsurance
+Created: 1747678880
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Refund delay
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to recover an overpayment from their healthcare provider, which has not refunded them despite multiple follow-ups over six months.
+Responses Summary: Commenters suggest various strategies including filing a dispute with the credit card company, contacting the insurance company, and considering legal action if the refund is not issued soon.
+Themes: billing issues, insurance communication, legal action
+Options Suggested: file a dispute with credit card company, contact insurance company, consider small claims court
+Fit Explanation: The original poster is actively seeking solutions for a current denial situation, indicating a very good fit for assistance.
+Original Post: December: I went to the doctor's office, and the front desk collected my copay upfront even though I had already met my OOPM.
+
+January: Insurance processed the claim; my EOB states that I owe $0. I also see that insurance has sent a check to my healthcare provider.
+
+February: Spent the entire month calling the billing office, only to be told that the insurance claim is still "processing" on their end and they have to wait till it's fully processed to refund me.
+
+March: I received a call from the billing department that insurance had denied part of the billed amount, and that I am responsible for the denied portion (even though my EOB said I owe $0). Upon a 3-way call with the insurance company, the insurance rep stated that the denied amount was over the allowable amount for an in-network provider, and that they must refund me. The billing department then said that they would issue a refund to me for the amount I overpaid back in December.
+
+April: Still no refund. I called the billing department yet again, and they said that the internal team was "still working on the billing for that appointment".
+
+May: I called the billing department yet again to get my refund, and they've now resubmitted the claim for that appointment, which means that I apparently have to wait some more before I get a decision on whether I get a refund.
+
+At this point, it's quite obvious that the healthcare provider is avoiding refunding me in the hopes that I'll forget and let it go. 
+
+I saw some posts about people who got their money back by filing a claim with the credit card company. Is that doable in my case? Technically, I couldn't actually claim that my responsibility is $0 as of now, since the EOB for the resubmitted claim hasn't come out yet. But given my experience over the past few months, I wouldn't be surprised if the healthcare provider tries to drag this out some more, even after the new EOB comes out, and if there's an easier way to get my money back, I'd rather go that route.

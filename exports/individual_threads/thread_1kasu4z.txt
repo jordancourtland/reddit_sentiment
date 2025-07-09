@@ -1,0 +1,14 @@
+Thread ID: 1kasu4z
+Title: Advice
+Subreddit: healthinsurance
+Created: 1745945651
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: In-network verification issue
+Outcome: Ongoing
+OP Summary: The user is seeking guidance after Aetna denied two claims for their son's surgery, despite confirmation that the surgeon was in-network.
+Responses Summary: No response summary available
+Themes: Claim denial, In-network confusion, Seeking guidance
+Options Suggested: Allow time for appeal, Contact the surgeon's office again, Wait for a bill
+Fit Explanation: The user is actively seeking help regarding the denial of claims and is unsure of the next steps.
+Original Post: My son had surgery last week. I called and verified with Aetna that the surgeon was in network. The surgeon verified they were in network. They have them on their website with his NPI that he is in network. They just denied 2 claims with him. I called yesterday and was told to allow everything to process and that they are showing his practice in network but not his npi. I called the surgeons office who verified again, he is in network. I’m not sure what to do at this point because as of this morning, both claims have been denied. Looking for some guidance. 

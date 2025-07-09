@@ -1,0 +1,20 @@
+Thread ID: 1izqo29
+Title: Insurance dropped daughter since we didn't provide verification docs, I need to be added to insurancr
+Subreddit: healthinsurance
+Created: 1740690825
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Lack of verification documents
+Outcome: Ongoing
+OP Summary: The user's daughter was dropped from insurance due to a lack of verification documents, and they are appealing the decision while seeking to add her to their insurance plan after a qualifying life event.
+Responses Summary: No response summary available
+Themes: Insurance denial, Appeal process, Qualifying life event
+Options Suggested: Inquire about IRS Tagalong rule, Check with HR for enrollment options, Submit enrollment paperwork promptly
+Fit Explanation: The user is currently dealing with an insurance denial and is actively seeking information on how to proceed, indicating a very good fit.
+Original Post: So, my husband didn't open his mail (I know) so we didn't see that his company was requesting verification to continue coverage on our daughter.
+
+At the same time, I lost my insurance benefits through my job so I will be added to my husband's insurance.
+
+We have filed an appeal regarding the insurance for our daughter and backdating it, but my question is, if it's denied, will we be able to add my daughter effective the date I'm added since we are making a change?
+
+Thanks in advance!

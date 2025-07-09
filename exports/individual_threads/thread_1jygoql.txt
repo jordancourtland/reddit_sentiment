@@ -1,0 +1,18 @@
+Thread ID: 1jygoql
+Title: UHC Saying I Have Other Health Insurance But I Don't and Is Denying Everything
+Subreddit: healthinsurance
+Created: 1744574748
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Coordination of benefits issue
+Outcome: Ongoing
+OP Summary: The user is facing claim denials from UHC due to a reported other health insurance that they do not have, and they are unsure of the next steps to resolve the issue.
+Responses Summary: No response summary available
+Themes: Claim Denial, Insurance Communication, Appeal Process
+Options Suggested: Contact HR for assistance, Request claims reprocessing, Send a formal letter to customer service
+Fit Explanation: The user is actively seeking help to appeal the denials and is in a situation where they might need assistance soon.
+Original Post: I'm not totally sure what the next steps are here. The only possible reasons this might be happening that I can think, are that I have privately paid for dental insurance from last year that I kept because it was a good policy and I didn't want to have to restart a wait period, and I cancelled my health insurance on the 10th of January because I thought it was cancelled on Dec 31st 2024, but it wasn't.
+
+I had no claims until late February except pharmacy (which is going through fine), and I've had a number of doctor appointments and labs and stuff since, and they keep denying everything saying I have another health insurance. Which, obviously, I don't. I called them and told them this like 2 weeks ago, and they basically said it was probably a glitch and they'll have someone fix it within 7-10 days. They gave me a reference number, and I also filed an appeal regarding the first doctor appointment claim denial and uploaded a screenshot of my old health insurance company, which shows that I have not had health insurance with them since the 10th of January. I have had no new communication from them- no phone call, email, or message on the website. Today I noticed they denied my appeal.
+
+Obviously I'm going to call again tomorrow, but they couldn't do anything for me when I called before except forward it to someone who was supposed to fix it and didn't, so I expect it will be the same thing again. My husband works for a big company, I assume he should go to HR? Any other ideas of what I should do? I'm pretty worried here.

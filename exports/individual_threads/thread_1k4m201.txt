@@ -1,0 +1,20 @@
+Thread ID: 1k4m201
+Title: Colorado/Aetna/Holista Physical Therapy Coverage Question
+Subreddit: healthinsurance
+Created: 1745263212
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Limit on covered visits
+Outcome: Ongoing
+OP Summary: The user is facing issues with Aetna's coverage for physical therapy visits, as they were informed of a limit that was not disclosed initially, leading to unexpected out-of-pocket costs.
+Responses Summary: No response summary available
+Themes: Insurance communication issues, Out-of-pocket costs, Physical therapy coverage limits
+Options Suggested: Contact Aetna for clarification, Request an appeal, Consult a legal expert regarding the surprise billing act
+Fit Explanation: The user is actively seeking help regarding their insurance denial and is currently dealing with the situation.
+Original Post: I have a low back injury and was sent to physical therapy by my doctor in Colorado. My Aetna plan documents list that I have up to 60 PT visits per year and do not need a referral. I've been going once or twice a week since the beginning of the year with no problem. It goes towards the deductible and then insurance covers 20% after the deductible has been met. 
+
+My physical therapy provider told me last week that Aetna requires them to go through a company called Holista. Holista told my PT that for the injury I have they'll only cover 3 visits every 2 months. This is crazy for a number of reasons. The really weird part to me is that the 'denied' visits that my PT sent through Holista weren't even billed to Aetna. They're not on any EOBs or listed under my claims, so it's like they didn't even happen. My PT is asking me to pay for them out of pocket at a private pay rate. It looks like they won't count towards my out of pocket max if this is the case. When I call Aetna they can't give me any information about the 3 visits per month 'limit' and tell me I have 60 visits. No one ever told me anything about this limit and didn't even tell my PT until after I had passed the limit by 8 visits. This doesn't seem legal, especially given the Colorado surprise billing act. 
+
+My PT told me that before going through Holista she'd billed Aetna directly and kept getting denied until someone finally told her that she has to go through Holista. 
+
+Is anyone familiar with this setup? It seems very shady.

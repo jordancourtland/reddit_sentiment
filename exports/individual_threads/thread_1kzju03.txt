@@ -1,0 +1,14 @@
+Thread ID: 1kzju03
+Title: My secondary was billed as primary, they took the money back and now I’m outside of timely filing to bill the primary
+Subreddit: healthinsurance
+Created: 1748650781
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Timely filing
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to handle a situation where their secondary insurance was billed as primary, resulting in a significant bill and concerns about timely filing for the primary insurance.
+Responses Summary: Commenters suggest that the OP should reach out to the provider to have them submit the claim to the correct primary insurance and file complaints if necessary, as the provider may be at fault for not billing correctly.
+Themes: billing issues, insurance coordination, provider responsibility
+Options Suggested: contact provider for claim submission, file complaints with insurances, request a review of the case
+Fit Explanation: The OP is currently dealing with a denial situation and is actively seeking advice on how to appeal or resolve the issue, indicating a very good fit.
+Original Post: I'm worried because I received a bill from a clinic for something I had already paid the remaining out of pocket 6 months ago, then I received an EOB from my insurance saying that they're taking back everything they paid because they were not primary at the time (I had another insurance for 2 months), the bill is for $4,000 approximately.  I've submitted the claims myself to the "primary" but will they really cover outside of timely claims? I was told at first that I was only 10 days out of timely but now they're telling me that's around 3 months because the provider was in network, I've been calling to have my case reviewed but they keep telling that I have to wait till the claims are processed but I know it will be denied per outside of timely, what can I do? Any advise? 

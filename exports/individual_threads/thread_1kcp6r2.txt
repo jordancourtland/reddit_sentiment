@@ -1,0 +1,18 @@
+Thread ID: 1kcp6r2
+Title: Is There Any Legitimate Reason for a Provider to File a Claim for 99310 When Patient Is Deceased?
+Subreddit: healthinsurance
+Created: 1746149277
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claims filed after date of death
+Outcome: Ongoing
+OP Summary: The original poster is questioning the legitimacy of claims filed for nursing facility care after their father-in-law's death, as three of the claims were denied while one was paid. They are considering contacting the insurance company to report potential fraud due to the circumstances surrounding the claims.
+Responses Summary: No response summary available
+Themes: Fraud concerns, Insurance claim denial, Medical billing issues
+Options Suggested: Contact insurance company, Report to Medicare fraud hotline, Consult a malpractice attorney
+Fit Explanation: The original poster is actively seeking advice on how to address the insurance claims related to their deceased father-in-law, indicating a need for assistance.
+Original Post: My FIL passed on August 15, 2024. I haven't looked at his health insurance portal since I told the insurance company he died, but his accountant needed me to download a document, so I just logged in. The doctor at his long-term care facility filed claims for 99310 four times after he died (once on August 25, and three times in September). I looked up 99310, and it's listed as subsequent nursing facility care with a high level of medical decision making and a comprehensive history and exam.
+
+I don't know a lot about coding, so before I call and ask why they would be billing for these issues when their patient was not alive, I wanted to ask here if there's any legitimate reason this would happen. If the doctor needed to review his records after he died, I would imagine they would use a different code than one that is supposed to be about hands-on care. But I wanted to check first.
+
+The facility made a medication error that ended up killing him, so I don't want to call there if I don't absolutely have to. The insurance denied three of the claims, but it paid $148 for one of them. If it's not legit, I want to contact the insurance and let them know (I'm an executor of his estate, so I'm obligated to handle all the financial stuff).

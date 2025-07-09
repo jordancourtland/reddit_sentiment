@@ -1,0 +1,20 @@
+Thread ID: 1jvjy2k
+Title: Insurance denied because of contiguous county rule, yet I'm still getting bills from hospital despite owing zero???
+Subreddit: healthinsurance
+Created: 1744241283
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Contiguous county rule
+Outcome: Ongoing
+OP Summary: The user's insurance claim was denied due to the contiguous county rule, yet they believe they owe nothing despite receiving hospital bills. They are confused about the billing process and the status of their claims.
+Responses Summary: No response summary available
+Themes: Insurance denial, Billing confusion, In-network benefits
+Options Suggested: Contact the hospital for billing clarification, Verify insurance plan details, Request a review of the claim
+Fit Explanation: The user is actively seeking clarification and assistance regarding their insurance denial and ongoing billing issues.
+Original Post: So I had to be admitted in February. I got a bill from the hospital telling me my balance and how much is left to be owed. My insurance did process, which means they do have my information. 
+
+My first said the adjustments were minus 8321 from 16k. Yet I owe zero. The second one I just got says 6584 deducted. From the same 16k. 
+
+My insurance did deny the claim. Yet my health insurance discount covered all of it. My in network benefits were applied, which is that my stay at a mental health facility will be fully covered. But it also says that the claim was denied because of the contiguous county rule. All from my EOB.
+
+What in the world does this mean? I'm pretty sure i owe zero yet this place is still sending me statements. Im confused and I'm getting frustrated. 

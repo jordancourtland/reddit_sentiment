@@ -1,0 +1,14 @@
+Thread ID: 1k3kngy
+Title: Auto Insurance or Health Care insurance
+Subreddit: medicalbill
+Created: 1745149187
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claim denied by both auto and healthcare insurance
+Outcome: Ongoing
+OP Summary: The original poster is seeking clarification on their responsibility for a denied emergency room bill after an auto accident, given that both their auto insurance and healthcare insurance have denied the claim.
+Responses Summary: Commenters advised that in a no-fault state, the auto insurance must be billed first for medical claims, and if denied, the healthcare insurance should cover the remaining costs. They suggested appealing the healthcare denial based on the auto insurance's decision.
+Themes: Coordination of benefits, No-fault insurance laws, Appeal process
+Options Suggested: File an appeal with healthcare insurance, Confirm PIP coverage with auto insurance, Consult with a legal expert on insurance claims
+Fit Explanation: The original poster is currently dealing with a denial and is seeking advice on how to proceed, indicating a very good fit for assistance.
+Original Post: Received a huge bill for an emergency room visit after an auto accident last year. I have been using my regular healthcare provider for auto insurance PIP coverage as it is a qualified healthcare plan. Now the auto insurance denied the ER visit claim which I think is understandable but healthcare insurance also denying the claim saying that they are only secondary to auto insurance. Am I responsible for the ER bill or I am missing something?

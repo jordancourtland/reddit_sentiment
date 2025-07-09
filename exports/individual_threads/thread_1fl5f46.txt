@@ -1,0 +1,14 @@
+Thread ID: 1fl5f46
+Title: Denied claim more than halfway through treatment but my responsibility is 0$
+Subreddit: healthinsurance
+Created: 1726812881
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Partial
+Outcome: Ongoing
+OP Summary: The original poster is concerned about potential billing for TMS treatment after experiencing a claim denial, despite having prior authorization and being told their financial responsibility is $0.
+Responses Summary: Community members advised the poster to contact their insurance company for clarification on the denial and to ensure that the hospital is in-network, while also suggesting keeping detailed records of all communications and approvals.
+Themes: Authorization issues, Provider network status, Billing concerns
+Options Suggested: Call health insurance, Check provider network status, Review EOB for details
+Fit Explanation: The user has a current denial issue and is seeking clarification, indicating they might need help soon.
+Original Post: So this is tricky. I've been doing TMS which is a treatment for depression and I'm about 23 treatments in. I was pre-authorized for this treatment by my former psychiatrist and chief of psychiatry at the hospital I'm receiving these treatments at. Originally the insurance said they didn't think it was medically necessary but they had a meeting with the psychiatrist and he appealed on my behalf and the treatment was approved. I was sent a notice in the mail that these treatments are approved. But about a week ago, a notice appeared on the receptionists computer when checking me in that the hospital is not contracted with the insurance or something along those lines. I know that's kind of vague, I still need to work some things out . Then re ently I noticed that all of my claims are in process and in fact one of the claims was denied but yet my responsibility is 0$. Essentially I'm super scared I'm going to get billed though. Is there a chance they are going to bill me even if it says my responsibility is 0$?

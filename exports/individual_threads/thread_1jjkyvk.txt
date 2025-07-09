@@ -1,0 +1,23 @@
+Thread ID: 1jjkyvk
+Title: School Insurance Denying ED Visit
+Subreddit: healthinsurance
+Created: 1742913719
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not a true emergency
+Outcome: Ongoing
+OP Summary: A medical student is facing a denial from their school insurance for an emergency room visit, claiming it wasn't a true emergency, despite federal laws suggesting otherwise.
+Responses Summary: No response summary available
+Themes: Insurance denial, Emergency care protocols, Legal recourse
+Options Suggested: Seek legal advice, Contact the hospital for billing clarification, Explore Medicaid options
+Fit Explanation: The user is actively seeking help after their claim denial and is considering legal recourse.
+Original Post: I am a 29 YO medical student (no income) in Illinois on my school’s HMO that only covers medical care at a single hospital (the university hospital). Last year I was out of state for a rotation when I had sudden onset fever, chills, copious purulent discharge from my eyes, and blurry vision. It was over the weekend so the local urgent cares were closed, so I went to the ED. They determined it was just normal bacterial conjunctivitis, not a serious infection, and sent me home with topical antibiotics.
+
+Fast forward a year, the school is now denying my claim saying it wasn’t a true emergency, and had also denied the appeal. In the fine print of my plan, it turns out there’s an after hours number I’m supposed to call that connects to the on-call family medicine resident and they have to give me permission to go to an out-of-network ED.
+
+Looking over federal laws, the ACA and CMS guidelines say that health insurance has to cover out-of-network ED visits the same as in-network. My questions are:
+
+1) What recourse do I have now that the appeal is denied by my school? Should I seek out a bad faith insurance lawyer?
+2) Do I have a case against my school, given that I wasn’t aware of the protocols for emergency care laid out in the fine print?
+
+EDIT: Emergency room, not erectile dysfunction

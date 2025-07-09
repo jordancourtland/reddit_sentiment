@@ -1,0 +1,30 @@
+Thread ID: 1kkhjvf
+Title: In-Network Hospital will not dismiss charges despite untimely filing with insurance
+Subreddit: healthinsurance
+Created: 1747016206
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Untimely filing by the hospital
+Outcome: Ongoing
+OP Summary: An in-network hospital is refusing to dismiss charges for an overnight stay despite the insurance company's claim that the hospital did not file the claim within the contractual 90-day period, leaving the patient concerned about potential collections.
+Responses Summary: No response summary available
+Themes: insurance denial, hospital billing practices, patient advocacy
+Options Suggested: three-way call with insurance and hospital, contact state Attorney General, consult a lawyer
+Fit Explanation: The patient is actively seeking advice on how to handle the denial and is currently facing ongoing issues with the hospital's billing.
+Original Post: I was rear ended by a car when I was in my third trimester of pregnancy and had to go to the hospital (in-network hospital with my insurance). This was a hit and run so I did not get the insurance info of the other car as they drove away. I had some tests done at the hospital at the time of the accident and it was recommended by my OB that I stay overnight because one of the tests came back stating that I may have a placenta abruption (dangerous condition to have in pregnancy that could have hurt the baby and myself).
+
+I was admitted overnight and was released after 24 hours after monitoring appeared fine. 
+
+This happened in September 2024 and I received a bill from the hospital in March 2025 for a 10k hospital overnight stay. I called my insurance as I noticed the claim was denied by them and asked why. They stated that the hospital did not file the claim within their contractural 90 day agreement and since the hospital did not file in time this is not a patient responsibility. They essentially told me to ignore the bill and that they would call the hospital. 
+
+I have since received a final notice bill from the hospital again. I’ve called my insurance again who stated the same thing, I should not be responsible for untimely filing by the hospital. The insurance rep called the billing department at the hospital for a 3-way call. My insurance told the hospital explicitly that I am not responsible for this charge and if the hospital has a problem with that then they need to appeal directly with my insurance. The hospital expressed zero interest in doing that and essentially stated there is nothing they can do to dismiss the charges and I am still on the hook for them whether it was untimely filing or not. 
+
+The least the hospital offered to do is send me a dispute letter by mail that I can sign then they will review it. They refuse to place the account or charges on hold during this time, despite my insurance asking them too. 
+
+I fear I am going to be sent to collections and this could end up on my credit report. I don’t understand how to get these charges dismissed. It sounds like the hospital is attempting to bill the insurance of the driver who hit me (I do not have that information since it was a hit and run). I did not file a claim with my car insurance since the damage was minimal and I wanted to avoid car insurance premiums going up (I did not know at the time that the hospital would try to pursue car insurance). 
+
+The hospital appears to be coding it as a MVA (motor vehicle accident) whereas my insurance has it listed as a in-hospital stay. I’m not sure if that has anything to do with this but nonetheless the hospital still did not file within the 90 days agreed upon in their contract. 
+
+Looking for any advice or insight into this - thank you! 
+
+TLDR: in-network hospital did not file within insurance company on-time and is refusing to dismiss the charges against me despite insurance telling them it is not my responsibility. 

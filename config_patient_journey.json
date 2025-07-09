@@ -1,0 +1,83 @@
+{
+    "name": "Patient Journey Analysis - Autoimmune Conditions",
+    "description": "Analysis of patient experiences with injectable treatments for autoimmune conditions",
+    "subreddits": [
+        "UlcerativeColitis", "CrohnsDisease", "Psoriasis",
+        "PsoriaticArthritis", "RheumatoidArthritis", "MultipleSclerosis",
+        "Lupus", "Dermatology", "IBD", "Autoimmune",
+        "HidradenitisSuppurativa", "Uveitis", "Eczema"
+    ],
+    "keywords": [
+        "symptom onset", "first symptoms", "flare up", "flare", "symptoms started", "symptoms began",
+        "self assessment", "self diagnose", "research symptoms", "google symptoms", "webmd",
+        "book appointment", "schedule appointment", "make appointment", "doctor appointment", "consultation",
+        "prepare appointment", "questions for doctor", "appointment prep", "medical history",
+        "preliminary assessment", "initial consultation", "first visit", "doctor visit",
+        "diagnostic testing", "blood work", "lab tests", "biopsy", "colonoscopy", "endoscopy", "imaging", "x-ray", "mri", "ct scan",
+        "receive diagnosis", "get diagnosed", "diagnosis", "diagnosed with", "confirmed diagnosis",
+        "treatment options", "treatment plan", "medication options", "biologic options", "drug options",
+        "qualification", "eligible", "eligibility", "qualify for treatment", "candidate for",
+        "treatment enrollment", "enroll in treatment", "start treatment", "begin treatment",
+        "prescription sent", "prescription filled", "pharmacy prescription", "specialty pharmacy",
+        "self enroll", "enrollment", "patient enrollment", "program enrollment",
+        "insurance review", "coverage review", "insurance check", "benefits check",
+        "prior authorization", "pre-authorization", "auth required", "authorization needed",
+        "insurance denial", "claim denied", "coverage denied", "denied claim", "appeal denial",
+        "delays", "waiting", "approval delay", "processing delay", "insurance delay",
+        "savings program", "copay card", "patient assistance", "financial assistance", "copay assistance",
+        "support program", "patient support", "nurse support", "patient services",
+        "enroll in program", "program enrollment", "support enrollment",
+        "confirm approval", "approval confirmed", "approved", "coverage approved",
+        "onboard", "onboarding", "treatment onboarding", "induction", "program setup",
+        "delivery details", "medication delivery", "shipment", "tracking", "delivery date",
+        "medication delivery", "receive medication", "package arrived", "medication arrived",
+        "training", "injection training", "self injection", "injection technique", "how to inject",
+        "first dose", "first injection", "first treatment", "started treatment",
+        "evaluate outcome", "treatment effectiveness", "symptom improvement", "side effects",
+        "treatment routine", "dosing schedule", "injection schedule", "treatment schedule",
+        "monitor progress", "track symptoms", "symptom tracking", "progress tracking",
+        "claims", "transactions", "billing", "medical bills", "insurance claims",
+        "check-ins", "follow-up", "follow up", "appointment follow-up",
+        "feedback", "patient feedback", "experience review", "treatment review",
+        "patient portal", "online portal", "patient app", "mobile app", "digital portal",
+        "nurse guide", "nurse support", "nurse line", "patient advocate", "care coordinator",
+        "telehealth", "telemedicine", "virtual visit", "online appointment", "video visit",
+        "phone support", "phone call", "customer service", "patient services call",
+        "website", "company website", "treatment website", "patient website",
+        "seo", "search results", "google search", "online search", "web search",
+        "doctor office", "clinic", "medical office", "physician office",
+        "at home", "home treatment", "self administration", "home injection",
+        "pharmaceutical company", "drug company", "manufacturer", "pharma company",
+        "insurer", "insurance company", "health plan", "insurance provider",
+        "hcp", "healthcare provider", "doctor", "physician", "specialist",
+        "nurse", "nursing", "nurse practitioner", "registered nurse",
+        "bio coordinator", "biologic coordinator", "treatment coordinator", "patient coordinator",
+        "staff", "office staff", "medical staff", "clinic staff",
+        "caregiver", "family member", "spouse", "parent", "care partner",
+        "Humira", "Stelara", "Cosentyx", "Tremfya", "Skyrizi",
+        "Rinvoq", "Otezla", "Taltz", "Entyvio", "Remicade"
+    ],
+    "crawl_config": {
+        "posts_per_search": 100,
+        "comments_limit": 500,
+        "comments_depth": 10,
+        "sort_by": "new",
+        "timeout": 30
+    },
+    "analysis_config": {
+        "focus": "patient_journey",
+        "phases": [
+            "symptom_onset", "symptom_diagnosis", "treatment_options",
+            "prescription_enrollment", "insurance_financial", "treatment_onboarding",
+            "initial_treatment", "maintaining_treatment", "ongoing_treatment"
+        ],
+        "touchpoints": [
+            "at_home", "seo_sem", "treatment_website", "phone", "telehealth",
+            "doctor_office", "patient_portal", "nurse_guide", "other"
+        ],
+        "players": [
+            "hcp_doctor", "hcp_nurse", "hcp_bio_coordinator", "hcp_staff",
+            "insurer", "pharmaceutical_company", "caregiver"
+        ]
+    }
+} 

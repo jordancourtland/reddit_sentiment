@@ -1,0 +1,22 @@
+Thread ID: 1jed5az
+Title: Denied claim because of an "Obesity Diagnosis"
+Subreddit: healthinsurance
+Created: 1742325185
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Obesity diagnosis
+Outcome: Ongoing
+OP Summary: The boyfriend's claim was denied due to an obesity diagnosis during a new patient intake appointment, leading to confusion about coverage under the ACA.
+Responses Summary: No response summary available
+Themes: Insurance coverage confusion, Diagnosis impact on billing, Need for EOB clarification
+Options Suggested: Contact insurance for EOB, Request a coding review from provider, File an appeal for denial
+Fit Explanation: The individual is actively seeking help to understand the denial and how to appeal it.
+Original Post: Boyfriend(31M) has (MA)BlueCBS and went in for a new patient intake appointment at a practice that the insurance covered with a PCP the insurance covered. During the visit he was told he was obese. 
+
+He recently got his bill in the mail for it and was charged $300 despite having full coverage.
+
+When he called the PCP office they were shocked he was denied and helped him file a dispute. Just found out today that it was because he got an obesity diagnosis. Everything I'm researching is saying that the ACA prevents claim denial based on weight.
+
+This isn't allowed, right? He didn't go in for screening, a diagnosis, a problem, etc. He didn't have any tests or blood work. This was a standard 30min intake appointment.
+
+Edit: I appreciate all the advice and information everyone has given. I know this hasn't been the most clear inquiry as I don't have his EOB and a lot of the info I have is second hand (and through the lens of bf's frustration). I do apologize, still, going through what everyone has said so far has given a starting point. A lot of this is new to me as well and I appreciate the input very much. I'll be sure to update this with "Solved" and an explanation once it's figured out.

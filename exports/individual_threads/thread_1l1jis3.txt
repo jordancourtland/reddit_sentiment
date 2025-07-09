@@ -1,0 +1,20 @@
+Thread ID: 1l1jis3
+Title: Colonoscopy Billing Issue
+Subreddit: medicalbill
+Created: 1748874653
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Incorrect billing code
+Outcome: Ongoing
+OP Summary: The original poster is seeking suggestions on how to resolve a billing issue after their colonoscopy claim was denied due to incorrect coding and subsequent delays in resubmission by the provider.
+Responses Summary: Commenters advised the original poster to obtain an Explanation of Benefits (EOB) from the insurance showing the denial and to send it to the collections company to dispute the debt.
+Themes: billing errors, insurance communication, collections dispute
+Options Suggested: obtain EOB, send dispute to collections, follow up with insurance
+Fit Explanation: The original poster is currently dealing with a denial and is actively seeking help to resolve the issue, indicating a very good fit.
+Original Post: I had a colonoscopy that should have been fully covered by my insurance as a preventive service. However, the gastroenterology practice billed it using the wrong code, and my insurance denied the claim.
+
+I called my insurance company, and they confirmed that the denial was due to the incorrect billing code. While I was still on the line, they contacted the gastroenterology billing office and explained that if the correct code was submitted, the procedure would be covered in full. The billing office agreed to correct and resubmit the claim.
+
+Unfortunately, they failed to follow through in a timely manner. By the time they finally submitted the corrected bill, it was past the deadline, and my insurance company refused to process the payment due to the delay. They stated that the provider had not fulfilled their responsibility in time.
+
+Now, the gastroenterology practice has sent the bill to collections, even though I don't believe I should be held responsible for an error on their part. I'm not sure how to resolve this. Any suggestions?

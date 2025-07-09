@@ -1,0 +1,22 @@
+Thread ID: s2q6w4
+Title: In-network chiropractor filed incorrect/incomplete claims and missed deadline to appeal. A year later, she sent me the bill and said I am responsible to pay for it
+Subreddit: medicalbill
+Created: 1642047285
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Incorrect/incomplete claims
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to handle a bill from their in-network chiropractor, who filed incorrect claims and missed the appeal deadline, leaving the poster responsible for payment.
+Responses Summary: Commenters advise that the chiropractor is responsible for the claims and that the original poster should not have to pay the bill, citing potential ERISA claims and deadlines for appeals.
+Themes: Provider responsibility, ERISA claims, Appeal deadlines
+Options Suggested: Contact insurance for clarification, Consult a legal expert, File an ERISA claim
+Fit Explanation: The original poster is currently facing a denial situation and is actively seeking advice on how to address it, indicating a good fit for the persona.
+Original Post: Between September and December 2020, I saw an in-network Chiropractor in the Seattle area multiple times. 
+
+The chiropractor is in-network with my insurance (UHC); hence she is responsible for filing all the claims. Before the first visit, she checked my benefits, noticed that I had already reached my in-network out-of-pocket maximum for year 2020, and verbally said that the treatment would be 'fully covered by insurance'.
+
+Nevertheless, 2 of the claims her office filed were incorrect/incomplete, and UHC denied them. The chiropractor tried to appeal them, but waited too long and missed the deadline to appeal. When UHC got back to her to let her know she had exhausted her options, she turned to me instead.
+
+In December 2021 (1 full year  after my last visit), the chiropractor sent me a bill for $350. She says that, as per the Financial Responsibility Waiver agreement that I signed before the first visit, I am responsible to pay for any amounts that insurance didn't pay for.
+
+It boils my blood that I have to pay because an in-network chiropractor messes up her claims and fails to appeal in time. The provider already collected $3,300 from my insurance for services that I received from her (for the claims that she filed correctly for the other dates). Thoughts? Anything I can do aside from leave a bad review on Yelp?

@@ -1,0 +1,23 @@
+Thread ID: 1k2musj
+Title: UHC deductible?
+Subreddit: healthinsurance
+Created: 1745032310
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking clarification on their UHC deductible, specifically why a $71.82 charge for blood work is reflected in their deductible even though they haven't paid it yet and if this is normal.
+Responses Summary: Community members advised the poster to contact UHC for clarification on the claims and deductible, suggesting that the amount may be pending payment or a billing error, and emphasized the importance of understanding how deductibles work.
+Themes: Deductible confusion, Claim processing, Billing inquiries
+Options Suggested: Wait for a bill, Contact the provider, Check online patient portal
+Fit Explanation: The user is actively seeking clarification on their insurance claims and deductible, indicating they might need help soon.
+Original Post: I am 21 I live in Texas and I make about 18,000-20,000/year.
+(I have never had insurance before, and I don’t have anyone to really help me out with this, so I apologize if this is a silly question).
+
+I was paying my insurance monthly payment (I have UHC through the market place) and I noticed I had some claims that didn’t look right. One i was denied for $60 and they said I owed, but when I looked at the pdf it said I owed $0?? (Weird!)
+
+The main thing I am very confused about is my UHC says I have spent $71.82/150 for my deductible. I didn’t realize were these numbers were coming from till I looked at my claims ($71.82 is how much I owe on blood work, even though UHC says they cover it…I will call the doctor on Monday to see if that’s an accurate number.)
+
+Anyways, I have not paid the $71.82 and I do not know why my deductible reflects that when I haven’t paid it. Will the number go back up if the price gets reduced or does my account think I paid? (I haven’t gotten a bill from anyone, I legit only noticed I owed people when I looked at my claims for fun. It’s over a month old.) Thank you!
+
+TLDR: I owe money on a claim that I haven’t paid, but my deductible reflects that I paid it. Is that normal? 

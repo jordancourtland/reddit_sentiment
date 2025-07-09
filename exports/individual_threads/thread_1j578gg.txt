@@ -1,0 +1,24 @@
+Thread ID: 1j578gg
+Title: Insurance Denial for Emergency Back Surgery: Need Advice ASAP
+Subreddit: healthinsurance
+Created: 1741298002
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The user is facing a denial from BCBS for an emergency back surgery due to a lack of pre-authorization, despite the urgency of the situation. They are currently on their third appeal and seeking advice on next steps.
+Responses Summary: No response summary available
+Themes: Emergency surgery, Claim appeal process, Provider responsibility
+Options Suggested: File a formal complaint with BCBS, Involve state insurance regulators, Request assistance from UNC Health
+Fit Explanation: The user is actively seeking help for their ongoing appeal process regarding a claim denial.
+Original Post: Hi everyone, sorry for the rant. I'm dealing with a difficult situation with my health insurance and could use some guidance. BCBS has denied my claim for emergency back surgery ($60,000) that I underwent in November. Here's what happened:
+
+I had to have surgery within 24 hours of seeing a neurologist due to a herniated disc crushing my sciatic nerve. The urgency was due to trying to prevent permanent nerve damage to my foot - I couldn't even walk at that point. There was absolutely no time to get pre-authorization.
+
+After the surgery, UNC Health didn't request post-procedure authorization from my insurance. Instead, they just sent a bill without including information about the medical necessity, resulting in the claim being denied. We're now on the third appeal, and despite additional information being sent, it's not looking promising.
+
+Interestingly, I needed a second, more invasive discectomy just two weeks after the first procedure. In that case, UNC immediately sent in a request for authorization after the surgery, and Blue Cross covered it without any issues.
+
+I believe UNC Health may be at fault for not requesting authorization in a timely manner for my first surgery. I've already involved my employer and their BCBS representative, but they said there was nothing they could do after looking into it.
+
+I'm expecting this third appeal to be denied as well. What should my next steps be? Has anyone dealt with a similar situation? Any advice would be greatly appreciated.

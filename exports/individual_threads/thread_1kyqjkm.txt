@@ -1,0 +1,22 @@
+Thread ID: 1kyqjkm
+Title: UHC vs CircleMedical
+Subreddit: healthinsurance
+Created: 1748564362
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Billing under incorrect provider
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to address ongoing claim denials from UHC for telehealth services provided by CircleMedical, despite being assured of coverage.
+Responses Summary: Commenters suggest ensuring all necessary information is provided and recommend checking the explanation of benefits (EOB) for clarity on the denials.
+Themes: Claim Denial, Provider Billing Issues, Insurance Coverage Confusion
+Options Suggested: Contact insurance for clarification, Request EOB for details, Escalate issue with CircleMedical support
+Fit Explanation: The original poster is actively dealing with claim denials and seeking advice, indicating a strong fit for assistance.
+Original Post: So I've been using circle medical for the past 6 months for easy telehealth. I chose a provider that was in network (Colorado US) using UHC provided by my workplace and health system I work for to make sure of coverage. Past couple months claims are finally coming back as denied. So I start making calls.
+
+UHC: First call to UHC they tell me denied on accident resubmit. Second time I get told that billing was submitting under a different doctor (Dr.X) or under CircleMedical which isn't covered by my insurance. But if CircleMedical will submit under the PCP I actually saw it should be approved. 
+
+Circlemedical: I reach out and have had several ongoing chats with the support team. They relay this information and resubmit. But continue to submit under another provider or company name. Claims keep being denied and they say they will just switch to self pay costs and not use my insurance.
+
+Primary Care Provider: I told them my story and they told me that on the backend all of their providers in my state lost ability to bill because apparently CircleMedical had been using COVID rules that allowed them to bill under Dr.x. They themselves had been affected as their provider is through CircleMedical and they work for the same health system\insiramce coverage that I do. 
+
+Has anyone experienced something like this? Do I have any recourse after being told I had coverage to denial because CircleMedical was being shady to get users and refusing\unable (no clarification from circle medical) to bill under the provider I see?

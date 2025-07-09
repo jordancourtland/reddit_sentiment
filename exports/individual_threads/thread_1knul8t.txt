@@ -1,0 +1,22 @@
+Thread ID: 1knul8t
+Title: SBI General Insurance
+Subreddit: healthinsurance
+Created: 1747378841
+Persona Fit: 1.0
+Confidence: 0.7
+Denial Type: Not eligible for cashless or reimbursement claims
+Outcome: Ongoing
+OP Summary: The original poster is seeking help after their insurance provider denied a cashless claim for ongoing cancer treatment, stating it is not eligible under their policy.
+Responses Summary: Commenters advised the poster to check their Explanation of Benefits (EOB) and suggested seeking assistance from an insurance page specific to India for better guidance.
+Themes: claim denial, insurance policy migration, treatment eligibility
+Options Suggested: check EOB, contact insurance page for India, seek legal advice
+Fit Explanation: The original poster is actively seeking help regarding a claim denial, indicating a perfect fit for the persona.
+Original Post: We are policyholders of SBI General Insurance's Arogya Plus policy, which we purchased in 2021. Until 2023, we had not made any claims. However, in 2023, my father was diagnosed with advanced prostate cancer and has been undergoing treatment at a hospital, receiving Leuprolide and Zoledronic acid injections every three months.
+
+We had been successfully claiming nearly Rs. 1 lakh until 2024. However, in October 2024, the insurance company discontinued the Arogya Plus policy and requested us to migrate to the SBI General Super Health policy, which requires an additional premium of approximately Rs. 45,000. Despite this, we continued to receive claims in November 2024 and February 2025 for the same treatment.
+
+Recently, after the 8th cycle of Leuprolide and 6th cycle of Zoledronic acid, our insurance provider, SBI General, denied our cashless claim, stating that the treatment does not fall under the daycare list. When we approached the nearby branch office, they informed us that the treatment is classified as immunotherapy and is not eligible for cashless or reimbursement claims.
+We have already migrated to the SBI General Super Health policy and paid the requisite premium amount. However, we've been informed that we're not eligible for claims for the ongoing treatment, which is the only course of treatment recommended by our doctor to control the illness.
+
+This leaves us in a difficult situation, where we're forced to bear the medical expenses out of pocket, in addition to the premium payments and medication costs, which amount to approximately Rs. 9,000 per month.
+The branch officials have been unresponsive and unwilling to provide further guidance or assistance, despite repeatedly informing us that we're not eligible for cashless or reimbursement claims. We're left feeling anxious and uncertain about managing the substantial medical expenses, coupled with the ongoing premium payments. What should we do? Please help…

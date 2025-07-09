@@ -1,0 +1,14 @@
+Thread ID: 1ke5eox
+Title: Went to the ER, my claim was denied but EOB says I owe $0?
+Subreddit: healthinsurance
+Created: 1746312756
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The user had an ER visit that was denied due to the hospital being out of network, but their EOB indicates they owe $0. They are uncertain if this will change with final billing.
+Responses Summary: No response summary available
+Themes: Emergency care, Insurance policy confusion, EOB interpretation
+Options Suggested: Contact insurance for clarification, Review No Surprises Act, Check plan documents for ER coverage
+Fit Explanation: The user is actively seeking clarification on their claim denial and potential outcomes, indicating a strong need for assistance.
+Original Post: I have Atena HMO and had to go tot he ER because I fainted and hit my head. I was given a bunch of tests and discharged the same day. When I went to look up if my insurance had been charged, I saw that the claim was denied because the hospital was out of network, but my EOB states that I owe $0 for the visit? Does anyone know if this will change once the final billing comes out? 

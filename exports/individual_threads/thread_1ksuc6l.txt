@@ -1,0 +1,18 @@
+Thread ID: 1ksuc6l
+Title: Failed Medical Necessity/Exclusion Appeals
+Subreddit: healthinsurance
+Created: 1747929536
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Contractual exclusion
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to appeal a claim denial from Aetna for a neurofeedback treatment that has been effective for their dependent's behavioral health condition, which was denied as 'biofeedback' not being covered.
+Responses Summary: Commenters suggest that the denial is likely due to a contractual exclusion and recommend exploring options like Independent Medical Review (IMR) or discussing the situation with the employer for potential exceptions.
+Themes: appeal process, contractual exclusions, neurofeedback vs biofeedback
+Options Suggested: Independent Medical Review, Employer exception request, Third-level appeal
+Fit Explanation: The original poster is actively seeking help with an ongoing appeal, indicating a strong fit for persona analysis.
+Original Post: Aetna Meritain insurance. Dependent has behavioral health condition related to autism that has not responded to medication or other standard interventions. Micro current neurofeedback has been the *only* treatment that works (*and* is less costly than all the medications and therapies to boot). Aetna denies claim because "biofeedback" is not covered. First appeal of "exclusion" failed: "plan does not cover biofeedback." Second appeal citing peer-reviewed journal article on the efficacy of the treatment and that fact that prior treatments have failed. Second appeal is rejected: "plan does not cover biofeedback." I do not understand how I can try to make the case that this treatment, being the only one that works, should be covered. I've done it in the past with other insurance companies, but this is not working for me here. I don't get it, especially because actuarily it is in their best interest to cover it rather than have us use the other forms that are more costly and ineffective.
+
+This seems so kaftka-esque. I am appealing the exclusion, and their response is "we reject your appeal because that treatment is excluded". 
+
+Should I be try again Wirth the check box for "Type of Appeal" being  "medical necessity/precertification", or do I continue to my third-level appeal indicating that I am appealing "exclusion"? The only other appeal category that might make sense is a coding dispute. Any tips? This treatment is a life changer, costs only $150 a session ffs, and these greedy bastards would rather I drug my kid with costly antipsychotics that do nothing.

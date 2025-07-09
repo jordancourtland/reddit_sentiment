@@ -1,0 +1,20 @@
+Thread ID: 1ju3ifz
+Title: COBRA with Flex term plan?
+Subreddit: healthinsurance
+Created: 1744080609
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The user is inquiring about the possibility of electing COBRA after having a short-term health plan and whether having other insurance would affect their eligibility.
+Responses Summary: No response summary available
+Themes: COBRA eligibility, Short-term health plans, Insurance options during transition
+Options Suggested: Elect COBRA within 60 days, Consider ACA compliant plans, Consult HR/Benefits for specific guidance
+Fit Explanation: The user is actively seeking information about insurance options and potential denials related to COBRA.
+Original Post: Hi everyone,
+My family is relocating and my family will have a 90 window before my husband's insurance kicks in. We have gotten all of our check ups done recently and really just need piece of mind if an accident happens. 
+
+My COBRA amount would be insane so I have been shopping short term plans, but I know coverage is pretty limited. 
+
+My question is: If we're on a short term health plan and something terrible happens that isn't covered, am I able to then elect COBRA as long as its within the 60 days that COBRA gives you? Or would COBRA deny me because I have other insurance? 
+

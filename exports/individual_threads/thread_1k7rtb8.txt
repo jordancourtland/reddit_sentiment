@@ -1,0 +1,14 @@
+Thread ID: 1k7rtb8
+Title: Insurer does not seem to pay for office visit with nurse practitioner (seems unfair to them)
+Subreddit: healthinsurance
+Created: 1745604842
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is inquiring about the denial of their insurance claim for an office visit with a nurse practitioner and is concerned about the implications for the medical provider's payment. They are seeking clarification on whether such denials are common practice in healthcare insurance.
+Responses Summary: Community members responded by sharing their experiences with similar insurance denials, explaining that it can be a common issue due to insurance policies regarding nurse practitioners. They advised the OP to contact their insurance company for clarification and to consider appealing the denial if applicable.
+Themes: Billing errors, Insurance reimbursement issues, Nurse practitioner payment concerns
+Options Suggested: Contact insurance for EOB, Ask provider to resubmit claim, Wait for potential reprocessing of claim
+Fit Explanation: The user is experiencing a denial and is seeking clarification, indicating a very good fit for appeal help.
+Original Post: I went to an appointment at a physician's office, and saw an NP. Lady was nice, checked out a minor medical issue, and sent me on my way with a prescription. Get my insurance claim, and it says "denied." In other words, the physician gets nothing. To be clear, it says I do not owe anything either--this is not about my having to pay anything--it's about the medical provider seemingly scrooged out of their payment. What's the deal here? Is this common practice?

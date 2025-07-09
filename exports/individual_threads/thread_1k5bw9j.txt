@@ -1,0 +1,14 @@
+Thread ID: 1k5bw9j
+Title: Health plan change
+Subreddit: healthinsurance
+Created: 1745342327
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Insufficient notice for plan change
+Outcome: Ongoing
+OP Summary: The user is facing a sudden change in their employer's health plan that offers less coverage at a higher cost, with insufficient notice to make an informed decision.
+Responses Summary: No response summary available
+Themes: Employer health plan changes, Insufficient notice, Cost increase
+Options Suggested: Take the more expensive coverage, Look for a new job, Request additional time to decide
+Fit Explanation: The user is experiencing a denial of adequate time to evaluate their health plan options, indicating a need for assistance.
+Original Post: My employer is changing health plans to one with less coverage and 45% higher cost and gave 5 days notice to sign up or opt out of coverage completely. I haven't had a day off to dive into coverage and requested more time to which I was denied. I feel like this isn't right, any advice?

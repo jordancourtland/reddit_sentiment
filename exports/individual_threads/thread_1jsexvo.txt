@@ -1,0 +1,45 @@
+Thread ID: 1jsexvo
+Title: United healthcare denying claims.
+Subreddit: healthinsurance
+Created: 1743890670
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not covered medical supplies
+Outcome: Ongoing
+OP Summary: The user is facing a denial of claims from United Healthcare for necessary wound care supplies, resulting in a significant financial burden and concerns about their ongoing treatment for a foot ulcer.
+Responses Summary: No response summary available
+Themes: Insurance Denial, Wound Care Supplies, Financial Burden
+Options Suggested: Appeal the denial, Consult with the doctor's office, Seek financial aid options
+Fit Explanation: The user is actively seeking help with their insurance denial and is currently unable to afford necessary medical care.
+Original Post: So I have really bad neuropathy and have had for like 15 years. Can't feel anything below my knees. I developed a foot ulcer that was just not healing and after going to a foot specialist for 3 years my GP sent me to a wound specialist in Jan. My company had just switched to united health care so I wasn't very familiar with them. I went to the wound specialist every week or every other week for 2 months and
+I was actually seeing a lot of improvement and was feeling pretty good about it when my insurance told me they were denying a lot of the services so now I owe over $6,000! And this is on top of the $200 I had to pay every time just to go see him as a specialist. 
+
+But the things that they are denying are things like the wound pad and the gauze that they wrapped my foot in for me to leave the office. The Doctor cuts away a lot of old flesh every time and its on the botton
+of my foot so am I just supposed to leave his office with a big open wound? Am I supposed to bring my own gauze? It's also saying that I got a device several times, but I never got any type of device. Also the amount that the doctor's office is charging for just a little bit of gauze is insane. It's saying that the gauze or pads are 16-48 sq in and they were just small squares so maybe my doctors office was padding the bill, but I'm  not sure. 
+
+I've tried appealing it but what else should I be doing? 
+I've stopped seeing the doctor because I can't afford that so now I'm just back to not healing and having a constant worry that it's gonna get infected and I'm going to end up having my foot amputated.
+
+The claims say things like:
+Service description:
+A saline- or hydrogel-soaked gauze pad, 16-48 sq. In., used to cover a wound. The dressing protects the wound.
+Claim codes:
+Benefits for this service are denied. Your plan does not cover this medical supply, prosthetic, orthotic appliance, or durable medical equipment. 
+
+Service description:
+Any one item used during a surgery.
+Claim codes:
+Benefits for this service are denied. Your plan does not cover this medical supply, prosthetic, orthotic appliance, or durable medical equipment. Please refer to the Exclusion and/or
+the Additional Coverage Details of your plan document for additional information. (CAD128)
+
+Service description
+Any sealant, protectant, moisturizer or ointment. The product is used no to protect nntont the the skin ckin against against tears tears or or breakdown breakdown caused caused by by tape or other adhesive material.
+Claim codes:
+Benefits for this service are denied. Your plan does not cover this medical supply, prosthetic, orthotic appliance, or durable medical equipment. Please refer to the Exclusion and/or
+the Additional Coverage Details of your plan document for additional information. (CAD128)
+
+Service description:
+A sterile pad, 16 sq. In. Or smaller, made of gel fibers to cover a wound. The pad is used as a protective dressing
+Claim codes:
+Benefits for this service are denied. Your plan does not cover this medical supply, prosthetic, orthotic appliance, or durable medical equipment. Please refer to the Exclusion and/or
+the Additional Coverage Details of your plan document for additional information. (CAD128)

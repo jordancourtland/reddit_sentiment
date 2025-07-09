@@ -1,0 +1,24 @@
+Thread ID: 1j3q0wl
+Title: Anthem denied a claim for an in network doctor because the diagnoses related to the appointment were not covered by my plan?
+Subreddit: healthinsurance
+Created: 1741133982
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not covered expense of the patient's plan
+Outcome: Ongoing
+OP Summary: Anthem denied a claim for a podiatrist visit, stating the diagnoses were not covered by the patient's plan, leading to confusion about the necessity of the visit.
+Responses Summary: No response summary available
+Themes: Claim denial, Insurance coverage confusion, Need for appeal
+Options Suggested: File an appeal, Request a different diagnosis code, Consult with a billing department
+Fit Explanation: The user is actively seeking help to appeal the denial and is confused about the coverage details.
+Original Post: Hello,   
+   
+I have a chronically fucked up foot (multiple deformities, severe osteoarthritis, nerve issues, tendon and ligament issues etc) that’s rapidly getting worse and one of my doctors told me I need surgery asap. She referred me to a specific surgeon but the wait has been a few months. I mentioned it to another doctor and he suggested I see his colleague who is a podiatrist to see if he could at least help with my most pressing issues that are causing a lot of pain. This podiatrist is in network and the copay was supposed to be $20 (which I paid at the appointment). I saw the podiatrist. He took X-rays and that bill came out to be $3.50(ish). But I received a bill for the appointment a few weeks later for $563 and it said that the office visit was not a covered service. I contacted my insurance and the agent said they’d resubmit it because he thought it was an error on their part. I just received an email from anthem that says this:   
+   
+“As you know, we sent Claim xxxxx back for adjustment. However, we just received word form our Claims Department that the claim was processed correctly. According to them, ".... the diagnosis related to foot exam is not covered expense of the patient's plan".   
+   
+I checked both my patient portal and the health records section of my anthem account to see what my podiatrist put down as the diagnoses for that exam. He put down acquired pes planus of left foot (flat foot deformity), primary osteoarthritis of left foot and tendinitis of left posterior tibial tendon.    
+   
+Are they saying the exam/office visit was not medically necessary for these diagnoses? I’m failing to see how that makes any sense as it’s pretty standard to see a podiatrist for these issues. I’m extremely confused about this and the email told me my only option left is to appeal but i can’t even make sense of why this has been denied.   
+   
+

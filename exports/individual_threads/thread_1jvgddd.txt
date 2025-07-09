@@ -1,0 +1,14 @@
+Thread ID: 1jvgddd
+Title: ER visit question
+Subreddit: healthinsurance
+Created: 1744231665
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Need more information from the doctor
+Outcome: Unclear
+OP Summary: The insurance denied the claim for an ER visit for a child due to needing more information from the doctor, creating uncertainty about the billing process.
+Responses Summary: No response summary available
+Themes: Claim denial, Need for additional information, Billing process confusion
+Options Suggested: Wait for EOB, Contact the hospital for updates, Check with insurance about claim status
+Fit Explanation: The user is experiencing a claim denial and is seeking clarification on the next steps, indicating a very good fit for assistance.
+Original Post: My 1 year old, went to urgent care first and then they asked us to take her to emergency as she was having trouble breathing. We went to emergency and her oxygen level was 82%. A chest xray and couple test later she had rhinovirus and bronchitis. She was admitted by the ER doctor to the hospital. My insurance denied the claim because they need more info from doctor, from which doctor ER or the pediatrician that monitored her at the hospital I'm not sure.I have the sydney app it shows the bill for the provider and also shows the plan discount paying the full amount of that bill so my total is 0. Is that pending the doctors note? Not familiar with how plan discounts work, I have blue cross HPN. 

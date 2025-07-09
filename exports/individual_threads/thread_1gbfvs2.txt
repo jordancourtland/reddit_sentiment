@@ -1,0 +1,80 @@
+Thread ID: 1gbfvs2
+Title: Tips to have your medical services covered - from a Medical Biller Specialist
+Subreddit: healthinsurance
+Created: 1729810783
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unclear
+Outcome: Unclear
+OP Summary: The post provides tips on ensuring medical services are covered by insurance, emphasizing the importance of meeting specific criteria for claims. It highlights the roles of medical necessity, provider network participation, prior authorization, and understanding plan benefits.
+Responses Summary: No response summary available
+Themes: Medical Necessity, Provider Network Participation, Prior Authorization
+Options Suggested: Verify provider network, Confirm prior authorization, Understand plan benefits
+Fit Explanation: The user is discussing insurance coverage and denials, indicating they might need help with a denial situation soon.
+Original Post: Hello all,
+
+As you guys know, having the confidence your medical services are getting covered is difficult as many things can come up until payment gets done and even after payment is done.
+
+In this thread I'll explain what things you need to make sure when you look for medical care. Please note this is not an official guide but some tips and things you should know. It is not applicable if you have a medical emergency.
+
+In order for a claim, whether if they are institutional (hospitals, nursing homes, hospices, etc.) or professional (doctor visits, radiology centers, etc.) There are 4 categories to be met:
+
+1. Medical Necessity
+2. Provider Network Participation, credentialed to perform the service with the insurance.
+3. Prior authorization
+4. Coverage conditions specified in your plan.
+
+If one of them is not met, no coverage will be issued. 
+
+Let's see each one of them:
+
+1. Medical Necessity:
+Some insurance companies have very strict criteria for some services to consider medical necessity. Some of them mention clearly for example the frequency you can have certain service and what medical condition you must have to get the service. 
+
+
+If one of these are not met, no payment will be issued. It is your responsibility as the patient to know this if you are getting a medical service. Always investigate what is your insurance criteria for the service you are getting and if you meet the conditions.
+
+Example: MR Elastography which is a test to see your liver stiffness under Aetna is covered only if the condition for the study is for NASH (Non-Alcoholic Steatohepatitis) and is limited to be done twice per year.
+
+Source: https://www.aetna.com/cpb/medical/data/600_699/0690.html#:~:text=Aetna%20considers%20magnetic%20resonance%20elastography,is%20considered%20not%20medically%20necessary.
+ 
+United Healthcare policy is different: you can perform the service as many times needed as long it is prior authorized BUT you can only have one test: the Elastography or the MRI for the Abdomen, not both. Anything else is considered either not medically necessary or experimental.
+
+Source: UHC Provider Cardiology and Imaging Guidelines eff August 2024, page 328, 329. 
+
+So it is important you inform yourself prior having a service. 
+
+Medicaid and Medicare may have different guidelines depending of the state and/or Medicare Contractor. If you meet the criteria amd claim denies, it may be a coding denial issue which your doctor must resolve.
+
+2. Provider Network Participation: this depends in what type of plan you have and the network it uses. Some self funded plans uses insurance networks for Pricing, majority of the times, a PPO such as First Health or Multiplan PHCS. However, if is an HMO or EPO, you must use the network within your plan.
+
+How can you confirm if your provider is in network? Get the current NPI of the provider or facility and call provider services from the network if is a third party independent from your insurance plan or call the insurance directly so they get you in writting confirmation the provider is in network. Remember, if you go to the hospital or an institutional facility you must confirm participation for both the facility and the doctor as hard and crazy as it sounds. This is not applicable for Emergency Room.
+
+Why the NPI? Because a doctor or facility might show in network under an NPI they currently do not use which would make the claim process OON.
+
+If this is not followed, if is an HMO or EPO you might be billed the full amount owed.
+
+If is a PPO, your cost shares will be higher and there's no guarantee the provider will accept what your insurance allowed. This is why sticking in network is a must. 
+
+3. Prior Authorization:
+It is a share responsibility between you and the doctor to confirm if a service requires prior authorization. You and/or the provider must call and confirm using the CPT code intended to bill so you can know if it will require prior auth. If it does it is upon your doctor to have all paperwork done. If the insurance deny the test, do not have it unless a you agree paying out of pocket for it or get financial assistance.
+
+It is really important you make sure prior approval award is received in writting as that's your paperwork and proof to appeal as well your doctor. Prior authorization is good if the following criteria is met:
+
+A. NPI and Tax ID from the provider matches what the authorization approval has.
+
+B. The CPT code to be performed matches what the authorization has as well the units (the amount of times the service can be performed) to be used.
+
+Please note if you require another service, you might need a separate prior authorization.
+
+4. Your plan benefits: 
+Every plan is different and there may be services no matter if medically necessary or prior authorized they won't be covered. Make sure you get a Benefit Plan Summary or Certificate of Coverage which specify all your coverage, conditions and limitations as well your cost share for each service category.
+
+An example of this is when a service is considered experimental. Many insurance considers MR Spectroscopy as experimental which is an exclusion. Always inform yourself prior having the service. 
+
+Please note if one of these is not met, services won't be covered and you may be on the hook for a huge bill. 
+
+These are the basics you should know. If the 4 are met, you will be fine. Always inform yourself about how medical billing works as well meeting the criteria. Insurers love to abuse the uneducated and use our ignorance to save money that otherwise must be used in our care, let's not allow they get away with this. Remebee, knowledge is power.
+
+
+

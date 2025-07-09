@@ -1,0 +1,31 @@
+Thread ID: 1l0dhf9
+Title: Retroactive denial of many claims following screw-up regarding multiple insurance policies
+Subreddit: healthinsurance
+Created: 1748742853
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Retroactive denial due to coordination of benefits issues
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to address retroactive denials from their health insurance after mistakenly holding two policies without proper coordination of benefits.
+Responses Summary: Commenters advised the OP to appeal the denials, contact state insurance consumer advocates for assistance, and ensure that providers resubmit claims correctly to avoid financial responsibility.
+Themes: Coordination of benefits, Appeal process, State insurance advocacy
+Options Suggested: Contact state insurance consumer advocates, Appeal the denial, Have providers resubmit claims
+Fit Explanation: The OP is currently dealing with a denial situation and actively seeking help, indicating a very good fit for the persona.
+Original Post: Hello everyone,
+
+I'm currently trying to fix a pretty serious mistake and was wondering if anyone could provide advice. For context: I'm 24 years old \[MA, USA\] and have been a dependent on my parents' health insurance for quite a while now. For several years, I've billed that insurance to see my primary care physician as well as a therapist with no issues.
+
+A couple years ago, I started a lengthy graduate program and was offered complimentary/"free" health insurance through my university. Even though I already had insurance through my parents, I saw no reason to decline the university's insurance (big mistake). As a result, I've held both policies up until now: insurance #1 through my parents and insurance #2 through my school.
+
+I'm sure you can see where this is going, but I essentially had no clue that holding two insurance policies requires you to arrange coordination of benefits. I continued to bill insurance #1 as normal, paying little attention to insurance #2. Then, last April, I tried to bill insurance #2 for a lab that I didn't want to appear on my parents' insurance (I now know that this doesn't make sense, since that information doesn't get shared anyways — another mistake). The claim was denied due to the fact that insurance #2 suspected I had another policy and hadn't completed COB: I gave them insurance #1's information, and the claim went through.
+
+The disaster started two weeks ago when I discovered that insurance #1 (now aware of the COB, and having internally designated itself as my "secondary" insurance due to me being the sole policyholder on insurance #2) had **retroactively denied every single one of my claims filed after January 1, 2024.** I was essentially told by my therapist's office that insurance #1 had "taken all the money back" for those claims and that I would now be responsible for it.
+
+After calling insurance #1 and insurance #2, I was instructed that I should tell all providers responsible for having filed these claims to file them again with insurance #2. Then, we would see if insurance #2 would pay (these providers are supposedly all in-network for both insurance #1 and insurance #2) and anything that remained could be passed to insurance #1 as my secondary.
+
+I went ahead and did this, which brings us to today. I just saw that the first of these resubmitted claims has popped up on insurance #2's dashboard — and it's denied, but I'm being told that I don't have to pay anything. The claim remark simply says **"You do not have to pay this charge. That is because the provider did not send the claim to us within the required time limit."** To clarify, this claim (and all the others, which haven't shown up in the system yet) is indeed for services rendered last year.
+
+I figured I might come up against this timely filing restriction, and I'm not sure what happens now. I'm aware that all of this mess is entirely my fault, but I am terrified of being saddled with thousands of dollars in medical debt that I truly, genuinely thought were completely settled by me using insurance #1 as I had since I was 18. Quick googling of the above claim remark seems to suggest that the provider is supposed to eat the cost, but I wouldn't want this either: the claim is for many therapy sessions, and I am worried that the practice will be left with a huge hole in their wallet due to my mistakes. If anyone has any thoughts as to what I should do next, I would appreciate it.
+
+  
+(UPDATE 06/02/2025): Thank you very much to everyone who has replied and offered suggestions. After reading your responses and speaking with insurance #2, it seemed as if the next step was to appeal the denial, submitting an EOB from insurance #1 showing that these claims were only denied a week or so ago. I've submitted that appeal (I was told that I should do it instead of the provider, since that would take longer) and am hoping for a positive outcome.

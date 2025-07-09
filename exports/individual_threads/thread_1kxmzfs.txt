@@ -1,0 +1,18 @@
+Thread ID: 1kxmzfs
+Title: Federal Insurance Claim Denial
+Subreddit: healthinsurance
+Created: 1748453141
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking guidance on how to handle a denied insurance claim for a medically necessary induction due to severe fetal complications, which was initially approved but then denied again by their insurance company.
+Responses Summary: Commenters advised the original poster to check how many appeals they have left, request the policy used for the denial, and consider involving their healthcare provider in the appeals process.
+Themes: appeal process, insurance policy, provider involvement
+Options Suggested: check remaining appeals, request denial policy, involve healthcare provider
+Fit Explanation: The original poster is actively seeking help with an ongoing denial situation, indicating a very good fit for needing assistance with appeals.
+Original Post: My husband is a federal employee and provides insurance through BCBS. Last year, we unexpectedly found out we were pregnant. We were excited and very much wanted this baby. The pregnancy had normal results for the NIPT test until the second set that found some hormones were off but after meeting with a genetic counselor, we believed it was nothing. Fast forward to our 20 weeks anatomy scan where the baby was found to have Fetal Hydrops which is essentially end stage organ failure. Many organs were abnormal or not visualized. We were told we would likely miscarriage soon and if there was a possibility of her making it to term, I would have to travel to a hospital 7 hours from my home and they would have to intubate while she was still attached to the placenta. High risk for me and the baby in this highly unlikely scenario, would likely live a short painful life of a few hours to days. During this time I was also being told I had increased pressure in my optic nerve that they said may be due to the early signs of mirror syndrome.
+
+Given our geographic location, continuing a pregnancy until miscarriage is high risk as our local hospitals do not have a NICU and only deal in uncomplicated births. For this reason, and for the unknown suffering my daughter was going through in utero, I chose to be induced at a hospital 6 hours from home. After a secondary ultrasound to confirm the diagnosis.
+
+Our insurance company denied the claim, which I appealed. I gave a personal testimony as well as a letter from one of the OB providers. They then approved the claim, paid, and now are denying it again. This whole process has been emotionally devastating to me. I am wondering if anyone has gone through something similar or understands where to go from here. We cannot afford this 30,000 USD hospital bill. It is denied because federal insurance will not cover anything "abortion related" and not "medically necessary" despite the provider letters. Would love to have some guidance as I am at my wits end on this one. The appeal process alone was arduous. Thank you in advance.

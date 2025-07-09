@@ -1,0 +1,26 @@
+Thread ID: 1j2s1wk
+Title: How to use Medicaid as secondary insurance?
+Subreddit: healthinsurance
+Created: 1741032494
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The user is confused about how to properly use their dual insurance coverage with Kaiser and Oklahoma Medicaid, especially after mistakenly using Medicaid as primary insurance. They seek advice on navigating COB rules and ensuring they receive benefits without incurring additional costs.
+Responses Summary: No response summary available
+Themes: Dual insurance confusion, Medicaid as secondary insurance, Navigating COB rules
+Options Suggested: Contact insurance representatives, Review eligibility checks, Seek advice on COB rules
+Fit Explanation: The user is actively seeking help to resolve their insurance confusion and has experienced a denial of coverage due to improper use of their insurance.
+Original Post: Context from my other post [here. ](https://www.reddit.com/r/HealthInsurance/comments/1j0rp62/cob_issue_didnt_know_i_had_2_insurances_been/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button)
+
+I have Kaiser (region/state specific only) and Oklahoma Medicaid. Medicaid is always considered last-resort payer, but I mistakingly used it as my primary insurance for a few months because I moved to a state that's out of Kaisers coverage region. Kaiser only covers urgent care and the ER as "travel benefits." Today, I was going to start calling my insurers and providers to fix the mistake, update information, and reprocess claims.
+
+First I called Kaiser and they said they weren't even capable of adding insurance information from a state that isn't in their region of care. Then I called my Medicaid managed care plan (Aetna) and they that they've already done several eligibility checks and their system says I only have Medicaid. I insisted my other insurance is still active, but they said they already did all they can do. I took the rep's name just in case.
+
+Next, I called the state Medicaid third party liability office directly. They told me Medicaid benefits don't apply if my primary insurance denies the service, even if Medicaid would cover it otherwise. However, they told me I'm LIKELY fine if Aetna says so because they have final say on billing and coverage, but it's unclear because the rules between state Medicaid and the managed care plans are new. Therefore, I may still be responsible for a bill later on if I used the wrong insurance, and the Aetna eligibility checks may not necessarily protect me. Because Kaiser would only cover urgent care and ER, the representative recommended I only present Medicaid/Aetna at PCP visits, specialists, and other non-Kaiser services. My primary insurance was added to my Medicaid file as ER and urgent care only, and I was encouraged to call back when I dropped it.
+
+I'm confused because I thought that I thought I had to run my primary insurance for every service despite lack of coverage because Medicaid is "always a payer of last resort." Kaiser is my primary insurance, and it only covers ER and urgent care. 99% of medical things I need will be out of Kaisers network. Aetna says it's my primary insurance and there are no other insurances, while OK Medicaid TPL department says otherwise and added Kaiser as urgent care and ER only. I can't drop Kaiser right now because it's my parents plan and enrollment has closed. I don't know how to "use" my insurances properly.
+
+I have doctors I need to see frequently for a health condition, and only Medicaid benefits will help me with that right now. I'm willing to pay for the mistakes I already made, but I want to know what to do going forward to get Medicaid to work as my secondary insurance. If I'm misunderstanding COB/TPL rules, please explain them to me. What are my options? Does anyone have any information or advice? Does anyone know why Aetna said I'm good to go while the state Medicaid department acknowledged my other insurance?
+
+TLDR: Dual private and Medicaid insurance. Private covers almost nothing in this state. Medicaid managed care plan said they found no eligibility issues. Can I trust their word and continue like usual? How do I receive my benefits without violating COB rules? Am I stuck relying on my private insurance?

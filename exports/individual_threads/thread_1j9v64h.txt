@@ -1,0 +1,16 @@
+Thread ID: 1j9v64h
+Title: Same provider, same service (acupuncture). Why did Aetna deny coverage for one visit out of six?
+Subreddit: healthinsurance
+Created: 1741814496
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Experimental treatment
+Outcome: Ongoing
+OP Summary: Aetna denied coverage for one acupuncture visit, citing it as experimental despite previous approvals for the same service. The user is appealing the decision and seeking insights into the denial.
+Responses Summary: No response summary available
+Themes: Claim denial, Appeal process, Insurance policy confusion
+Options Suggested: Review Aetna's Clinical Policy Bulletin, Check with the provider for diagnosis differences, Ensure appeal is submitted within 180 days
+Fit Explanation: The user is actively seeking help with an appeal for a recent claim denial.
+Original Post: I have Aetna with acupuncture coverage. I had seen a provider 6 times, 3 times in 2023 and 3 times in 2024. All of the visits were coded CPT Code 97811 and CPT Code 97810. In 2024, I saw the provider in January, June, and July. For some reason, the visit in June was denied and Aetna said it was experimental. But the provider billed using the exact same code as before and after June 2024. All other claims had been paid.
+
+I'm at a stage of appealing this decision. But I'm wondering if anyone has any insights into why a claim would randomly be deemed experimental when it was paid as normal otherwise?

@@ -1,0 +1,30 @@
+Thread ID: 1j7ccqd
+Title: Refund claim denied and collections
+Subreddit: medicalbill
+Created: 1741540453
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Refund claim denied
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on options after their refund claim for a hospital bill was denied, and they are unsure how to proceed with the situation.
+Responses Summary: Commenters suggest attempting a chargeback through the credit card company due to the mistaken payment, with some sharing success stories of similar disputes.
+Themes: chargeback advice, mistaken payment, hospital billing issues
+Options Suggested: attempt a chargeback, contact credit card company, follow up with the hospital
+Fit Explanation: The original poster is actively seeking help regarding a denial and options for appeal, indicating a very good fit for the persona.
+Original Post: Hello everyone
+
+I have following situation: my wife gave birth recently and has no insurance (self payer). 
+A month before giving birth, we went to the hospital for some check ups. That bill (let's call it bill A) originally cost 4.5k but was dropped down to 1500 which we paid.
+Yade yade, she gave birth, we got a bunch of bills for that too, including a bill for our baby, which was 3k originally (self pay) but because of baby's insurance they readjusted the bill, so now it's 4k (call it bill B) (also, insurances are scams lol) . 
+
+Before the readjusting, my wife was gonna pay off the 3k (bill B) but wasn't fully paying attention and accidentally paid off another bill (bill A). Once we realized the mistake we saw that the hospital readjusted the bill A and basically removed the self Payer discount. 
+
+We then called the hospital and complained that we already paid that bill and they can't just remove the self Payer adjustment and paying it off was a mistake. We requested the 3K back so that we can pay off the other 4k (bill B). They said they'd look into it. 
+
+Well today we got a letter that our refund claim was denied. 
+
+What are our options now? I'm willing to pay another 1k for the pending difference, but i certainly won't pay the full 4k of bill B. 
+
+What would you do?
+
+Thanks for any help 

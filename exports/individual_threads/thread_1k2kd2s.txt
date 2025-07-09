@@ -1,0 +1,14 @@
+Thread ID: 1k2kd2s
+Title: Insurance denied claim?
+Subreddit: healthinsurance
+Created: 1745024083
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not submitted as primary insurance
+Outcome: Unclear
+OP Summary: The user is facing a claim denial for lab work due to a potential data error and is unsure how to proceed with their insurance provider, BCBS.
+Responses Summary: No response summary available
+Themes: Claim denial, Insurance communication, Data error
+Options Suggested: Call BCBS, Check insurance portal, Refile claims
+Fit Explanation: The user has a current denial issue and is actively seeking advice on how to resolve it.
+Original Post: Hi so I had a 3rd party insurance when I had my own business and I canceled it, and it was canceled oct 13 20224. I got some lab work done in November and again in March while being under my wife's insurance bcbs but I talked to the lab about a month 1/2 ago and she said there was a data error on their end. So I got a bill today and it is the same amount as it was last time i called and my labs from November didn't run through insurance. I called the lab again and they said because it wasn't submitted to my insurance as primary? Bcbs is the only insurance I've had since the end of October so do I call bcbs? Or what exactly? I need to get another set of labs done in a couple of weeks but the lab doesnt do it if you arent making payments or pay the minimum. The lab does take my insurance also. 27m oklahoma 65kyr. Thank you

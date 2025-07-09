@@ -1,0 +1,32 @@
+Thread ID: 1ks1nel
+Title: Trying to help my parents Navigate this industry with chronic illness and ~70k in Medical debt.
+Subreddit: healthinsurance
+Created: 1747843580
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Ancillary Services and Emergency Department Visit Mod Mdm
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to navigate their parents' healthcare insurance issues, specifically regarding a significant medical debt and numerous claim denials for their mother's chronic illness treatment.
+Responses Summary: Commenters suggest contacting the Union for assistance and reviewing the insurance policy details, particularly regarding the lack of an out-of-pocket maximum and the reasons for claim denials.
+Themes: Union assistance, Insurance policy review, Financial assistance applications
+Options Suggested: Contact Union Rep, Review insurance policy details, Request hospital to rebill claims
+Fit Explanation: The original poster is actively seeking help with a current denial situation, indicating a very good fit for assistance.
+Original Post: Basically Posting for advice. In Virginia on an Anthem plan through my dad's Union, My Mom has a chronic illness, That leads to frequent hospital visits. So Far the hospital is saying they owe 70k, and they've told me they will not accept a payment of anything less than 1/12th of the total balance, which is obviously impossible. Even the finance/billing department of the hospital told me to just keep applying for financial assistance. (rejected 3 times) 
+
+I've looked over my dad's insurance and it says there is no out of pocket max, which is insane to me. Is that even legal? 
+
+https://preview.redd.it/t1kiochar52f1.png?width=1218&amp;format=png&amp;auto=webp&amp;s=1d509b11d1b0262f9e3ab12074bd9dd793db4e3e
+
+Either way, I started to look at the claims themselves and found they've been denying a huge chunk of bills for at least the past 6 months. It looks to be roughly 20 kicked back for this code: 
+
+https://preview.redd.it/nsbg4u1pr52f1.png?width=1064&amp;format=png&amp;auto=webp&amp;s=92b323c5f3bd112c240757d0652ecb30f5c9fe8c
+
+Most of the denials are for "ancillary Services" or "Emergency Dept Visit Mod Mdm"
+
+https://preview.redd.it/ne6idr30s52f1.png?width=1344&amp;format=png&amp;auto=webp&amp;s=42db812a0099128c03c9a14cf761517ac22be79b
+
+https://preview.redd.it/qbhvn302s52f1.png?width=672&amp;format=png&amp;auto=webp&amp;s=940dd7b1c11f7bceb8b5ce839b2da1a34fe189f8
+
+Does this mean the hospital has been billing things incorrectly? Where should I go from here? 
+
+I appreciate any help!

@@ -1,0 +1,14 @@
+Thread ID: 1hwwncl
+Title: Cigna claim issue 
+Subreddit: healthinsurance
+Created: 1736374646
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not a covered treatment under the plan
+Outcome: Ongoing
+OP Summary: The original poster is seeking guidance on how to get Cigna to cover an $18k bill for a medication that was approved via prior authorization but later denied for payment, despite multiple appeals.
+Responses Summary: Community members advised the poster to gather all documentation related to the prior authorization and denial, consider contacting a healthcare advocate, and explore options for negotiating with the collections agency.
+Themes: Prior authorization issues, Appeal process, Insurance coverage confusion
+Options Suggested: Request a copy of the most recent denial, Explore further appeal options, Consult with a healthcare advocate
+Fit Explanation: The user is actively seeking guidance on how to appeal the denial and resolve the outstanding bill.
+Original Post: Good afternoon hive mind! Several years ago (2022) my wife and I had health insurance through an employer and Cigna. Her doctor submitted a prior authorization request for Simponi Aria.  A medicine used to treat my wife’s rheumatoid arthritis. They approved the medication.  The doctor administered the medication.  They then submitted for payment from the insurance company who denied the claim.  Saying that even though it was approved via a prior authorization request it did not promise payment.  We have appealed and appealed etc. so has the doctors office.  Now we have been sent to collections for the 18k bill that should have been covered via insurance.  Does anyone have any guidance on how I can get them to cover the bill?

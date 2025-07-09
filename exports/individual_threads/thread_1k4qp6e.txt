@@ -1,0 +1,14 @@
+Thread ID: 1k4qp6e
+Title: Marketplace refusing to cancel my coverage on 12/31/24?
+Subreddit: healthinsurance
+Created: 1745274764
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Request for cancellation not honored
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to handle the marketplace's refusal to cancel their insurance coverage, which is causing potential tax penalties for January 2025. They are considering whether legal action is necessary at this point.
+Responses Summary: Community members suggest contacting the marketplace again for clarification and possibly escalating the issue to a supervisor. Some also recommend consulting with a healthcare advocate or legal professional to explore options for resolving the denial.
+Themes: Insurance cancellation, Tax implications, Appeal process
+Options Suggested: Consider legal action, Request further appeal, Consult a tax professional
+Fit Explanation: The user is actively seeking help regarding their insurance denial and potential legal action.
+Original Post: From June to December of last year, I had marketplace insurance through Florida Blue. I called in December to report my income, and once they quoted me over $400, I told them not to proceed with the renewal. I also put in a request online and avoided paying the premium so they can cancel it. But I still had coverage through March, so I called again and told them that my employer insurance started on January 1st, and the furthest back they canceled it was 1/31/25. They even sent it to be appealed, and my request was denied. This means I will be penalized again next year for the month of January when I do my taxes. Has anyone else dealt with this issue? Would I have to take legal action at this point?

@@ -1,0 +1,14 @@
+Thread ID: 1kc1rbe
+Title: Im not smart.  Please help.  Turns out my doctor doesnt take my new insurance after all.
+Subreddit: healthinsurance
+Created: 1746079460
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No Authorization On File
+Outcome: Ongoing
+OP Summary: The user experienced a claim denial for a physical exam due to their doctor's office not being in-network with their new insurance, despite prior assurances. They now face a bill of over $2000 and are seeking advice on how to address the situation.
+Responses Summary: No response summary available
+Themes: Insurance Network Confusion, Claim Denial, Financial Burden
+Options Suggested: Negotiate a cash pay price, Request a payment plan, Seek a retroactive authorization
+Fit Explanation: The user is actively seeking help regarding their claim denial and is currently facing a significant financial burden due to the situation.
+Original Post: I changed jobs and got a new policy.  I informed my doctors office of the change and they said they did indeed take my new insurance.  I even asked again the day of the appointment just to be sure...  I was assured they did so I went ahead with the appointment., a simple physical (i didnt even do the blood work portion). And now I have a notice saying that my claim was denied and now I owe $2000+ for my physical.  If it matters, the insurance is Health Net and the notice if from Astrana Health

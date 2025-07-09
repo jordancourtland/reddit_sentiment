@@ -1,0 +1,15 @@
+Thread ID: 1l2gee3
+Title: Advice for calling health plan - emergency out of state denied for more information
+Subreddit: healthinsurance
+Created: 1748968132
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: More information required
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on what to say when calling their health plan regarding a denied emergency claim for a fall that required stitches and CT scans.
+Responses Summary: Commenters suggest that the OP should provide clear information about the incident and the care received, and they may need to clarify if another insurance should be responsible for the costs.
+Themes: Claim denial reasons, Communication with insurance, Documentation needed
+Options Suggested: Call health insurance for clarification, Provide incident details, Check for other insurance responsibilities
+Fit Explanation: The OP is currently dealing with a denial and is looking for guidance on how to address it, indicating a very good fit for needing assistance.
+Original Post: Looking for advice.  Is there anything I should be careful saying?  My emergency claim was denied for more information &amp; I need to call my health plan. 
+It was for a fall with small head injury needing four stitches in another state.   They were concerned for brain bleed and orbit damage so I had to get 2 head cat scans which I tried to get out of.  We went to urgent care but they transferred our case to the emergency room to evaluate with the cat scans and for the stitches. 

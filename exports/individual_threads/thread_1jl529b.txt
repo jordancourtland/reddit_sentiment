@@ -1,0 +1,17 @@
+Thread ID: 1jl529b
+Title: Appealing medication denial?
+Subreddit: healthinsurance
+Created: 1743085367
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not covered for the diagnosis
+Outcome: Unclear
+OP Summary: The user is seeking help to appeal a medication denial from Express Scripts, which only covers the medication for specific diagnoses that the user does not have, despite the medication's effectiveness for their condition.
+Responses Summary: No response summary available
+Themes: medication denial, appeal process, cost concerns
+Options Suggested: appeal the decision, pay out of pocket, consult with a healthcare provider
+Fit Explanation: The user is actively seeking assistance with an appeal for their medication denial.
+Original Post: My doctor prescribed a medication that is often used for my medical condition. It was denied because my PBM (Express Scripts) only covers it for two diagnoses, neither of which I have. I have tried and failed (either bad side effects or ineffective) every other medication for my condition. 
+
+Can the decision be appealed? I tried asking Express Scripts but the “claims specialist” didn’t know. There aren’t any FDA-approved medications for my condition but there have been many studies showing the effectiveness of this medication. This is not for a GLP-1 or any other weight loss medication. It is a relatively inexpensive medication. 
+

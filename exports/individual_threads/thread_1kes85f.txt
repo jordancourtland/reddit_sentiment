@@ -1,0 +1,14 @@
+Thread ID: 1kes85f
+Title: Out-of-network behavioral therapy (telehealth)
+Subreddit: healthinsurance
+Created: 1746387101
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No coverage for out-of-network telehealth
+Outcome: Unclear
+OP Summary: The user is facing claim denials for out-of-network telehealth behavioral therapy services, despite their plan offering reimbursement for out-of-network mental health services. They seek advice on how to address this issue.
+Responses Summary: No response summary available
+Themes: Out-of-network services, Telehealth coverage, Claim denial
+Options Suggested: Contact insurance for clarification, Submit a formal appeal, Seek in-person therapy options
+Fit Explanation: The user is actively seeking help to rectify their claim denial situation.
+Original Post: I speak with a behavioral therapist through bi-weekly phone calls. The service provider is out-of-network (she was originally in-network but updated which plans were in-network and my plan fell off that list). My plan offers 70% reimbursement for out-of-network mental health services, so my understainding was that I can submit my receipts and they would apply towards my out-of-network deductible. I realized on the receipts she provides, she lists the services as telehealth and therefore my claims are now being denied (no coverage for out-of-network telehealth). Does anyone have a similar experience and solutions to help rectify this? I can't understand why simply getting the services over the phone would disqualify insurance coverage, specifically for behavioral therapy. 

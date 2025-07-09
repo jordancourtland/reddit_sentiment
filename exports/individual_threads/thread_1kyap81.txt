@@ -1,0 +1,22 @@
+Thread ID: 1kyap81
+Title: Discounts Applied= No Reimbursement (After Deductible/OOP Max Met)?
+Subreddit: healthinsurance
+Created: 1748525041
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The original poster is questioning why their claim was processed with discounts applied and no reimbursement after meeting their deductible and out-of-pocket maximum with BCBS.
+Responses Summary: Commenters advised waiting for the EOB to clarify the situation, noting that out-of-network charges outside the allowed amount may be the poster's responsibility despite having met the OOP max.
+Themes: Claim processing, Out-of-network services, EOB importance
+Options Suggested: Wait for EOB, Contact BCBS for clarification, Review policy details
+Fit Explanation: The original poster is actively seeking clarification on a claim denial and reimbursement issue, indicating a strong fit for assistance.
+Original Post: So quick q:
+
+BCBS is getting on my nerves--in August they denied a claim saying I didn't have prior authorization for an inpatient stay...I proceeded to print said prior authorization approval off of my BCBS profile portal and send it back to them saying remember this?
+
+Anyway, I have a PPO and have met my non-network deductible and out-of-pocket expenses and then some. I submitted a claim for $825 last week, and the claim was processed with 100% of it covered by discounts applied and nothing contributed by the plan. They have not provided an EOB, but I'm assuming since it was discounts and nothing contributed by the plan, I will not be reimbursed.
+
+This is a little shady, no? Even if they had negotiated discounts to get the service rate within the allowable amount, would they not still be responsible for 100% of said allowable amount since I've surpassed both the deductible ($5k) and max OOP ($10k) for out-of-network? Feels like a way for them to just get out of reimbursing me. What's even stranger is that my total reimbursements last year for the same providers were higher even though my total OOP contributions were lower.
+
+Am I not understanding my policy?

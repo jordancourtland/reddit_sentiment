@@ -1,0 +1,46 @@
+Thread ID: 1ei2vq6
+Title: Struggling with $35K Hospital Bill After Emergency Surgery: Insurance Issues and Seeking Solutions
+Subreddit: medicalbill
+Created: 1722579261
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to handle a $35K hospital bill for an emergency appendectomy that their insurance refuses to cover, citing that the plan does not include emergency outpatient surgery.
+Responses Summary: Commenters suggest exploring options like the No Surprise Act, verifying the fairness of the hospital charges, and applying for financial assistance programs, including hardship assistance and charity care.
+Themes: insurance coverage issues, financial assistance options, hospital billing practices
+Options Suggested: explore No Surprise Act, apply for hardship assistance, verify hospital charges
+Fit Explanation: The original poster is actively seeking help with their insurance denial and exploring various options, indicating a strong fit for assistance.
+Original Post: **EDIT:** Found out it is a self-funded plan through a large agency that did not opt into WA BBPA, so WA policies won't  
+apply here but talking with the WA insurance commissioner and EBSA for more assistance as well as appealing directly with the insurance provider and through CBS.gov.
+
+----  
+Here's a summary of my situation and what I've done so far to address it. I would appreciate any advice from experts or recommendations for steps I might not have considered. This has been an incredibly stressful experience for me, and it's my first time dealing with something like this.
+
+**TLDR:** Emergency hospital visit to perform laparoscopic appendectomy which insurance refuses to pay because it's an emergency outpatient surgery which apparently, they do not cover. Contract job that pays little and set to end while still recovering from 6-month unemployment and 2 layoffs. Don't have the funds to pay $35K and denied for charity care. Both Hospital and Insurance is telling me I'm S.O.L. Took some steps but looking for more advice. Location is in WA State, USA.
+
+**Situation:** I started experiencing severe stomach pain that had been worsening over several days. By 2-3 AM, the pain became unbearable, and I had to go to the emergency room. The nearest facility was a public hospital (a relevant note in this situation). After a couple of hours of waiting and testing, it was confirmed that my appendix was inflamed, and I needed emergency surgery. I was eventually taken in for a laparoscopic appendectomy, which was completed within an hour.
+
+Since then, I've been receiving a steady stream of bills and notifications from my insurance company stating that claims have been submitted but won’t be covered. This has led to a series of issues with both the insurance and the hospital.
+
+**Background:** I’m currently working as a contractor with an assignment that will end in a month. My income is barely enough to cover basic expenses, with rent consuming 50% of my earnings. I was unemployed for six months before this contract and have faced two layoffs, which depleted my savings. For this contract, I had the choice between a basic insurance plan costing $50 per week and a high deductible plan at $150 per week, which required a $5,000 deductible before coverage began. By the time the surgery happened, insurance under this plan would still not have paid out and I would have been $3,600 in the hole.  I opted for the basic plan because it was more affordable given my financial situation.
+
+I’ve now discovered that my basic insurance plan does not cover emergency visits or outpatient surgery. I’m baffled by this because I thought insurance was supposed to cover such emergencies. They won’t cover X-rays, the hospital stay, medications—nothing! The only thing they covered was a small amount of $350, but I’m unsure what it’s for.
+
+Total Financial Impact: The total hospital bill amounts to approximately $35,000 for a one-hour outpatient surgery and a 4–5-hour pre-surgery hospital stay.
+
+Here’s what I’ve done so far to tackle this situation:
+
+1. **Requested an Itemized Bill:** I called the hospital to get a detailed breakdown of the charges and asked what other bills to expect (e.g., anesthesiologist, x-ray technician, surgeon). They told me I have 4 months to pay the total $35K, or I could set up a monthly payment plan for $2,916 over 12 months.
+2. **Requested an Audit:** I asked for the charges to be audited, which has temporarily put the main $25K hospital bill on hold. In the meantime, I’m making $10/month or $50/month payments as a good faith gesture. It's been only 2 months since the initial bill.
+3. **Applied for Charity Care:** I explained my situation—impending job loss and difficult job market—but was told I could apply for Charity Care. Despite my income qualifying me for a discount based on the chart, my gross income disqualified me from assistance. I was advised to wait until I’m unemployed for at least 2 months, at which point I can reapply. I was also told to consider charity from churches, starting a GoFundMe, or taking out a loan.
+4. **Requested a Discount:** I asked for a discount since my insurance didn’t cover anything, but this was denied because the insurance had already been billed, and technically, I do have insurance.
+5. **Inquired About Settlement Options:** I asked if a large upfront payment could reduce the total amount owed, but was told that as a public hospital, they can't offer settlements or selectively assist patients.
+6. **Requested Assistance from a Patient Advocate and Billing Manager:** I asked to speak with a patient advocate and the billing department manager, but both requests were denied. The billing manager was unhelpful and stern.
+7. **Appealed to My Insurance:** I contacted my insurance to appeal and dispute, but they reiterated that their plan only covers regular office visits and not the emergency services or the type of surgery I received. The hospital has agreed to appeal on my behalf, but I’m unsure of the outcome.
+
+**Here’s what I’ve found and plan to do next:**
+
+* Explore the No Surprise Act: I’ve learned about the No Surprise Act and will investigate if it can help me challenge my insurance provider.
+
+Given all this information, is there anything else I should consider? I’m feeling overwhelmed and stressed beyond belief. It’s hard to believe that our healthcare system operates this way.

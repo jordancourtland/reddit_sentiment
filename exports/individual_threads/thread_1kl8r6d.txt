@@ -1,0 +1,16 @@
+Thread ID: 1kl8r6d
+Title: Is it normal for the denial reason to change at each step of appeal?
+Subreddit: healthinsurance
+Created: 1747096631
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary, Cosmetic exclusion, General plan exclusion
+Outcome: Ongoing
+OP Summary: The original poster is seeking guidance on how to effectively appeal a claim denial from Aetna, which has repeatedly changed the reasons for denial without explanation, causing frustration in the process.
+Responses Summary: Community members advised the poster to document each denial reason and response thoroughly, consider escalating the issue to a state insurance commissioner, and explore legal options if necessary, as shifting denial reasons may indicate bad faith practices by the insurer.
+Themes: Shifting denial reasons, Appeal process frustration, Documentation challenges
+Options Suggested: Contact department of insurance, Prepare for external review, Consult with healthcare provider
+Fit Explanation: The user is actively seeking help with their ongoing appeal process due to the shifting denial reasons.
+Original Post: I’m dealing with a frustrating situation with Aetna. It’s a non ERISA plan and Initially, they denied my claim under a “general plan exclusion”. I asked for a reconsideration and they changed the denial reason to “not medical necessary.” After the level 1 appeal, they switched to the cosmetic exclusion instead. Now, after the level 2 appeal, they’ve switched back again to “not medically necessary.” Under my plan, these are not overlapping, “cosmetic” and “medical necessity” are entirely separate, unrelated bases for denial.
+
+I’ve provided documentation and justification addressing their stated reason at each level,  Then they change the reason without any explanation provided. How am I supposed to effectively appeal a denial when the denial reason keeps shifting? It feels like they’re moving the goalposts. 

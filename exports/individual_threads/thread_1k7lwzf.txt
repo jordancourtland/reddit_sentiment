@@ -1,0 +1,24 @@
+Thread ID: 1k7lwzf
+Title: Timely Filing
+Subreddit: healthinsurance
+Created: 1745590277
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Timely filing
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to change the denial reason from timely filing to service coverage for claims submitted to their primary insurance, which is impacting their secondary insurance's decision on payment.
+Responses Summary: Community members suggested contacting the primary insurance for clarification on the denial codes and emphasized the importance of documenting all communications, while others recommended appealing the denial based on the argument that the claims were not processed correctly by the providers.
+Themes: Coordination of benefits, Claim processing issues, Insurance denial reasons
+Options Suggested: Contact primary insurance for clarification, Request reprocessing of claims, Seek assistance from a healthcare advocate
+Fit Explanation: The user is actively seeking help regarding an ongoing denial situation with their insurance.
+Original Post: Hello - I have a question about denial codes in EOBs.
+
+I have a primary insurance that only covers work in CA and a secondary that only covers work in MD. Long story short: I learned the hard way that I need to include my primary even when I know they'll deny everything in MD.
+
+The coordination of benefits between both insurances has been lacking and my secondary has only gone and unpaid some of the claims they originally paid last year. I made a mistake waiting around for them to correct the rest and the six month claim process + one year appeal timeline have both lapsed. (In some cases, the doctors had both of my insurances but never went back and reprocessed claims that went through my secondary first so maybe I have an argument there that they didn't fulfill their obligation to bill the insurances correctly/timely).
+
+My problem is now this: my primary insurance is going to deny everything with the reason of timely filing. I always expected denials from them, but under the justification that these out of state services are not covered by this plan. The latter reason has earned claim approvals from my secondary but I'm thinking the "timely filing" reason means my secondary will outright deny as well.
+
+Is there any way to get my primary insurance to deny based on the service coverage as opposed to (or maybe in addition to) the timely filing? I can't get a straight answer from them. For example, I have two claims processed on the same day by my primary. One has the "timely filing" reason for denial and the other has "timely filing" in addition to "services not covered by plan." They aren't able to explain to me why the second claim doesn't have that coverage reason code.
+
+Is there any reasoning with them on this? It seems like the difference between my secondary's approval or denial. Sorry for the long read and thank you!

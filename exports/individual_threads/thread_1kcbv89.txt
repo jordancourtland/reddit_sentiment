@@ -1,0 +1,24 @@
+Thread ID: 1kcbv89
+Title: Billing department refusing to do a retro auth
+Subreddit: healthinsurance
+Created: 1746114101
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The user is facing a denial from Carefirst BlueCross for a CT scan due to lack of pre-authorization, despite receiving care at an in-network urgent care facility. They are currently working on an appeal and seeking advice on their rights and the appeal process.
+Responses Summary: No response summary available
+Themes: pre-authorization issues, in-network confusion, appeal process guidance
+Options Suggested: write an appeal, contact the billing department, request medical records
+Fit Explanation: The user is actively seeking help with their appeal process and is engaged in addressing the denial.
+Original Post: I received care at an in-network urgent care for a kidney stone. They checked my insurance and paid the urgent care co-pay.
+
+The doctor ordered a CT scan. At no time did anyone mention authorizations or anything of the like. I received care and was discharged.
+
+Carefirst BlueCross rejected the CT scan for not having sought pre authorization (Claim denied because required pre-authorization is not on file.) The EOB said I "may owe" $9026 and then I received a bill from the urgent care for $9,026. The insurance rep on the phone confirmed I need pre-authorization according to my policy.
+
+With my insurance on the line, we called the billing department, and in a recorded call they said that they do not do pre authorizations for urgent care, nor will they do a retroactive one. The insurance rep asked them to repeat it a few times, and the billing department repeated the same. Apparently because this UC is part of a hospital group, it's also showing as being billed as a facility and not urgent care, but they are saying there is no other way to file the claim.
+
+The insurance rep was flabbergasted. She suggested I write an appeal to the insurance, which I am working on now, as well as a letter to the patient experience inbox of the hospital group.
+
+I'm really lost, what are my rights here? Do I have to pay this bill while I appeal? What is the appeal process like, and what do you think my chances are? How on earth is this my fault when the problem seems to be between the insurance company and the provider? Do you have any advice for me... I am sick to my stomach over this. Thank you in advance for any light you can shine on this.

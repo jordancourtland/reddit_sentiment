@@ -1,0 +1,18 @@
+Thread ID: 1k2cc7z
+Title: Dense Breasts Ultrasound Denied by Cigna
+Subreddit: healthinsurance
+Created: 1745001782
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking guidance on how to effectively appeal Cigna's denial of coverage for a breast ultrasound, which is required by Vermont law for patients with dense breast tissue.
+Responses Summary: Community members advised the poster to gather documentation of the law, escalate the appeal to a supervisor, and consider filing a complaint with the Vermont Department of Financial Regulation if necessary.
+Themes: Insurance coverage laws, Appeal process, Dense breast tissue screening
+Options Suggested: Contact the hospital for appeal assistance, Verify if the plan is governed by state or federal law, Consult with a legal expert on insurance mandates
+Fit Explanation: The user is actively seeking help to appeal the denial from Cigna.
+Original Post: Cigna denied coverage for breast ultrasound in Vermont, however Vermont law 8 V.S.A. § 4100a requires insurance coverage for breast cancer screening by ultrasound: 
+
+"(a) Insurers shall provide coverage for screening by mammography for the presence of breast cancer. In addition, insurers shall provide coverage for screening by ultrasound for a patient for whom the results of a screening mammogram were inconclusive or who has dense breast tissue, or both. Benefits provided shall cover the full cost of the mammography service or ultrasound, as applicable, and shall not be subject to any co-payment, deductible, coinsurance, or other cost-sharing requirement or additional charge."
+
+Filed an appeal with Cigna over the phone but am now finding out the representative only submitted the claim for adjustment.  What are my options to push this through/lean no Cigna?

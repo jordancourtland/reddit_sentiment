@@ -1,0 +1,20 @@
+Thread ID: 1k6xbg5
+Title: Question about retroactively adding primary insurance
+Subreddit: healthinsurance
+Created: 1745513899
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on whether to inform their secondary insurance or the doctor's office about their primary insurance, as they are concerned about potential timely filing issues with claims that may be denied later on.
+Responses Summary: Community members advised the poster to notify both their secondary insurance and the doctor's office about the primary insurance to prevent future denials and ensure proper handling of claims.
+Themes: insurance coordination, timely filing issues, claims management
+Options Suggested: alert primary insurance, contact secondary insurance, notify doctor's office
+Fit Explanation: The user is currently dealing with a denial issue and is actively seeking advice on how to proceed, indicating a very good fit.
+Original Post: I'm not sure this is the right place to post about this but I'm looking for some advice regarding paid claims. 
+
+Long story short: I learned the hard way that you need to include your primary insurance everywhere, even when you know they don't provide coverage in your state. My secondary insurance went through and unpaid everything they covered, pending my primary insurance's denials. 
+
+I've been dealing with that but now I have a new issue: some claims they left paid and didn't retroactively deny. I'm worried by the time they get around to denying them, the timely filing will have lapsed on my primary and they'll reject it on that basis and then no one will pay.
+
+Any advice on whether or not I should alert my secondary insurance or the doctor's office to the existence of my primary insurance? TIA

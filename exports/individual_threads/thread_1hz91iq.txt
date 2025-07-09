@@ -1,0 +1,20 @@
+Thread ID: 1hz91iq
+Title: Diagnostic labwork @ LabCorp- claim got denied, and now I'm being footed over 800 dollars.
+Subreddit: healthinsurance
+Created: 1736638221
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The user is facing an $800 bill for labwork that was previously covered, with the insurance denying the claim based on medical necessity criteria. They are seeking advice on how to appeal the denial and clarify the billing situation.
+Responses Summary: No response summary available
+Themes: Billing errors, Medical necessity criteria, Insurance appeal process
+Options Suggested: Contact insurance for clarification, Reach out to LabCorp for billing issues, Consult with the doctor for correct coding
+Fit Explanation: The user is actively seeking help to appeal their insurance denial and clarify the billing issue.
+Original Post: I use BCBS of MA through my work. My labwork from the previous month was approved without problem. Now I got a bill and I am being told to pay over 800 for some very fast labwork that definitely should not be costing me that much. I have 100% PPO Elect. I had met 100% of the deductible, and like I just said, I had no problem the month before? 
+
+I looked at the denial and this is what it said: "BENEFITS ARE NOT AVAILABLE BECAUSE THIS SERVICE EITHER DOES NOT MEET OUR MEDICAL TECHNOLOGY ASSESSMENT CRITERIA OR OUR MEDICAL POLICY GUIDELINES. FOR MORE INFORMATION, PLEASE REFER TO YOUR PLAN MATERIALS. YOU ARE RESPONSIBLE FOR THE CHARGES. /E570"
+
+I read a lot here and I'm wondering if it was a billing error or something like that? Unfortunately not much details, and they're closed on the weekends. But what I saw: the last month was in San Diego CA, this lab corp is billed to somewhere in AZ. I reside in CA. 
+
+Before I call on Monday, I was hoping for any insight or help with appealing or getting it set straight. I was never warned that this would be a problem. Plan materials say that "Labs, X-Rays and Other Tests" are covered. Also this denied claim says that this lab was "**In network**".

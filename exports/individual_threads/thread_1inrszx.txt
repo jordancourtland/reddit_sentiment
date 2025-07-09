@@ -1,0 +1,47 @@
+Thread ID: 1inrszx
+Title: We're Denying your Appeal, But Paying Your Claim Anyway
+Subreddit: healthinsurance
+Created: 1739369837
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Resolved
+OP Summary: The user experienced a claim denial for lab work deemed not medically necessary, but the insurance later decided to cover the costs after the appeal process, leading to confusion about the decision.
+Responses Summary: No response summary available
+Themes: Claim denial, Appeal process, Insurance coverage confusion
+Options Suggested: Contact member advocacy, Review plan benefits, Seek clarification on preventative care
+Fit Explanation: The user has faced a denial and engaged in the appeal process, indicating a need for assistance.
+Original Post: Not sure where this rests between funny story and sheer confusion, but I was wondering if anybody could make sense out of this. I have health insurance through my employer and it's generally pretty decent, but one mind-boggling thing I learned from my coworkers is that it generally does not cover preventative care. I went to the doctor for an annual checkup, complained about some issues sleeping (I flip day and night shifts a lot) and some mild GI issues and they ordered some standard lab work (CMP, etc). 
+
+When I got my EoB from my insurance, they refused to pay for the lab work coding it as "procedure not medically necessary", leaving me with a bill for $350. I appealed, arguing that the GI and sleeping issues should have qualified as reasonable justification for some labs. They acknowledged receipt and said they would reply within 60 days. 62 days passed and I filed a complaint with the state department of insurance. On day 63, I received the below letter (postmarked day 58, no evidence that it was overnighted or anything so I doubt they knew about the complaint) saying effectively "you were wrong, the tests weren't medically necessary, but we are going to pay anyway". Naturally I don't want to look a gift horse in the mouth, but I'm confused as to why a health insurer would randomly choose to be generous. Did they just realize they had let too much time go by? Was it too grey of an area? Or was it just too little money for them to justify the manpower of fighting it if I were to escalate it?
+
+February 5, 2025
+
+Dear Mr. X
+
+
+As a [plan] member, you always have the right to ask questions about a [plan] decision and
+appeal if you disagree. We`'re writing to update you about your appeal for a non-covered
+laboratory test performed on [date]
+
+
+In your appeal, you mentioned that the test was medically necessary for your treatment of your
+concerns at the time. The bloodwork was necessary to treat an existing injury and, in your view would satisfy the conditions of the policy sufficiently.
+
+Upon reviewing the claim for the laboratory test we found that the claim processed correctly
+based on the benefits of your [Plan]- January 2024. As mentioned on page 35, screening services are covered for Grade A and B recommendations of the U.S Preventive Services Task Force (USPSTF). A list of these screening services is listed on page 35 that is enclosed.
+
+A [plan] Senior Medical Director (Pediatrics/Emergency Medicine, M.D.) reviewed your
+appeal and supporting documentation and determined that the screening service billed is not a plan benefit. Based on the individual circumstances of your case, and because we recognize that you were not aware that all screening services were covered, [plan] has decided to make a one-time administrative exception by covering the laboratory test. You will receive a corrected [plan] Report to Member soon. Please allow 2-3 weeks for your claim to be reprocessed.
+
+Please understand that by making this exception, [plan] does not agree to make future
+benefit exceptions for you or any other [plan] member. In the future, any claim for services
+will be paid in accordance with the terms and provisions of the Plan covering you at the time
+services are rendered.
+
+
+Thank you for allowing us to review your appeal. If you have any questions, please feel free to
+contact [plan] Member Advocacy and Appeal Department at [number] or toll-free at [number] and ask for the Case Resolution Coordinator familiar with your case
+
+
+Enclosures: Page 35 of your [plan] Preferred Provider A, Guide to Benefits

@@ -1,0 +1,22 @@
+Thread ID: 1jv6xma
+Title: Cobra coverage - two qualifying events, company will not extend coverage to spouse from 18 to 36 months and gives shady explanation. Are they telling me the truth, and if not, who do I contact about lighting a fire under their a** to get the 36 months?
+Subreddit: healthinsurance
+Created: 1744208379
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Coverage extension denied due to alleged 60-day rule between qualifying events
+Outcome: Ongoing
+OP Summary: The original poster is seeking clarification on whether their COBRA coverage can be extended to 36 months after two qualifying events, as their company denied the extension based on a 60-day rule that is not documented. They are frustrated and looking for guidance on how to proceed.
+Responses Summary: Community members advised the original poster to review COBRA regulations and suggested contacting the Department of Labor or a legal expert for assistance in challenging the company's denial. They also recommended gathering documentation of the qualifying events and the company's communications for support in their case.
+Themes: COBRA coverage, Qualifying events, Insurance denial
+Options Suggested: Contact EBSA, Review COBRA documentation, Seek legal advice
+Fit Explanation: The user is actively seeking help regarding a denial of COBRA coverage extension, indicating a very good fit for assistance.
+Original Post: My husband retired from his company in December 2024 and we both received COBRA coverage.  So that's the first qualifying event.  Then he became eligible for Medicare and enrolled at the end of March 2024, meaning that he now had to drop COBRA as the company does not provide it as additional coverage.  So this is the second qualifying event. 
+
+By my online reading, COBRA coverage for a qualified beneficiary can be extended to 36 months after the second qualifying event as long as it occurs within the 18 month initial COBRA period and the employee notifies the firm within 60 days of each event - which he did.  
+
+But when I tried to get an extension of coverage, the company denied the extension, saying that that the second qualifying event had to occur within 60 days of the first qualifying event.  Online information about COBRA just talks about the second qualifying event happening during the initial 18 months coverage - I can't find anything taking about a 60 day limit between qualifying events.
+
+The NYS Marketplace insurance is much more expensive than what I'm paying for COBRA so I'd like to extend it beyond the current end date in June, but I'm hitting a brick wall.  
+
+Are they right, or do I have a case?   And if I have a case, where do I take it?

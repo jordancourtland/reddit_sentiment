@@ -1,0 +1,18 @@
+Thread ID: 1jwbli0
+Title: Received letter from the provider to ask permission to share records with insurance
+Subreddit: healthinsurance
+Created: 1744326672
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not covered due to Medical Technology Assessment Criteria
+Outcome: Unclear
+OP Summary: The user received a request from their provider to authorize sharing health information with their insurance, amidst confusion about a test marked as 'not covered' and potential implications for their claim. They seek clarity on whether signing the authorization could still lead to a denial and its impact on overall coverage.
+Responses Summary: No response summary available
+Themes: Authorization confusion, Claim denial risk, In-network provider issues
+Options Suggested: Contact provider for clarification, Sign authorization letter, Review EOB for details
+Fit Explanation: The user is actively seeking help regarding a claim denial situation and its implications.
+Original Post: I received an authorization letter from my provider requesting approval to share my health information with my insurance company. In Section C, it mentions that the type of result to be shared is categorized as "Other," along with the service date — but it does not specify what exactly is being shared.
+
+What’s also confusing is that the provider (who is in-network) hasn’t sent me any bill for the visit, which took place in January. However, one type of test from that visit is marked as “not covered” due to the insurance’s *Medical Technology Assessment Criteria.* In the Summary of Explanation of Benefits (EOB) sent by insurance for that service. Is that related to that specific test case, which the in-network provider is appealing? 
+
+I’m not sure what the implications are. Is this a common situation? Could the claim still be denied even if I sign and submit the authorization letter? And is there any risk that this could impact my overall coverage? Any help would be appreciated. 

@@ -1,0 +1,18 @@
+Thread ID: 1jahhig
+Title: Will A Claim Not be Covered if A Single Diagnosis Code on the Claim is not within plan benefits?
+Subreddit: healthinsurance
+Created: 1741886775
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking clarification on whether the presence of a diagnostic code for Gender Identity Disorder on their claim will result in denial of coverage for a primary care appointment, despite having other covered codes.
+Responses Summary: Community members advised that while the presence of the GID code could raise concerns, the overall claim should be evaluated based on all diagnostic codes submitted, and suggested contacting the insurance provider for specific guidance on how claims are processed.
+Themes: Diagnosis Code Concerns, Insurance Coverage, Transgender Healthcare
+Options Suggested: Check EOB, Consult with doctor, Contact insurance provider
+Fit Explanation: The user is actively seeking clarification on a potential claim denial related to their diagnosis codes.
+Original Post: I’m in Oregon and have a self-funded plan from my employer in another state. In my plan there is a clause specifically denying coverage for Gender Identity Disorder.
+
+Im a trans person, but I established care with a primary care doctor for an unrelated health reason. I noticed on my report it stated a diagnostic code for Gender Identity Disorder. There were other diagnostic codes that I know for sure are covered under my plan but will the presence of the GID code cause an insurance company to deny the claim? It was a primary care appointment for preventative care
+
+EDIT: Insurance is through UMR (United Healthcare)

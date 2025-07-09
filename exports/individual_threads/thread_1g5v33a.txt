@@ -1,0 +1,38 @@
+Thread ID: 1g5v33a
+Title: UHC and Intracept Procedure - They refuse to deny my pre-authorization so that I can appeal
+Subreddit: healthinsurance
+Created: 1729182849
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Unclear
+Outcome: Ongoing
+OP Summary: The user is struggling to obtain pre-authorization for the Intracept procedure from UHC, which they claim is necessary for their health, but UHC refuses to provide a denial letter needed to initiate an appeal.
+Responses Summary: No response summary available
+Themes: Pre-authorization issues, Experimental treatment denial, Appeal process complications
+Options Suggested: Contact state’s Department of Insurance, Request a formal denial letter, Consult legal advice for bad faith claims
+Fit Explanation: The user is actively seeking help to appeal the denial of their pre-authorization, indicating a perfect fit for assistance.
+Original Post: Hello Everyone!
+
+For about a year now I've been working with my health care provider, Relievant Health (Company who developed the Intracept procedure) my employer, and (sort of) UCH themselves (my actual insurance is called Surest, but it's a UHC company).
+
+the TLDR;
+
+I tried to get Pre-auth, and they said they cannot proceed due to it being "experimental" when I know it's not. Medicare, and various local insurances are covering the procedure just fine, but UHC refuses to budge.
+
+Relievant tried working with my insurance, but many weeks later would come back with:
+
+"Dear Jessekin,
+
+We have been working on your behalf to obtain approval for the Intracept procedure that was ordered by &lt;my doctors name.. Unfortunately, your insurance company does not have a process in place which allows pre-service review for this procedure and they are unable to determine if it will be reimbursed. "
+
+and after that, I contacted my employer to see if they could work with our insurance broker to contact UHC and get someone to help start an internal appeal. However, UHC will not start an internal Appeal without a "letter of denial" and apparently refuses to supply me with it.
+
+What I hear is, "we have to follow our own rules saying we have to hear ourselves say 'uncle', but we refuse to say 'uncle' so nah nah naboo boo, you are SOL."
+
+I've honestly been in so much pain from my back I've honestly thought about doing whatever it takes to get results, but no matter who I talk to, no matter what I do, my insurance refuses to help me. I need this, My doctor says I need this. I've provided my insurance with medical necessity documentation, but apparently it's going to the wrong people or falling on defy ears.
+
+Please people of reddit... help me. I need help. I'm begging. What do I need to do to get UHC/Surest to help me? Do I need to take them to court for Emotional Distress/Bad Faith? It sounds so silly, but I'm getting so desperate.
+
+Thanks.
+
+Edit: the claim of Bad Faith comes from the fact that they claim it's experimental, but refuses to give me the opportunity to investigate/appeal this decision because they refuse to deny my authorization, or provide me with a letter of denial which both my employer and insurance company is saying is required to proceed. But they will not provide that to my healthcare provider. I feel they are doing this in bad faith to prevent themselves from covering their policyholders of this procedure when other insurances are covering it.

@@ -1,0 +1,26 @@
+Thread ID: 1ka6fuu
+Title: Cigna won’t cover prescription meds even with doctor prior authorization and justification for medication
+Subreddit: healthinsurance
+Created: 1745873966
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The user is facing a denial from Cigna for prescription medication coverage despite prior authorization and is seeking advice on navigating the appeals process.
+Responses Summary: No response summary available
+Themes: appeals process, medication coverage, communication issues
+Options Suggested: submit documentation to IRB, contact HR for assistance, notify the department of insurance if necessary
+Fit Explanation: The user is actively seeking help with their appeal process, indicating a perfect fit for assistance.
+Original Post: Hello! 
+
+I am in the midst of this painful appeals process with Cigna and am wondering if anyone has any advice or tips as I try to navigate this. 
+
+I have chronic insomnia which I have been undergoing treatment for several years. I recently had to switch to Cigna through my new employer and they’re denying medication coverage saying it’s not medically necessary even though I meet all of the requirements for it to be considered medically necessary per the denial letter they sent.  
+
+I’m at the appeals stage where I need to submit a request for approval through an IRB. I submitted a letter through certified mail to the appeals department (again, per instructions on the denial letter) requesting a written statement of clinical rationale for decision of denying my claim, instructions of the clinical review criteria used, all notes made in my file as well as a description of what they need to overturn the denial. 
+
+I received a response from them saying they don’t have my claim and listed a claim number completely different from the one in the letter I sent them. I called the number on that letter to get more information and the agent on the phone told me they never even received my letter (even though I got a letter in response to it and have confirmation of the date they received it). 
+
+I’m going to continue to submit all documentation to the IRB but I’m curious of anyone has dealt with this before and if you have any tips of what to do or even what not to do. 
+
+

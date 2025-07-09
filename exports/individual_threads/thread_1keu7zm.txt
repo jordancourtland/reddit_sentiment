@@ -1,0 +1,17 @@
+Thread ID: 1keu7zm
+Title: Reason your claim was denied
+Subreddit: healthinsurance
+Created: 1746392222
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unable to match a Diagnostic Related Grouping
+Outcome: Unclear
+OP Summary: The claim was denied because the services billed did not match a Diagnostic Related Grouping, and the original poster is unsure who is responsible for resubmitting the claim.
+Responses Summary: No response summary available
+Themes: Claim denial reasons, Responsibility for resubmission, Communication with billing department
+Options Suggested: Contact the billing department, Wait for the hospital to respond, Follow up on the claim status
+Fit Explanation: The original poster is actively seeking clarification on the claim denial process, indicating a need for assistance.
+Original Post: Reason your claim was denied:
+The services billed are unable to match a Diagnostic Related Grouping. Please resubmit with corrected claim for services rendered.
+
+Question.. who is responsible for resubmitting this? Is it the hospital or me (patient) thank you.

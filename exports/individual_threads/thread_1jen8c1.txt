@@ -1,0 +1,22 @@
+Thread ID: 1jen8c1
+Title: How can I get the most accurate cost estimate?
+Subreddit: healthinsurance
+Created: 1742352410
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not covered services
+Outcome: Ongoing
+OP Summary: The user is seeking advice on how to verify procedure costs and coverage while at the doctor's office, after receiving unexpected bills for non-covered services despite being informed of a copay. They express frustration with the lack of clear insurance information and the surprise billing they have encountered.
+Responses Summary: No response summary available
+Themes: unexpected bills, insurance coverage confusion, need for cost transparency
+Options Suggested: ask for CPT codes, request itemized estimates, check for unmet deductible
+Fit Explanation: The user has experienced a denial of coverage for certain services and is actively seeking ways to avoid future surprises, indicating a strong need for assistance.
+Original Post: Does anyone have tips on efficient ways to verify procedure costs/covered items in the moment while at the doctor, other than looking them up online or calling? The doc’s billing team can’t confirm anything until they run the codes with insurance.
+
+I feel like this might be a really stupid question, but I just wanted to throw it out there….why you may wonder? I moved &amp; saw my new ophthalmologist for a new patient visit &amp; saw that a) they’re in network &amp; b) the office visit is covered with a $40 copay due per my coverage info. During the appointment the doctor ran normal tests, everything I’ve had done elsewhere before I moved, at my usual annual appointment, but this time I got a bill in the mail for $200. All of the in-office tests they ran (billing codes) were not covered services, so I was billed for 100% of the discounted costs per their contract + my $40 copay. Obviously I have to pay this amount, but it would have been nice to know that they’d hid my insurance with all these non-covered billing codes prior to accepting services, as I was anticipating to just be liable for my $40 copay based on past experience. I never paid more than my office copay for the same exact general tests conducted at my previous provider &amp; I assume that they just used different billing codes.
+
+Additionally, insurance coverage information seems to be very general when I look it up online (logged in). It would be nice to get a list of the billing codes &amp; what’s covered/not and at what rate. When I asked my insurance company for this info I was denied twice.
+
+Just trying to avoid surprises by being as informed as I can going in &amp; on the spot, but it seems like sometimes that might not be practical &amp; I should just always brace for a potential surprise.
+
+Thanks in advance for any advice.

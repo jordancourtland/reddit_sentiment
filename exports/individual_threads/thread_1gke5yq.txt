@@ -1,0 +1,32 @@
+Thread ID: 1gke5yq
+Title: Please help! Claim reversal because former employer forgot to cancel health coverage.
+Subreddit: healthinsurance
+Created: 1730832744
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Partial
+Outcome: Ongoing
+OP Summary: The user is facing a denial of claims due to a retroactive termination of health coverage by their former employer, which was not communicated in a timely manner. They are seeking advice on appealing the denial and understanding their options.
+Responses Summary: No response summary available
+Themes: COBRA notification issues, retroactive coverage termination, appeal process guidance
+Options Suggested: contact former employer, consult a lawyer, reach out to EBSA
+Fit Explanation: The user is actively seeking help to appeal the claim denial and is currently dealing with the issue.
+Original Post: Hi everyone,
+
+I resigned from my job in Tennessee in late May due to health reasons. During my exit interview, my former employer informed me that my health coverage would end at the end of the month, so I planned to transition to my husband's insurance.
+
+However, when I checked my insurance app at the beginning of June for proof of coverage termination (as required by my husband's HR), I discovered my insurance was still active. I contacted customer service multiple times over the following months explaining my situation and was assured everything was fine.
+
+In late August, I had a blackout event and had to go to the ER and was placed on a heart monitor. All my claims were processed by late September without any issues.
+
+Just a couple of days ago, I received a COBRA election notice from United Health, stating that my coverage was officially terminated on October 31, 2024, with COBRA available starting November 1. When I checked my insurance portal, I found out that they retrospectively ended my coverage on August 31, and all my September claims were reversed, totaling an additional $1,000 in medical bills.
+
+It appears my former employer didn’t notify United Health about my coverage termination until October 22nd, which is 22 days late according to COBRA rules, which states employers are required to inform the plan administrator within 30 days of a qualifying event, which in my case should have been by September 30th.
+
+[https://www.cms.gov/cciio/programs-and-initiatives/other-insurance-protections/cobra\_fact\_sheet](https://www.cms.gov/cciio/programs-and-initiatives/other-insurance-protections/cobra_fact_sheet)
+
+I also found that under Affordable Care Act, retroactive cancellation is illegal except in cases of fraud or intentional misrepresentation of material fact as prohibited by the terms of the plan or coverage.
+
+I plan to appeal the reversed claims. Has anyone dealt with similar issues in Tennessee? What are my options for appealing the claim denial, or should I consult a lawyer about this situation? I'm a migrant worker and not very familiar with US laws. Any insights or advice would be greatly appreciated!
+
+Thanks for your help!

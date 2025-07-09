@@ -1,0 +1,32 @@
+Thread ID: 1jkdovk
+Title: Surprise $1,041.85 bill for a simple hearing test. Can anyone advise on how to fight?
+Subreddit: healthinsurance
+Created: 1743000897
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary (coded as diagnostic instead of routine)
+Outcome: Ongoing
+OP Summary: The user received a surprise bill of $1,041.85 for a hearing test, which was coded as diagnostic rather than routine, leading to confusion about coverage and billing responsibilities. They are seeking advice on how to appeal the denial and address the financial burden.
+Responses Summary: No response summary available
+Themes: billing confusion, insurance appeal process, financial burden
+Options Suggested: file a personal appeal, contact the billing department for clarification, apply for financial assistance
+Fit Explanation: The user is actively seeking help to fight the denial of their claim and is currently dealing with the financial implications of the bill.
+Original Post: I'm 41 and live in New Jersey. I work for a non-profit and make around $35k per year.
+
+A few months ago, I saw my GP for a regular check-up and mentioned that, in my job, people often speak confidentially, whisper, or are just low talkers, and I sometimes have trouble understanding them when it seems like there is an expectation that I should not, which can get frustrating. I said that I have not had my hearing tested since I was in grade school like 25 years ago and asked whether that's something that should be checked from time to time. She said sure and wrote me a referral to get a hearing test.
+
+So I went to the website for my insurance (Horizon, aka Blue Cross Blue Shield) to search for providers and easily found an audiology office that's tier-1 in my network a few blocks away. I called them, explained that I hadn't had my hearing checked in decades and was looking for a regular test with my doctor's referral, and gave them my insurance information so they could verify that they're in my network. I went for the test, which didn't really tell me much, and later I received the finalized claim notification and was surprised to see that I owe $1,041.85.
+
+I argued with the billing department, and then I argued with the insurance company. There are two different issues here, I've been told. First, insurance explained that the medical coding was for a diagnostic hearing test rather than a routine (annual) hearing test. (Obviously, no one ever gave me an option for which type of test I wanted to receive.) An insurance representative talked to the billing department while I was on the phone and was unable to convince them to change their coding; they insisted that they had coded it correctly and that it would be illegal to change it. Insurance doesn't consider it preventive care if it's a diagnostic test, even though their Preventive Health Guidelines document mentions "Doctor will ask about hearing difficulties and refer for further diagnosis" under "Other Recommended Screenings/Tests."
+
+When I escalated and spoke with a different insurance representative, she figured out the other issue, which became the main focus: I was billed as a hospital outpatient, not as a visitor to a specialist office. She was not able to change that by working with the billing department and filed an appeal internally with the insurance company on my behalf. About a month later, just the other day, I received a denial of the appeal in the mail.
+
+I can still file my own appeal, but I'm not sure how to get a different result. In the meantime, my "payment is overdue," and I'm worried about it going to collections and affecting my credit. The billing department isn't doing anything to hold the timeline even though I've told them repeatedly that I'm arguing with insurance about the bill and had them note it on my file.
+
+If I gave the audiology office my insurance up-front, didn't they have an obligation to inform me that the service wouldn't be covered? If I found the provider through my insurance website as in-network, didn't they have an obligation to inform me that the office was considered hospital outpatient and not a specialist practitioner?
+
+I should note that I live right by a hospital in a major healthcare city, and many of the facilities throughout the city are under their umbrella. My GP's office is also part of the hospital system. Their name is on the door. I use the same patient portal for my doctor visits as I got this bill through. So why, when my GP is a regular office visit, would this audiology office bill me as a hospital outpatient?
+
+I've had health insurance for almost 17 years through my job but only recently started exercising it at all. It's absolutely insane to me that I can be billed an amount like this without anyone letting me know up front that I'm agreeing to pay for a costly service rather than just a co-pay. I'm dealing with some dental stuff right now that's not covered by my plan, and the dentist's office has been extremely clear and forthcoming about costs months in advance. In contrast, this hearing test bill feels like a scam.
+
+Does anyone have any recommendations for what I can do from here? Also, does the No Surprises Act help me with this at all?

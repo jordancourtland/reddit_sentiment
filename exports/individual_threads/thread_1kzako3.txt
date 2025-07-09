@@ -1,0 +1,19 @@
+Thread ID: 1kzako3
+Title: Is it worth/can I get retroactive insurance?
+Subreddit: healthinsurance
+Created: 1748627073
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on whether they can obtain retroactive insurance coverage for a concussion treatment received while uninsured in Illinois, and if it's worth pursuing a marketplace policy or payment plan.
+Responses Summary: Commenters advised that Medicaid can be retroactive but is not available in Texas for low-income individuals, and suggested exploring hospital financial assistance options instead.
+Themes: Medicaid eligibility, Financial assistance, Insurance application process
+Options Suggested: Apply for Medicaid, Request hospital financial assistance, Start a payment plan
+Fit Explanation: The original poster is currently dealing with a denial situation and is actively seeking advice on how to manage their medical bills, indicating a good fit for assistance.
+Original Post: Hi! I recently visited another state (Illinois) and got a concussion there (my home state is Texas). I don't currently have insurance, but went to the ER to get a CT scan and make sure it wasn't anything more serious. 
+
+The hospital told me that the only way they would be able to lower my bill is if I am able to apply for a marketplace-esque policy in Texas and get denied. Does anyone have advice/experience getting prior act(?) coverage for something like this? Is it even worth it, or should I just suck it up and get the hospital payment plan?
+
+EDIT: Thanks for all the helpful (and not so helpful) responses! 
+Disclaimer: I definitely am not the most literate when it comes to insurance, hence not understanding what my options are. Based on y’all’s advice, I’ll look into getting Medicaid going forward and start a payment plan for the er bill.

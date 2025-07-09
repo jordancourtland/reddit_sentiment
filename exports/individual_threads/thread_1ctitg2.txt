@@ -1,0 +1,22 @@
+Thread ID: 1ctitg2
+Title: Medical provider seeking additional money after payment 
+Subreddit: medicalbill
+Created: 1715881373
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on how to handle a new bill from a medical provider after their insurance denied a claim without notification, and they are unsure whether to dispute with the provider or the insurer.
+Responses Summary: Commenters advised contacting the insurance company first to understand the denial reason and to request a breakdown of the explanation of benefits (EOB), as the issue may stem from an error by the insurance or the provider's billing department.
+Themes: insurance claim reprocessing, communication with insurer, billing errors
+Options Suggested: contact insurance company, request EOB breakdown, dispute with provider
+Fit Explanation: The original poster is currently dealing with a denial situation and is actively seeking guidance on how to proceed, indicating a very good fit for assistance.
+Original Post: Date of service was 8/31/22. We received a bill with “Adjustments” on 12/7/22. We paid the balance on 1/3/23. 
+
+On 3/4/23, our insurance made a note that the claim was denied.  We never received notification of this. We only discovered this after we received the bill discuses below. 
+
+On 4/13/24, more than 15 months after payment, we received a new bill asking for the majority of the bill to be paid out of pocket. The adjustment amount was significantly lower on this bill. This bill acknowledges our last payment. 
+
+Has anyone had this happen? Not sure if I should go directly to the provider to dispute or go to my insurer. 
+
+Thanks for your help. 

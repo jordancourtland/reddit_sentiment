@@ -1,0 +1,26 @@
+Thread ID: 1k80ri9
+Title: Specialty Drugs Requiring Re-Auth
+Subreddit: healthinsurance
+Created: 1745628997
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Reauthorization required for specialty drugs
+Outcome: Ongoing
+OP Summary: The user is facing a denial of their specialty drug prescription due to a reauthorization requirement from their insurance, complicating their access to necessary medications during an overseas trip.
+Responses Summary: No response summary available
+Themes: Insurance bureaucracy, Access to medications, Patient frustration
+Options Suggested: Contact new cardiologist, Reach out to drug manufacturer for assistance, Utilize specialty pharmacy services
+Fit Explanation: The user is actively seeking help with their prescription denial and is in the process of contacting a new cardiologist for assistance.
+Original Post: I've been on this medicine since 2012 before it was on the market.  I was part of a study the manufacturer was conducting.  The doctor that got me on the study described me as a "poster child" for the drug having met all of the conditions for which the drug was designed.  My cardiologist prescribed Repatha and a series of other meds saying with all seriousness, "you will be on these for the rest of your life, never stop taking them."
+
+ Fast forward to today...the drug payor for my insurance plan I pay $1000 a month for has decided to deny all "specialty" drugs not on the formulary.  Requiring all prescriptions to be reauthorized.  I went to see my GP to get the process started.  Turns out doctors don't like paperwork.  Instead of following the insurer's re-auth process, the doc canceled and resubmitted the prescription.  Now the re-auth period has expired and the insurer has denied the prescription.  The prescriber needs to submit a detailed justification for the prescription.  The insurer has 7-10 days to review the claim.
+
+In the meantime I'm leaving on a five-week overseas trip without all of my meds.  No one, not one person I spoke to on the phone today cared.  I'm paying for this insurance product, whose m.o. seems to be continuously looking for ways to reduce expenses and frustrating their customers (I am a customer, right?).
+
+I realize my plight is not near as bad as some of the other stories I've read here.  It's just frustrating this situation has leaked into my vacation.
+
+Monday I'm calling my new cardiologist, hoping they are more adept at handling this than was my GP.
+
+Sheesh.
+
+FYI - I am on the Repatha Ready co-insurance from Amgen.  Otherwise Repatha would be unaffordable for me.

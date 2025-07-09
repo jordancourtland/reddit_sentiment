@@ -1,0 +1,20 @@
+Thread ID: 1l2hiv6
+Title: Need help with "provider not credentialed"
+Subreddit: healthinsurance
+Created: 1748970733
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Provider not credentialed
+Outcome: Ongoing
+OP Summary: The original poster is seeking clarification on why their son's therapy claims were denied due to the therapist being labeled as 'not credentialed' despite the therapist being licensed and the office being in-network.
+Responses Summary: Commenters advised the OP to obtain the therapist's license information and submit an appeal to the insurance, while also suggesting a three-way call with the insurance and the therapist's office to resolve the credentialing issue.
+Themes: Credentialing process, Insurance appeal, Communication with provider
+Options Suggested: Obtain therapist's license information, Submit an appeal to insurance, Conduct a three-way call with insurance and provider
+Fit Explanation: The OP is currently dealing with a claim denial and is actively seeking help to understand and resolve the issue, indicating a very good fit for assistance.
+Original Post: My son (dependent) is seeing a therapist. The office the therapist works for is in-network, but I was told the therapist my son is seeing was out-of-network. That was fine with me. I’ve often submitted out-of-network behavior health claims from other providers to my insurance with no problem getting partial reimbursement.
+
+However, this time my claims were denied due to “provider is not credentialed.” 
+
+I contacted my insurance company and all I get is “he’s not credentialed so it’s denied.” And when I contact the therapist’s office all I get is “yes, he’s out of network, it has nothing to do with his credentials.”  We have gone back and forth with no success. (I checked and he is up to date with all his licensing, etc)
+
+I’m looking for someone to explain this to me if possible. Am I missing something, what am I not understanding? 

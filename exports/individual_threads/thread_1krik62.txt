@@ -1,0 +1,30 @@
+Thread ID: 1krik62
+Title: Ambulance company sent notice of a partially denied claim that's listed as fully paid
+Subreddit: healthinsurance
+Created: 1747781250
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Partially denied claim for out-of-network ambulance services
+Outcome: Ongoing
+OP Summary: The original poster is seeking clarification on a partially denied ambulance claim that is marked as fully paid by their insurance, and whether they should be concerned about potential balance billing.
+Responses Summary: Commenters advised the OP to contact the ambulance company for detailed billing information and noted that Texas law may protect them from balance billing for ground ambulance services.
+Themes: balance billing laws, insurance claim processes, out-of-network services
+Options Suggested: contact ambulance company for details, review Texas balance billing laws, call insurance for clarification
+Fit Explanation: The OP is currently facing a denial issue and may need assistance with the appeal process, indicating a very good fit for the persona.
+Original Post: In January I had a medical incident that required me to be taken by ambulance to the ER. In March, the claim for the ambulance ride was added to my insurance (BCBS) portal, and has been listed as fully paid since then, with nothing owed on my part for that claim. 
+
+Today I received a letter from the ambulance company saying that part of the claim was denied, and they are "appealing on my behalf" for the remainder, but that in many cases these appeals are ignored and that I need to contact them myself to escalate the appeal. Otherwise, I would be responsible for the portion of the claim that was denied. They provided no details about the amount of the claim that was denied.
+
+Is this legit? BCBS has had it marked as fully paid for two months now (and still do). The ambulance ride is marked as an out of network service on the claim, but is it possible that BCBS went back and adjusted the claim without updating the claim details?
+
+Edit: adding the EOB details for the claim.
+
+EOB states the following:
+
+There were two ambulance charges on the date: 1,835.88 and 66.09 for a total of 1901.97. There were discounts and reductions of 239.46 and 8.61 applied (248.07 total), and the covered amounts were 1,596.42 and 57.48 (1,653.90 total), listed as Health Plan Responsibility. All of the amounts in the Your Responsibility columns are 0.00.
+
+For the discounts, there is a line item that states: "For emergency ground ambulance services, an OON provider should not bill you for more than your cost share. Cost share is your deductible, copayment, and coinsurance."
+
+My deductible was met before this claim was filed. Date of service was January 17, 2025. Claim was filed March 11, 2025.
+
+**UPDATE** I called the ambulance company this morning and they confirmed they are seeking the balance of 248.07, first via an appeal/re-filing of the claim through insurance, and then through me. The person I spoke to mentioned she was unaware of what the balance billing laws are in Texas.

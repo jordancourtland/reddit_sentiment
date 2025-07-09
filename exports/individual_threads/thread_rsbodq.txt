@@ -1,0 +1,32 @@
+Thread ID: rsbodq
+Title: My son had his annual exam and MMRV vaccine administered at pediatrician that was listed as "in-network" when logged into my health insurance provider website. Received a hefty bill as everything was billed out-of-network. Called and was told to appeal. Denied and doctor still shows as in-network.
+Subreddit: medicalbill
+Created: 1640897014
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on further actions to take after their son's preventive visit and vaccine were billed as out-of-network despite the pediatrician being listed as in-network.
+Responses Summary: Commenters suggest verifying the doctor's address with the billing department and potentially invoking surprise billing laws to address the issue.
+Themes: network provider issues, credentialing problems, surprise billing laws
+Options Suggested: contact billing department, verify provider address, invoke surprise billing laws
+Fit Explanation: The original poster is actively seeking help regarding a denial and may need assistance with the appeal process.
+Original Post: Location: **Florida**
+
+Health Plan: **Employer's Higher Deductible HSA Medical Plan**
+
+The preventive visit and vaccine was administered about six months ago.
+
+I think I've done my due diligence. Logged into member website and verified the pediatrician is in-network. I called the customer help line and they confirmed that the pediatrician is in-network. Preventive services should be covered at 100% at this doctor's office.
+
+I tried to do a second level appeal after the first appeal was denied. The appeal letter:
+
+*"Our decision: According to the terms of your Employer's Higher Deductible HSA medical plan design, out-of-network preventive visit and services are covered at 60% of the Maximum Allowed Amount based on the 80th percentile of Fair Health Pricing subject to your annual deductible responsibility. Tis claim processed and applied $XXX.XX towards your out-of-network deductible.*
+
+*Your employer's Higher Deductible HSA medical plan design has a specific network according to the state where you live. Florida Network Blue. In order to process at the in-network benefit level, your provider must be a POS Network Provider in their respective state to receive network benefits. Children's Health Alliance is not a participating provider in your POS network. Since this provider is not participating in your state's POS network, the claim processed correct per the terms of you medical plan design.*
+
+*You may contact the Accolade Member Services at the number on your member IF card to locate a POS network Provider in your area."*
+
+I read that if a doctor/provider is no longer in-network they have 15 days to contact my health insurance company to remove themselves from the "in-network" providers. The fact that they're still listing this pediatrician as in-network as of today is extremely deceptive. It feels like I'm a victim of a bait-n-switch and currently on the hook for the out-of-network bill.
+
+What other further actions or rights do I have at this point?

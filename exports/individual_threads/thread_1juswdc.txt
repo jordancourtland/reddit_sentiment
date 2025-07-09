@@ -1,0 +1,14 @@
+Thread ID: 1juswdc
+Title: Can they deny a claim after you got a pre-authorization?
+Subreddit: healthinsurance
+Created: 1744158288
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The user is concerned about a claim for an MRI being marked as 'Pending Examiner Review' despite having received pre-authorization, questioning if it can still be denied.
+Responses Summary: No response summary available
+Themes: Pre-authorization confusion, Claim review process, Potential denial reasons
+Options Suggested: Contact insurance for clarification, Verify information submitted, Consult with healthcare provider
+Fit Explanation: The user is actively seeking clarification on a claim denial situation, indicating a very good fit for assistance.
+Original Post: I had a preauthorization for an MRI and now months later when I log onto the insurance site it says "Pending Examiner Review" for the claim. Can they deny the claim after they already gave me the pre-authorization? This doesn't seem right.

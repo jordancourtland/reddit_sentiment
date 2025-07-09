@@ -1,0 +1,30 @@
+Thread ID: 1kckf0e
+Title: Pharmacy billed old insurance for Humira, new insurance denied — partner stuck with $18k bill. What can we do?
+Subreddit: healthinsurance
+Created: 1746135545
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Claim denied by UnitedHealthcare
+Outcome: Ongoing
+OP Summary: The partner of the original poster is facing an $18,000 bill for Humira due to a billing error by the pharmacy and subsequent denial of reimbursement by UnitedHealthcare, despite having active coverage at the time of the prescription.
+Responses Summary: No response summary available
+Themes: billing error, insurance denial, appeal process
+Options Suggested: file a complaint with state insurance department, consult a lawyer, contact pharmacy for correction
+Fit Explanation: The original poster is actively seeking help and options to appeal the denial and resolve the billing issue.
+Original Post: My partner was prescribed Humira after being diagnosed with ulcerative colitis. Around that same time, his health insurance switched from NALC to UnitedHealthcare (UHC). Unfortunately, the pharmacy continued billing NALC, his old insurer, which paid for a few fills.
+
+Months later, NALC realized the mistake, reversed the payments, and then billed my partner directly for the full cost — around $18,000 total. They even threatened collections, so he paid them to avoid credit damage.
+
+He tried to get UHC to reimburse or retroactively cover the medication (since they were his active insurance at the time), but they denied the claim. They did cover future shipments of Humira. But, now he’s out 18k for a billing mistake that wasn’t his fault.
+
+My partner has written multiple letters to both NALC and UHC and appealed UHC’s denial without success. 
+
+We’re trying to figure out our options:
+	•	Is there any obligation for the pharmacy to correct their billing error?
+	•	Can he demand a refund from NALC, since they should’ve denied the claim outright instead of clawing it back from him?
+	•	Would filing a state insurance department complaint help?
+	•	Is it worth getting a lawyer involved at this point?
+
+Is there anything we can do now? Any advice from people familiar with COB issues or similar situations would be hugely appreciated.
+
+Thanks in advance.

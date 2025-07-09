@@ -1,0 +1,18 @@
+Thread ID: 1k3ak7c
+Title: Question about Prescription coverage
+Subreddit: healthinsurance
+Created: 1745109441
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Prior authorization required
+Outcome: Unclear
+OP Summary: The user is confused about how their new employer insurance handles prescription coverage, specifically regarding prior authorization for Mounjaro, which is expensive and may require meeting a deductible.
+Responses Summary: No response summary available
+Themes: Prescription coverage, Prior authorization, High deductible plans
+Options Suggested: Contact Caremark for details, Ask doctor about generic options, Look into copay assistance programs
+Fit Explanation: The user is actively seeking clarification on their prescription coverage and prior authorization process, indicating a need for assistance.
+Original Post: Hi! Im 26F. We just moved to New Hampshire and no longer qualify for marketplace coverage. We just enrolled in my husband's employer insurance (Cigna) which covers pretty much nothing until our $4500 deductible is met, including prescriptions. However, we just received Caremark prescription cards in the mail and I'm confused on how they work. 
+
+Situation: my doctor prescribed Mounjaro for type 2 diabetes, and it is completely unaffordable at $1200/month. The prescription card says i would pay $100/month pending prior authorization. What does this mean? Will it be denied coverage still until the deductible is met, or is the prescription card meant to be used immediately? 
+
+While we are here, what is prior authorization in children's terms, because I feel like i just can not comprehend any of this lol. Thank you in advance :) 

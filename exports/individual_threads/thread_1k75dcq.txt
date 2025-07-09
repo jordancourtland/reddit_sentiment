@@ -1,0 +1,17 @@
+Thread ID: 1k75dcq
+Title: Advice needed: Dental insurance approved orthodontics, but now denying coverage
+Subreddit: healthinsurance
+Created: 1745533884
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Coverage change due to age limit
+Outcome: Ongoing
+OP Summary: The user is facing a denial from their dental insurance for orthodontic treatment that was previously approved, due to a change in coverage eligibility based on age. They are seeking advice on whether they can successfully appeal the denial.
+Responses Summary: No response summary available
+Themes: insurance denial, appeal process, coverage eligibility
+Options Suggested: file an appeal, contact insurance for clarification, consult with a legal expert
+Fit Explanation: The user is actively seeking help with an ongoing appeal process after a denial.
+Original Post: My dental insurance approved invisalign to correct bunching of my teeth in August 2024. I was responsible for 50% of the treatment cost. I paid that up front. Now I find out they are denying payment in 2025. It turns out my dentist office bills monthly and apparently my coverage changed in 2025 to only allow coverage for young adults, and I am above the age threshold.
+
+  
+This is a 2000$ bill I was not expecting. I honestly don't how this happened, I had no idea that my dental office would bill monthly so I feel blindsided. My dental office tried appealing on my behalf, with no success. Do you think I'll be successful in appealing or am I stuck?

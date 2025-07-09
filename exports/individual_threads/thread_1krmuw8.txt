@@ -1,0 +1,22 @@
+Thread ID: 1krmuw8
+Title: What counts under the Federal No Surprises Act?
+Subreddit: healthinsurance
+Created: 1747794042
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The original poster is seeking clarification on whether their dermatology office is obligated to check if a pathologist is in-network and if the No Surprises Act applies to their situation regarding a denied claim.
+Responses Summary: Commenters advised that the dermatology office is not obligated to check for in-network providers and suggested that the OP should ensure future samples are sent to in-network facilities to avoid similar issues.
+Themes: No Surprises Act, Out of network provider, Claim appeal process
+Options Suggested: Contact the insurance for more information, Ensure future samples are sent to in-network providers, Submit an appeal yourself if necessary
+Fit Explanation: The OP is currently dealing with a claim denial and is seeking guidance on how to navigate the situation, indicating a very good fit for assistance.
+Original Post: Last year I had a skin thing removed by my dermatologist and they sent the pathology workup to a pathologist in their office who is out of network with my insurance (BCBS of IL although I do not live in IL). They sent me a bill for $343 and I paid it, not realizing that my insurance had denied the claim due to an out of network provider. 
+
+I submitted an appeal through my insurance and they upheld the denial, again saying that this provider was out of network. I’ve contacted my dermatology office requesting a refund but they are giving me the run around and trying to use every random argument under the sun as to why they don’t owe me my money back.
+
+A couple questions:
+
+* Is the dermatology office obligated to check that a pathologist would be in network before sending my samples to them? I was not notified nor did I approve an out of network provider.
+* Does the No Surprises Billing Act of 2021 cover this type of situation? It appears I am protected from surprise out of network costs by this bill, and that I have a right to be notified, and consent to, out of network costs.
+* The dermatology office is claiming that they also submitted an appeal to BCBS, reported that the appeal was denied due to “pathology services are not a covered part of my plan.” Obviously this differs from what my appeal denial stated, but the dermatologist is stating they are not allowed to share that appeal documentation with me. How is that possible that they can’t share the document with me?

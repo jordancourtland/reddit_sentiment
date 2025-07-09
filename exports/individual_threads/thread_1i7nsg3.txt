@@ -1,0 +1,16 @@
+Thread ID: 1i7nsg3
+Title: Am I out $1000 or do I have any chance here?
+Subreddit: healthinsurance
+Created: 1737584565
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network provider
+Outcome: Ongoing
+OP Summary: The user is facing a $1000 bill for lab work due to an out-of-network provider ordering the tests, despite the lab being in-network. They are seeking advice on whether they have any chance of getting the bill covered or if they should pay it.
+Responses Summary: No response summary available
+Themes: In-network vs. out-of-network confusion, Claim appeal process, Financial assistance options
+Options Suggested: Submit a second appeal, Contact financial assistance programs, Verify in-network status with BCBS
+Fit Explanation: The user is actively seeking help regarding their claim denial and exploring options for appeal.
+Original Post: Any advice is appreciated here. In 2024, I signed up for the BCBS High Performance Network. It sounded like a good plan, but it's an in-network only plan. No out of network coverage at all. I didn't think this would be an issue because I live in an area with a great medical community, and I've never had issues finding in-network providers. I called Methodist to schedule an annual physical. I asked on the phone if I was in network with them, and they told me yes. I preferred to ask the practice to run my insurance to verify because the BCBS website is difficult IMO to find a doctor - they list out name, number, and address, and I like to look at reviews for the office. Anyway, even at the appointment I gave my insurance card and no one mentioned I would be out of network. I get blood work done as well with Quest Lab who is in house there. Time goes by and I get a bill for $500 when an annual visit should be no cost to me. I call BCBS and was informed that Methodist was in fact not in network. Luckily after a lot of calls and messaging on the app, I was able to fight this and got a voicemail from someone I guess in the actual practice's billing department (instead of their billing call center) saying she took care of it. Months later is when I get a bill for the lab work from Quest for almost $1000. Quest is actually in network with BCBS... but since the order came from an out of network provider it was denied. If I had gone to an in network provider like I intended to in the first place, I would only be paying a fraction of this price. I've tried every avenue I can think of. I asked Quest if they can bill me without insurance and was told they don't do that. The best they can offer me is a payment plan. They have financial assistance, but you have to submit a W4 and I don't think I would qualify since I'm not low income. I've called BCBS several times and submitted one claim appeal so far, which was denied. I could submit a second appeal but I'm worried it's a waste of time. I've tried contacting Methodist, but it is impossible to get in touch with the local office billing team and I can't seem to find the voicemail from before and I haven't heard back from them. To me, either Methodist should have to pay this since I was told I would be in network and put me in this predicament in the first place, or BCBS should pay since Quest IS in network!!!!!
+
+So, thoughts on this? Do I have any chance of this getting covered or do I need to suck it up and pay the bill? 

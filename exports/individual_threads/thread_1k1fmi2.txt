@@ -1,0 +1,14 @@
+Thread ID: 1k1fmi2
+Title: Hospital hacked
+Subreddit: healthinsurance
+Created: 1744903761
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Claim not submitted within one year of service
+Outcome: Ongoing
+OP Summary: The user received a bill for a service that was denied due to the hospital's late submission following a hack, and they are seeking advice on how to appeal and avoid payment since it was the hospital's fault.
+Responses Summary: No response summary available
+Themes: hospital billing issues, timely filing requirements, appeal process
+Options Suggested: appeal the denial, contact the hospital for a write-off, consult insurance plan documents
+Fit Explanation: The user is actively seeking help to appeal a claim denial and is looking for options to avoid payment.
+Original Post: So I just received a bill from over a year ago. I called the hospital and they said that they were hacked and didn’t send out any billing until recently. I checked my claims and it was denied because it wasn’t submitted within a year of service. I’m going to appeal once I get the claim paperwork in the mail but is there anything that I can do to not pay it since it is the hospitals fault? My deductible and out of pocket was reached that year. 

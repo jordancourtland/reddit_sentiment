@@ -1,0 +1,36 @@
+Thread ID: 1kpdgfy
+Title: Visitors insurance denying claim
+Subreddit: healthinsurance
+Created: 1747549548
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Onset of condition prior to purchase of insurance
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to handle a denied insurance claim for their father-in-law's medical treatment, which they believe was unfairly coded by the hospital.
+Responses Summary: Commenters suggest exploring options with the debt collection agency, consulting a lawyer for financial responsibility, and negotiating with the hospital for a reduced payment.
+Themes: insurance claim denial, hospital billing practices, financial responsibility
+Options Suggested: negotiate with the collection agency, consult a lawyer, contact hospital billing department
+Fit Explanation: The original poster is actively seeking help regarding a claim denial, indicating a strong fit for persona analysis.
+Original Post: Hello All 
+
+My first post here. Really looking for some solid advice as my father in law (and thus me and my wife) are in a real quagmire. It's a complicated story so kindly bear with me. 
+
+My in laws were visiting us from India. They are Indian citizens visiting us on a visitors visa.  My wife and I live in California. Unfortunately we did not get visitors insurance for them. Then of course, My father in law suddenly picked up pneumonia, and we panicked and finally purchased the best visitor insurance out there (Atlas America that gave us access to the United Health Care PPO network and managed by World Trips). But after reading the fine print carefully we realized that we really could not use the insurance because of a clause around onset of illness and time of purchase of insurance (onset cannot be within 2 days of purchase of the insurance). This clause seemed fair so to avoid unnecessary hassle I took my father in law to a private urgent care, paid out of pocket and got him antibiotics...also out of pocket. We never filed an insurance claim. 
+
+About 4 days after the insurance coverage started (at this point he was on antibiotics and his pneumonia was getting better )  my father in law started complaining about an extreme headache....nothing he had ever experienced before. So we immediately took him to a local urgent care (Sharp) to get the headache checked out, this time utilizing the purchased insurance since the end figured it was 4 days into the coverage and it seemed to be a new onset. As part of collection of medical history he mentioned to the doctor that he had picked up pneumonia a few days prior and was on antibiotics without realizing the shitstorm this would go on to create. The doctor was worried about the headache and ordered a CT scan of the head and sent a referral to the Sharp ER....not because he deemed it an emergency but because the ER was the only place with a CT machine available. Although the doctors notes makes mention of the URI (upper respiratory infection) it clearly states that the primary reason for the visit was indeed the headache and the notes make no attempt to connect the URI with he headache. The ER doctors also noted the same.
+
+We goto the ER, get the CT scan done, the radiologist and doctor don't see anything weird in the CT scan and we get sent home. 
+
+A few weeks later the bills start arriving and we were shocked to see bills totalling almost $13000! Basically the insurance had denied the claims claiming a code of WPR ( onset of condition prior to purchas of insurance ). Upon further investigation I found out that Inspite of the doctors notes specifying that the primary reason for the visit was a headache, the hospital for some strange reason had chosen to use a primary diagnosis code associated with an upper respiratory infection! This proved extremely convenient for the insurance who summarily denied the claims. 
+
+You can probably guess at this point the quicksand like situation in which we are stuck. We tried reasoning with the hospital. They claimed to have performed an audit (one sided as they didn't even bother to inform us of the audit process ) and are sticking to their use of the original diagnosis codes. The insurance is pointing out phrasing associated with URI very conveniently to deny the claim completely ignoring a multitude of references to the headache as the primary illness. 
+
+Fast forward many months and here we are: hospital has sent the bills to collections and are refusing to talk to us. I submitted an appeal to the insurance attaching detailed doctors notes which I thought make for a very compelling case in our favor which they duly rejected citing the one mention of URI. 
+
+We are at a total loss as to what to do, my father in law is a retired 80 yr person with absolutely no means to pay that kind of money. What do you think our options are ?it makes me absolutely sick to the stomach that the system is screwing us over like this in such a blatantly unfair and one sided process.
+
+I would really really appreciate your patience in going through our situation and helping us brainstorm some options. Are there lawyers that we can consult who might be able to help? 
+
+Many thanks! 
+
+Avi 

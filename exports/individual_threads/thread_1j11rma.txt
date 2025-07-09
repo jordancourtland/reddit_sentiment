@@ -1,0 +1,18 @@
+Thread ID: 1j11rma
+Title: Voya denying claims with wrong effective date, but accepting others with the same date under the same policy.
+Subreddit: healthinsurance
+Created: 1740842408
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Incorrect effective date
+Outcome: Ongoing
+OP Summary: The user is experiencing claim denials from Voya due to a dispute over the effective date of their coverage, despite some claims being approved under the same circumstances.
+Responses Summary: No response summary available
+Themes: Claim denial, Effective date dispute, Appeal process
+Options Suggested: Contact HR for clarification, Seek legal advice, Continue appealing the decision
+Fit Explanation: The user is actively seeking help with ongoing appeals for denied claims.
+Original Post: My wife and I found out we would be having a baby girl with a rare heart condition early on in pregnancy. We later found out that we could get indemnity and critical illness coverage through Voya. Both of our companies stated that they could backdate the qualifying event and coverage date to the date she was born, 12/26/24. 
+
+We were initially denied because they stated our effective date was wrong and we both started at 1/1/25. My wife’s company told her wrong about backdating the coverage date. Later we discovered her company is legally obligated to honor that date because they told her that was case with back dating. While with my company they did stuff on their back end to adjust the coverage date and all I did was contact them and told them Voyas decision and they said they would contact them. While sometime later they approved my claims, my HR later said that what the Benefits HR employee was the “wrong move to make” with changing coverage and had changed the date to 1/1/25 for my effective date without my say so even though Voya accepted my Benefits guy’s appeal. I think it’s important to add the Benefits employee was out for vacation when part of this was happening my and I was speaking with someone else in HR.
+
+So while we have had some success getting claims approved we have met difficulties getting others approved. Voya states that their effective date came after her birth. Can they accept one claim but deny the other when all of this was happening at the same time? We keep appealing their decision but it is taking forever. We live in Illinois if that helps our case.

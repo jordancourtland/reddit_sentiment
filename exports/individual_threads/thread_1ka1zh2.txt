@@ -1,0 +1,22 @@
+Thread ID: 1ka1zh2
+Title: OOP Max Hit... and then some
+Subreddit: healthinsurance
+Created: 1745862964
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Duplicate claim denial
+Outcome: Ongoing
+OP Summary: The user has reached their out-of-pocket maximum but continues to receive bills and is frustrated with the insurance company's response regarding refunds and claim processing.
+Responses Summary: No response summary available
+Themes: Out of pocket maximum issues, Claim processing delays, Frustration with insurance customer service
+Options Suggested: Contact insurance for clarification, Request refund from providers, Stop paying invoices temporarily
+Fit Explanation: The user is actively seeking help with their claim denial and has expressed frustration with the process, indicating a need for assistance.
+Original Post: Make it make sense. I have hit my out of pocket max and continue to get billed. I posted earlier about waiting for a large claim to be processed and now that it has been processed it clearly shows I have paid above and beyond my OOP max. I continue to get invoices, so I call the provider and notify them that I have hit my out of pocket max and this should have been covered... they say to call my insurance because if they resubmit my claim it will be denied as a duplicate. So, I call my insurance (BCBS) and they give me the run around and eventually send my inquiry to another department and advise they will call back. 
+
+I am honestly just frustrated and wondering if there is a better way to do this. 
+
+1. Will I have to reach out to every provider I paid after the large claim was *submitted* (not processed) to get a refund? 
+2. Do they automatically process the refunds, as appropriate, although it may take awhile? 
+3. Should I keep paying invoices I get so I don't get sent to collections? 
+
+ERG. I thought the injury and rehabilitation from the same was a pain, but this seems to be the real pain! 

@@ -1,0 +1,34 @@
+Thread ID: 1k5ouqc
+Title: Dont understand eob
+Subreddit: healthinsurance
+Created: 1745376697
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The user is confused about their son's dental procedure charges and the insurance denial for multiple wisdom tooth extractions, leading to a significant discrepancy between billed and covered amounts.
+Responses Summary: No response summary available
+Themes: EOB confusion, Claim denial, In-network provider issues
+Options Suggested: Contact the dentist for billing clarification, File an appeal with the insurance company, Use HSA funds to pay the bill
+Fit Explanation: The user is actively seeking clarification on a claim denial and may need assistance with the appeal process.
+Original Post: Hi!! I don’t understand, but my son had four impacted wisdom teeth removed. My dental insurance said it’s a medical benefit so my medical insurance kicked in. I have hsa. I got my EOB and they denied a few charges. When I called and asked, they couldn’t figure it out and they said well the claim is closed so what you are owed is the $679. 
+How is it that my provider charge is so much but my cost is so different? I would’ve expected with an HSA that I would’ve owed the full amount charged since I haven’t met my deductible . This is an in network provider. When I look at the charges, they only allowed for one wisdom tooth extraction cost (vs four )and the contracted amount for the anesthesia.
+
+I’m thinking that eventually this bill will eventually be $3200 due to error?
+
+anticipated cost
+$679.77
+Provider charged
+$3,260.00
+Plan covers up to
+$679.77
+Plan paid
+$0.00
+Deductible
+$679.77
+Copay
+$0.00
+Coinsurance
+$0.00
+Not covered
+$0.00

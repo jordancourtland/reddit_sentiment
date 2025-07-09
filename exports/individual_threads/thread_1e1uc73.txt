@@ -1,0 +1,30 @@
+Thread ID: 1e1uc73
+Title: Medical System adds test to wellness visit
+Subreddit: medicalbill
+Created: 1720822836
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is frustrated because their insurance is charging them for a mental health assessment included in their daughter's annual wellness visit, which they believed was fully covered. They have appealed the claim and are contesting the bill with the doctor's office.
+Responses Summary: Commenters suggest contacting representatives to address the issue and filing complaints with regulatory bodies. They also recommend ensuring that the coding for the visit is correct and providing documentation to support the appeal.
+Themes: insurance coverage issues, billing practices, appeal process
+Options Suggested: contact representatives, file a complaint, ensure correct coding
+Fit Explanation: The original poster is actively seeking help with their insurance denial, indicating a very good fit for the persona seeking assistance.
+Original Post: Took my daughter for her wellness exam.
+
+Annual wellness visit is supposed to be covered 100%
+
+Doctor including a mental health assessment as part of the exam and now insurance says this assessment is subject to my deductible.  I’m on the hook for $141.
+
+This assessment was 2 or 3 questions during the exam.  1 minute.
+
+Doctor says she coded the visit as a well child visit and the hospital system automatically adds the codes for the assessment.
+
+Hospital claims they coded it correctly and it’s my problem the insurance didn’t cover it.
+
+I’m pissed because it wasn’t disclosed to me that this would be a separate charge outside of the wellness visit.
+
+I’ve appealed the claim with my insurance and have also tried contesting the bill with the doctor’s billing department.
+
+Seems like an easy scam for the medical system to milk patients for extra charges.

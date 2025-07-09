@@ -1,0 +1,20 @@
+Thread ID: 1hsqq15
+Title: Anthem retroactively denied Rituxan Infusion?
+Subreddit: healthinsurance
+Created: 1735922655
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The user received a retroactive denial from Anthem for Rituxan infusions, claiming they are not medically necessary despite prior approvals and the user's medical history. The user's doctor is appealing the decision.
+Responses Summary: No response summary available
+Themes: retroactive denial, appeal process, medical necessity
+Options Suggested: appeal with doctor's support, provide additional medical information, wait for insurance decision
+Fit Explanation: The user is actively seeking help with an ongoing appeal for their insurance denial.
+Original Post: I got a letter in the mail yesterday claiming the Rituxan Infusions I received in October (I get them twice every 6 months) were denied because they are not medically necessary. The letter says:
+
+"The request tells us your doctor ordered a drug called Rituxan (rituximab) for your condition (systemic lupus erythematosus). This drug can be approved under the plan clinical criteria for the treatment of this condition for those who have had a poor response to or cannot tolerate certain other drugs (Corticosteroids and at least two other immunosuppressive agents such as azathioprine, cyclosporine, methotrexate, or hydroxychloroquine). The information we have does not show this is the case for you. For this reason, this request is denied as not medically necessary. It may help your doctor to know we reviewed this request using CarelonRx clinical criteria, Rituximab (Rituxan) for Non-Oncologic Indications (CC-0075)."
+
+Just for a little backstory, I was diagnosed with Lupus in 2022 and was in the hospital for a couple months receiving treatment because it was causing TTP. I was on all sorts of medications (mainly Prednisone but also Cytoxan and a few other drugs) that did not help. In the end, I was given Rituxan which did work and have been on it since. The denial letter makes very little sense to me because it literally is medically necessary for me to get this infusion and I have already tried alternatives. I called my rheumatologist's office this morning and the nurse said they were just told to appeal, so I have to wait for the decision from that.
+
+I also called my insurance, and they said it was originally approved and paid for, and then it was reviewed again and denied. Surely this is just some error, right? I have been getting infusions every 6 months since 2022, why would they suddenly change it now and deny with an obvious lie as the explanation? Even the nurse I spoke to was confused.

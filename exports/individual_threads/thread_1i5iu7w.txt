@@ -1,0 +1,26 @@
+Thread ID: 1i5iu7w
+Title: Called Cigna to get information about coverage, they said I was covered 90% - now they say actually my plan was not active
+Subreddit: healthinsurance
+Created: 1737349936
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Plan expired
+Outcome: Unclear
+OP Summary: The user was assured by Cigna that their insurance was active and would cover 90% of ER costs, but the claim was later denied due to the plan expiring on January 1st, leaving them with a potential $10k bill.
+Responses Summary: No response summary available
+Themes: insurance coverage confusion, communication issues with insurer, financial burden of medical expenses
+Options Suggested: appeal the denial, contact the hospital for financial assistance, consult with employer about coverage
+Fit Explanation: The user is actively seeking help regarding their claim denial and is concerned about the financial implications.
+Original Post: I (24M) am covered under my family’s insurance. My family are expats living temporarily in the US (Texas) but we are originally from the UK. On the 1st of Jan my parents visa expired as we are due to move back to the UK and as a result, our healthcare insurance coverage was expiring.
+
+On the 1st of Jan I also started to have very weird and troubling symptoms, including headaches, chest pain and facial numbness on one side. Naturally these stressed me out as I thought I was having a stroke, so I really wanted to go to the ER, but since we assumed my family’s insurance was expired I was reluctant.
+
+On the 2nd of January I called my parents stressed to say I wanted to go to the ER and to see if our plan was still active. They didn’t know so they called Cigna to enquire whether the plan was still active. On the phone call we were assured that the plan was still active and that any medical procedures would be covered 90% with only a 10% copay. When this was confirmed I went to the ER.
+
+Thankfully everything was fine but I had lots of checks such as bloods, ECG, CT scan, etc. and overall was in the ER for 4 hours. Fast forward to today, the claim has been rejected and according to Cigna we had 0 coverage as the plan expired on the 1st of January. I think I am going to owe like $10k which is insane and extremely unfair / sketchy since we were explicitly told by Cigna on the day I received treatment that we were covered and the plan was still active. I probably would have not gone to the ER or at least gone somewhere else if we knew I had no insurance.
+
+Cigna has a record that a phone call was made on the 2nd but did not divulge whether they had notes / recordings / proof from the call that was had. What on earth do I do? If I have to pay this $10k it will wipe all of my savings and I will have nothing, and at the end of the day it was pointless because nothing was actually wrong. How is this fair?
+
+What can I do? And what is the chance I will be able to appeal and actually have them cover it? Or will I have to pay the $10k? Thanks for the help
+
+

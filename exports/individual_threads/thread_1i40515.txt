@@ -1,0 +1,17 @@
+Thread ID: 1i40515
+Title: Insurance not active when I went to Urgent Care
+Subreddit: healthinsurance
+Created: 1737176383
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not active at time of service
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on whether to appeal their insurance claim denials, given that their health insurance was not active at the time of their emergency visit and the bill has gone to collections.
+Responses Summary: Community members advised the poster to review their insurance policy for any potential loopholes, consider contacting the hospital's billing department for assistance, and explore options for negotiating the bill or setting up a payment plan.
+Themes: Insurance effective date, Claim denial, Financial assistance options
+Options Suggested: Negotiate a payment plan, Check for financial assistance, Contact the hospital about collections
+Fit Explanation: The user is actively seeking advice on whether to appeal their insurance denial, indicating a very good fit for assistance.
+Original Post: I had what felt like a stroke which required a medical transport and two night hospital stay with an mri and ultrasound. Unfortunately I didn't understand that just paying for health insurance does not make it active and I was over two weeks from the effective date. My insurance has already denied the claim twice after submitting a grievance: is there any point in trying to appeal again with my insurance provider? Ive also continuously forgotten to deal with this so the original bill has now been sent to collections. Can I bring it back to the original hospital in anyway? I feel so fucking stupid.
+
+  
+Edit: I meant ER not Urgent Care

@@ -1,0 +1,39 @@
+Thread ID: 1ho8s6f
+Title: Starting 2025 With $8k In Debt
+Subreddit: healthinsurance
+Created: 1735402184
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not covered due to billing code issue
+Outcome: Ongoing
+OP Summary: The user is facing a sudden $768 bill for occupational therapy appointments that were previously covered, due to a billing code issue, and is unsure about the insurance's ability to reverse claims. They are seeking advice on how to address the situation and explore options for appealing the denial.
+Responses Summary: No response summary available
+Themes: billing code confusion, insurance claim reversal, appeal process
+Options Suggested: contact clinic for different billing codes, submit an appeal, consult a patient advocate
+Fit Explanation: The user is currently dealing with a denial and is actively seeking solutions, indicating a strong fit for assistance.
+Original Post: Backstory: I called my insurance in June 2024 to ask if my Occupational therapy would be covered from a specific place/person. They said YES. I had met my deductibles back in April 2024, so everything had been 100% covered since then. I paid off the rest of my outstanding Health Partners/Park Nicollet balance in August 2024. 
+
+My first occupational therapy appointment was 7/1/24 and have had one almost every week up until 12/3/24.
+
+I received a balance notice from HP for $768 yesterday (12/27/24). I thought this was strange since I've had a $0 balance since August and I haven't seen anyone new since then.
+
+I've been back and forth between my clinic and my insurance. To summarize and make it short, HP/PN billed a 97535 code to my insurance, which was not covered. For some reason, my insurance accidentally covered TWO of those appointments. My insurance said that since I had brought that to their attention, they'll be reversing those two accidentally covered claims. That means I'll now owe around $768 for each of those as well. My insurance told me that my services would be covered and they never asked me about specific billing codes back in June 2024. After all of those appointments are posted to my HP/PN account, I will be in over $8,500 in medical debt. My insurance said that submitting an appeal wouldn't do anything since that billing code is not covered.
+
+I have gathered the dates for every appointment I've had for Occupational Therapy and what was done at each one. 
+
+My next steps are to call my clinic back on Monday (12/30/24) and ask if they are able to submit different billing codes to my insurance to try and fix this. My therapist said she will be talking to her supervisor to see if there's anything they can do too.
+
+My questions:
+
+WHY am I suddenly being billing for appointments that were from FIVE months ago?
+
+WHY did my insurance/clinic not alert me about these appointments not being covered?
+
+Are health insurance companies allowed to reverse covered claims even though it was THEIR fault that those claims were accidentally covered?
+
+*My Occupational Therapy is a part of my ED treatment plan and has helped me tremendously so far.*
+
+
+Clinics: Health Partners/Park Nicollet
+
+Insurance: United Health Care (Insurance from my workplace, the insurance goes through UMR, but then I have to call a separate company from UMR for insurance related questions)

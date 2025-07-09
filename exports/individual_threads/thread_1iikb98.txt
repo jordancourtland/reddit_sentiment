@@ -1,0 +1,24 @@
+Thread ID: 1iikb98
+Title: Insurance denied CT for Kidneystones, next steps?
+Subreddit: healthinsurance
+Created: 1738788222
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The user is facing a denial from Medica insurance for a CT scan related to kidney stones, which they believe is necessary despite the insurance suggesting an ultrasound instead.
+Responses Summary: No response summary available
+Themes: Insurance denial, Appeal process, Medical necessity
+Options Suggested: File a second appeal, Gather supporting medical evidence, Consult with a healthcare provider
+Fit Explanation: The user is actively seeking help for their appeal after a denial, indicating a perfect fit for assistance.
+Original Post: I (30f) have the misfortune of having Medica insurance. (US based)
+
+I had gone into my primary for possible kidney stones. (I've had them before)
+
+The did a CT but insurance denied my claim saying it wasn't medically necessary and I should have gotten an ultrasound instead. 
+
+It's my understanding that ultrasounds are not as reliable at detecting kidney stones as CTs and every time I've had them in the past involved a CT.
+
+What would you recommend as next steps? 
+
+I filed a second appeal, but I want all my ducks in a row. 

@@ -1,0 +1,34 @@
+Thread ID: 1he8tac
+Title: Wife had a Miscarriage and Insurance is refusing to pay for needed labs
+Subreddit: medicalbill
+Created: 1734200162
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to handle insurance denials for necessary lab tests following their wife's miscarriage, which the insurance claims are not medically necessary.
+Responses Summary: Commenters suggest obtaining proper documentation from the obgyn, filing a complaint with the state's Department of Insurance, and negotiating lab prices directly due to the insurance denial.
+Themes: insurance denial, medical necessity, negotiation strategies
+Options Suggested: obtain documentation from obgyn, file a complaint with the Department of Insurance, negotiate lab prices directly
+Fit Explanation: The original poster is actively dealing with a denial and seeking help, indicating a very good fit for assistance.
+Original Post: [I made a previous post ](https://www.reddit.com/r/personalfinance/comments/1fkq94e/wife_was_told_blood_tests_were_covered_and_now/)on this topic that has my initial reaction and some details, but this post has the updated information I currently have. Basically we got a bill for a lab for $350/lab after initially being told her copay was $3.05. There would end up being five bills the insurance doesnt want to pay for, for a total of $1650ish. 
+
+We have been fighting insurance on this for the past three months and I am at my wit's end as to what to do. I feel like I'm going to have to end up paying this and its absolutely insanely infuriating because I think it could be solved with a ten minute phone call from her obgyn but they wont do it.
+
+So to clarify some details from the previous post: The exact reason the insurance is not covering, per their own words, is the clause at the end of her plan that says they "will not cover medical procedures that are not medically necessary." We were looking for a reason, going through her plan, and we couldnt find anything about bloodwork not being covered. But they apparently have this catch-all phrase there to screw over anyone they want.
+
+What actually happened was not that the bloodwork wasn't covered period, it was the first three labs were covered and after that the insurance apparently thinks that any further tests must be accompanied by either a prior auth or a different dx code indicating the need for continued testing. I work in pharmacy, I'm familiar with the lingo here, so I get that part of things. I think, okay, this is simple, so I have her call the obgyn. First they tell her, okay, give us the paper the insurance sent you for what they're asking and we'll call them. She tells them that if anything goes wrong, to let her know and she'll see if she can fix it.
+
+We give them 5 days, zero communication from them. So we call back and then we get told "oh yeah its asking for a prior authorization, we dont do PAs for lab work." They direct us to call the lab. Which she does, and the lab, understandably confused, says they dont do PAs at all, they just do the actual lab. She gets through to a I guess a hospital supervisor who says she will "put in a work order" but she doesnt do PAs either.
+
+I think this is probably a dead end, so we call the obgyn back and they still just repeat they dont do PAs or call insurance. They are willing to give her a paper that says "this procedure was medically necessary" but that is the extent of the assistance they are willing to give. The insurance says thats not good enough, they need a dx code that states why she needs the procedure and a prior auth to get it approved, neither of which the obgyn is willing to do. This whole thing could be solved if the obgyn would call the insurance and talk to them for ten minutes and it drives me insane because I call insurance on behalf of my patients all the damn time. It's part of my job, and the obgyn refusing to do this is simply flat out wrong, this is part of your job.
+
+Of course, the insurance claiming this isnt medically necessary is absolutely stupid. You have to test once a week after a miscarriage because they need to make sure the tissue from the fetus is being flushed out or very bad things can happen. Essentially, its a way to make sure she doesn't need a D&amp;C to get rid of the rest of the tissue.
+
+Note that also, they were still charging her $3.05 every time she went into the office and they (the obgyn) had told her that was her copay. No one ever once bothered to notify us that the price had changed. It was on her profile on the insurance website, but she had checked it the first couple of times and everything seemed cool. I just find it so wrong that insurance could suddenly decide its not going to cover it, not bother telling the doctor office, hey its not covered past three tests- I mean if they've done this enough, they should have known that from the beginning that it would only cover three tests, right?
+
+We did appeal the insurance decision and they denied it on the grounds that it wasnt medically necessary and it was billed correctly. Seemed like a pretty rote decision that someone didnt really look at the issue at all. I'm going to escalate the appeal for sure, but I dont think the insurance will do anything without the obgyn calling them, which they are apparently completely unwilling to do. The obgyn claims its the correct dx code they sent, the insurance needs one that's I guess updated to indicate further testing is required? It just... it should be obvious that further testing is required, it would be required for any miscarriage that took more than a few weeks to clear the tissue.
+
+I just... I dont know what to do at this point. $1650 isn't going to break me, but its certainly not a bill that I was anticipating paying. This is on top of already paying the ER close to $1400 for treatment after the miscarriage. So I would end paying $3k on top of the loss of the pregnancy. And its not like even if we knew ahead of time we wouldnt want her to get tests. I'm not gonna mess around and have her gamble with her life. Its just completely ridiculous to charge $350 a test when you can get lab work for like $25 apparently from Labcorp or Quest Diagnostics. Just completely made up pricing.
+
+Any advice would be appreciated. I did pay one bill of $350 because they were threatening to send me to collections, and they bill each instance separately, but I'm sure they'll be threatening again on the next one soon.

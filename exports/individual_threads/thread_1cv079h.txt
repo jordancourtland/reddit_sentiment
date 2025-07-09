@@ -1,0 +1,18 @@
+Thread ID: 1cv079h
+Title: Am I obligated to pay this medical bill?
+Subreddit: medicalbill
+Created: 1716047204
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not submitted on time
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to handle a medical bill they received from an in-network provider after their insurance denied the claims due to late submission, and they are worried about potential collection actions.
+Responses Summary: Commenters advised the original poster not to pay the bill, suggested filing a formal complaint with the insurance company, and recommended that the insurance company communicate with the provider to resolve the issue.
+Themes: Insurance responsibility, Provider billing practices, Potential credit impact
+Options Suggested: Do not pay the bill, File a complaint with the insurer, Request a three-way call with the insurer and provider
+Fit Explanation: The original poster is currently dealing with a denial and is actively seeking advice on how to proceed, indicating a very good fit for assistance.
+Original Post: We recently have received a bill from an in-network healthcare provider about services one year ago. Our insurance apparently denied their submitted claims some time ago, due to "not submitting claims on time" (reason given on the insurance's website), and now the healthcare provider contacted us and insisted that we are responsible to pay the bill then.  
+  
+We then talked to our insurance about the incidence, and they advise us that we do not have any responsibility to pay this since it is the healthcare provider's responsibility to submit the claim on time. However, we keep receiving notice from the healthcare provider...  
+  
+It has been really frustrated and stressful to see these bill notices. We are worried that if the bill is not being paid, they may send our information to collectors...What should we do now? Any advice is greatly appreciated!

@@ -1,0 +1,18 @@
+Thread ID: 1jq0ttz
+Title: $400 bill for code 99385
+Subreddit: medicalbill
+Created: 1743630381
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The original poster is seeking options after their insurance denied coverage for a preventative procedure coded as 99385.
+Responses Summary: Commenters advised checking the Explanation of Benefits (EOB) for the denial reason and suggested negotiating if necessary.
+Themes: insurance denial, negotiation options, EOB review
+Options Suggested: check EOB, negotiate bill, verify coding
+Fit Explanation: The original poster has a denial and is looking for help, indicating a very good fit for the persona.
+Original Post: For some reason my insurance denied coverage of this code, which when I looked it up is a new patient preventative procedure- basically a physical.  This was from last year. 
+
+This seems obscene, what are my options?  
+
+I read that Biden enacted a law where outstanding medical debt cannot affect your credit score, so how else could this potentially affect me?

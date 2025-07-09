@@ -1,0 +1,14 @@
+Thread ID: 1ix5plf
+Title: Insurance Ending with Unresolved Claim
+Subreddit: healthinsurance
+Created: 1740413555
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Provider needed to provide more information
+Outcome: Unclear
+OP Summary: The user is concerned about an unresolved claim denial from their previous insurance as they switch jobs, questioning if they can appeal after their coverage ends.
+Responses Summary: No response summary available
+Themes: insurance transition, claim denial, appeal process
+Options Suggested: Contact the provider for updates, Obtain medical records, File an appeal before coverage ends
+Fit Explanation: The user is actively seeking help regarding an appeal for a denied claim and is facing an impending insurance coverage change.
+Original Post: Hello! I switched jobs and my insurance provider is changing, but there is an unresolved claim on my previous insurance. I had some blood tests done in July 2024, and the claim was denied. According to the EOB, the provider needed to provide more information to the insurance company. When I called the provider, they said they’re waiting on my doctor to give them the info so they can give it to the insurance company. My coverage will end as of March 1. Will they be unable to appeal/resolve the denied claim when the policy expires? Thank you!

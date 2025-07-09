@@ -1,0 +1,52 @@
+Thread ID: 1hqn8o6
+Title: Hospital just sent me 3rd notice to pay bill, $1,500 denied by United Healthcare.  Already lost first appeal with United.
+Subreddit: healthinsurance
+Created: 1735676770
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Not medically necessary or out of network (unclear from the post)
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to fight a $1,500 bill for an ultrasound that was denied by United Healthcare, despite being assured it was in-network, and after losing their first appeal.
+Responses Summary: Community members advised the poster to gather documentation proving the hospital's in-network status, consider escalating the appeal to a higher level, and explore options for negotiating the bill or seeking assistance from a patient advocate.
+Themes: insurance appeal process, in-network vs out-of-network confusion, financial burden of medical bills
+Options Suggested: file a second appeal, contact the hospital for negotiation, apply for charity care
+Fit Explanation: The user is actively seeking help to appeal the denial and is currently dealing with the consequences of the denial.
+Original Post: Hi, I had a pain that my regular doctor wanted checked out with ultrasound.  I was given a referral to local hospital for ultrasound and everyone at my Doctor's office and at the Hospital Ultrasound Department assured me it was "in-network".  Months later I get the bill and ignore it (thinking United will cover it), then later find that its not fully covered.
+
+I appealed with United and they denied my first appeal "decision upheld".
+
+The 3rd notice to pay say due date is today 12/31/2024
+
+What are my next steps to fighting this?
+
+\_\_\_\_\_\_\_UPDATE\_\_\_\_\_\_\_\_
+
+MY PLAN INFO:
+
+Deductible? Network: $1,500 Individual
+
+Are there services covered before you meet your deductible? Yes. Preventive care and categories with a copay are covered before you meet your deductible.
+
+Do you need a referral to see a specialist? No.
+
+In-Network Diagnostic test (x-ray, blood work) Free Standing/Office Lab: 50% coinsurance Hospital Lab: 50% coinsurance Free Standing/Office X-ray: 20% coinsurance Hospital X-ray: 20% coinsurance
+
+NOTE: United didn't really confirm or deny the hospital was in-network, but I was told it is
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Bill numbers from Hospital Radiology Department (not giving exact for anonymity)
+
+Imaging/Radiology = $400
+
+Medical/Professional Services = $900
+
+NEW YORK BAD DEBT &amp; CHARITY ASSESSMENT (NYBDC) = $120
+
+\_\_\_\_\_\_
+
+United Oxford response to my claim initial appeal with them:
+
+*You indicated that you received incorrect information from your provider's office staff. Please be advised that because your provider is neither an employee nor an agent of UnitedHealthcare, no one in the provider's office may guarantee payment of your claim by UnitedHealthcare or by your plan.*
+
+*Claims are processed according to the information provided by the provider of service. The provider's individual name, group name, address, telephone number, and tax identification number are used to with UnitedHealthcare. We must also use the*

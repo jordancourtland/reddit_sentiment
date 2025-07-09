@@ -1,0 +1,19 @@
+Thread ID: 1k0yo7v
+Title: My child needs insurance, denied CHIP, so confused
+Subreddit: healthinsurance
+Created: 1744846160
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Missing documentation for CHIP application
+Outcome: Ongoing
+OP Summary: A single mother is struggling to secure health and dental insurance for her child after being denied CHIP due to missing documents and is seeking guidance on how to proceed.
+Responses Summary: No response summary available
+Themes: Insurance application challenges, Need for documentation, Seeking assistance and resources
+Options Suggested: Contact a health insurance navigator, Gather required documents, Reach out to local hospital billing for help
+Fit Explanation: The user is actively seeking help for an ongoing denial of insurance for her child.
+Original Post: If anyone can help, please give advice.
+
+My kid is 3, I lost insurance about 6 months ago and am self employed.  We were denied benefits because I don't have all the documents they want.  I can't navigate healthcare.gov to find a child only policy.  I also can't seem to find anything online that doesn't take me back to CHIP.  
+He needs dental and health coverage.  I don't know how to do this.  I'm a single mom, no child support coming in and my income is unstable.  I owe a lot of debt too. 
+
+Is there an easier way to help him?  What am I supposed to do?

@@ -1,0 +1,14 @@
+Thread ID: 1jber36
+Title: Question about pre existing conditions
+Subreddit: healthinsurance
+Created: 1741987416
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Pre-existing condition concerns
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on whether their son should get tested for a genetic disease before aging off their insurance, considering the potential impact on future insurance coverage and costs due to pre-existing conditions.
+Responses Summary: Community members advised that he should get tested while still covered, as waiting could complicate his insurance options, and they discussed the implications of pre-existing conditions on his future coverage and costs under his wife's insurance.
+Themes: genetic testing, insurance coverage, pre-existing conditions
+Options Suggested: Get tested before aging out, Wait for new insurance, Consult a genetic counselor
+Fit Explanation: The user is actively seeking information about insurance implications related to a potential denial due to a pre-existing condition.
+Original Post: We have just discovered we have a genetic disease in our family. We have all been advised to get tested. My main concern is for my son who is aging off our insurance in 2 months. my first thought was to hurry and get him tested before he loses coverage. If he tests positive he would need an MRI and CT scans. If he tests now and is positive, will he have trouble getting insurance later because he will now be saddled with a pre existing condition? Should he wait to be tested until he’s secured new insurance? He may be getting married this summer and would go on his wife’s insurance. If he has this disease would her rates go sky high or could they deny him coverage under her insurance?

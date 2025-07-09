@@ -1,0 +1,16 @@
+Thread ID: 1j90rkn
+Title: Insurance company told me a dentist was in network but denied coverage
+Subreddit: healthinsurance
+Created: 1741724986
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The user confirmed with their insurance that a dentist was in-network before treatment, but the claim was later denied due to the dentist being marked as out-of-network.
+Responses Summary: No response summary available
+Themes: Insurance misinformation, Claim denial, Network coverage confusion
+Options Suggested: Contact insurance for clarification, Request a review of the claim, Seek advice from others who faced similar issues
+Fit Explanation: The user is actively seeking help regarding their claim denial and has provided clear details about the situation.
+Original Post: I got my wisdom teeth out recently and before my appointment, I called the insurance company to ask if this dentist was in-network. The agent confirmed that the dentist is indeed in-network, so I proceeded with the treatment. When I checked the claim today, I saw that the dentist was marked as out-of network. 
+
+Has anyone else experienced something like this?

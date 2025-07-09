@@ -1,0 +1,23 @@
+Thread ID: 1ivlawm
+Title: Do I have a good case under the No Surprises Act?
+Subreddit: healthinsurance
+Created: 1740238428
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The user is facing a claim denial for a D&C procedure due to the hospital being deemed out of network, despite it being in network with their insurer, Providence. They are considering an appeal and seeking advice on their case under the No Surprises Act.
+Responses Summary: No response summary available
+Themes: Claim Denial, Insurance Confusion, Appeal Process
+Options Suggested: Contact HR for clarification, Verify benefits with Unified Life, Consider filing an appeal
+Fit Explanation: The user is actively seeking help for an ongoing appeal regarding their claim denial.
+Original Post: Back in November I TFMR (terminated for medical reasons) and had a D&amp;C procedure. I am located in Oregon, where state law mandates insurance carriers to cover the costs of abortion. There is one exception to this - Providence - which happens to be my insurer (they claim religious objections).
+
+I just received the EOB for the procedure and it is from a company called Unified Life Insurance. I have never heard of this company. I reached out to Providence to see what that was about and they told me they send “these types of claims” to this Unified Life company to process. 
+
+Unified Life denied the claim ($14k) due to the hospital I had the procedure at being out of network. The hospital is IN network with Providence, which is why I went there in the first place.
+
+There is nothing in my benefits summary or Providence member handbook saying anything about Unified Life or their affiliation. I also did not sign anything consenting to care at an out of network facility. 
+
+My husband and I are planning to appeal, but do we even have a good case? Is there anything we’re overlooking? TIA.
+

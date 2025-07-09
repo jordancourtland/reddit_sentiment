@@ -1,0 +1,20 @@
+Thread ID: 1jv99vu
+Title: What are my options?
+Subreddit: healthinsurance
+Created: 1744214251
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Coordination of benefits error
+Outcome: Ongoing
+OP Summary: The user is facing issues with their health insurance after a retroactive change in coordination of benefits, resulting in denied claims and financial losses. They are seeking options to recover the money lost due to this situation.
+Responses Summary: No response summary available
+Themes: Claim Denials, Coordination of Benefits, Financial Loss
+Options Suggested: Contact current insurance to correct records, Request investigation into COB changes, Consult with healthcare providers for claim reprocessing
+Fit Explanation: The user is actively seeking options to address their claim denials and financial losses, indicating a very good fit for assistance.
+Original Post: At the end of last year, my only health insurance carrier decided to update the coordination of benefits to make themselves secondary, and to make a carrier that I had not had coverage with for over two year the primary. Not only did they do it going forward, but they made it retroactive back to the date that I first picked them up as part of my employer's group plan (Just to make this extra special, the employer is the health insurance company that is pulling this maneuver).
+
+When they did this, they then reevaluated all of the claims that they had previously paid, and denied almost all of them; and then turned around and sent letters to all of the providers demanding that they be paid back. I found out about this approximately a week after this bogus coordination of benefits adjustment was made and I filed a new one; correcting it back to say that I had only one carrier, and that it had been that way since I was employed by the health insurance company.
+
+Here's where I am looking for options...after they updated the coordination of benefits, they somehow "missed" reprocessing a number of those claims where they had denied payments earlier, and in other cases they paid less because according to them I hadn't met the deductibles and/or out-of-pocket costs. Yet, they had paid out on these claims before this bogus filing of the coordination of benefits back at the end of last year. So far, this has cost me a couple of thousand dollars, and good will with several of my healthcare providers. Oh, and then at the end of January, that employer decided to include me in their layoffs.
+
+Do I have any options for at least recovering the money they have cost me by their invalid filing of a coordination of benefits?

@@ -1,0 +1,14 @@
+Thread ID: 1kxcef0
+Title: Losing My Insurance While on Mounjaro
+Subreddit: healthinsurance
+Created: 1748423072
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary (without Type 2 diabetes diagnosis)
+Outcome: Unclear
+OP Summary: The original poster is concerned about losing insurance coverage for Mounjaro after being laid off and wants to know the chances of getting it approved by a new insurance carrier given their improved health status.
+Responses Summary: Commenters advised that the likelihood of getting Mounjaro approved without a Type 2 diabetes diagnosis is very low, and suggested considering Zepbound as an alternative if weight loss is the goal.
+Themes: Insurance coverage challenges, Alternatives to Mounjaro, Impact of health status on medication approval
+Options Suggested: Check formulary of new insurance, Consider Zepbound, Explore COBRA options
+Fit Explanation: The original poster is facing a denial situation and is seeking advice on future coverage options, indicating a very good fit for the persona.
+Original Post: I was prescribed Mounjaro through Aetna (my employer’s insurance) since i was classified as pre-diabetic. I just got laid off and my insurance coverage will end June 30. I have been on Mounjaro for a year and a half, and I am now healthier. What are the chances another insurance carrier will deny me Mounjaro now that my AC1 levels are normal? Or will they see that I have been taking it regularly and approve me?

@@ -1,0 +1,14 @@
+Thread ID: 15n099v
+Title: Insurance paid, Doctor says insurance didn’t
+Subreddit: medicalbill
+Created: 1691636630
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Billing dispute
+Outcome: Ongoing
+OP Summary: The original poster is seeking help after their doctor claims that Medicaid did not pay for their surgery, despite having proof of payment.
+Responses Summary: Commenters advised the OP to contact their Medicaid administrator for assistance and to not pay any bills if they have proof of payment. They also suggested looking into state departments that handle such disputes.
+Themes: insurance communication, proof of payment, dispute resolution
+Options Suggested: contact Medicaid administrator, do not pay the bill, seek state dispute resolution assistance
+Fit Explanation: The OP is currently dealing with a denial issue and may need assistance, which aligns well with the persona fit score.
+Original Post: I had surgery for a deviated septum and sinus issues on 5/26/23. I have Medicaid and the surgery was pre approved and I was told there would zero out of pocket cost. My insurance paid the bill in full on 6/20/23. The office I went to is saying they’ve billed the insurance 5 times and they won’t cover it and that the bill is my responsibility. I have the claim number from my insurance with the bill paid in full and I gave it to the office and they told me they’ll resubmit for payment with that claim number but they have nothing in their system saying its paid. I told her insurance paid it on June 20th and the to contact my insurance with the claim number and to stop sending me bills for the surgery when it was paid and she hung up. Upon reading reviews other people have had this issue with them. Anything I can do?

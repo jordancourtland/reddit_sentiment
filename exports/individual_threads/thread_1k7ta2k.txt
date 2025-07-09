@@ -1,0 +1,16 @@
+Thread ID: 1k7ta2k
+Title: Insurance denied claim and hospital won't give me a discount
+Subreddit: healthinsurance
+Created: 1745608496
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The user faced a claim denial for a $4k test due to it being out of network, and the hospital refused to provide a discount since they have insurance. They are questioning the legality of this situation and expressing frustration over their lack of understanding of insurance policies.
+Responses Summary: No response summary available
+Themes: Insurance policy understanding, Out of network issues, Hospital billing practices
+Options Suggested: Negotiate payment plan, Inquire about financial assistance, File an appeal with insurance
+Fit Explanation: The user is currently dealing with a denial and is seeking clarity on their situation, indicating a very good fit for appeal help.
+Original Post: I stupidly purchased HMO insurance  without realizing and had a $4k test. Insurance denied it because it was out of network and the hospital won't give me a self pay discount since I have insurance. I'm on the hook for the entire amount and it doesn't even go towards out of pocket max. Is this legal? Does this happen often?
+
+Edit: thanks for all the replies. I've learned a lot, but particularly that I was very ignorant when it comes to insurance stuff. I should've done more dd before choosing a plan.

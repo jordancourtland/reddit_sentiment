@@ -1,0 +1,40 @@
+Thread ID: 1gehtor
+Title: Writing an appeal for an odd situation?
+Subreddit: healthinsurance
+Created: 1730161722
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Partial
+Outcome: Ongoing
+OP Summary: The user is facing a $4,000 bill for a sterilization procedure that they believed was fully covered by insurance, due to incorrect diagnosis coding by the surgeon at a Catholic hospital. They are seeking advice on how to write an appeal and address potential fraud in their case.
+Responses Summary: No response summary available
+Themes: Incorrect coding, Insurance fraud, Appeal process
+Options Suggested: File an appeal, Contact fraud department, Request medical record amendment
+Fit Explanation: The user is actively seeking help with an appeal for their insurance denial and is currently dealing with a significant billing issue.
+Original Post: **tl;dr:**  I am speculating my surgeon had to "lie" to a catholic hospital to allow her to perform a sterilization procedure. I am now being billed for a diagnosis I do not have and the doctor refuses to change the code. As a result I am being billed over 4k for a procedure I knew I was supposed to be fully cost-covered for. I have been advised four times by insurance representatives to file an appeal, but I'm not sure how to approach writing the letter and most sample letters I can find deal with denials and not with a situation like this. Any tips would be appreciated!
+
+
+
+I requested a surgeon to perform a Bilateral Salpingectomy from my local OBGYN. They referred me to someone and she got me on the books pretty quickly. Consult was quick, maybe 10 minutes. She asked me if I was sure, I said yes. She asked if I knew my only options after were IVF, I said yes. She asked me about my reasoning and I explained that I simply didn't want children and that I had a family history of cancer I was worried about.
+
+The same day I received a call from the scheduler and she tells me the procedure will take place at a local catholic hospital. I check that the hospital is in-network, and nothing more. I am quoted $976.00 upfront, and I know this isn't right, but I pay it anyway in good faith. I was also afraid that they would not do the procedure if I didn't pay.
+
+Prior to asking for a consult I had done a ton of research on my own policy and the ACA mandated coverage of things like contraception and sterilization. I knew that as long as I asked for a Bilateral Salpingectomy as an elective, preventative procedure that my insurance would cover it. It was supposed to be fully cost-covered and I was expecting my out of pocket costs to be very small, maybe labs and anesthesia at most.
+
+During the pre-op call I ask the surgeon if "they will even perform it" and she simply replies "they accept everyone." The hospital being catholic was a concern my mom brought up to me, and said I should ask to make sure. At the time, I took this as a positive response and didn't ask for any further information. I was just excited to have this procedure done. In hindsight, she didn't really answer my question, but we move forward anyway.
+
+Surgery goes well and I feel great! But after about a month I receive my EOB and I now have an additional bill from my OBGYN for about $290, an anesthesia bill for around $250, and the hospital is billing me for $3,700. This is a lot more than I was expecting. So I call my insurance.
+
+Insurance informs me that the surgeon billed the procedure with the codes N94.5 and N94.6 (Dysmenorrhea). Both the insurance rep and I are very confused by this. I call my OBGYN and leave a message about this as well as a message on the patient portal. It was my understanding that a Bilateral Salpingectomy would use the code Z30.2 (encounter for sterilization) to be covered under my insurance policy, and my representative confirms this for me.
+
+A week later I receive a call from the surgery scheduler, and she informs me that because the hospital is catholic, they don't or are "not allowed to" perform sterilization without medical necessity, and thus the codes used are considered correct and cannot be changed. I play voicemail tag with my OBGYN for a few weeks and they keep doubling down. I call the hospital to have it escalated to billing and reviewed by their coding department, but it seems no one can change anything if the surgeon herself doesn't.
+
+I call insurance a few times to update with new information when I get it. I am advised to file and appeal and eventually one representative says I should grab my medical records from this OBGYN to prove I do not have this bleeding disorder when filling the appeal.
+
+When I do finally obtain these records, I find something interesting. A few months before the consult, I saw another doctor at this practice for my annual exam. She writes in her assessment that I am negative for dysmenorrhea. On the very next printed assessment, the Surgeon writes that not only do I suddenly have "severe dysmenorrhea" but that I "desire surgical evaluation for endometriosis. Plan diagnostic laparoscopy". We never discussed anything about my period and we certainly never discussed endometriosis.
+
+At this time I would also like to note that during this I had an IUD inserted and had that IUD since 2021. This IUD caused my periods to stop. The IUD was removed during the surgery. My periods resumed afterwards. I do not have a bleeding disorder or overly painful periods, and during the time of the consult when this assessment would have been written, I hadn't had a period in four years.
+
+I am now speculating that the surgeon had to ... come up with a medically necessary reason to perform this surgery at a catholic hospital. I reiterate that I wasn't given a choice in hospital and when I questioned the surgeon about it she didn't really answer me. Now I have records that basically claim we had a conversation we didn't, I am being billed with diagnosis I simply do not have, and a procedure that should have been covered completely is now costing me over 4k. Twice now BCBS representatives have used the word "fraud" during my calls with insurance, and one rep directed me to the fraud department, but still advised I file an appeal.
+
+It is at this point I've decided to fully move forward with the appeal, but I have no earthly idea how to approach something like this. I've looked at sample letters but most of them deal with denials due to insurance, not with a provider. I'm working on my appeal letter, but any tips or insight from anyone here would be greatly appreciated. Thank you!

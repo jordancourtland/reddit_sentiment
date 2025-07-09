@@ -1,0 +1,16 @@
+Thread ID: 1kpr6pj
+Title: Fidelis denied my claim
+Subreddit: healthinsurance
+Created: 1747593867
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claim Submitted after Filing Limit
+Outcome: Ongoing
+OP Summary: The original poster is concerned about a claim denial from Fidelis for an emergency surgery related to a near-ruptured appendix, despite being covered by Medicaid.
+Responses Summary: Commenters advised the OP to contact the hospital's billing department and Fidelis to clarify the denial, emphasizing that Medicaid should cover emergency services and that the hospital likely made a billing error.
+Themes: Emergency Services Coverage, Billing Errors, Medicaid Rights
+Options Suggested: Contact hospital billing department, Call Fidelis for clarification, Keep all paperwork for future reference
+Fit Explanation: The OP is actively seeking help regarding a claim denial, indicating a very good fit for assistance.
+Original Post: Around 05/04/24 I went to ER because I felt like I was dying from the pain of my stomach which later on I found out that my appendix was close to ruptured so I needed surgery to remove the appendix. After surgery I needed to stay in hospital up to 5/10/24, I think it’s was because of how bad shape I was. I am freaking out because I never got this notice. I searched up to see if the hospital I went to “is network with Fidelis (Medicaid)” and they are.
+
+Edit: This ER visit was when I was still 18 years old

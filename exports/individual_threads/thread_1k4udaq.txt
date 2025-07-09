@@ -1,0 +1,14 @@
+Thread ID: 1k4udaq
+Title: Coverage
+Subreddit: healthinsurance
+Created: 1745285253
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Coverage elsewhere
+Outcome: Ongoing
+OP Summary: The user is facing claim denials from United Healthcare for their son due to existing coverage under another plan, and is seeking advice on liability for medical visits.
+Responses Summary: No response summary available
+Themes: Coordination of benefits, Insurance claims, Parental liability
+Options Suggested: Contact both insurance companies, Provide coordination of benefits details, Determine primary coverage based on birthdays
+Fit Explanation: The user has a current denial situation and is actively seeking advice on how to handle it.
+Original Post: Hello if anyone can give advice. I put my son on my United healthcare plan thinking his mom had removed him from hers but she didn’t. From January he has been using my insurance. UHC is now denying claims because he has coverage elsewhere. I’m I liable for doctors visits???

@@ -1,0 +1,26 @@
+Thread ID: 1k5vd06
+Title: Submitted Reimbursement claim for surgery travel. Instead got billed $3700
+Subreddit: healthinsurance
+Created: 1745402403
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claim reimbursement denied
+Outcome: Ongoing
+OP Summary: The user submitted a claim for travel reimbursement related to an in-network surgery but received a bill instead, causing confusion and frustration.
+Responses Summary: No response summary available
+Themes: Claim submission issues, Travel reimbursement confusion, Insurance communication problems
+Options Suggested: Contact insurance for clarification, Request human review of claim, File a complaint with insurance commissioners
+Fit Explanation: The user is actively dealing with a claim denial and may need assistance navigating the reimbursement process.
+Original Post: I have Anthem, BCBS. I had an in network surgery a few months ago that i’ve already paid for. In total, the charges have amounted to my entire in network out of pocket max.
+
+For this surgery, I had to travel to a different state due to there only being one surgeon with the required skills within 400 miles.
+
+I was told I could submit a claim to get reimbursed for travel and lodging expenses if they meet the relevant requirements. I documented all travel and lodging, and submitted the claim. I paid in full out of my own pocket for a 30 day airbnb, 2 plane tickets, and a lot of ubers. Everything submitted was in some way related to traveling to a medical office or my place of lodging.
+
+After submitting the claim, 3 “Test ‘Pay to Member’” charges appeared. Each one totaling to the exact amount I requested for reimbursement. 1 was coded with the incorrect year, so it was auto denied. One is still pending. 
+
+Today, one landed. Instead a reimbursement, it is a bill for the entire cost of my trip. That I have already paid for, and was seeking reimbursement for. 
+
+I’m not necessarily asking for advice, I’ve dealt with these… *folks*… before. But if I have to sell my project car to pay for something I already paid for, I’ll be upset to say the least. 
+
+Live laugh love Anthem BCBS. 

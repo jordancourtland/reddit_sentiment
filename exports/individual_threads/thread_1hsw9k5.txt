@@ -1,0 +1,18 @@
+Thread ID: 1hsw9k5
+Title: Have Not Gotten a Bill after Claim Denial
+Subreddit: healthinsurance
+Created: 1735936371
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Out of network
+Outcome: Unclear
+OP Summary: The original poster is seeking advice on whether they should follow up with their out-of-network medical provider regarding a $1600 bill that has not been received after a claim denial from UnitedHealthcare, as they are concerned it may have gone to collections without their knowledge.
+Responses Summary: Community members advised the poster to proactively contact the medical provider to inquire about the bill and ensure it hasn't been sent to collections, emphasizing the importance of keeping track of medical expenses and communications.
+Themes: Claim denial, Billing uncertainty, Potential collections
+Options Suggested: Contact the provider, Check for a bill in the future, Negotiate the bill if received
+Fit Explanation: The user has a claim denial and is seeking advice on how to proceed, indicating a very good fit for assistance.
+Original Post: Due to my naivete, I accidentally sought a medical provider who was out-of-network for UnitedHealthcare, which resulted in a denied claim on Nov. 1 of 2024. Based on this, I really don't have any grounds for appealing that denial and I have made peace with that. My medical provider had billed UHC for $1600. However, I have not received a bill or communications from that clinic since. 
+
+So I'm not quite sure what to do. Is this something that I need to follow up on? I'm also paranoid that this bill was sent to collections without me even knowing.
+
+Any advice is appreciated.

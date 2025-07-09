@@ -1,0 +1,62 @@
+Thread ID: 1io7v59
+Title: Which insurance company is best for Pediatric Growth Hormone Deficiency treatment coverage?
+Subreddit: healthinsurance
+Created: 1739410838
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Unknown
+Outcome: Unclear
+OP Summary: The user is seeking advice on which insurance company to choose for their son's potential treatment for pediatric Growth Hormone Deficiency, as they are unsure about coverage requirements and appeal processes.
+Responses Summary: No response summary available
+Themes: Insurance coverage requirements, Appeal process, Treatment options for pediatric GHD
+Options Suggested: Consult HR for plan documents, Research specific insurance coverage, Seek advice from others with similar experiences
+Fit Explanation: The user is actively looking for information on insurance options and coverage for a current medical need, indicating a strong fit.
+Original Post: My youngest son is in the process of being diagnosed with pediatric Growth Hormone Deficiency (GHD), and we are having to change medical insurance companies due to my wife's current workplace being acquired.
+
+
+
+He was born at 88th percentile for height, and similar for weight, and has been steadily dropping so that he is now 5th percentile for height (he is 2.5 years old now). His older brother was 2-3 inches taller when he was 2.5 years old, and my wife is 5'4" and I am 5'11".
+
+
+
+Because of this, we saw an endocrinologist and they had us do to a human growth hormone stimulation test (stim test), which showed our son has 4.7ng/ml, far less than the 10ng/ml that is typically considered the cutoff to not be deficient. We have an MRI and further bloodwork scheduled, but there is a good chance we'll be getting treatment that includes a synthentic human growth hormone prescription like Genotropin, Norditropin, Serostim, Omnitrope, or similar.
+
+
+
+From our own research, it seems that all our insurance company options will cover the treatment and drugs, but only if the child has fallen below a certain percentile for height. For example, Anthem and BlueCross BlueShield seem to require the child is below 1st percentile (2.25 std deviations), while Kaiser maybe requires below 1st or 2nd percentile (2 std deviations).  I haven't been able to get any confirmation of this though, and speaking with the healthcare call centers doesn't help. And of course, you can appeal if they deny the claim, but I don't know how often that succeeds in our situation.
+
+
+
+So my question is: **Which healthcare insurance should we go with?**
+
+**Specifically, which is more likely to do treatment and prescribe/cover the drugs, for a child who hasn't fallen below the 1st/2nd percentile?**
+
+**Which would be more likely to approve it after an appeal?**
+
+**Has anyone had to deal with one of these insurance providers, and can offer any advice or tips on getting them to cover treatment?**
+
+
+
+Our healthcare options are:
+
+**\* Anthem** (both PPO and HDHP plans)
+
+**\* Blue Cross Blue Shield** (both PPO and HDHP plans)
+
+**\* Kaiser** (HMO plan)
+
+
+
+We know that Kaiser does everything in house, but at least here in Colorado they supposedly contract out to our current pediatric endocrinologist (Rocky Mountain Pediatric Endocrinology - Aristides Maniatis, MD).
+
+
+
+
+
+Other possible considerations: He was born healthy at 40 weeks, with a bit of jaundice which was treated at home with a bili-blanket. He was terrible at breast feeding and wouldn't take a bottle, and eventually developed a feeding aversion, which ended with him stopping feeding completely. This resulted in a weeklong stay in the ER and him getting an NG-Tube, hundreds of tests done on him with zero answers to show for it, 7 months of feeding and speech therapy, a special tube-weening program, and finally getting off the tube. He eats relatively well now, and we are still in speech therapy due to him not pronouncing his words well (7 months of not using your mouth at that age will do that), though his vocabularly is great. 
+
+
+
+He is also on Medicaid because of the 'failure to thrive' feeding issues, though my understanding is that Medicaid will not cover treatments and drugs unless your primary health insurance approves and covers them.
+
+

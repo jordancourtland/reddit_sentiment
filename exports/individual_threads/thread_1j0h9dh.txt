@@ -1,0 +1,22 @@
+Thread ID: 1j0h9dh
+Title: I received a letter that coverage was denied for my MRI... after my MRI
+Subreddit: healthinsurance
+Created: 1740774035
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The user received a denial letter for an MRI after the procedure was completed, leading to confusion and concern about appeal options and potential liability for costs.
+Responses Summary: No response summary available
+Themes: Insurance communication issues, Provider responsibility, Appeal process
+Options Suggested: File an appeal, Consult with the orthopedist, Review insurance policy for coverage details
+Fit Explanation: The user is actively seeking help with an appeal after a denial, indicating a perfect fit for assistance.
+Original Post: Context: In NYC with Aetna insurance through my employer and have had several ankle injuries in the past
+
+I sprained my ankle and got a referral for an MRI from an orthopedist. Yesterday, Feb 27, I got the MRI taken and then when I got home I had a letter in the mail from EviCore that they were authorized to review my claim and denied my coverage, telling me to cancel the appointment. If I had been notified on time I would've cancelled the appointment, but of course the services have already been rendered. Then today I was notified my test results were available in MyChart and logged on, where I saw a message from Feb 25 saying my coverage was denied and my referrer (the ortho) had been instructed to cancel the appointment and work it out with the insurance first.
+
+So - I've filed an appeal with my insurance. I talked to the ortho today and he said he didn't receive any notice from my insurance, nor has he seen coverage denied like this in the past, and he is going to appeal as well. I really think this was out of my hands since I had no indication that my MRI wasn't covered and I had even mentioned that as a concern to my ortho before. 
+
+All this is to say, does anyone have insight on my odds of winning the appeal? And if I don't, is there any legal recourse to hold the ortho financially liable if my insurance can prove he was notified and instructed to cancel my appointment?
+
+Thank you to anyone who can provide insight!

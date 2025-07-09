@@ -1,0 +1,20 @@
+Thread ID: ywr9s1
+Title: Bill sent to collections after billing the wrong insurance
+Subreddit: medicalbill
+Created: 1668599269
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: No prior authorization
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to handle medical bills that were sent to collections after the hospital and doctor failed to bill their insurance correctly.
+Responses Summary: Commenters advised sending a certified letter to the billing departments, requesting proof of denial, and keeping detailed records of all communications. They also suggested considering paying the bills to avoid credit issues while pursuing insurance claims.
+Themes: communication with billing departments, documentation and record-keeping, insurance claim submission
+Options Suggested: send a certified letter, request proof of denial, consider paying the bills
+Fit Explanation: The original poster is actively seeking help with a current denial situation, indicating a very good fit for assistance.
+Original Post: I dropped a box with a sharp edge on my knee and it opened up a deep cut. Went to the ER and received 3 stitches. Received 2 bills in the mail roughly a month after from the hospital ($940) and the doctor ($560). Not ideal but expected. I have insurance and provided it at the ER. This has occurred before where i've received a bill directly but haven't seen a claim on my insurance, so didn't think much of it and waited for it to show up as a claim on my insurance. \~20 days later I received another bill and at this point I called the number provided on both bills and instructed them they needed so send this through my insurance. They stated they would do so.
+
+Yesterday I received a 3rd bill from both the hospital and the doctor. I immediately called the hospital and they said they hadn't ever sent it to insurance. I provided the insurance number again and the CS rep assured me it was being sent and that the bill hasn't been sent to collections. I called the doctor and this time the CS rep said they had no record of me calling and that they tried to bill my insurance but it was denied. I spoke with my insurance company and they have no record of this and I see no claims or EOB in my insurance portal. The doctors billing department never informed me it was denied and stated they have sent the bill to collections. It was difficult to get a straight answer, they seemed to indicate that they marked it as no insurance due to potentially a wrong insurance # (going to call back tomorrow to get a straight answer on this)
+
+What would be the best course of action? I am looking to purchase a house soon and am (extremely) worried about the impact on my credit score. I am also worried that the hospital bill will be sent to collections before it can go through my insurance. Should I just bite the bullet and pay both bills? I have a high deductible plan but was anticipating this would go towards my deductible and that insurance would adjust the bill (seems to be the case when I've looked at EOBs in the past). The doctors bill is still available on their epay website even though they said it was sent to collections, the collections company has no record of it (might be just caught in a transitionary period). Is there an efficient way to fight this and get the doctors bill pulled back from collections? Can you request records of the denials from the doctors billing department (they said they didn't have them on record)?
+
+And just wanted to say, thanks to everyone that responds to peoples posts, for a sub that only has 691 members this sub is incredibly active

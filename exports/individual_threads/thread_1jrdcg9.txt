@@ -1,0 +1,14 @@
+Thread ID: 1jrdcg9
+Title: How long does provider have to send bill?
+Subreddit: healthinsurance
+Created: 1743777182
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Unclear
+OP Summary: The original poster is asking how long a healthcare provider has to send a bill for a $500 charge that was denied by insurance over a year ago, specifically in Pennsylvania with Aetna insurance.
+Responses Summary: Community members advised that providers typically have a certain timeframe to bill patients after services are rendered, often ranging from 6 months to a year, and suggested checking state regulations or contacting the provider for clarification.
+Themes: billing timeline, insurance denial, appeal process
+Options Suggested: contact provider, check appeal status, review EOB
+Fit Explanation: The user has a denial and is seeking information about the billing process, indicating a need for assistance.
+Original Post: Hello, I have a provider service from 4/2/24 that was $1,100. It was a fertility service where $600 was covered and my insurance denied coverage for the other $500 of the bill (as per the EOB). That’s totally fine, we knew this would happen for some bills. When I log into MyChart (for the provider), I can see where this service is still “pending insurance” for the other $500…. And now we are more than a year later and I’m wondering how long do they have to actually send me a bill for the $500? I do owe it, and my insurance has already done everything on their end. I’m in PA and my insurance is Aetna if that matters. 

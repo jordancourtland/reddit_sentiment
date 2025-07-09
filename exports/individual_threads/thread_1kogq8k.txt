@@ -1,0 +1,25 @@
+Thread ID: 1kogq8k
+Title: Repeat Denial/Resubmission
+Subreddit: healthinsurance
+Created: 1747443453
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Not medically necessary
+Outcome: Ongoing
+OP Summary: The original poster is seeking advice on how to resolve repeated claim denials for a Zio device ordered for their daughter, specifically asking about appealing the denial and uploading medical notes.
+Responses Summary: Commenters suggest requesting a coding review from iRythm and appealing the claim with the correct diagnosis code, emphasizing not to pay until the EOB matches the bill.
+Themes: claim resubmission, coding issues, appeal process
+Options Suggested: request coding review, appeal with correct code, do not pay until EOB matches
+Fit Explanation: The original poster is actively dealing with a denial and seeking help, indicating a very good fit for assistance.
+Original Post: I have a weird case and was generally looking for advice. My daughter had an arrhythmia during a cardiologist appointment. Her doctor ordered an iRythm Zio device for her. IRythm was provided with code I340 (mitral valve insufficiency). This is her underlying diagnosis but not the basis for her need for the Zio device.
+
+BCBS denied the claim. iRythm resubmits the claim and it is denied again. I get an EOB, call insurance and was told that the provided diagnosis code is not valid for the coverage of a Zio decide. I call iRythm and tell them they have the wrong diagnosis code. Her doctor’s review of the iRythm report used diagnosis code I498 (cardiac arrhythmia) and it was approved.
+
+IRythm calls me and tell me that they got a new diagnosis code from the doctor and resubmitted. They resubmit with the I340 again and then it was obviously denied again. Now I finally get a bill from iRythm, asking for money. I feel like I’m banging my head against the wall when I know what the issue is, as it is obvious.
+
+How can I get them to fix the problem and stop billing me? Can I appeal directly and just upload the doctor’s appointment notes? 
+
+The denial code from BCBS is E477 and it says I am not responsible unless I was informed before that it wasn’t covered. The EOB itself says I owe the full amount, though.
+
+
+

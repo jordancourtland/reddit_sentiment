@@ -1,0 +1,20 @@
+Thread ID: 1i8pqsw
+Title: External Review Rights
+Subreddit: healthinsurance
+Created: 1737702154
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Experimental procedures
+Outcome: Ongoing
+OP Summary: The user is appealing denied claims for procedures deemed 'experimental' by their insurance, and is seeking guidance on filing an external review due to lack of information provided by the insurer.
+Responses Summary: No response summary available
+Themes: appeal process, lack of communication, external review rights
+Options Suggested: file a complaint with the state commerce department, request clinical/medical basis for denial, gather more supporting studies and research
+Fit Explanation: The user is actively seeking help with their appeal process and has detailed their current situation.
+Original Post: Currently going through an appeals process for some denied claims. I just received a letter stating that the denial was upheld after a second round of internal appeals (first round was with an appeal committee, second round was with the board of trustees). 
+
+The next step should be filing an external review. I’ve reviewed my state’s commerce department policies on this, my insurance company is legally required to inform me of these next steps in the denial letter. However, that is not mentioned anywhere in the letter. There is a line in the letter stating, “That claim denial was upheld by external review on &lt;Date&gt;.” However, the date listed was before even the initial internal appeal began. I feel like that line must have been a typo as I was never informed about an external appeal beginning or with whom. But since I have not been informed about my external appeal rights, would that be something to file a complaint about with my state’s commerce department, or with a different agency?
+
+These claims were denied because my insurance claims the procedures were “experimental” (despite the fact the procedure was FDA approved over a decade ago). It’s stated on my EOB and my plan document that I am entitled to the clinical/medical basis for that determination upon request. However, after speaking with numerous representatives and the claims appeal specialist (both over the phone and via email), no one has been able to give me this information nor tell me how to obtain it. Has anyone else ever gotten their insurance to give up this information? Because “experimental” is just not thorough enough of a reason. 
+
+On my end, I am going to start the external review process my state has outlined. I have a lot of the documents I used for the first two appeals that I will be using again, but I will also be sending over even more studies and research showing the procedures in question are effective. If anyone has any tips for these external reviews, or suggestions for agencies I can reach out to, that would be greatly appreciated.

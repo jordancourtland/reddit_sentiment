@@ -1,0 +1,17 @@
+Thread ID: 1jus8ka
+Title: Conflicting information regarding in-network hospital
+Subreddit: healthinsurance
+Created: 1744156286
+Persona Fit: 1.0
+Confidence: 1.0
+Denial Type: Out of network
+Outcome: Ongoing
+OP Summary: The user is facing a claim denial for a hospital visit due to conflicting information about the hospital's network status, leading to confusion and frustration.
+Responses Summary: No response summary available
+Themes: Claim denial, Conflicting information, Billing issues
+Options Suggested: Contact billing office, Wait for hospital bill, Follow up with insurance
+Fit Explanation: The user is actively seeking help regarding their claim denial and is overwhelmed by the situation.
+Original Post: I am due to give birth end of May. The hospital that my obgyn is partnered/contracted with is where I went on 03/01 because I had a pregnancy scare. I went straight to Labor &amp; Delivery and was there for a couple of hours. The on-call obgyn is the one that saw me. 
+I have NOT received a bill yet, only an EOB from my primary insurance, stating that the claim was denied. In the EOB- it was stating that the hospital is an out of network facility. However, I’ve spoken to my insurance directly few different times who said the hospital that I went to indeed is an IN-NETWORK facility. Now the last agent I’ve spoken to today told me “address where the service was rendered is confirmed to be outside the network for the facility. Here is what adoress of the facility showing on the claim” and it’s a complete different address than the hospital I went to, like in a whole different state. The first agent that I spoke a couple weeks ago stated the claim type says “outpatient hospital non contracting”. The last time I tried contacting the hospital themselves, the agent was saying I need a bill/statement account number, which I didn’t and still don’t have because I was never sent a bill as of today and he said to wait until I get a bill. It’s been over a month and I still haven’t received a bill from the hospital from when I went to 03/01. I was going to explain my situation and how I still haven’t received a bill but the billing office is now closed. 
+I do have secondary insurance but they didn’t even receive a claim from hospital, which I am assuming they didn’t even bill my secondary. 
+I’m just so confused and overwhelmed! Does this sound like the hospital submitted the claim incorrectly? 

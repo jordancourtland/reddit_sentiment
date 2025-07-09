@@ -1,0 +1,22 @@
+Thread ID: 1kr4lef
+Title: Confused about amount owed
+Subreddit: healthinsurance
+Created: 1747746929
+Persona Fit: 0.8
+Confidence: 0.7
+Denial Type: Claim resubmission due to error
+Outcome: Ongoing
+OP Summary: The original poster is confused about a claim denial for blood work and wants to know if they owe the new amount or just the difference from the previous payment.
+Responses Summary: Commenters suggest that the claim was likely a corrected claim due to an error and advise checking the new EOB for the accurate amount owed.
+Themes: claim resubmission, EOB confusion, payment clarification
+Options Suggested: check new EOB, contact insurance for clarification, await adjustment details
+Fit Explanation: The original poster is currently dealing with a claim denial and seeking clarification, indicating a very good fit for needing appeal help soon.
+Original Post: This is for blood work I had done a few weeks ago at a local hospital lab. I have Anthem BC/BS for my insurance.
+
+A claim was submitted and I paid the bill for $44.85 around two weeks ago.
+
+However, I just got a notification saying the claim was resubmitted and denied. Then a new claim saying I owe $73.79. However, when I look at the EOB it says $44.85.
+
+Does this mean I will owe another $73, or just owe the difference between the two? ($28.94). 
+
+This is the first time I’ve seen something like this. Why was the claim resubmitted in the first place?
